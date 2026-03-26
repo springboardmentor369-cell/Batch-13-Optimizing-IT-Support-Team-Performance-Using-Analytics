@@ -1,4 +1,4 @@
-# 📊  Title of the Prject:Optimizing IT Support Team Performance Using Analytics
+# 📊  Title of the Project:Optimizing IT Support Team Performance Using Analytics
 
 ## 📌 Project Overview
 
