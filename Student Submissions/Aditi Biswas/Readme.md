@@ -1,11 +1,15 @@
 Aditi Biswas
+
 Optimizing IT Support Team Performance Using Analytics
+
 Project Overview
+
 This project focuses on analyzing IT support ticket data to identify patterns, improve operational efficiency, and optimize support team performance. The analysis aims to uncover key insights related to ticket resolution time, issue categories, customer segments, and support channels.
 
 Using data analytics and visualization techniques, the project provides a structured approach to understand how IT support services perform and where improvements can be made.
 
 Project Objectives
+
 Analyze IT support ticket data to identify common issue types.
 
 Measure average ticket resolution time.
@@ -19,6 +23,7 @@ Evaluate customer satisfaction and sentiment trends.
 Provide insights to improve IT support operations.
 
 Dataset Description
+
 The dataset contains synthetic IT support ticket records that simulate real-world helpdesk operations. It includes information about ticket creation, issue categories, customer segments, resolution time, support channels, and customer feedback.
 
 Key columns include:
@@ -52,6 +57,7 @@ platform
 region
 
 Project Structure
+
 Optimizing-IT-Support-Team-Performance-Analytics
 │
 ├── data
@@ -72,7 +78,9 @@ Optimizing-IT-Support-Team-Performance-Analytics
 │   └── week8.txt
 │
 └── README.md
+
 Tools Used
+
 Power BI
 
 Microsoft Excel
@@ -82,6 +90,7 @@ GitHub
 Data Cleaning Techniques
 
 Expected Outcomes
+
 The analysis will help identify patterns in IT support operations and provide insights into:
 
 Frequently occurring technical issues
