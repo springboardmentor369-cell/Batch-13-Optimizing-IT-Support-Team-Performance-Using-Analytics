@@ -1,0 +1,116 @@
+WEEK 5 
+
+1. Introduction
+In this Week , the focus of the project was on Exploratory Data Analysis (EDA). After cleaning the dataset in the previous stage, EDA is performed to understand the data more deeply and identify patterns, trends, and anomalies.
+EDA is an important step because it helps in gaining insights from the dataset before building final visualizations. In this project, EDA was performed using Power BI tools such as Column Distribution, Column Profile, and Column Quality in Power Query Editor.
+
+2. What is Exploratory Data Analysis (EDA)?
+Exploratory Data Analysis (EDA) is the process of analyzing datasets to summarize their main characteristics using visual and statistical methods. It helps in understanding how the data behaves and identifying important patterns.
+EDA is not about final reporting; instead, it is about exploring the data to answer questions such as:
+•	What kind of data is present?
+•	Are there any missing values?
+•	Are there any unusual patterns or outliers?
+•	How are different variables related?
+
+3. EDA in Power BI
+In Power BI, EDA is mainly performed using:
+•	Power Query Editor
+•	Data View
+•	Basic Visualizations
+Power Query Editor provides built-in features such as Column Distribution, Column Profile, and Column Quality, which help in quickly understanding the dataset.
+
+4. Column Distribution
+Column Distribution shows how values are distributed within a column. It provides a visual representation of the frequency of values.
+Features:
+•	Displays histogram-like chart
+•	Shows unique and distinct values
+•	Highlights frequency of each value
+Example in Dataset:
+For the “Priority” column:
+•	Number of Low, Medium, High tickets can be visualized
+Importance:
+•	Helps identify the most common values
+•	Useful for categorical data analysis
+•	Helps in detecting imbalance in data
+
+5. Column Profile
+Column Profile provides detailed statistics for each column. It gives both graphical and numerical summaries.
+Information Provided:
+•	Minimum value
+•	Maximum value
+•	Average value
+•	Value distribution
+•	Data type
+Example:
+For “Resolution Time”:
+•	Minimum time
+•	Maximum time
+•	Average resolution time
+Importance:
+•	Helps understand data range
+•	Useful for identifying abnormal values
+•	Supports decision-making in data transformation
+
+6. Column Quality
+Column Quality shows the quality of data in each column.
+Categories:
+•	Valid values
+•	Error values
+•	Empty values
+Importance:
+•	Helps identify missing or incorrect data
+•	Ensures data reliability
+•	Supports data cleaning process
+
+
+7. Identifying Outliers
+Outliers are values that are significantly different from other values in the dataset.
+Example:
+•	Very high resolution time compared to other tickets
+•	Extremely low or high values
+Detection Methods in Power BI:
+•	Column Profile
+•	Box plots (in visuals)
+•	Data inspection
+Importance of Outliers:
+•	May indicate errors in data
+•	May represent special cases
+•	Can affect analysis results
+
+8. Handling Outliers
+Once outliers are identified, they can be handled in different ways:
+•	Remove outliers if they are errors
+•	Keep them if they represent real scenarios
+•	Replace with average values
+Proper handling of outliers ensures accurate analysis.
+
+9. EDA using Visualizations
+EDA is also performed using basic visuals in Power BI:
+•	Bar charts (for categorical data)
+•	Line charts (for trends over time)
+•	Histograms (for distribution)
+•	Box plots (for outliers)
+These visuals help in understanding patterns and relationships in the data.
+
+10. Insights from EDA
+By performing EDA on the dataset, the following insights can be identified:
+•	Most common ticket priority
+•	Average resolution time
+•	Frequent issues reported
+•	Performance trends
+•	Presence of outliers
+These insights help in building better dashboards.
+
+11. Importance of EDA
+EDA is important because:
+•	It improves understanding of the dataset
+•	Helps detect errors and anomalies
+•	Supports better visualization design
+•	Ensures accurate analysis
+•	Reduces risk of incorrect conclusions
+
+Summary
+In this Week , Exploratory Data Analysis was performed to understand the dataset in depth. Using Power BI features such as Column Distribution, Column Profile, and Column Quality, valuable insights were obtained.
+EDA helped in identifying patterns, trends, and outliers, which are essential for building accurate and meaningful dashboards. This step ensures that the final analysis is reliable and effective.
+
+

@@ -1,0 +1,79 @@
+WEEK 4
+
+1.Introduction
+
+In this Week of the project, the primary focus was on identifying key performance indicators (KPIs) and designing KPI cards and performance metrics using Power BI. After completing data cleaning in the previous stage, the dataset containing 1,000 cleaned records across 22 columns was ready for analysis. At this stage, the goal was to transform the cleaned call center data into meaningful insights that can help evaluate the performance of the IT support team.
+KPI cards are essential components in any dashboard because they provide a quick summary of important metrics. Instead of analyzing raw data, decision-makers can directly view key values such as total tickets handled, average handle time, SLA compliance rate, and customer satisfaction score. This makes it significantly easier to monitor team performance and identify areas that require immediate improvement.
+
+
+2.Understanding KPI Cards
+
+KPI cards are visual elements in Power BI that display a single important value in a clear and simple format. These cards are typically placed at the top of the dashboard to provide a quick and immediate overview of the support team's overall performance.
+In this project, KPI cards were used to highlight the most critical metrics related to IT support call center performance. Each KPI card represents a summarized value calculated directly from the cleaned dataset. For example, the total number of tickets represents the overall workload handled by the support team, while the average handle time reflects how efficiently agents are resolving issues during each call.
+KPI cards are highly useful because they reduce complexity and improve readability. Instead of reviewing large tables of raw data, users can quickly understand performance through a few key numbers. Additionally, KPI cards can be formatted with colors and labels to clearly indicate whether performance is meeting targets or requires attention.
+
+
+3.Key Performance Metrics for the Dataset
+
+The dataset was carefully analyzed to identify the most relevant performance metrics for evaluating IT support call center operations. These metrics were selected based on their direct availability in the dataset columns and their importance in real-world support environments.
+3.1 Total Number of Tickets
+This metric represents the total count of support tickets raised within the dataset period, derived from the Ticket_ID column. It indicates the overall workload handled by the support team. A higher number of tickets may indicate increased user activity, recurring system issues, or insufficient self-service resources.
+3.2 Average Handle Time (Minutes)
+This metric calculates the average time agents spent handling each support ticket, derived from the Handle_Time_Minutes column. It is a critical indicator of agent efficiency and operational performance. If the average handle time is high, it may indicate complex issues, insufficient agent training, or process inefficiencies.
+3.3 Average Wait Time (Seconds)
+Derived from the Wait_Time_Seconds column, this metric measures how long customers wait before being connected to a support agent. High wait times negatively impact customer satisfaction and indicate potential staffing or channel capacity issues.
+3.4 SLA Compliance Rate
+SLA (Service Level Agreement) defines the expected standard within which tickets should be resolved. This metric is derived from the SLA_Met column and shows the percentage of tickets where SLA targets were successfully met. High SLA compliance indicates strong service quality and operational discipline.
+3.5 First Call Resolution (FCR) Rate
+Derived from the First_Call_Resolution column, this metric measures the percentage of tickets that were fully resolved in a single interaction without requiring follow-up. A high FCR rate reflects strong agent competency and effective issue resolution processes.
+3.6 Average Customer Satisfaction Score
+This metric is derived from the Satisfaction_Score column, which contains customer feedback ratings collected after ticket resolution. It directly reflects the quality of service delivered by the support team and is one of the most important indicators of overall performance.
+3.7 Escalation Rate
+Derived from the Escalated column, this metric shows the percentage of tickets that were escalated to a higher level of support. A high escalation rate may indicate gaps in first-level agent skills or the presence of highly complex issues.
+3.8 Average Cost Per Ticket (USD)
+This metric is derived from the Cost_Per_Ticket_USD column and measures the average operational cost associated with resolving each support ticket. Monitoring this metric helps organizations manage support budgets and identify cost optimization opportunities.
+
+
+4.Creating KPI Cards in Power BI
+
+The KPI cards were created in Power BI using the cleaned IT support call center dataset. The process involved selecting the appropriate columns and applying aggregation functions such as COUNT, AVERAGE, and DIVIDE.
+For example, to calculate the total number of tickets, the Ticket_ID column was used with a COUNT aggregation. The average handle time was calculated using the Handle_Time_Minutes column with an AVERAGE function. The SLA compliance rate and FCR rate were calculated using DIVIDE to find the percentage of Yes values in the SLA_Met and First_Call_Resolution columns respectively.
+Each KPI card was carefully formatted to improve readability and visual clarity. Descriptive titles were added to clearly indicate the metric being displayed. Font size and alignment were adjusted to ensure the values are immediately visible. Colors were applied where appropriate to indicate whether performance is meeting or falling below expected targets.
+These KPI cards were placed at the top of each dashboard so that users can immediately view the most critical information upon opening the report.
+
+
+5.Dashboard Questions for Analysis
+
+To guide the analysis and visualization process, six important business questions were framed based on the dataset columns. These questions helped in selecting the right visuals and extracting meaningful insights from the IT support call center data.
+5.1 What is the distribution of tickets by priority level and issue type?
+This question focuses on understanding how support tickets are distributed across different priority levels such as Low, Medium, High, and Critical, derived from the Priority column. The Issue_Type column was also analyzed to identify the most frequently raised issue categories such as Network Issue, Password Reset, Hardware Failure, and Software Installation.
+By creating bar charts and pie charts, the volume of tickets in each priority and issue category can be clearly visualized. If a large proportion of tickets fall under the Critical or High priority categories, it indicates that serious issues are frequent and require immediate resource allocation.
+5.2 What is the average handle time and wait time across departments and channels?
+This question evaluates how efficiently the support team handles tickets across different departments and communication channels. The Handle_Time_Minutes and Wait_Time_Seconds columns were used alongside the Department and Channel columns to perform this analysis.
+A combination of bar charts and KPI cards was used to display these values. If handle time or wait time is significantly higher for a particular department or channel, it indicates a need for process improvement or additional staffing in those areas.
+5.3 Which support agents deliver the best performance?
+This question analyzes individual agent performance using the Agent_Name column in combination with Satisfaction_Score, First_Call_Resolution, SLA_Met, Handle_Time_Minutes, and Escalated columns.
+By using a bar chart or table visual, the performance of each agent can be compared across multiple metrics. This helps identify top-performing agents as well as those who may benefit from additional training or support. It also highlights workload distribution across the team using the Agent_Experience_Yrs column.
+5.4 Which regions generate the highest number of support tickets?
+This question examines the geographical distribution of support tickets using the Region column. By analyzing ticket volume, SLA compliance, and escalation rates by region, areas with higher support demand or performance gaps can be identified.
+This information supports regional planning decisions and helps management allocate resources more effectively to high-demand regions.
+5.5 How do shift timings impact support performance?
+This question investigates whether the time of day affects support team performance using the Shift column (Morning, Afternoon, Night Shift) alongside Handle_Time_Minutes, Wait_Time_Seconds, SLA_Met, and Satisfaction_Score.
+By comparing performance metrics across shifts, management can identify whether night shift agents face greater challenges or whether certain shifts consistently outperform others. This analysis supports better scheduling and staffing decisions.
+5.6 What is the relationship between ticket reopen count, escalation, and cost?
+This question explores how ticket quality and complexity impact operational costs using the Reopen_Count, Escalated, and Cost_Per_Ticket_USD columns. Tickets that are reopened or escalated typically incur higher costs and indicate unresolved issues from the first interaction.
+By analyzing these relationships, the organization can identify patterns that contribute to increased costs and take corrective action to improve first-time resolution rates.
+
+
+6.Importance of KPIs and Metrics
+
+KPIs and performance metrics play a crucial role in data analysis and operational management. They help convert large volumes of raw call center data into clear, actionable insights that support informed decision-making.
+In this project, KPIs provided a comprehensive understanding of IT support call center performance across multiple dimensions including agent efficiency, customer satisfaction, SLA compliance, escalation patterns, and cost management. These metrics help identify both strengths and areas for improvement within the support operations.
+By monitoring these KPIs regularly through Power BI dashboards, organizations can continuously improve service quality, optimize resource allocation, and ensure a better overall experience for end users.
+
+
+Summary
+
+By the end of Week , several important outcomes were achieved. KPI cards were successfully designed to display eight key performance metrics directly derived from the dataset columns. The cleaned dataset was thoroughly analyzed to identify the most relevant performance indicators for IT support call center operations, and six meaningful business questions were framed to guide the dashboard development process.
+These outcomes established a strong and structured foundation for building effective, interactive, and insight-driven Power BI dashboards in the upcoming stages of the project.
+ Sonnet 4.6
