@@ -126,3 +126,7 @@ This project demonstrates how data analytics can:
 **Vyshnavi Ugge**  
 
 ---
+
+## ⭐ Support  
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
