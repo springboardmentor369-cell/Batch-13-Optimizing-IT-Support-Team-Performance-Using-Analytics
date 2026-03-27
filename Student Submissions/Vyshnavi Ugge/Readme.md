@@ -59,13 +59,15 @@ Ticket Status Overview
 
 **The Power BI dashboard includes:**
 
-Ticket Distribution by Type
-Priority Analysis
-Channel Analysis
-Resolution Time Analysis
-Customer Satisfaction Analysis
-Product-wise Ticket Analysis
-Ticket Status Overview
+## 📈 Dashboard Features  
+
+- Ticket Distribution by Type  
+- Priority Analysis  
+- Channel Analysis  
+- Resolution Time Analysis  
+- Customer Satisfaction Analysis  
+- Product-wise Ticket Analysis  
+- Ticket Status Overview  
 
 **🔍 Key Insights**
 Technical issues are the most common type of tickets
