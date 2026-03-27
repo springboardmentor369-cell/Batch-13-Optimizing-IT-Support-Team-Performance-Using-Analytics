@@ -1,0 +1,1031 @@
+Ticket_ID,Call_Date,Call_Time,Resolution_Date,Agent_Name,Department,Issue_Type,Priority,Status,Channel,Region,Handle_Time_Minutes,Wait_Time_Seconds,First_Call_Resolution,SLA_Met,Satisfaction_Score,OS_Type,Shift,Escalated,Reopen_Count,Cost_Per_Ticket_USD,Agent_Experience_Yrs
+TKT-0032,04-25-2024,09:46 PM,27-Apr-2024,Alice Johnson,Sales,Data Recovery,Hign,Open,chat,,144.0,1508,Yes,,,windows 10,Night Shift,no,0.0,189.52,5.0
+,20/05/2024,06:48 AM,05-20-2024,Emily Davis,Sales,network issue,low,OPEN,EMAIL,South,149.0,99999,No,no,10.0,MacOS,morning,Yes,,64.69,2.0
+TKT-0137,21/09/2024,05:00 PM,09-22-2024,Carol White,IT,VPN Access,CRITICAL,resolved,phone,North,65.0,1186,Yes,no,,Linux,AFTERNOON,Yes,0.0,134.37,10.0
+TKT-0089,2024/05/17,23:56:07,,,HR,Data Recovery,Mediun,Resolve,Email,South,87.0,3315,no,yes,0.0,MacOS,morning,Yes,-1.0,184.44,3.0
+TKT-0919,29/01/2024,17:08:56,29/01/2024,Irene Taylor,Legal,VPN Access,CRITICAL,Resolved,phone,Central,132.0,965,NO,no,99.0,Windows 10 ,AFTERNOON,,0.0,55.44,0.0
+TKT-0344,2024/10/14,10:16,2024/10/15,,HR,Data Recovery,High,Closed,chat,,107.0,1613,,no,,Linux,Night,Yes,,,0.0
+TKT-0871,2024/10/21,17:40:15,2024-10-22,frank miller,Legal,Hardware Failure,medium,Escalated,self-service portal,East,159.0,1719,NO,no,99.0,Windows 10,Afternoon,no,,,99.0
+TKT-0319,01-17-2024,03:59:22 PM,18-Jan-2024,David Brown,Legal,Data Recovery,HIGH,closed,Self-Service Portal,North,175.0,2619,no,no,,macOS,AFTERNOON,No,-1.0,103.24,
+TKT-0262,2024/02/15,03:40:36,16/02/2024,James Anderson,IT,Password Reset,Low,In progress,Phone,South,38.0,1111,NO,No,,Windows 11,Morning,Yes,0.0,42.42,99.0
+TKT-0536,01-15-2024,03:05:11 AM,2024-01-16,Irene Taylor,Sales,Hardware failure,High,Resolved,Walk In,West,27.0,388,yes,,0.0,Windows 10,Morning,No,,171.28,
+TKT-0920,02-Aug-2024,11:32,,Alice Johnson,HR,network issue,High,Resolve,EMAIL,,37.0,3043,yes,no,,Windows 10 ,morning,,2.0,98.32,8.0
+TKT-0597,21-Jan-2024,01:17,2024-01-23,Carol White,Finance,VPN Access,Low,Open,Chat,Central,59.0,2895,,No,2.0,Windows 11,Night,yes,2.0,16.41,5.0
+TKT-0077,26/11/2024,21:41,27-Nov-2024,Henry Moore,Operations,System Crash,CRITICAL,resolved,EMAIL,Central,,443,Yes,Yes,5.0,MacOS,Night Shift,no,3.0,90.44,0.0
+TKT-0108,2024/09/11,09:16 AM,09-13-2024,Irene  Taylor,Finance,Printer Issue,medium,Escalated,Walk In,South,105.0,1600,NO,Yes,-1.0,MacOS,Night Shift,yes,1.0,64.88,-2.0
+TKT-0425,21-Jul-2024,10:09:35 PM,,Henry Moore,Sales,System Crash,High,Resolve,Walk In,West,,1847,No,Yes,5.0,Windows 10,Morning,Yes,,12.83,10.0
+TKT-0585,21-Oct-2024,21:52,2024/10/23,,IT,Network Issue,High,closed,chat,South,,3524,yes,Yes,4.0,macOS,Morning,Yes,1.0,,5.0
+TKT-0854,12/02/2024,00:26:23,02-14-2024,frank miller,,Account Locked,medium,Closed,EMAIL,,63.0,3300,yes,,2.0,Linux,Night Shift,,-1.0,7.33,4.0
+TKT-0665,2024-12-29,15:08:25,12-29-2024,frank miller,Legal,Email Problem,Mediun,In Progress,phone,South,6.0,3039,YES,yes,,Windows 10 ,Afternoon,yes,-1.0,85.18,10.0
+,05-Apr-2024,22:51,,Emily Davis,HR,Hardware failure,High,OPEN,Phone,East,175.0,2106,,N,1.0,Windows 10 ,AFTERNOON,Yes,3.0,192.77,5.0
+TKT-0421,2024/06/09,20:58,11-Jun-2024,Grace Wilson,Admin,Email Problem,medium,Resolve,self-service portal,Central,73.0,2283,yes,,,Linux,Night Shift,yes,0.0,156.6,-2.0
+TKT-0598,2024-06-05,04:53:53 AM,05/06/2024,Grace Wilson ,Sales,vpn access,CRITICAL,Resolve,Walk In,,12.0,3264,no,No,-1.0,MacOS,Afternoon,No,0.0,144.4,7.0
+TKT-0459,2024-10-02,02:02 PM,,frank miller,Admin,network issue,CRITICAL,closed,self-service portal,South,6.0,1678,YES,N,2.0,Linux,Night,no,0.0,191.93,-2.0
+,19/09/2024,06:49 AM,20-Sep-2024,Irene  Taylor,,Network Issue,Low,In progress,Email,East,19.0,1148,no,No,5.0,Windows 11,Afternoon,Yes,-1.0,24.07,
+TKT-0650,26-Feb-2024,04:34:49,02-26-2024,Emily Davis,Legal,System Crash,Mediun,resolved,self-service portal,,116.0,2028,yes,,2.0,MacOS,AFTERNOON,yes,2.0,95.2,3.0
+TKT-0366,2024/10/04,12:30,10-06-2024,EMILY DAVIS,Admin,Email Problem,CRITICAL,In progress,Walk-in,,5.0,1414,yes,,,linux,Night Shift,no,0.0,119.06,10.0
+TKT-0322,09-15-2024,14:25:03,15-Sep-2024,,Marketing,Data Recovery,Mediun,Resolve,chat,,78.0,1667,no,No,4.0,Windows 11,morning,yes,,160.97,8.0
+TKT-0630,2024/02/12,04:46:58,12/02/2024,frank miller,Sales,VPN Access,low,closed,Phone,East,151.0,1122,yes,N,99.0,Linux,Night Shift,yes,3.0,12.23,2.0
+TKT-0915,07-29-2024,03:30:16,29-Jul-2024,Irene  Taylor,Finance,Data Recovery,CRITICAL,OPEN,Email,South,51.0,1722,yes,yes,,macOS,Morning,No,0.0,110.5,4.0
+TKT-0469,2024/04/15,12:22:12,04-16-2024,Irene Taylor,Sales,Password Reset,low,In progress,Chat,,127.0,2012,yes,no,1.0,Windows 10,Morning,No,-1.0,173.45,99.0
+TKT-0599,15/03/2024,05:04:12 AM,2024/03/15,James Anderson,Sales,VPN Access,Mediun,Closed,Walk In,Central,6.0,1261,NO,Yes,1.0,Linux,Morning,,0.0,105.17,4.0
+TKT-0395,15-May-2024,22:31,05-16-2024,alice johnson,,Password Reset,Medium,Escalated,self-service portal,East,114.0,1490,,No,3.0,Windows 10 ,AFTERNOON,no,0.0,25.21,0.0
+TKT-0537,2024/08/05,02:09 AM,2024-08-05,Henry Moore,,vpn access,medium,Escalated,EMAIL,,,229,No,Y,5.0,windows 10,Night Shift,No,3.0,75.6,-2.0
+TKT-0721,02-Oct-2024,06:06:04 AM,03/10/2024,,Operations,System Crash,medium,Resolved,Walk-in,,18.0,1273,no,Yes,2.0,WINDOWS 11,AFTERNOON,yes,2.0,104.91,5.0
+TKT-0334,05-21-2024,19:35,,Irene Taylor,Marketing,vpn access,Low,Escalated,Chat,Central,114.0,746,yes,,5.0,macOS,AFTERNOON,Yes,1.0,20.11,8.0
+TKT-0410,28/07/2024,11:41,2024/07/29,EMILY DAVIS,IT,Account Locked,Mediun,OPEN,Phone,,-5.0,588,no,Yes,0.0,Linux,Afternoon,no,1.0,66.72,4.0
+TKT-0060,27-Jul-2024,08:59 PM,07-29-2024,alice johnson,HR,Account Locked,High,Open,self-service portal,North,124.0,2674,No,,,Linux,AFTERNOON,yes,0.0,70.33,8.0
+TKT-0257,09-14-2024,06:45 PM,2024-09-15,Henry Moore,,network issue,Critical,closed,Email,West,7.0,2534,,Yes,5.0,Windows 10,Afternoon,yes,0.0,147.91,6.0
+,23/05/2024,02:30 AM,2024/05/23,frank miller,HR,Network Issue,low,Closed,phone,,159.0,2757,Yes,Y,4.0,linux,Morning,yes,0.0,116.66,
+TKT-0686,2024/06/01,05:47:50,06-01-2024,Bob Smith,Legal,VPN Access,Critical,resolved,Walk-in,Central,77.0,56,yes,Y,3.0,Windows 10,AFTERNOON,No,0.0,,
+TKT-0343,05-Sep-2024,03:50:40 PM,2024-09-07,David Brown,Sales,System Crash,Medium,Closed,EMAIL,East,155.0,1472,YES,no,5.0,MacOS,Night,,1.0,157.65,1.0
+TKT-0636,2024-01-07,02:23 AM,2024/01/08,EMILY DAVIS,Finance,password reset,low,closed,self-service portal,,63.0,1147,no,,1.0,Windows 10 ,Night,,0.0,132.26,9.0
+TKT-0709,2024/07/17,06:56:43 AM,07-19-2024,Emily Davis,Admin,Printer Issue,low,Open,Phone,,63.0,25,,Y,,linux,Morning,,,151.56,6.0
+TKT-0011,14-Oct-2024,12:07 AM,14/10/2024,henry moore,IT,Email Problem,low,In Progress,Phone,South,141.0,157,,yes,-1.0,Windows 10 ,Night,no,0.0,185.28,-2.0
+TKT-0486,20/04/2024,07:38:32 PM,20-Apr-2024,alice johnson,Legal,network issue,Medium,Open,Self-Service Portal,,20.0,993,no,,,Windows 10,Night Shift,Yes,0.0,30.11,-2.0
+TKT-0210,2024/04/30,13:13:09,2024-04-30,Irene Taylor,Operations,Software Installation,CRITICAL,escalated,phone,East,46.0,886,yes,no,,Windows 11,Night,,,191.9,6.0
+TKT-0140,2024-03-09,20:33,2024/03/10,Bob Smith,Operations,Hardware failure,Medium,In Progress,Phone,Central,126.0,1238,yes,Y,10.0,Linux,Night,,0.0,60.5,6.0
+TKT-0389,03/11/2024,04:36,,henry moore,Legal,System Crash,Hign,In Progress,phone,East,136.0,202,,Y,,macOS,Morning,no,,96.26,3.0
+TKT-0623,23-Jan-2024,01:31 PM,2024-01-24,Alice Johnson,Admin,VPN Access,Low,escalated,Walk In,East,179.0,3107,,N,-1.0,Windows 10 ,AFTERNOON,No,0.0,87.84,9.0
+TKT-0825,2024-12-12,02:58 AM,2024-12-14,David Brown,Sales,Hardware failure,CRITICAL,resolved,self-service portal,West,98.0,1362,yes,,,macOS,Afternoon,No,2.0,123.31,99.0
+TKT-0718,11-17-2024,12:10:25,2024/11/19,EMILY DAVIS,Finance,network issue,Critical,escalated,Phone,South,55.0,2080,yes,Y,0.0,macOS,Morning,,,157.91,2.0
+TKT-0846,12-26-2024,04:38 PM,26/12/2024,henry moore,Marketing,Printer Issue,HIGH,Open,Walk-in,West,127.0,246,no,No,3.0,Linux,Night,,,164.94,2.0
+TKT-0688,11/09/2024,15:31,09-11-2024,david brown ,Sales,Hardware Failure,Mediun,Resolve,Chat,East,20.0,2042,yes,Yes,4.0,Windows 10,Afternoon,no,2.0,5.02,5.0
+TKT-0936,26/12/2024,11:30,27-Dec-2024,EMILY DAVIS,HR,vpn access,High,Resolved,Self-Service Portal,East,110.0,720,No,N,3.0,windows 10,Afternoon,No,2.0,,0.0
+TKT-0582,07/06/2024,17:42:48,09-Jun-2024,Irene  Taylor,Sales,Email problem,HIGH,Open,EMAIL,Central,129.0,1652,yes,,99.0,Linux,morning,no,0.0,91.07,2.0
+TKT-0383,2024/04/16,12:03,2024/04/18,Irene  Taylor,Finance,Network Issue,Medium,In Progress,Walk In,West,104.0,823,No,,,linux,Morning,Yes,0.0,86.9,99.0
+,2024/02/10,11:25:29,2024/02/13,,Admin,Hardware Failure,low,OPEN,EMAIL,East,64.0,2865,No,yes,2.0,linux,morning,Yes,0.0,59.67,9.0
+TKT-0261,06/05/2024,07:30:02 AM,05-07-2024,,,Email problem,Low,Closed,Walk-in,Central,163.0,2904,NO,Yes,3.0,macOS,Morning,no,2.0,151.73,0.0
+TKT-0801,02-28-2024,02:44:37 PM,01-Mar-2024,alice johnson,Marketing,Email problem,Hign,closed,Walk In,Central,168.0,228,,,99.0,Windows 10 ,AFTERNOON,Yes,0.0,178.82,1.0
+TKT-0454,2024-07-08,03:19 AM,2024-07-10,david brown ,Admin,System Crash,HIGH,Escalated,self-service portal,South,-5.0,1633,,No,,macOS,Night,Yes,0.0,169.5,
+TKT-0592,12-18-2024,10:24:25 AM,2024/12/20,,HR,vpn access,Critical,Resolve,Walk-in,,74.0,2928,,,3.0,MacOS,AFTERNOON,Yes,-1.0,173.28,8.0
+TKT-0907,2024-12-12,06:38,12-12-2024,alice johnson,,password reset,Hign,Resolve,EMAIL,Central,29.0,366,Yes,yes,3.0,macOS,morning,Yes,-1.0,111.0,2.0
+TKT-0785,2024/11/01,22:21:55,03-Nov-2024,alice johnson,Operations,Software Installation,medium,Resolved,self-service portal,,,1468,Yes,,5.0,macOS,AFTERNOON,no,0.0,120.11,5.0
+,05-16-2024,09:47:31 AM,18-May-2024,Grace Wilson,Legal,Account Locked,Critical,OPEN,Chat,,35.0,1776,,No,-1.0,WINDOWS 11,Afternoon,,2.0,,9.0
+TKT-0097,06/04/2024,15:34:19,04-06-2024,JAMES ANDERSON,Finance,System Crash,High,escalated,chat,East,127.0,165,Yes,Yes,4.0,Windows 10,Night,no,0.0,67.91,3.0
+TKT-0680,10-03-2024,00:27,10-03-2024,frank miller,Legal,Hardware failure,low,In Progress,Phone,,155.0,1586,,Yes,3.0,linux,Morning,No,2.0,106.77,99.0
+TKT-0850,2024-02-08,08:42:33 AM,09-Feb-2024,,Legal,Network Issue,Low,In progress,Chat,North,52.0,1005,yes,yes,,linux,Afternoon,,1.0,78.56,0.0
+TKT-0885,2024-04-07,11:04:15 PM,04-09-2024,Bob Smith,Admin,System Crash,Medium,Open,Walk In,North,62.0,1902,Yes,yes,,Windows 10,Night Shift,,0.0,163.84,-2.0
+TKT-0881,2024-03-23,01:06 PM,24-Mar-2024,David Brown,Legal,Email Problem,HIGH,Resolve,Phone,,142.0,1978,NO,No,1.0,macOS,Night,no,1.0,98.27,5.0
+TKT-0193,20-Dec-2024,09:50 PM,12-20-2024,Emily Davis,IT,Email problem,HIGH,resolved,Chat,North,62.0,488,Yes,yes,10.0,Linux,AFTERNOON,,3.0,62.63,5.0
+TKT-0281,02/09/2024,09:18 AM,02-Sep-2024,Frank Miller,HR,System Crash,HIGH,Open,Self-Service Portal,East,111.0,1024,YES,No,0.0,Linux,Night Shift,No,0.0,125.21,2.0
+TKT-0534,11/07/2024,09:55 PM,2024/07/13,Bob Smith,HR,password reset,low,Closed,Chat,West,159.0,1791,no,,,Windows 10,Night,No,1.0,77.06,-2.0
+TKT-0683,2024/04/28,01:02:24 PM,30-Apr-2024,david brown ,IT,Account Locked,Mediun,Open,Chat,North,120.0,2485,,Y,0.0,windows 10,AFTERNOON,no,,193.47,10.0
+TKT-0618,2024-11-12,21:58,12-Nov-2024,BOB SMITH,HR,password reset,Low,escalated,EMAIL,,28.0,1833,no,Y,1.0,WINDOWS 11,AFTERNOON,Yes,0.0,158.52,2.0
+TKT-0983,2024-01-29,10:49:09,29/01/2024,,Sales,Hardware Failure,Critical,Open,Walk In,East,162.0,1484,NO,No,,Windows 10 ,Night,No,0.0,59.05,0.0
+TKT-0911,10-18-2024,00:41,10-20-2024,Irene  Taylor,Admin,Account Locked,HIGH,resolved,chat,East,62.0,2043,YES,yes,,Windows 10 ,Night,,0.0,11.04,-2.0
+TKT-0185,2024-12-20,01:38 AM,22/12/2024,BOB SMITH,Admin,network issue,High,escalated,Walk-in,West,158.0,370,NO,,5.0,Linux,Morning,No,0.0,13.41,
+TKT-0031,2024/05/26,07:38,05-27-2024,Emily Davis,Admin,Network Issue,High,Closed,chat,East,58.0,2617,No,Y,5.0,Windows 10,AFTERNOON,yes,0.0,19.68,-2.0
+TKT-0329,2024/09/03,01:24:49,2024-09-05,henry moore,Operations,Email Problem,Medium,In progress,Email,North,180.0,522,no,N,,windows 10,Night,Yes,0.0,40.22,1.0
+TKT-0507,2024-09-09,22:21:32,,Irene  Taylor,Sales,network issue,medium,resolved,self-service portal,East,173.0,1155,,N,,Windows 10 ,Afternoon,No,1.0,,4.0
+,02-16-2024,12:32,,,,vpn access,Mediun,Resolve,chat,West,57.0,2399,yes,Yes,1.0,Windows 10 ,AFTERNOON,,2.0,126.53,10.0
+TKT-0024,04-11-2024,13:07,,Carol White,Operations,Software Installation,Low,Closed,self-service portal,,167.0,620,yes,,3.0,Windows 10 ,morning,,0.0,136.09,5.0
+TKT-0102,2024/05/17,06:03 PM,17-May-2024,david brown ,IT,System Crash,Hign,Resolved,EMAIL,South,23.0,2746,yes,,10.0,linux,morning,No,1.0,87.56,
+TKT-0550,2024-11-08,05:54,11-08-2024,,Sales,Software Installation,medium,Escalated,chat,South,-5.0,362,yes,No,,Windows 10,AFTERNOON,No,-1.0,113.29,4.0
+TKT-0248,2024-03-01,02:23:02 AM,03/03/2024,Irene Taylor,Legal,Account Locked,HIGH,Escalated,self-service portal,South,53.0,1377,No,N,,macOS,Night Shift,No,1.0,105.59,-2.0
+TKT-0004,2024-12-14,13:38,2024/12/16,henry moore,Operations,Password Reset,Medium,Resolve,Walk In,South,,2450,no,Y,5.0,Windows 10 ,Night Shift,yes,0.0,156.83,9.0
+TKT-0087,02-May-2024,15:24,2024/05/03,Alice Johnson,Legal,SOFTWARE INSTALLATION,medium,In Progress,EMAIL,West,-5.0,2623,,Yes,0.0,WINDOWS 11,Night,no,0.0,109.84,3.0
+TKT-0844,2024-11-20,22:06:16,,James Anderson,Marketing,Network Issue,Hign,resolved,phone,Central,173.0,2426,no,,4.0,windows 10,Morning,Yes,0.0,90.47,1.0
+TKT-0953,2024-02-20,20:54:46,02-22-2024,henry moore,HR,SOFTWARE INSTALLATION,High,closed,phone,South,55.0,1609,,Y,10.0,MacOS,Morning,yes,2.0,41.82,0.0
+TKT-0291,2024-11-21,10:08,22/11/2024,henry moore,Finance,vpn access,Hign,escalated,Walk-in,North,100.0,99999,YES,no,0.0,WINDOWS 11,Morning,yes,3.0,174.02,99.0
+TKT-0211,16-Dec-2024,03:34,2024-12-17,James Anderson,IT,Hardware Failure,Critical,Closed,Walk-in,,115.0,1601,,no,5.0,macOS,morning,yes,0.0,122.41,99.0
+TKT-0803,2024/12/23,01:07:48,2024-12-24,david brown ,Sales,vpn access,medium,Escalated,Chat,,166.0,3382,Yes,no,2.0,Windows 11,morning,,0.0,136.15,10.0
+TKT-0175,2024/05/23,14:33,2024/05/25,henry moore,Sales,Account Locked,Mediun,Resolved,phone,North,158.0,372,No,no,10.0,linux,Morning,no,0.0,132.98,5.0
+TKT-0200,03/02/2024,09:42 AM,03/02/2024,Frank Miller,,SOFTWARE INSTALLATION,High,Open,Chat,North,33.0,2474,No,Y,10.0,Windows 10 ,AFTERNOON,Yes,1.0,171.0,8.0
+TKT-0903,23/12/2024,01:48 PM,2024-12-24,JAMES ANDERSON,Operations,password reset,medium,resolved,Email,West,163.0,1630,yes,Yes,,Windows 10,Morning,Yes,-1.0,51.92,1.0
+TKT-0808,12-23-2024,07:19 PM,12-25-2024,david brown ,Finance,Hardware Failure,medium,OPEN,Self-Service Portal,,91.0,2883,Yes,Yes,10.0,Windows 10,AFTERNOON,,0.0,165.81,7.0
+TKT-0064,10-Dec-2024,09:46,12-Dec-2024,Irene  Taylor,Admin,Hardware Failure,High,OPEN,phone,West,67.0,3354,,N,,Windows 11,AFTERNOON,no,0.0,134.05,9.0
+TKT-0266,24-Dec-2024,02:06:27 AM,24/12/2024,Henry Moore,Sales,Data Recovery,CRITICAL,Resolve,Email,North,43.0,1347,no,,5.0,macOS,AFTERNOON,yes,0.0,71.35,10.0
+TKT-0232,07/10/2024,11:04:55 AM,2024-10-07,EMILY DAVIS,Admin,password reset,low,In progress,self-service portal,,108.0,1980,YES,yes,-1.0,macOS,Afternoon,yes,0.0,142.91,10.0
+TKT-0804,01/07/2024,23:18,2024-07-03,Henry Moore,Sales,Network Issue,Low,In progress,Self-Service Portal,West,87.0,2072,No,yes,,Linux,AFTERNOON,no,0.0,25.73,0.0
+TKT-0626,22/03/2024,08:23 AM,2024-03-23,frank miller,Admin,Account Locked,Medium,Resolve,Chat,East,143.0,2644,Yes,Yes,-1.0,macOS,Night,No,0.0,56.68,0.0
+TKT-0569,2024/10/31,04:24 PM,10-31-2024,Frank Miller,Legal,password reset,HIGH,resolved,Phone,West,112.0,864,yes,No,2.0,linux,Night Shift,yes,-1.0,171.42,4.0
+TKT-0855,22/06/2024,19:29,24-Jun-2024,Grace Wilson,Legal,Software Installation,medium,OPEN,Walk In,Central,128.0,343,,,1.0,MacOS,Morning,yes,0.0,93.44,99.0
+TKT-0040,2024/07/26,10:40 PM,07-27-2024,JAMES ANDERSON,Marketing,Email problem,medium,Open,EMAIL,,31.0,1669,Yes,yes,,Windows 11,Afternoon,No,1.0,54.91,3.0
+TKT-0807,2024/06/05,04:41,2024-06-05,Henry Moore,IT,Software Installation,low,Resolve,Walk-in,,71.0,395,NO,Y,0.0,macOS,Night Shift,yes,1.0,152.02,1.0
+TKT-0169,14/11/2024,05:32:06 PM,11-15-2024,Emily Davis,Marketing,Account Locked,Mediun,Escalated,Chat,South,140.0,1444,YES,yes,5.0,Windows 11,Night,,0.0,152.37,8.0
+TKT-0591,30/01/2024,02:52:56 PM,02-01-2024,frank miller,,vpn access,medium,Closed,EMAIL,North,68.0,2715,,no,2.0,Windows 11,AFTERNOON,No,0.0,12.82,10.0
+,2024/03/11,16:38,03-11-2024,alice johnson,Finance,Network Issue,Low,closed,Walk-in,West,94.0,474,Yes,,,Windows 11,Afternoon,Yes,2.0,86.93,
+TKT-0999,03-Jan-2024,05:46 PM,2024/01/05,Irene Taylor,Finance,password reset,High,Escalated,chat,South,158.0,1641,,No,-1.0,windows 10,Night,no,,149.36,1.0
+TKT-0443,08/08/2024,07:14 AM,09/08/2024,Alice Johnson,IT,password reset,Critical,In Progress,EMAIL,South,143.0,1458,,No,,Linux,AFTERNOON,yes,0.0,,
+TKT-0909,2024/02/14,12:00 PM,,David Brown,Admin,SOFTWARE INSTALLATION,Low,In Progress,Email,East,,2183,YES,no,1.0,Linux,Afternoon,no,0.0,150.8,0.0
+TKT-0067,07-11-2024,05:48:34 AM,2024/07/13,EMILY DAVIS,HR,Software Installation,Hign,OPEN,EMAIL,North,63.0,3488,No,yes,3.0,linux,AFTERNOON,No,1.0,174.55,6.0
+TKT-0308,11-19-2024,02:28 AM,11-19-2024,JAMES ANDERSON,Operations,SOFTWARE INSTALLATION,low,Resolved,Email,Central,132.0,99999,YES,no,5.0,macOS,Night,Yes,,46.37,4.0
+TKT-0068,06-04-2024,12:13 AM,05-Jun-2024,JAMES ANDERSON,HR,Printer Issue,low,Escalated,Walk In,Central,32.0,3069,,no,4.0,windows 10,Night,No,0.0,,9.0
+TKT-0199,2024-03-08,12:30:22 AM,2024-03-09,JAMES ANDERSON,Operations,password reset,Low,Closed,Phone,North,178.0,1495,No,,99.0,Windows 11,Afternoon,Yes,0.0,182.16,1.0
+TKT-0529,2024/10/23,07:52:40,2024/10/25,Grace Wilson ,Finance,System Crash,HIGH,escalated,EMAIL,North,72.0,2232,YES,No,1.0,linux,Night Shift,yes,0.0,166.79,10.0
+TKT-0482,05/04/2024,12:50 PM,04-06-2024,Grace Wilson,Marketing,Password Reset,Medium,In progress,EMAIL,,-5.0,2236,NO,No,5.0,Windows 10 ,morning,No,-1.0,140.95,
+TKT-0758,2024-11-27,04:23 PM,28-Nov-2024,JAMES ANDERSON,Marketing,Account Locked,Critical,Resolved,Phone,Central,129.0,353,Yes,yes,3.0,Windows 10,Night Shift,,,45.69,8.0
+TKT-0988,2024/02/05,07:50:39 PM,2024/02/07,Henry Moore,Marketing,System Crash,Critical,Closed,self-service portal,Central,26.0,3330,Yes,N,,MacOS,Afternoon,no,0.0,107.08,2.0
+TKT-0363,17/12/2024,11:16 AM,18-Dec-2024,henry moore,Sales,Data Recovery,Low,Closed,phone,East,174.0,1223,,,,WINDOWS 11,Morning,no,1.0,181.2,0.0
+TKT-0845,15-Jul-2024,02:36:50 PM,07-16-2024,JAMES ANDERSON,Operations,VPN Access,Hign,resolved,phone,West,149.0,146,no,Y,,Windows 11,morning,no,1.0,136.39,6.0
+TKT-0559,25-Nov-2024,13:53,2024/11/25,,,network issue,Hign,Closed,Walk-in,Central,-5.0,1010,Yes,N,0.0,Windows 10,Afternoon,no,3.0,172.84,2.0
+TKT-0619,06-Jan-2024,07:54 AM,01-06-2024,BOB SMITH,,Network Issue,Critical,OPEN,Phone,West,148.0,1952,yes,,,Windows 10,Night Shift,No,,32.27,8.0
+TKT-0353,07-06-2024,02:49:42 PM,07-07-2024,,Sales,SOFTWARE INSTALLATION,Low,Resolved,Walk-in,,110.0,885,YES,Y,10.0,MacOS,Night,Yes,0.0,185.88,10.0
+,02-26-2024,04:52:43,26/02/2024,david brown ,Sales,vpn access,Low,closed,Walk-in,West,109.0,3147,No,,99.0,windows 10,Night Shift,no,0.0,72.25,8.0
+TKT-0930,13/11/2024,04:33:41 PM,2024-11-15,alice johnson,Marketing,Account Locked,HIGH,resolved,Walk In,Central,,2229,YES,no,99.0,Windows 10 ,morning,no,0.0,69.91,2.0
+TKT-0293,02/06/2024,03:26:46 PM,06-03-2024,James Anderson,Finance,Network Issue,Low,Resolved,Phone,Central,115.0,3210,NO,N,1.0,macOS,AFTERNOON,no,0.0,83.08,1.0
+TKT-0753,04-23-2024,02:20:40,2024/04/25,Irene Taylor,IT,Password Reset,Low,closed,EMAIL,North,37.0,2161,no,No,1.0,WINDOWS 11,Afternoon,yes,1.0,180.47,7.0
+TKT-0101,28/01/2024,11:00,01-28-2024,,IT,Printer Issue,Medium,Resolved,Walk-in,West,77.0,3384,NO,N,-1.0,macOS,Night Shift,Yes,2.0,56.36,99.0
+TKT-0585,21-Oct-2024,21:52,2024/10/23,,IT,Network Issue,High,closed,chat,South,,3524,yes,Yes,4.0,macOS,Morning,Yes,1.0,,5.0
+,02-16-2024,12:32,,,,vpn access,Mediun,Resolve,chat,West,57.0,2399,yes,Yes,1.0,Windows 10 ,AFTERNOON,,2.0,126.53,10.0
+TKT-0809,2024/02/08,21:57,2024/02/08,alice johnson,Legal,Data Recovery,Low,closed,self-service portal,North,8.0,2643,No,yes,,macOS,Morning,,2.0,,2.0
+TKT-0306,2024-03-23,05:19 AM,,David Brown,IT,password reset,medium,In progress,self-service portal,South,170.0,2333,,,1.0,linux,Morning,Yes,0.0,98.91,2.0
+TKT-0629,09/05/2024,10:55,10-May-2024,Irene  Taylor,HR,VPN Access,Hign,Open,chat,South,106.0,3255,Yes,no,,Windows 10,morning,yes,0.0,119.6,-2.0
+TKT-0159,28/04/2024,07:43:01,29-Apr-2024,Grace Wilson ,Admin,vpn access,medium,In Progress,EMAIL,,22.0,2828,,no,,MacOS,morning,yes,-1.0,88.37,-2.0
+TKT-0552,03/05/2024,10:55:58 AM,05-03-2024,henry moore,Legal,network issue,High,OPEN,chat,South,109.0,2180,Yes,no,5.0,Linux,AFTERNOON,,0.0,15.35,99.0
+TKT-0003,2024/12/18,05:14:43 PM,19/12/2024,Carol  White,,Data Recovery,Medium,Escalated,self-service portal,West,16.0,948,,Yes,,windows 10,Afternoon,Yes,0.0,34.8,3.0
+TKT-0729,22-Dec-2024,02:23:43 AM,2024/12/24,BOB SMITH,Operations,Hardware Failure,Medium,Closed,self-service portal,North,-5.0,2386,,,3.0,MacOS,AFTERNOON,,3.0,16.66,0.0
+TKT-0209,2024/05/22,21:35,2024-05-22,alice johnson,Operations,Account Locked,Medium,OPEN,phone,Central,126.0,3214,Yes,Yes,2.0,Windows 11,morning,Yes,3.0,118.94,7.0
+TKT-0300,2024-06-24,09:10 AM,25/06/2024,david brown ,Admin,SOFTWARE INSTALLATION,Mediun,OPEN,Phone,East,109.0,1982,no,Y,3.0,linux,AFTERNOON,Yes,,145.85,8.0
+TKT-0851,05/11/2024,11:00:30 AM,11-07-2024,david brown ,Legal,VPN Access,Medium,In progress,Chat,East,,1987,NO,,2.0,Windows 10,Night,,,26.29,10.0
+TKT-0437,2024-12-03,17:23,04/12/2024,Irene  Taylor,Marketing,network issue,Medium,escalated,Phone,South,,283,,N,3.0,Linux,Afternoon,no,1.0,97.58,8.0
+TKT-0870,2024-11-02,07:03:38,02/11/2024,alice johnson,Operations,Email Problem,CRITICAL,Escalated,Email,South,,3410,NO,Yes,10.0,Windows 11,morning,yes,2.0,64.7,3.0
+TKT-0412,2024/03/01,05:58 PM,2024-03-03,Irene Taylor,Admin,System Crash,Medium,Resolve,Chat,,42.0,2310,YES,,99.0,MacOS,Morning,,3.0,197.62,6.0
+TKT-0615,2024/10/21,08:56:24 AM,10-23-2024,Irene  Taylor,Sales,Password Reset,High,Open,Phone,South,69.0,1408,Yes,Y,-1.0,linux,AFTERNOON,yes,,187.89,-2.0
+TKT-0908,2024-06-07,04:11,08-Jun-2024,BOB SMITH,Legal,VPN Access,High,resolved,phone,South,96.0,2887,yes,N,5.0,WINDOWS 11,morning,no,2.0,174.26,2.0
+TKT-0913,2024/08/14,20:42,2024/08/16,alice johnson,Marketing,Password Reset,High,In progress,Walk In,,121.0,1598,Yes,N,4.0,linux,Afternoon,Yes,0.0,154.17,3.0
+TKT-0997,30/07/2024,12:52 AM,01-Aug-2024,henry moore,Sales,network issue,Medium,Resolved,Walk In,East,132.0,1403,no,Y,0.0,windows 10,Night Shift,no,0.0,44.15,8.0
+TKT-0963,2024-09-09,13:14:13,2024/09/10,Frank Miller,Sales,System Crash,CRITICAL,In Progress,Walk-in,South,35.0,622,YES,yes,,MacOS,Night Shift,No,2.0,11.64,0.0
+TKT-0701,21-Feb-2024,06:11:10 PM,2024/02/21,Grace Wilson,IT,Printer Issue,Low,closed,chat,East,156.0,1484,,no,4.0,Linux,Night Shift,No,-1.0,51.17,0.0
+,20/09/2024,12:36:44 AM,2024/09/21,alice johnson,Admin,VPN Access,Low,escalated,self-service portal,West,116.0,2646,no,Yes,,linux,AFTERNOON,yes,0.0,41.65,9.0
+TKT-0307,27-Jun-2024,10:35:41 PM,06-28-2024,Grace Wilson ,Marketing,Hardware failure,Critical,Closed,Chat,Central,121.0,3062,,no,,Linux,Night Shift,Yes,,115.59,6.0
+TKT-0498,12/01/2024,15:50,14/01/2024,EMILY DAVIS,Finance,vpn access,High,OPEN,chat,West,,1765,no,N,2.0,Linux,morning,yes,0.0,110.12,8.0
+TKT-0494,18/05/2024,00:57:31,05-20-2024,,HR,Email problem,Low,OPEN,EMAIL,West,115.0,2462,yes,no,3.0,macOS,AFTERNOON,,2.0,,4.0
+TKT-0424,01-14-2024,20:27,15-Jan-2024,James Anderson,Marketing,password reset,Mediun,closed,Phone,North,103.0,739,yes,Y,1.0,linux,Morning,no,,107.31,
+TKT-0299,05-22-2024,02:02:34 PM,22-May-2024,Irene  Taylor,Legal,Software Installation,Mediun,OPEN,Phone,Central,,606,NO,No,,windows 10,morning,No,2.0,15.48,7.0
+TKT-0468,03-02-2024,21:15,02-Mar-2024,,,Email Problem,Critical,Closed,Email,,61.0,1033,NO,Yes,2.0,Windows 10,Night Shift,yes,-1.0,172.26,3.0
+TKT-0885,2024-04-07,11:04:15 PM,04-09-2024,Bob Smith,Admin,System Crash,Medium,Open,Walk In,North,62.0,1902,Yes,yes,,Windows 10,Night Shift,,0.0,163.84,-2.0
+TKT-0756,2024-08-26,17:49,27-Aug-2024,Henry Moore,Legal,Email problem,High,Open,self-service portal,North,86.0,1553,yes,no,5.0,Windows 10 ,Night,No,0.0,36.22,2.0
+TKT-0107,09/05/2024,06:29 AM,11/05/2024,Grace Wilson ,HR,SOFTWARE INSTALLATION,Hign,Resolve,self-service portal,Central,161.0,1636,YES,Yes,1.0,Windows 10 ,Night,no,3.0,145.65,
+TKT-0859,07-Oct-2024,03:02 PM,2024-10-09,EMILY DAVIS,IT,Software Installation,Critical,closed,self-service portal,Central,114.0,1878,no,Y,,WINDOWS 11,Afternoon,,,133.83,1.0
+TKT-0056,2024/03/01,04:06,2024/03/02,Grace Wilson,,Hardware failure,Hign,Resolved,Phone,Central,88.0,2294,yes,,3.0,Windows 10,Afternoon,no,2.0,8.24,6.0
+TKT-0121,14/08/2024,07:58:40,08-15-2024,,HR,Account Locked,CRITICAL,In Progress,Email,,152.0,99999,NO,Y,,macOS,Afternoon,,2.0,116.67,6.0
+TKT-0311,02-Oct-2024,00:59:44,02/10/2024,James Anderson,Admin,Hardware Failure,HIGH,resolved,self-service portal,,68.0,3225,Yes,Yes,1.0,WINDOWS 11,Night,no,2.0,147.52,4.0
+TKT-0026,28-Jan-2024,06:33:23,30/01/2024,Irene Taylor,Admin,Email Problem,HIGH,In progress,chat,,162.0,1820,,Yes,4.0,Windows 11,Morning,yes,2.0,99.09,8.0
+TKT-0073,2024-07-01,05:24 PM,01-Jul-2024,JAMES ANDERSON,Admin,Account Locked,Critical,Open,Email,Central,176.0,2409,NO,no,2.0,Windows 10 ,Afternoon,,,22.48,9.0
+TKT-0531,2024-12-22,09:17:01 AM,2024/12/25,frank miller,Finance,Hardware Failure,Hign,In Progress,Self-Service Portal,South,108.0,1656,,Yes,99.0,linux,AFTERNOON,yes,0.0,127.19,5.0
+TKT-0045,2024-09-14,04:26:10 PM,,frank miller,,SOFTWARE INSTALLATION,Hign,Open,Walk In,East,156.0,576,,yes,1.0,Windows 11,Night,No,,78.11,1.0
+TKT-0276,2024-05-16,01:58:46,,Frank Miller,Operations,Email problem,medium,In progress,Walk In,North,65.0,2787,YES,no,99.0,Windows 10 ,Night,No,0.0,,5.0
+TKT-0479,2024/01/02,09:16:56 PM,2024/01/03,BOB SMITH,HR,Data Recovery,Hign,In Progress,EMAIL,,98.0,1424,NO,yes,2.0,WINDOWS 11,AFTERNOON,no,0.0,51.88,10.0
+TKT-0315,2024-12-27,19:18,2024/12/27,frank miller,HR,Account Locked,Critical,In Progress,phone,West,,768,YES,N,-1.0,Windows 11,Afternoon,No,-1.0,164.69,10.0
+TKT-0337,15/09/2024,02:58:23 AM,,Henry Moore,Finance,Email Problem,Hign,Escalated,EMAIL,West,156.0,953,no,,,macOS,AFTERNOON,yes,-1.0,29.65,1.0
+TKT-0690,11-05-2024,02:35:50,2024-11-06,Carol White,Sales,Network Issue,medium,In progress,Self-Service Portal,East,132.0,15,yes,yes,10.0,Windows 10 ,Night Shift,yes,0.0,197.02,-2.0
+TKT-0431,2024-05-09,04:21:59,2024/05/10,Frank Miller,HR,Software Installation,medium,escalated,Chat,East,167.0,1921,no,,0.0,windows 10,AFTERNOON,,0.0,138.38,-2.0
+TKT-0951,02-10-2024,11:28,02-12-2024,Carol  White,Legal,Hardware Failure,Medium,OPEN,Walk In,East,30.0,2904,yes,N,,WINDOWS 11,Morning,yes,0.0,102.65,4.0
+TKT-0834,02-26-2024,16:13,27-Feb-2024,Grace Wilson ,Marketing,password reset,low,escalated,Self-Service Portal,South,97.0,868,Yes,no,0.0,WINDOWS 11,morning,Yes,1.0,44.13,8.0
+TKT-0589,22-Mar-2024,06:12,2024-03-24,,Admin,Password Reset,Low,resolved,EMAIL,West,41.0,2564,,No,,Windows 11,Afternoon,No,-1.0,72.74,99.0
+TKT-0704,01-18-2024,12:25:59,19-Jan-2024,Grace Wilson,Sales,SOFTWARE INSTALLATION,High,Escalated,EMAIL,North,124.0,125,,no,1.0,Windows 10,Night,no,-1.0,76.53,3.0
+TKT-0328,31/01/2024,04:13:35,2024-02-01,Irene  Taylor,Operations,Software Installation,medium,Open,EMAIL,Central,171.0,265,No,no,2.0,Windows 11,AFTERNOON,,,148.9,9.0
+TKT-0926,2024/07/21,23:36:49,07-23-2024,,,password reset,medium,In progress,Email,West,99.0,2195,Yes,N,,MacOS,Night,No,2.0,136.4,8.0
+TKT-0604,2024-09-30,12:48:10 PM,01-Oct-2024,EMILY DAVIS,IT,Printer Issue,HIGH,closed,Walk In,Central,149.0,3407,,No,,macOS,Night,no,,199.42,2.0
+TKT-0928,05-04-2024,11:52 AM,2024/05/06,EMILY DAVIS,Admin,Printer Issue,HIGH,escalated,Phone,Central,32.0,99999,NO,No,1.0,Windows 10,Afternoon,Yes,0.0,171.5,-2.0
+TKT-0981,26/05/2024,15:08,28/05/2024,Grace Wilson ,Sales,password reset,Mediun,Resolved,Chat,West,33.0,1932,yes,N,10.0,WINDOWS 11,Afternoon,,,13.96,7.0
+TKT-0972,03-25-2024,08:59:14 AM,03-26-2024,,HR,password reset,Low,Open,Chat,South,61.0,1477,,Y,,Windows 11,Night Shift,no,,58.86,7.0
+,2024/07/21,06:26 AM,22/07/2024,david brown ,Legal,Printer Issue,High,Open,Email,West,173.0,585,,,,macOS,Afternoon,,,,-2.0
+TKT-0332,04-04-2024,09:27:34 PM,2024/04/04,Alice Johnson,,password reset,HIGH,closed,Walk-in,East,171.0,1259,Yes,Y,,Windows 10,Night,No,,198.56,4.0
+TKT-0061,2024-11-24,05:33:31 PM,24/11/2024,alice johnson,IT,VPN Access,CRITICAL,Resolve,Self-Service Portal,West,131.0,1927,yes,No,2.0,macOS,Morning,yes,1.0,,7.0
+TKT-0746,2024/12/24,04:28 PM,2024/12/24,david brown ,IT,Software Installation,HIGH,Open,chat,East,3.0,24,NO,,,macOS,AFTERNOON,Yes,2.0,173.93,9.0
+TKT-0372,03-16-2024,19:18,18-Mar-2024,Irene  Taylor,IT,Account Locked,Low,closed,Phone,Central,67.0,2618,No,Yes,4.0,Windows 10 ,Night,no,0.0,79.08,
+TKT-0093,01-Oct-2024,11:49 AM,2024-10-03,Carol White,IT,VPN Access,HIGH,closed,Phone,North,80.0,1907,,,2.0,Linux,Night,Yes,0.0,196.6,3.0
+TKT-0723,15-Feb-2024,10:35:23 AM,16-Feb-2024,Frank Miller,IT,Account Locked,Medium,OPEN,phone,,166.0,680,,,4.0,Windows 11,AFTERNOON,Yes,3.0,116.6,9.0
+TKT-0491,11-28-2024,07:57:33,28-Nov-2024,Alice Johnson,Legal,SOFTWARE INSTALLATION,low,Resolve,Email,East,170.0,2308,,Yes,,macOS,Night Shift,no,0.0,47.24,9.0
+TKT-0463,26/04/2024,21:59:58,2024/04/28,,Finance,Printer Issue,High,Resolved,chat,Central,-5.0,3167,no,no,,Linux,Morning,No,-1.0,199.25,0.0
+TKT-0219,07/06/2024,09:38 PM,2024/06/08,,,vpn access,CRITICAL,OPEN,chat,North,172.0,403,,yes,0.0,Windows 10 ,AFTERNOON,yes,-1.0,181.91,8.0
+TKT-0514,2024-09-22,16:32,2024-09-25,Grace Wilson ,Marketing,SOFTWARE INSTALLATION,Low,Escalated,Walk In,South,114.0,1440,,,,WINDOWS 11,Morning,No,0.0,,3.0
+TKT-0621,07-13-2024,09:15:25,13-Jul-2024,frank miller,Finance,vpn access,Low,In progress,Phone,North,170.0,558,,Y,4.0,macOS,AFTERNOON,Yes,-1.0,68.05,4.0
+TKT-0426,01-19-2024,06:14,01-21-2024,BOB SMITH,Admin,VPN Access,low,Escalated,Chat,North,3.0,1441,NO,Yes,-1.0,linux,Morning,no,,26.98,7.0
+TKT-0333,08-Mar-2024,00:17:51,09-Mar-2024,alice johnson,HR,Hardware failure,High,closed,Self-Service Portal,East,23.0,1033,,Y,5.0,windows 10,Night,no,1.0,118.02,2.0
+TKT-0860,27/07/2024,17:57:41,07-27-2024,,IT,Software Installation,Low,Escalated,self-service portal,South,75.0,836,,No,4.0,Linux,Night,yes,-1.0,81.4,-2.0
+TKT-0990,2024/09/25,06:51 AM,27/09/2024,Irene Taylor,,Password Reset,CRITICAL,Resolved,Walk-in,South,120.0,1278,,no,99.0,WINDOWS 11,morning,Yes,1.0,103.17,99.0
+TKT-0583,11-21-2024,18:41,11-21-2024,,Sales,Software Installation,medium,closed,chat,West,147.0,2860,no,No,,Windows 10,Afternoon,no,1.0,69.43,5.0
+TKT-0356,2024-03-27,12:13:40 AM,03-28-2024,Grace Wilson,Marketing,Email Problem,HIGH,Resolved,EMAIL,,119.0,342,NO,No,5.0,Windows 10 ,Afternoon,,-1.0,138.97,3.0
+TKT-0483,2024-12-18,10:02:18,18/12/2024,BOB SMITH,Operations,Printer Issue,Hign,Closed,self-service portal,Central,76.0,988,No,No,4.0,windows 10,Night Shift,Yes,1.0,31.27,
+TKT-0546,2024-07-08,18:27,2024/07/09,Carol  White,HR,Password Reset,Mediun,Escalated,Chat,Central,118.0,3466,Yes,Y,99.0,Windows 10,Morning,yes,0.0,157.87,6.0
+TKT-0111,01-24-2024,09:18:29,2024-01-26,alice johnson,Finance,vpn access,medium,Escalated,Chat,,154.0,2156,yes,no,10.0,WINDOWS 11,Morning,Yes,0.0,86.27,7.0
+TKT-0515,25/11/2024,18:10:49,2024-11-26,frank miller,Admin,Data Recovery,Hign,Escalated,Phone,West,171.0,108,Yes,yes,,Linux,Morning,no,0.0,,10.0
+TKT-0603,10-24-2024,05:00:40 AM,2024-10-26,Henry Moore,IT,Hardware Failure,Mediun,In Progress,chat,,135.0,421,,N,5.0,MacOS,morning,no,,190.9,7.0
+TKT-0996,2024-06-05,07:43,2024/06/05,Irene  Taylor,Finance,Email problem,Low,Closed,phone,West,95.0,2094,,no,10.0,MacOS,Morning,no,1.0,40.66,99.0
+TKT-0508,2024/03/08,08:56:52 PM,08/03/2024,Alice Johnson,Legal,password reset,medium,In progress,Phone,West,85.0,3567,yes,Yes,4.0,linux,Afternoon,no,2.0,34.19,1.0
+TKT-0335,27/02/2024,16:04:15,28/02/2024,Carol White,Marketing,network issue,HIGH,In Progress,Phone,Central,85.0,2346,yes,,,windows 10,AFTERNOON,,3.0,78.87,10.0
+TKT-0849,23-Sep-2024,03:51,2024/09/25,Carol White,Sales,Printer Issue,low,In progress,Walk-in,West,172.0,3491,,N,,linux,Morning,Yes,2.0,31.24,1.0
+TKT-0295,16/10/2024,01:36:50,18-Oct-2024,Alice Johnson,Admin,SOFTWARE INSTALLATION,HIGH,OPEN,Walk In,Central,13.0,206,yes,Yes,5.0,Linux,Night,Yes,2.0,138.06,2.0
+TKT-0287,21-Jul-2024,04:28:14 AM,2024/07/23,Frank Miller,IT,Email problem,Low,In Progress,Walk-in,,96.0,617,no,Yes,99.0,MacOS,Night Shift,Yes,0.0,9.04,99.0
+TKT-0939,2024-10-31,10:13:03,2024-10-31,Irene  Taylor,Finance,Password Reset,Medium,Escalated,Walk In,East,34.0,2952,Yes,No,4.0,MacOS,Morning,No,1.0,168.35,4.0
+TKT-0448,31/12/2024,07:10:40 AM,2024-12-31,EMILY DAVIS,Operations,vpn access,low,escalated,Walk In,North,19.0,1555,No,Yes,5.0,WINDOWS 11,AFTERNOON,,3.0,27.53,7.0
+TKT-0693,18-Nov-2024,09:55 AM,11-18-2024,Carol  White,Operations,Hardware failure,Medium,Open,phone,Central,25.0,827,NO,,10.0,linux,Night,no,0.0,190.63,6.0
+,08-31-2024,07:03:26 PM,08-31-2024,Henry Moore,HR,VPN Access,High,resolved,phone,East,69.0,2127,YES,no,-1.0,Linux,Night,No,3.0,16.27,8.0
+TKT-0969,28-Mar-2024,23:13,30-Mar-2024,Carol White,,network issue,low,Resolved,Email,Central,117.0,1107,YES,,-1.0,Windows 11,Morning,No,-1.0,124.74,
+TKT-0278,27-Jan-2024,01:31:24 PM,,henry moore,HR,Network Issue,HIGH,Closed,chat,Central,97.0,473,yes,N,10.0,Windows 10 ,Night,no,3.0,25.9,6.0
+TKT-0759,01/10/2024,10:16:06 PM,03/10/2024,,Marketing,password reset,Mediun,Open,phone,North,170.0,2278,,,99.0,Linux,AFTERNOON,No,-1.0,59.53,6.0
+TKT-0138,04-Jan-2024,17:02:54,06-Jan-2024,Irene Taylor,Marketing,vpn access,Low,escalated,Self-Service Portal,,97.0,2552,yes,,-1.0,WINDOWS 11,Afternoon,Yes,0.0,78.99,2.0
+TKT-0502,03/07/2024,12:24 PM,2024/07/04,David Brown,Sales,VPN Access,HIGH,escalated,Chat,West,177.0,1880,YES,Yes,1.0,windows 10,Night,No,1.0,180.8,10.0
+TKT-0405,2024/04/07,15:16,2024/04/07,Emily Davis,Sales,System Crash,Medium,Resolve,Email,North,162.0,2846,no,Yes,99.0,Windows 11,Afternoon,Yes,,177.39,2.0
+TKT-0524,03-02-2024,13:24:38,04-Mar-2024,Emily Davis,HR,Printer Issue,CRITICAL,Closed,Phone,North,76.0,428,no,no,2.0,MacOS,morning,yes,0.0,170.38,
+TKT-0781,2024/01/03,10:38:11 PM,2024-01-04,Grace Wilson ,Admin,Email problem,Hign,In progress,phone,East,71.0,2444,,N,10.0,MacOS,Morning,No,0.0,130.41,6.0
+TKT-0978,18-Mar-2024,07:07:50,19-Mar-2024,Grace Wilson ,Sales,Network Issue,High,closed,EMAIL,North,171.0,1406,,no,,Windows 11,AFTERNOON,,0.0,150.69,-2.0
+TKT-0581,07-14-2024,10:19:12 AM,,,HR,VPN Access,Critical,Open,Chat,North,133.0,2762,NO,,-1.0,Windows 10,Afternoon,No,,95.53,5.0
+TKT-0238,15-Aug-2024,12:14 AM,2024/08/15,Carol White,IT,Account Locked,Critical,Escalated,chat,North,73.0,2797,NO,yes,4.0,windows 10,Morning,,0.0,29.85,10.0
+TKT-0989,08-31-2024,16:25,31-Aug-2024,frank miller,HR,Data Recovery,Critical,In progress,EMAIL,East,,1510,YES,Y,3.0,Linux,AFTERNOON,no,1.0,196.21,0.0
+TKT-0216,23-May-2024,11:23:59 PM,25-May-2024,Grace Wilson ,HR,password reset,low,In Progress,phone,West,74.0,1088,YES,,5.0,MacOS,Afternoon,yes,-1.0,26.94,0.0
+TKT-0895,2024/02/26,09:49 PM,26/02/2024,david brown ,,Hardware Failure,Mediun,In progress,Walk-in,East,23.0,99999,,no,2.0,linux,Night,no,0.0,138.89,0.0
+,12/12/2024,04:24:41,2024/12/12,BOB SMITH,Operations,SOFTWARE INSTALLATION,Low,escalated,self-service portal,Central,88.0,871,yes,no,4.0,WINDOWS 11,Night Shift,yes,0.0,15.39,-2.0
+TKT-0553,2024/08/15,08:45:03,2024-08-17,Carol White,Finance,SOFTWARE INSTALLATION,low,In Progress,Walk-in,North,94.0,1849,YES,yes,,macOS,Night Shift,no,,,
+TKT-0838,05-05-2024,06:09:57 PM,07/05/2024,Carol  White,,Email Problem,CRITICAL,In Progress,Phone,East,12.0,2529,no,no,5.0,windows 10,Night Shift,Yes,0.0,176.5,6.0
+TKT-0864,12-26-2024,08:48 PM,2024/12/26,,Admin,Hardware failure,HIGH,escalated,chat,East,127.0,1488,yes,yes,5.0,macOS,Night Shift,yes,0.0,49.81,0.0
+TKT-0668,29/01/2024,03:27:55 PM,2024/01/29,BOB SMITH,Sales,Password Reset,High,closed,phone,East,102.0,1162,No,N,,Linux,morning,Yes,,188.04,0.0
+TKT-0622,06-20-2024,17:55,2024/06/21,David Brown,Operations,Software Installation,Critical,Resolve,Walk In,Central,106.0,3402,yes,Yes,,linux,Morning,yes,1.0,117.19,10.0
+TKT-0079,02/02/2024,18:06,02-04-2024,,Finance,Data Recovery,CRITICAL,escalated,phone,South,49.0,1508,yes,No,99.0,WINDOWS 11,AFTERNOON,yes,0.0,86.56,3.0
+TKT-0030,11-22-2024,08:29:16,22-Nov-2024,Carol White,Sales,Email problem,medium,closed,Self-Service Portal,North,121.0,1188,NO,Y,3.0,WINDOWS 11,Night Shift,,0.0,150.31,99.0
+TKT-0451,26/10/2024,03:56 AM,28/10/2024,Irene  Taylor,Legal,Hardware Failure,Low,OPEN,phone,South,112.0,3137,YES,Yes,0.0,MacOS,Night Shift,no,2.0,46.07,2.0
+TKT-0290,15/11/2024,09:22 AM,11-15-2024,Carol White,Marketing,Password Reset,Low,Resolve,Chat,West,71.0,2054,,yes,5.0,windows 10,Afternoon,no,-1.0,85.72,-2.0
+TKT-0050,2024/08/12,01:08:04,08-13-2024,Bob Smith,Admin,Email Problem,CRITICAL,resolved,phone,South,167.0,1510,yes,no,-1.0,MacOS,Morning,,2.0,199.73,4.0
+TKT-0671,03-11-2024,13:35:36,2024-03-11,Grace Wilson ,Operations,network issue,HIGH,Open,Phone,West,73.0,2828,no,No,4.0,Windows 10,AFTERNOON,,0.0,88.33,5.0
+TKT-0799,16-Dec-2024,09:11 AM,,David Brown,Sales,Hardware failure,Hign,OPEN,Walk-in,Central,97.0,770,yes,Y,10.0,WINDOWS 11,Night,No,-1.0,184.5,4.0
+TKT-0803,2024/12/23,01:07:48,2024-12-24,david brown ,Sales,vpn access,medium,Escalated,Chat,,166.0,3382,Yes,no,2.0,Windows 11,morning,,0.0,136.15,10.0
+TKT-0166,22/06/2024,21:30,06-24-2024,EMILY DAVIS,Legal,password reset,CRITICAL,OPEN,Phone,,,2654,No,no,3.0,linux,Night,,0.0,80.97,10.0
+TKT-0931,23/12/2024,06:13 PM,2024-12-25,Emily Davis,Admin,Data Recovery,Hign,Closed,Self-Service Portal,North,65.0,2123,YES,,2.0,MacOS,AFTERNOON,no,3.0,106.1,99.0
+TKT-0179,2024-12-02,06:38,02-Dec-2024,,Legal,VPN Access,Medium,In Progress,Self-Service Portal,East,32.0,363,,Y,3.0,Windows 10 ,morning,Yes,2.0,56.61,8.0
+,30-Dec-2024,08:18 AM,2024/12/30,Grace Wilson,Legal,Hardware Failure,CRITICAL,Open,Self-Service Portal,North,138.0,2790,NO,,3.0,WINDOWS 11,Night Shift,yes,1.0,31.88,7.0
+TKT-0066,05-May-2024,11:02:25 PM,,Emily Davis,Marketing,Account Locked,Critical,closed,phone,,61.0,2220,No,,1.0,windows 10,Afternoon,no,3.0,84.61,5.0
+TKT-0142,04-17-2024,05:25,17-Apr-2024,Carol  White,,Hardware Failure,Medium,Closed,self-service portal,East,18.0,1948,YES,Yes,10.0,macOS,Morning,,-1.0,189.95,9.0
+TKT-0986,2024/10/12,05:35:01 AM,,Henry Moore,IT,VPN Access,Hign,In progress,Chat,North,13.0,1032,,yes,,Windows 10,Night,no,3.0,138.38,99.0
+TKT-0352,11/03/2024,04:51:28 PM,13-Mar-2024,David Brown,Sales,System Crash,Hign,OPEN,EMAIL,,172.0,1942,yes,yes,0.0,WINDOWS 11,Night Shift,Yes,,39.71,99.0
+TKT-0862,06-03-2024,04:23:21 AM,03/06/2024,Grace Wilson ,IT,Email problem,Hign,OPEN,Phone,Central,124.0,2292,,no,0.0,macOS,Morning,no,-1.0,177.68,8.0
+TKT-0441,2024-10-04,05:20:13 PM,06-Oct-2024,Henry Moore,HR,Printer Issue,Mediun,Resolve,phone,North,150.0,2140,No,Yes,5.0,macOS,Night Shift,No,2.0,93.68,9.0
+TKT-0347,2024-07-27,17:17:30,28/07/2024,,Admin,Hardware failure,medium,escalated,Email,Central,138.0,2085,No,no,1.0,MacOS,Afternoon,No,0.0,125.22,8.0
+TKT-0255,2024-01-15,12:21:52 AM,2024-01-16,Frank Miller,Legal,VPN Access,High,OPEN,Walk In,South,176.0,2750,Yes,No,2.0,Windows 11,Night,no,1.0,,99.0
+TKT-0695,2024-02-07,11:34:19 PM,2024-02-07,EMILY DAVIS,,Password Reset,Critical,OPEN,Walk In,Central,-5.0,1541,no,,0.0,WINDOWS 11,Morning,Yes,0.0,119.4,10.0
+TKT-0345,2024-06-19,11:49:49 AM,2024-06-21,BOB SMITH,IT,Printer Issue,Low,escalated,EMAIL,East,18.0,2692,Yes,Y,4.0,Linux,Night,yes,0.0,155.62,4.0
+TKT-0222,01-09-2024,10:12:54 PM,,,HR,Printer Issue,Medium,Closed,chat,North,-5.0,1980,NO,No,4.0,macOS,morning,no,,148.73,10.0
+TKT-0236,11/10/2024,14:02,13/10/2024,Bob Smith,,vpn access,HIGH,closed,Self-Service Portal,East,160.0,1194,NO,No,1.0,WINDOWS 11,Night,yes,2.0,143.01,5.0
+TKT-0548,06-Jul-2024,08:58 AM,07-06-2024,frank miller,Legal,Software Installation,medium,OPEN,Walk In,East,-5.0,1429,NO,yes,,macOS,Morning,Yes,-1.0,166.32,5.0
+TKT-0500,02-Nov-2024,10:44:16 PM,04/11/2024,alice johnson,,Hardware Failure,Medium,Closed,phone,,76.0,2665,No,yes,-1.0,MacOS,Night Shift,No,0.0,93.14,7.0
+TKT-0596,2024/06/14,13:13:02,2024/06/14,Carol  White,Marketing,System Crash,low,Escalated,chat,North,153.0,1311,yes,,-1.0,macOS,Night Shift,No,1.0,48.49,9.0
+TKT-0941,2024-08-14,03:19 AM,08-15-2024,BOB SMITH,Admin,VPN Access,medium,In Progress,phone,East,75.0,314,YES,No,-1.0,macOS,Morning,yes,3.0,161.75,1.0
+TKT-0250,20/10/2024,12:24,2024-10-22,David Brown,Admin,password reset,Mediun,In progress,Self-Service Portal,North,18.0,2199,no,No,,Windows 11,Afternoon,yes,0.0,172.64,7.0
+TKT-0923,11-Oct-2024,12:33:28 AM,11/10/2024,,Sales,vpn access,Medium,resolved,Chat,West,32.0,1940,Yes,N,0.0,Windows 10,morning,Yes,0.0,18.14,1.0
+TKT-0382,21/10/2024,11:57,,Frank Miller,Admin,Network Issue,High,escalated,self-service portal,North,50.0,3176,No,No,5.0,Windows 10,Afternoon,no,0.0,150.07,0.0
+TKT-0072,15-Oct-2024,09:02 PM,10-16-2024,Carol White,Legal,Account Locked,Low,closed,Walk-in,East,6.0,858,YES,No,,WINDOWS 11,Night Shift,Yes,2.0,92.86,4.0
+TKT-0095,10-Nov-2024,19:39,2024/11/11,Carol White,Marketing,Data Recovery,low,In Progress,EMAIL,West,129.0,1697,YES,no,1.0,Linux,Night Shift,yes,0.0,,10.0
+TKT-0034,2024-11-24,08:38 PM,,Grace Wilson,Operations,Hardware Failure,Hign,Escalated,self-service portal,Central,,1007,No,,-1.0,Linux,Afternoon,yes,0.0,15.22,0.0
+TKT-0260,03/09/2024,02:21:08 AM,09-05-2024,Grace Wilson ,,SOFTWARE INSTALLATION,CRITICAL,OPEN,EMAIL,,52.0,643,No,,1.0,WINDOWS 11,Night Shift,no,3.0,131.93,7.0
+TKT-0205,2024-10-29,12:39,30/10/2024,,HR,Email Problem,medium,resolved,self-service portal,Central,74.0,1322,Yes,Yes,-1.0,Windows 10,Night Shift,yes,0.0,173.36,10.0
+TKT-0360,08-29-2024,21:24:53,31-Aug-2024,,Finance,Email Problem,low,resolved,Self-Service Portal,,64.0,3135,Yes,no,3.0,WINDOWS 11,AFTERNOON,No,0.0,13.63,5.0
+TKT-0602,2024-02-25,12:04:12 AM,25-Feb-2024,Henry Moore,Admin,Email Problem,Medium,Resolve,Walk In,West,171.0,2081,,,4.0,linux,Night Shift,Yes,0.0,127.68,6.0
+TKT-0399,30-Dec-2024,11:37 AM,30/12/2024,Grace Wilson,Finance,System Crash,Mediun,In Progress,Chat,East,159.0,270,YES,no,3.0,Windows 10,Night Shift,yes,0.0,176.42,8.0
+TKT-0078,19/08/2024,10:04:19 AM,19-Aug-2024,Frank Miller,HR,System Crash,Hign,In Progress,Walk In,,31.0,102,,yes,2.0,macOS,Night,No,1.0,142.23,-2.0
+,01/01/2024,06:30 AM,,Alice Johnson,HR,Password Reset,medium,Open,EMAIL,Central,153.0,936,YES,N,99.0,macOS,morning,No,-1.0,46.55,0.0
+TKT-0320,30-Dec-2024,11:29:22 AM,2025-01-01,henry moore,HR,Password Reset,low,Open,Chat,East,121.0,1732,no,,1.0,Windows 10 ,Afternoon,Yes,3.0,165.28,10.0
+TKT-0083,2024/07/20,03:09:36 PM,21-Jul-2024,,Operations,Hardware failure,Hign,Closed,phone,West,162.0,1706,no,no,2.0,MacOS,morning,yes,3.0,70.86,10.0
+TKT-0948,2024/09/09,03:47 AM,10/09/2024,Irene  Taylor,Operations,vpn access,Medium,Closed,Phone,West,135.0,3363,Yes,,1.0,linux,morning,yes,0.0,101.11,3.0
+TKT-0708,09-26-2024,08:34:41 PM,,Carol White,Marketing,Hardware failure,Hign,Resolved,EMAIL,Central,16.0,1360,NO,Y,5.0,Windows 11,Night Shift,no,-1.0,115.64,-2.0
+TKT-0539,10-11-2024,05:24 PM,11/10/2024,henry moore,Sales,Software Installation,Medium,closed,EMAIL,North,20.0,1954,yes,N,1.0,Linux,Morning,Yes,0.0,144.46,7.0
+TKT-0544,12-Dec-2024,03:02,2024-12-13,Frank Miller,Finance,Password Reset,medium,Closed,phone,,,1882,,,,WINDOWS 11,morning,No,2.0,,8.0
+TKT-0826,03-29-2024,09:58,2024-03-29,Henry Moore,Finance,Software Installation,Mediun,Open,Chat,East,178.0,2501,,Y,99.0,Windows 11,AFTERNOON,No,0.0,162.65,5.0
+TKT-0429,04-30-2024,14:55,02/05/2024,,Sales,Hardware Failure,Low,Escalated,Email,North,71.0,1116,Yes,,-1.0,WINDOWS 11,Night Shift,yes,1.0,92.36,1.0
+TKT-0310,2024-02-18,01:46 PM,02-19-2024,henry moore,Legal,password reset,CRITICAL,closed,Phone,South,83.0,3097,yes,no,2.0,WINDOWS 11,Night,No,0.0,180.94,6.0
+TKT-0006,25/04/2024,02:21:01,27-Apr-2024,Bob Smith,Marketing,System Crash,Medium,Resolved,phone,West,60.0,2420,No,Yes,2.0,Windows 11,AFTERNOON,no,-1.0,15.56,
+,2024/03/26,13:16,26-Mar-2024,Irene Taylor,Admin,Network Issue,Hign,Resolve,chat,North,46.0,3095,,Yes,,WINDOWS 11,Afternoon,yes,3.0,,6.0
+,27-Jul-2024,11:31:48 PM,2024-07-29,Carol White,HR,Account Locked,Hign,OPEN,Chat,South,97.0,3372,Yes,Y,3.0,linux,AFTERNOON,yes,-1.0,39.63,99.0
+TKT-0098,2024/08/11,20:31,2024/08/12,BOB SMITH,Operations,System Crash,Mediun,In Progress,EMAIL,,46.0,2906,YES,N,10.0,Windows 10 ,Night Shift,,0.0,32.43,0.0
+TKT-0297,05-31-2024,05:04,01-Jun-2024,Irene Taylor,,vpn access,HIGH,In progress,Chat,West,92.0,375,Yes,No,99.0,Windows 11,AFTERNOON,yes,0.0,130.55,0.0
+TKT-0409,23/03/2024,11:47 AM,25/03/2024,henry moore,Operations,System Crash,low,In Progress,phone,,78.0,599,Yes,no,,Linux,morning,,3.0,111.9,-2.0
+TKT-0446,2024/01/25,07:05 AM,25-Jan-2024,Irene Taylor,Legal,Hardware Failure,Hign,Closed,chat,South,25.0,2530,NO,Y,1.0,macOS,Night,No,0.0,43.1,0.0
+TKT-0904,2024-03-19,11:41:33 PM,20-Mar-2024,Emily Davis,Legal,Data Recovery,Critical,In progress,phone,Central,2.0,2899,No,N,5.0,Linux,AFTERNOON,no,2.0,,4.0
+TKT-0282,27/01/2024,12:26,2024/01/28,frank miller,Finance,Software Installation,Hign,OPEN,Phone,West,164.0,957,No,,,Windows 10 ,Morning,No,2.0,75.9,5.0
+TKT-0267,2024/04/06,11:07:36 PM,04-07-2024,Alice Johnson,Operations,Account Locked,High,closed,Walk In,West,34.0,3505,yes,no,-1.0,Linux,morning,no,0.0,33.44,
+TKT-0740,2024-12-17,08:34:50,,,Sales,Hardware Failure,High,Open,EMAIL,,74.0,196,,,0.0,MacOS,AFTERNOON,No,0.0,114.56,7.0
+TKT-0887,10-27-2024,09:00:19 PM,28/10/2024,Alice Johnson,Admin,Data Recovery,High,OPEN,chat,East,,167,YES,yes,,Windows 11,Night,no,2.0,93.72,5.0
+TKT-0535,26-Jul-2024,12:50:08 PM,26-Jul-2024,,Admin,Hardware failure,medium,closed,self-service portal,East,109.0,1388,NO,yes,1.0,windows 10,Afternoon,no,0.0,124.59,7.0
+TKT-0433,05-31-2024,03:13:11,31-May-2024,BOB SMITH,Legal,Hardware failure,High,closed,Self-Service Portal,Central,19.0,1048,no,Yes,,windows 10,morning,Yes,,125.95,6.0
+TKT-0912,2024/05/12,07:21,14/05/2024,Bob Smith,Sales,Email problem,Mediun,closed,EMAIL,,55.0,2513,YES,yes,-1.0,windows 10,AFTERNOON,Yes,-1.0,140.22,1.0
+TKT-0657,2024/01/03,17:14:36,03/01/2024,Frank Miller,Marketing,SOFTWARE INSTALLATION,Mediun,closed,Walk In,,103.0,3107,yes,yes,1.0,windows 10,Morning,Yes,2.0,114.83,7.0
+TKT-0119,19-Sep-2024,09:53,21-Sep-2024,Grace Wilson,HR,Printer Issue,Mediun,Closed,phone,Central,82.0,2925,NO,Y,4.0,macOS,Night Shift,Yes,0.0,15.35,1.0
+TKT-0406,10-11-2024,15:12:08,13/10/2024,Henry Moore,Marketing,Software Installation,low,In Progress,Email,East,11.0,1930,no,Yes,2.0,Windows 11,Afternoon,No,3.0,180.8,1.0
+TKT-0251,19-Jul-2024,05:07 AM,2024/07/21,Grace Wilson,Admin,Email Problem,Critical,Closed,EMAIL,West,-5.0,1968,NO,Yes,,MacOS,Afternoon,no,0.0,61.14,8.0
+TKT-0378,2024/07/14,10:35:35 AM,,David Brown,HR,Hardware Failure,Critical,In Progress,phone,,57.0,2539,YES,no,5.0,MacOS,Night Shift,yes,2.0,90.43,5.0
+TKT-0616,2024-09-21,09:39 AM,2024/09/23,BOB SMITH,Operations,vpn access,medium,Resolve,self-service portal,,151.0,1528,no,,0.0,windows 10,AFTERNOON,,-1.0,95.11,6.0
+TKT-0010,09-27-2024,00:42:52,,David Brown,IT,Network Issue,Hign,In Progress,Self-Service Portal,,78.0,2727,Yes,No,5.0,Windows 10 ,AFTERNOON,yes,0.0,112.58,7.0
+TKT-0358,31/08/2024,10:21:41,08-31-2024,henry moore,Legal,VPN Access,High,In progress,self-service portal,Central,49.0,1476,yes,No,99.0,MacOS,AFTERNOON,Yes,0.0,184.86,10.0
+TKT-0197,05-05-2024,12:07 AM,,Irene  Taylor,Marketing,vpn access,Mediun,OPEN,Self-Service Portal,West,,283,YES,N,,MacOS,Night Shift,yes,0.0,108.27,2.0
+TKT-0632,16/10/2024,03:36,10-18-2024,Carol White,,network issue,HIGH,Resolved,Phone,East,76.0,2548,,Y,3.0,WINDOWS 11,AFTERNOON,,,189.19,1.0
+TKT-0082,29-Dec-2024,19:40:27,29/12/2024,Bob Smith,IT,SOFTWARE INSTALLATION,Hign,Closed,self-service portal,South,159.0,580,,No,4.0,linux,Afternoon,No,3.0,153.49,
+TKT-0527,18-Sep-2024,15:43:52,2024/09/19,Grace Wilson ,Operations,Email Problem,CRITICAL,OPEN,self-service portal,South,44.0,2467,NO,no,0.0,MacOS,Night Shift,no,2.0,162.65,9.0
+TKT-0831,14-Apr-2024,01:06:57,16/04/2024,Emily Davis,IT,System Crash,Hign,escalated,chat,Central,86.0,2578,,yes,,linux,AFTERNOON,Yes,0.0,160.88,99.0
+TKT-0906,30-Nov-2024,19:51,12-02-2024,David Brown,HR,password reset,Low,resolved,phone,,27.0,3003,NO,,4.0,macOS,Night Shift,yes,-1.0,39.0,6.0
+TKT-0240,02-11-2024,06:51 PM,2024/02/12,,Admin,password reset,HIGH,Open,Email,North,178.0,1745,Yes,No,4.0,Windows 10,morning,no,0.0,,1.0
+TKT-0324,2024-10-15,10:29:45,,Carol  White,IT,Hardware Failure,CRITICAL,OPEN,chat,South,73.0,3225,,N,5.0,macOS,AFTERNOON,Yes,0.0,137.47,6.0
+TKT-0212,10-07-2024,11:20:29 PM,07/10/2024,Emily Davis,Sales,Password Reset,low,Escalated,Self-Service Portal,South,15.0,2637,NO,No,99.0,windows 10,AFTERNOON,,3.0,43.74,7.0
+TKT-0847,12-21-2024,08:33:01,2024/12/22,Henry Moore,,SOFTWARE INSTALLATION,low,resolved,Walk In,West,172.0,55,NO,Yes,99.0,macOS,morning,no,0.0,,3.0
+TKT-0549,08-28-2024,05:32:10,2024-08-30,Alice Johnson,Marketing,Software Installation,Medium,In progress,Walk In,Central,158.0,1353,NO,,5.0,linux,Afternoon,Yes,0.0,77.5,1.0
+TKT-0498,12/01/2024,15:50,14/01/2024,EMILY DAVIS,Finance,vpn access,High,OPEN,chat,West,,1765,no,N,2.0,Linux,morning,yes,0.0,110.12,8.0
+TKT-0228,09-27-2024,19:58,29/09/2024,JAMES ANDERSON,HR,Email problem,medium,Resolve,EMAIL,North,116.0,2647,No,Y,-1.0,Linux,Night,,2.0,155.96,0.0
+TKT-0892,10/11/2024,03:41 PM,12-Nov-2024,James Anderson,,network issue,Low,Closed,Walk In,West,62.0,435,no,No,-1.0,MacOS,Night Shift,Yes,2.0,198.25,4.0
+TKT-0815,2024/06/02,01:54:08,03/06/2024,henry moore,Marketing,password reset,CRITICAL,OPEN,Chat,Central,16.0,3541,NO,,4.0,WINDOWS 11,Night,yes,1.0,,99.0
+TKT-0829,19-Nov-2024,08:31 AM,19/11/2024,Emily Davis,,SOFTWARE INSTALLATION,CRITICAL,In Progress,Chat,West,,55,yes,Y,4.0,linux,Night Shift,Yes,0.0,22.23,6.0
+TKT-0178,22-Nov-2024,11:54,11-23-2024,Irene Taylor,Sales,Hardware failure,CRITICAL,Resolve,Walk-in,South,-5.0,1117,yes,,2.0,Linux,AFTERNOON,Yes,0.0,16.09,10.0
+TKT-0975,2024/07/10,01:56,,Henry Moore,Finance,network issue,Hign,In progress,Email,Central,32.0,2367,Yes,N,-1.0,linux,morning,no,0.0,120.24,4.0
+TKT-0434,2024-12-16,03:01 PM,2024-12-16,henry moore,,Hardware Failure,Medium,Escalated,Email,West,,3119,Yes,no,5.0,MacOS,morning,Yes,0.0,140.94,7.0
+TKT-0944,11-03-2024,21:39:27,2024/11/03,Frank Miller,HR,vpn access,Critical,Closed,Chat,Central,120.0,1761,YES,no,2.0,Windows 11,Morning,,0.0,137.1,5.0
+,2024-10-12,09:25 PM,2024/10/14,alice johnson,Marketing,Email Problem,Low,closed,Self-Service Portal,South,37.0,1390,,Yes,-1.0,WINDOWS 11,Afternoon,,-1.0,156.39,4.0
+TKT-0351,03/12/2024,06:04 AM,2024/12/03,Irene Taylor,IT,Network Issue,Low,escalated,self-service portal,South,28.0,3002,No,yes,10.0,WINDOWS 11,Night,No,-1.0,68.05,1.0
+,04-26-2024,04:08:55,2024/04/27,,Marketing,VPN Access,High,Escalated,Self-Service Portal,East,137.0,2672,Yes,yes,,Windows 10,Afternoon,yes,,189.43,5.0
+TKT-0008,2024-08-20,09:27 AM,2024/08/22,,Operations,Printer Issue,High,closed,Walk In,Central,171.0,2952,no,,4.0,Windows 10,Night Shift,,0.0,86.75,10.0
+TKT-0156,2024-05-18,01:29:41,2024/05/18,David Brown,Sales,Password Reset,HIGH,Resolve,EMAIL,East,19.0,1601,NO,yes,,Linux,morning,no,,8.58,
+TKT-0945,03-Jul-2024,05:12:07,2024-07-03,Grace Wilson ,Admin,Email Problem,Medium,Resolve,Walk-in,North,175.0,2368,,Y,1.0,Linux,Night,Yes,1.0,180.87,2.0
+TKT-0202,07-Aug-2024,06:54:04,09-Aug-2024,David Brown,Admin,Hardware failure,CRITICAL,escalated,Email,East,175.0,1515,No,Yes,99.0,Windows 11,Afternoon,,2.0,161.19,7.0
+TKT-0330,09/06/2024,11:38,2024/06/10,David Brown,,Hardware Failure,Medium,Closed,Walk In,North,76.0,541,YES,no,99.0,Linux,morning,Yes,3.0,142.57,10.0
+TKT-0543,2024-09-17,08:38:42 PM,2024/09/19,Alice Johnson,IT,Hardware Failure,HIGH,Escalated,phone,South,175.0,1979,NO,no,2.0,WINDOWS 11,Morning,yes,2.0,196.58,6.0
+TKT-0440,28-Oct-2024,22:35,28-Oct-2024,alice johnson,Operations,Hardware Failure,HIGH,Resolve,Self-Service Portal,Central,122.0,1390,Yes,N,99.0,Windows 10 ,Night,No,2.0,138.77,0.0
+TKT-0810,16/11/2024,17:50,11-17-2024,Henry Moore,Finance,Account Locked,Low,Closed,Chat,,157.0,2782,Yes,,-1.0,Windows 10 ,Morning,,,124.4,0.0
+TKT-0901,11/12/2024,06:25:59,2024/12/13,Emily Davis,IT,SOFTWARE INSTALLATION,low,Resolve,chat,Central,5.0,904,NO,Y,,WINDOWS 11,Morning,No,2.0,113.93,9.0
+TKT-0371,05-15-2024,03:21 AM,05-15-2024,Irene Taylor,Admin,password reset,HIGH,In progress,phone,,119.0,2914,no,,,MacOS,Night Shift,no,2.0,162.01,3.0
+TKT-0605,12-Aug-2024,06:39 PM,14-Aug-2024,EMILY DAVIS,,Account Locked,CRITICAL,Closed,Walk In,,7.0,2313,Yes,Y,-1.0,windows 10,Night Shift,yes,1.0,118.4,-2.0
+,12-04-2024,12:00:06,2024-12-05,Alice Johnson,Sales,VPN Access,Mediun,resolved,chat,Central,,1295,yes,N,1.0,Linux,AFTERNOON,,0.0,83.23,-2.0
+TKT-0594,16/12/2024,08:37:56,2024/12/18,henry moore,Legal,Printer Issue,Critical,Closed,Self-Service Portal,Central,51.0,99999,NO,N,1.0,Windows 10 ,morning,yes,0.0,175.62,4.0
+TKT-0877,20-Apr-2024,22:27:01,22/04/2024,David Brown,,Software Installation,Medium,Closed,EMAIL,Central,12.0,3062,,Y,1.0,Windows 11,Morning,Yes,,97.26,9.0
+,2024/06/21,06:55,21/06/2024,Irene Taylor,Finance,Email problem,Mediun,resolved,Phone,North,90.0,3278,NO,N,,MacOS,Night,Yes,,137.12,4.0
+,05/11/2024,06:30 AM,2024/11/05,Bob Smith,Operations,Printer Issue,Medium,Escalated,self-service portal,West,103.0,916,No,,,macOS,AFTERNOON,,-1.0,,1.0
+TKT-0874,2024/10/02,11:12,2024-10-04,Bob Smith,Sales,password reset,Medium,OPEN,Phone,South,42.0,235,,No,,macOS,Afternoon,No,2.0,81.69,2.0
+TKT-0533,2024/08/04,21:46,08-05-2024,,,Printer Issue,low,resolved,Walk-in,Central,-5.0,2212,,,0.0,WINDOWS 11,Night Shift,yes,0.0,,7.0
+TKT-0867,2024/06/24,05:40:58 PM,2024/06/25,Grace Wilson,Legal,Email problem,Medium,Closed,self-service portal,South,84.0,3330,Yes,Yes,,macOS,Morning,no,0.0,20.55,9.0
+TKT-0229,08-04-2024,16:07,2024/08/04,David Brown,IT,Software Installation,Medium,In progress,Self-Service Portal,,97.0,1073,NO,Y,,Windows 10,morning,no,1.0,105.71,4.0
+TKT-0391,06-16-2024,00:40:07,18-Jun-2024,frank miller,IT,System Crash,CRITICAL,Closed,Email,,81.0,2157,Yes,,-1.0,linux,Night Shift,no,2.0,25.09,0.0
+TKT-0760,22/04/2024,07:31,,JAMES ANDERSON,Legal,vpn access,low,Closed,Walk In,Central,174.0,1616,yes,,,MacOS,AFTERNOON,No,,109.1,6.0
+TKT-0213,2024/07/07,05:25:56 AM,09-Jul-2024,,Admin,System Crash,Medium,In progress,Walk-in,North,148.0,929,Yes,Yes,10.0,Windows 10 ,Night Shift,No,1.0,173.08,-2.0
+TKT-0080,21-Oct-2024,12:27:11 PM,23-Oct-2024,henry moore,Admin,VPN Access,CRITICAL,Closed,Chat,South,164.0,2211,NO,N,3.0,macOS,Night,Yes,0.0,48.0,1.0
+TKT-0149,2024-02-19,04:42:04 PM,2024-02-19,David Brown,Marketing,vpn access,Critical,Open,Phone,Central,-5.0,741,,Yes,4.0,WINDOWS 11,Night Shift,no,3.0,16.37,10.0
+TKT-0303,2024/08/25,01:58:52 PM,27-Aug-2024,James Anderson,Operations,Data Recovery,HIGH,Closed,EMAIL,Central,3.0,1544,,No,,Linux,Morning,no,0.0,117.68,3.0
+TKT-0449,14/07/2024,12:19:23 PM,2024-07-14,Grace Wilson,Operations,network issue,Low,In progress,self-service portal,South,82.0,2005,No,,1.0,macOS,Night Shift,Yes,2.0,73.36,7.0
+TKT-0362,12-May-2024,23:40:07,2024-05-14,,Finance,SOFTWARE INSTALLATION,Medium,In Progress,EMAIL,West,130.0,1537,,no,,linux,morning,no,3.0,,10.0
+TKT-0532,06/10/2024,13:39:42,08-Oct-2024,,Marketing,Email problem,HIGH,escalated,EMAIL,South,160.0,3306,No,N,-1.0,Windows 10 ,Night Shift,no,0.0,18.72,2.0
+,05-07-2024,11:42,05-07-2024,Grace Wilson,Finance,vpn access,low,Resolved,phone,Central,-5.0,2937,no,Yes,4.0,macOS,Afternoon,Yes,,11.16,4.0
+TKT-0044,02-21-2024,04:49:34 PM,23/02/2024,Emily Davis,Marketing,Hardware failure,Low,In Progress,Chat,,11.0,2721,yes,,-1.0,macOS,Night Shift,,-1.0,59.95,7.0
+TKT-0674,2024/08/13,21:13:01,15/08/2024,Emily Davis,Legal,VPN Access,Low,OPEN,EMAIL,South,122.0,2880,,Yes,0.0,MacOS,AFTERNOON,yes,0.0,140.25,99.0
+TKT-0134,2024/04/27,14:50,2024/04/27,henry moore,HR,Software Installation,Low,OPEN,Phone,South,27.0,888,YES,no,,Windows 11,Afternoon,no,-1.0,,99.0
+TKT-0576,2024/11/18,13:59,19/11/2024,frank miller,Marketing,Printer Issue,medium,In progress,Self-Service Portal,Central,138.0,3530,yes,,,macOS,Afternoon,,0.0,134.68,
+TKT-0312,02-17-2024,08:49:18 AM,2024/02/17,Grace Wilson,Finance,Hardware Failure,Medium,In progress,Phone,South,92.0,2297,,,4.0,Linux,Morning,No,3.0,93.22,10.0
+TKT-0635,08-05-2024,15:16,2024/08/06,Grace Wilson ,Sales,Data Recovery,Critical,Escalated,EMAIL,South,12.0,217,Yes,Y,-1.0,Windows 11,Morning,Yes,1.0,161.96,
+TKT-0568,04-13-2024,01:51,04-14-2024,Grace Wilson ,Operations,vpn access,low,Resolved,phone,West,21.0,332,NO,,,Windows 10 ,Night,yes,-1.0,57.82,7.0
+TKT-0821,18-Dec-2024,07:32:36 PM,20-Dec-2024,alice johnson,,Printer Issue,CRITICAL,Closed,EMAIL,South,82.0,339,Yes,Y,10.0,WINDOWS 11,Morning,,0.0,143.84,6.0
+TKT-0001,2024-11-23,03:01 AM,11-24-2024,henry moore,Sales,Hardware Failure,Mediun,OPEN,Phone,South,64.0,924,No,N,,Windows 10,Morning,No,3.0,79.09,6.0
+TKT-0478,2024-11-05,00:46,2024-11-06,James Anderson,,Account Locked,HIGH,In Progress,Email,West,82.0,1562,NO,,0.0,linux,Afternoon,no,0.0,,1.0
+TKT-0317,01-16-2024,07:36:47,18-Jan-2024,Carol  White,Marketing,Network Issue,HIGH,Resolve,Walk In,East,94.0,855,NO,Yes,4.0,MacOS,AFTERNOON,Yes,0.0,138.68,8.0
+TKT-0738,22-Jul-2024,06:37,2024-07-23,Emily Davis,Finance,VPN Access,low,Closed,phone,South,115.0,1635,No,yes,10.0,WINDOWS 11,Afternoon,no,,115.6,2.0
+,2024-01-19,12:58:09 AM,2024-01-21,James Anderson,Operations,VPN Access,medium,In progress,Walk-in,North,176.0,739,NO,No,2.0,Windows 11,morning,No,,73.46,3.0
+TKT-0381,07/04/2024,02:49,04-09-2024,alice johnson,Operations,Hardware Failure,Low,Resolve,self-service portal,Central,-5.0,1917,,N,10.0,windows 10,morning,yes,-1.0,44.06,99.0
+TKT-0833,06/03/2024,05:15 PM,2024/03/07,Bob Smith,IT,password reset,Critical,In Progress,EMAIL,South,25.0,3022,no,no,4.0,MacOS,Morning,,0.0,180.71,-2.0
+TKT-0973,2024-10-25,03:42,25/10/2024,alice johnson,Operations,Software Installation,Critical,closed,EMAIL,South,111.0,342,,No,2.0,windows 10,Night,yes,0.0,86.12,0.0
+TKT-0962,28-Mar-2024,11:28:14,,EMILY DAVIS,Marketing,Data Recovery,High,OPEN,Walk-in,South,4.0,2515,NO,,1.0,windows 10,Morning,no,,45.73,3.0
+TKT-0173,08/07/2024,05:03 PM,,Henry Moore,HR,network issue,Mediun,OPEN,phone,South,93.0,459,,yes,1.0,WINDOWS 11,morning,no,,31.48,3.0
+TKT-0126,10-08-2024,02:41:35 PM,10-08-2024,,Operations,vpn access,medium,resolved,Chat,South,76.0,2761,Yes,yes,2.0,Linux,Morning,no,2.0,31.19,0.0
+TKT-0667,2024/01/10,10:14 PM,2024-01-10,Henry Moore,Marketing,System Crash,medium,Escalated,Walk In,West,14.0,3030,,Yes,10.0,macOS,Afternoon,yes,,138.59,7.0
+TKT-0151,08-14-2024,11:57:20,16/08/2024,alice johnson,Operations,System Crash,Mediun,escalated,Walk-in,East,85.0,3470,yes,no,,WINDOWS 11,AFTERNOON,Yes,2.0,104.7,10.0
+,2024-06-14,11:43:50 AM,06-15-2024,frank miller,Operations,Data Recovery,Hign,In progress,Self-Service Portal,East,155.0,2584,No,Y,-1.0,Windows 11,Night Shift,,,67.07,-2.0
+TKT-0940,2024/06/15,12:29,2024-06-15,Grace Wilson ,Marketing,Email problem,Medium,resolved,EMAIL,East,164.0,2696,no,no,3.0,windows 10,AFTERNOON,No,,143.46,2.0
+TKT-0091,29/10/2024,03:49:49 PM,2024-10-30,Alice Johnson,IT,network issue,High,Escalated,Walk In,,,3124,,No,3.0,windows 10,Night Shift,yes,0.0,,4.0
+TKT-0979,2024-07-27,01:56:34 AM,27-Jul-2024,Bob Smith,Sales,System Crash,HIGH,OPEN,self-service portal,East,179.0,2513,no,Yes,,windows 10,Night,no,,47.99,10.0
+TKT-0182,2024/11/19,02:47:12 PM,2024/11/19,Henry Moore,IT,vpn access,low,Open,Walk In,,11.0,800,,,-1.0,Windows 10 ,morning,,1.0,12.19,3.0
+TKT-0364,2024/09/25,18:29,2024/09/25,David Brown,,Hardware failure,Hign,Open,phone,Central,85.0,1536,Yes,,-1.0,Windows 10 ,morning,No,0.0,97.22,-2.0
+TKT-0275,04-Mar-2024,05:33:46 AM,03-05-2024,,HR,SOFTWARE INSTALLATION,Mediun,Closed,Walk In,,152.0,3374,,no,2.0,Windows 10 ,AFTERNOON,,0.0,32.82,10.0
+TKT-0965,2024/11/17,12:18:23 PM,11-18-2024,David Brown,Operations,SOFTWARE INSTALLATION,CRITICAL,Resolve,Walk In,East,80.0,1248,NO,,3.0,Linux,morning,No,1.0,116.57,4.0
+,2024-03-18,00:13:32,20/03/2024,frank miller,Operations,vpn access,High,Resolved,Walk In,Central,97.0,257,,N,-1.0,linux,morning,,2.0,57.13,7.0
+TKT-0292,2024-03-12,09:29 AM,,Bob Smith,Legal,Email Problem,Medium,In Progress,EMAIL,South,109.0,1003,,,4.0,Windows 10,Night Shift,No,-1.0,150.88,0.0
+TKT-0132,2024-03-07,19:34,2024/03/07,BOB SMITH,Legal,Software Installation,Hign,OPEN,Walk-in,East,175.0,2669,no,Y,,MacOS,morning,No,0.0,158.94,10.0
+TKT-0301,05-Mar-2024,08:28:40 PM,03-05-2024,henry moore,Marketing,VPN Access,Mediun,OPEN,Walk-in,Central,,905,NO,,,windows 10,Afternoon,no,3.0,39.28,7.0
+TKT-0606,2024-09-30,03:24 AM,10-02-2024,JAMES ANDERSON,Marketing,VPN Access,Hign,OPEN,Phone,Central,9.0,1096,yes,,,windows 10,Afternoon,Yes,1.0,,9.0
+TKT-0327,2024-06-01,03:07:31 AM,06-02-2024,,HR,Account Locked,HIGH,OPEN,phone,North,15.0,2473,YES,yes,1.0,Windows 11,Afternoon,yes,,70.24,-2.0
+TKT-0145,29/04/2024,02:09:00 AM,01-May-2024,BOB SMITH,Operations,Email problem,High,resolved,Email,,57.0,99999,no,yes,99.0,macOS,Morning,Yes,1.0,155.34,9.0
+TKT-0899,01-13-2024,07:45:33 PM,13-Jan-2024,alice johnson,IT,password reset,medium,closed,Phone,North,84.0,2311,,no,10.0,WINDOWS 11,Night Shift,no,0.0,193.49,7.0
+TKT-0635,08-05-2024,15:16,2024/08/06,Grace Wilson ,Sales,Data Recovery,Critical,Escalated,EMAIL,South,12.0,217,Yes,Y,-1.0,Windows 11,Morning,Yes,1.0,161.96,
+TKT-0669,20-Feb-2024,12:22:17,02-21-2024,EMILY DAVIS,Finance,vpn access,low,escalated,phone,Central,31.0,3077,No,no,3.0,MacOS,morning,,-1.0,,2.0
+TKT-0136,2024-10-21,12:16:11 AM,2024-10-23,James Anderson,Legal,password reset,Medium,escalated,Self-Service Portal,,131.0,446,YES,Yes,0.0,linux,AFTERNOON,No,1.0,85.42,6.0
+TKT-0452,2024/03/24,01:16,26/03/2024,David Brown,Operations,Hardware Failure,CRITICAL,resolved,self-service portal,North,18.0,907,no,No,99.0,windows 10,morning,no,-1.0,188.29,5.0
+TKT-0165,2024-04-02,19:14:45,04-03-2024,David Brown,Legal,Printer Issue,Mediun,OPEN,EMAIL,,51.0,16,Yes,Yes,99.0,Windows 10,Night,,0.0,42.83,99.0
+TKT-0029,06/09/2024,05:02 PM,2024/09/06,Carol White,Legal,network issue,Medium,Resolve,Email,Central,62.0,2595,NO,yes,,MacOS,Afternoon,No,-1.0,32.91,8.0
+,2024-11-29,10:45 AM,2024/11/29,Bob Smith,Sales,Email Problem,Medium,Resolve,chat,West,147.0,3534,yes,,-1.0,MacOS,Night,no,3.0,151.56,0.0
+TKT-0194,20/10/2024,21:09:51,23-Oct-2024,Bob Smith,Finance,Email Problem,Hign,Open,Self-Service Portal,Central,115.0,1397,NO,Yes,99.0,Windows 10,morning,no,1.0,122.62,9.0
+TKT-0430,2024/11/28,01:55:36 AM,11-30-2024,Bob Smith,Sales,Account Locked,medium,Open,self-service portal,South,145.0,2889,no,,4.0,windows 10,morning,no,,89.18,10.0
+TKT-0666,05-08-2024,05:41:00,05-08-2024,Carol White,Legal,Account Locked,Mediun,closed,Chat,South,45.0,3257,No,No,5.0,Windows 10,Morning,No,0.0,60.58,1.0
+TKT-0987,04-20-2024,22:58,2024/04/22,Emily Davis,Legal,Hardware failure,Low,Open,Phone,East,94.0,2484,No,Yes,,MacOS,Night,yes,-1.0,186.66,4.0
+TKT-0170,17-Oct-2024,04:05 AM,10-19-2024,frank miller,IT,System Crash,Critical,In Progress,self-service portal,Central,26.0,1876,yes,N,99.0,Windows 10 ,Night,Yes,,160.37,6.0
+TKT-0526,06/02/2024,05:59 PM,2024-02-07,EMILY DAVIS,Sales,SOFTWARE INSTALLATION,Hign,escalated,Walk-in,Central,,2201,,No,2.0,MacOS,AFTERNOON,no,0.0,135.26,3.0
+,12-10-2024,04:31:49 PM,12/12/2024,Emily Davis,HR,VPN Access,medium,OPEN,self-service portal,South,22.0,1570,YES,yes,99.0,WINDOWS 11,Morning,No,2.0,141.64,2.0
+TKT-0174,2024/11/24,01:55:29 PM,2024-11-26,henry moore,Admin,Email problem,low,resolved,Walk-in,,161.0,746,no,Y,,macOS,morning,Yes,0.0,107.65,99.0
+TKT-0007,26/11/2024,03:03 AM,27-Nov-2024,,Operations,Email Problem,low,In Progress,Self-Service Portal,West,29.0,99999,No,No,0.0,MacOS,Afternoon,Yes,0.0,197.14,5.0
+TKT-0765,05-29-2024,12:07 PM,2024-05-30,,Sales,Software Installation,Critical,escalated,Walk In,Central,137.0,2940,,N,1.0,Windows 10,Night,No,-1.0,67.35,9.0
+,2024/09/02,03:08:53,2024/09/03,henry moore,Finance,Software Installation,Medium,escalated,Email,,120.0,1788,Yes,Yes,1.0,Windows 10,Afternoon,yes,-1.0,120.59,99.0
+TKT-0679,2024-01-25,06:01:32 AM,2024/01/27,EMILY DAVIS,Marketing,VPN Access,low,In Progress,Walk In,Central,10.0,2130,NO,,2.0,macOS,AFTERNOON,No,-1.0,22.32,7.0
+TKT-0074,17/02/2024,07:38:50 PM,18/02/2024,Carol White,Admin,System Crash,Mediun,escalated,Chat,North,,60,yes,no,,WINDOWS 11,Afternoon,No,2.0,,7.0
+TKT-0714,2024/10/15,23:28,2024/10/17,BOB SMITH,Legal,SOFTWARE INSTALLATION,Medium,Resolve,Self-Service Portal,,122.0,1180,YES,no,99.0,Windows 11,AFTERNOON,,2.0,86.96,4.0
+TKT-0676,31-Mar-2024,16:53,31/03/2024,frank miller,,Network Issue,Hign,In Progress,EMAIL,,174.0,2330,,Y,,windows 10,Afternoon,No,0.0,51.29,6.0
+TKT-0239,2024/04/26,16:46:50,27/04/2024,JAMES ANDERSON,HR,Data Recovery,Hign,In progress,Phone,East,51.0,3482,NO,Yes,0.0,WINDOWS 11,Night Shift,no,-1.0,81.41,6.0
+TKT-0146,06/12/2024,06:30:24,2024/12/07,henry moore,Admin,Network Issue,HIGH,In progress,Self-Service Portal,,84.0,659,NO,N,1.0,Linux,Night,,0.0,22.45,3.0
+TKT-0824,02/09/2024,09:06:13,2024/09/02,Alice Johnson,Marketing,Email Problem,medium,escalated,phone,East,54.0,1511,,Y,4.0,Linux,Night,,0.0,106.89,0.0
+TKT-0235,09-Sep-2024,04:48:32 PM,2024/09/11,henry moore,Operations,network issue,Medium,In progress,Phone,South,31.0,1113,Yes,yes,99.0,WINDOWS 11,Night Shift,yes,0.0,109.82,7.0
+,12-09-2024,14:39,10-Dec-2024,Frank Miller,Sales,Hardware Failure,Mediun,Closed,Email,North,89.0,3579,,No,,WINDOWS 11,AFTERNOON,No,0.0,,2.0
+TKT-0215,31-Jan-2024,01:21 AM,2024/02/01,Bob Smith,Legal,Password Reset,HIGH,escalated,self-service portal,South,122.0,1461,,N,-1.0,WINDOWS 11,Night,yes,0.0,195.81,8.0
+TKT-0689,09/09/2024,01:01 PM,2024/09/11,alice johnson,Marketing,Hardware Failure,High,In progress,EMAIL,North,108.0,3557,No,,4.0,windows 10,Morning,yes,3.0,194.46,1.0
+TKT-0133,09-24-2024,03:33:00 AM,09-26-2024,david brown ,Marketing,SOFTWARE INSTALLATION,Medium,In Progress,EMAIL,,169.0,851,NO,,,Windows 10 ,Night,no,0.0,133.56,0.0
+TKT-0802,2024-08-09,02:31:13,10/08/2024,Grace Wilson,,Network Issue,Low,closed,chat,,106.0,3538,No,Yes,,windows 10,Night,,0.0,195.72,3.0
+TKT-0458,2024/03/16,01:56,2024/03/17,,Operations,network issue,High,Resolved,phone,West,133.0,2483,no,yes,4.0,windows 10,AFTERNOON,Yes,-1.0,120.24,5.0
+TKT-0685,2024/11/02,02:09:08 AM,2024/11/04,James Anderson,Admin,Software Installation,CRITICAL,OPEN,Chat,South,4.0,130,Yes,Yes,5.0,Windows 11,Night,Yes,,167.4,7.0
+TKT-0423,01-06-2024,09:16:13,01-06-2024,Carol White,,SOFTWARE INSTALLATION,CRITICAL,In Progress,chat,West,77.0,113,Yes,N,,WINDOWS 11,AFTERNOON,yes,0.0,145.5,9.0
+TKT-0186,2024-07-05,09:13,06/07/2024,,Legal,Network Issue,High,escalated,Chat,South,87.0,2536,,,99.0,macOS,Morning,no,1.0,,10.0
+TKT-0042,01-22-2024,14:58:51,01-23-2024,Bob Smith,Finance,Email problem,Medium,resolved,Email,East,84.0,2488,no,Y,3.0,linux,Night Shift,Yes,,146.13,
+TKT-0639,2024-03-05,00:41:57,03-06-2024,david brown ,Operations,network issue,medium,Escalated,Self-Service Portal,North,138.0,2939,yes,Yes,99.0,Windows 10 ,morning,yes,-1.0,160.72,4.0
+TKT-0109,18-Jun-2024,11:16 AM,19/06/2024,Irene  Taylor,Finance,Hardware Failure,CRITICAL,Escalated,Walk In,West,120.0,3496,Yes,no,,Windows 11,Night Shift,yes,0.0,16.31,8.0
+TKT-0617,2024/10/24,04:19 PM,25-Oct-2024,Grace Wilson,,network issue,CRITICAL,In Progress,Walk In,North,,3331,Yes,,5.0,WINDOWS 11,AFTERNOON,yes,3.0,178.06,1.0
+TKT-0057,12-10-2024,03:26:37 AM,11/12/2024,Irene Taylor,Legal,System Crash,High,closed,chat,Central,178.0,2587,Yes,,10.0,macOS,AFTERNOON,,-1.0,148.49,1.0
+TKT-0450,2024-11-30,01:04:38 PM,2024/12/01,Bob Smith,Admin,vpn access,Medium,resolved,phone,East,-5.0,3373,YES,Y,99.0,Linux,Night,,3.0,14.93,9.0
+TKT-0774,2024-02-16,03:44:08 PM,2024-02-18,Emily Davis,Sales,Account Locked,low,escalated,phone,,110.0,1504,,,0.0,Windows 10 ,AFTERNOON,no,0.0,119.9,9.0
+TKT-0590,2024/06/10,07:57:47,10/06/2024,Bob Smith,IT,Hardware Failure,Low,Escalated,self-service portal,,46.0,1148,NO,yes,,linux,Night,No,2.0,,6.0
+TKT-0896,2024/10/14,12:30 PM,2024-10-15,Irene Taylor,Legal,Network Issue,CRITICAL,Resolve,chat,South,174.0,903,Yes,,5.0,Linux,Night Shift,Yes,,28.71,7.0
+TKT-0436,2024/02/29,03:10 AM,29/02/2024,,Finance,network issue,High,escalated,phone,North,156.0,2315,,no,99.0,linux,Morning,No,0.0,134.6,8.0
+TKT-0025,22-Oct-2024,01:48:48,10-22-2024,Frank Miller,Finance,network issue,CRITICAL,Open,chat,West,122.0,2135,NO,no,5.0,windows 10,morning,,0.0,110.81,7.0
+,2024/01/20,16:27,21-Jan-2024,Frank Miller,HR,Hardware failure,Mediun,In Progress,Walk In,South,75.0,729,yes,No,0.0,windows 10,Night,,,122.98,7.0
+TKT-0495,11-Apr-2024,06:29 AM,04-11-2024,Grace Wilson,IT,SOFTWARE INSTALLATION,low,Open,chat,West,35.0,1296,yes,,3.0,linux,Morning,no,3.0,42.13,8.0
+TKT-0827,06/01/2024,14:28:34,2024/01/06,david brown ,Sales,SOFTWARE INSTALLATION,Mediun,escalated,Self-Service Portal,East,173.0,2927,Yes,Yes,-1.0,windows 10,Night,No,0.0,138.47,10.0
+TKT-0982,2024/07/08,12:10,2024/07/10,Frank Miller,Sales,Hardware Failure,medium,In progress,Chat,Central,127.0,3374,NO,yes,10.0,Linux,Morning,no,0.0,26.06,99.0
+TKT-0929,2024/05/24,15:43:16,05-26-2024,James Anderson,IT,VPN Access,Mediun,Escalated,chat,Central,73.0,1840,yes,no,1.0,Windows 11,morning,No,,188.83,7.0
+TKT-0966,04/11/2024,14:39,,Grace Wilson,Legal,Hardware Failure,medium,Resolved,Walk-in,West,175.0,2763,YES,,4.0,macOS,Morning,,,154.65,7.0
+TKT-0339,17/09/2024,02:09 AM,,Carol  White,Operations,password reset,CRITICAL,In Progress,Walk In,West,153.0,2439,yes,N,,Windows 10 ,Morning,,2.0,125.02,2.0
+TKT-0052,02/09/2024,16:26,2024/09/04,EMILY DAVIS,Sales,Email problem,Hign,resolved,Chat,North,149.0,312,No,yes,2.0,linux,Night Shift,yes,1.0,112.41,3.0
+TKT-0384,02-21-2024,11:23,21/02/2024,Carol White,Legal,Hardware failure,CRITICAL,Resolved,Self-Service Portal,South,113.0,3482,NO,yes,4.0,windows 10,Morning,No,0.0,163.01,3.0
+TKT-0540,2024/08/13,15:32:18,,Irene Taylor,Marketing,Data Recovery,HIGH,Resolve,phone,South,19.0,3461,no,,3.0,Windows 10 ,Night,,0.0,94.02,9.0
+TKT-0992,21-May-2024,18:56,2024/05/21,BOB SMITH,Finance,Network Issue,Low,Closed,Chat,North,30.0,2143,NO,yes,,Windows 11,Morning,no,3.0,185.51,0.0
+TKT-0661,07-20-2024,10:58:55,20/07/2024,Carol  White,Legal,Printer Issue,Medium,In progress,chat,West,16.0,492,No,No,99.0,Windows 10 ,AFTERNOON,Yes,1.0,,6.0
+TKT-0964,2024/08/16,00:17,2024-08-17,,Admin,Printer Issue,Hign,Closed,phone,West,61.0,3129,No,N,2.0,WINDOWS 11,Night Shift,,,179.26,
+TKT-0265,2024/08/15,07:38:31 AM,17-Aug-2024,frank miller,Finance,Network Issue,low,Closed,self-service portal,West,158.0,3262,Yes,yes,,Linux,Night Shift,,1.0,38.23,
+TKT-0955,2024-02-04,20:28:13,2024-02-05,alice johnson,Admin,VPN Access,Critical,resolved,Email,Central,80.0,1898,YES,N,5.0,WINDOWS 11,Night Shift,Yes,0.0,126.48,
+TKT-0742,09-03-2024,03:54,03-Sep-2024,Irene  Taylor,Finance,Account Locked,High,In Progress,Self-Service Portal,Central,128.0,485,No,No,2.0,MacOS,Night Shift,No,,104.46,8.0
+TKT-0713,2024/10/20,08:43,2024-10-21,Bob Smith,Admin,Email Problem,low,Resolved,Chat,South,151.0,3403,NO,,0.0,Windows 10 ,Night,yes,0.0,,2.0
+TKT-0445,07-May-2024,10:18 PM,2024/05/08,Henry Moore,,Hardware Failure,CRITICAL,Resolved,EMAIL,Central,99.0,2469,,Yes,-1.0,windows 10,Night,,1.0,195.94,6.0
+TKT-0396,30-May-2024,07:36:05 PM,2024/05/31,henry moore,Operations,Email Problem,HIGH,Resolved,chat,West,59.0,1822,,,4.0,Linux,Night Shift,No,,178.28,7.0
+TKT-0542,01/05/2024,18:50:06,,Alice Johnson,,Hardware failure,Low,closed,Walk-in,West,30.0,2656,NO,Y,99.0,macOS,AFTERNOON,no,,13.84,1.0
+,2024/02/08,21:34:18,09-Feb-2024,Irene  Taylor,Admin,password reset,High,In Progress,EMAIL,,69.0,2437,,N,3.0,Windows 10 ,AFTERNOON,,0.0,19.66,99.0
+TKT-0019,02-25-2024,06:01:59 PM,26-Feb-2024,Carol White,IT,System Crash,Medium,Closed,self-service portal,,149.0,2784,no,no,4.0,Windows 11,AFTERNOON,,2.0,184.33,-2.0
+TKT-0747,08-Apr-2024,11:38 AM,2024/04/09,,IT,Data Recovery,CRITICAL,closed,Email,North,10.0,15,yes,Yes,1.0,Linux,Night,no,2.0,141.54,
+,08-16-2024,06:31:42 PM,18-Aug-2024,Irene  Taylor,,System Crash,Hign,escalated,Email,West,,1043,Yes,,5.0,Windows 10 ,AFTERNOON,No,0.0,120.11,
+TKT-0595,2024-12-15,02:31 PM,15/12/2024,Frank Miller,HR,password reset,low,Escalated,Self-Service Portal,,103.0,1759,NO,N,4.0,macOS,morning,yes,0.0,60.74,2.0
+TKT-0480,10/11/2024,05:29:39 PM,11/11/2024,Frank Miller,,Email Problem,Medium,Resolved,Self-Service Portal,South,6.0,3173,YES,,0.0,Windows 10,Morning,no,1.0,17.51,5.0
+TKT-0368,2024-07-25,03:48:29 PM,07-26-2024,James Anderson,Operations,Password Reset,Hign,resolved,chat,South,117.0,652,,No,,macOS,Night Shift,,-1.0,190.61,1.0
+TKT-0084,03-07-2024,18:54,08/03/2024,EMILY DAVIS,HR,Password Reset,Medium,In Progress,chat,West,176.0,3132,Yes,Yes,2.0,MacOS,Morning,yes,1.0,22.78,2.0
+TKT-0062,30/04/2024,02:48 PM,01-May-2024,Irene Taylor,IT,SOFTWARE INSTALLATION,Critical,Resolved,Email,West,79.0,2395,NO,Y,1.0,MacOS,Night,,3.0,112.1,8.0
+TKT-0484,2024/06/14,07:02:56,16-Jun-2024,Grace Wilson ,Finance,vpn access,medium,OPEN,Email,Central,10.0,2972,,Yes,-1.0,MacOS,AFTERNOON,No,0.0,78.57,8.0
+TKT-0273,24-Sep-2024,11:38:34 AM,09-26-2024,Henry Moore,Legal,Software Installation,Critical,In Progress,Self-Service Portal,,55.0,2827,Yes,,1.0,Linux,Afternoon,No,1.0,,0.0
+TKT-0286,19-Nov-2024,19:23,2024/11/19,JAMES ANDERSON,,Account Locked,medium,Resolved,Phone,South,,1091,NO,No,,windows 10,Afternoon,no,1.0,44.76,
+TKT-0361,08-10-2024,02:21 AM,10-Aug-2024,frank miller,Admin,Software Installation,HIGH,OPEN,Chat,North,110.0,627,yes,yes,10.0,macOS,morning,no,,15.63,7.0
+TKT-0355,2024-12-07,09:03:04 PM,2024-12-08,Frank Miller,IT,Email problem,High,Closed,self-service portal,,130.0,614,,yes,2.0,Linux,Night Shift,Yes,0.0,127.19,1.0
+TKT-0612,2024/09/27,20:03,2024/09/28,James Anderson,Admin,Data Recovery,CRITICAL,Escalated,phone,South,155.0,389,yes,no,99.0,Linux,Night,yes,2.0,122.59,1.0
+TKT-0279,05-Apr-2024,12:22 PM,05-Apr-2024,Grace Wilson ,HR,Email Problem,low,Open,chat,East,112.0,2025,No,Yes,0.0,Windows 10,Afternoon,No,0.0,12.85,7.0
+TKT-0013,01-20-2024,03:38:27,01-21-2024,Carol  White,,Printer Issue,HIGH,Resolved,EMAIL,East,82.0,1797,YES,Y,2.0,Windows 10,AFTERNOON,no,3.0,62.65,3.0
+,07-Sep-2024,20:01,2024/09/07,Frank Miller,,Software Installation,HIGH,Open,chat,South,64.0,2882,NO,,1.0,macOS,AFTERNOON,yes,1.0,120.65,6.0
+,2024-11-03,20:24,05/11/2024,,Operations,VPN Access,CRITICAL,Escalated,phone,West,51.0,3492,No,no,,macOS,Night,Yes,0.0,137.99,7.0
+TKT-0528,12/10/2024,07:21:46,14/10/2024,Carol  White,,VPN Access,HIGH,Resolve,Phone,East,92.0,448,,no,-1.0,WINDOWS 11,Night Shift,Yes,,196.34,6.0
+TKT-0644,2024-09-15,12:03:03 PM,2024/09/16,JAMES ANDERSON,Legal,Email problem,Hign,closed,self-service portal,North,43.0,265,NO,No,2.0,Windows 10,Morning,Yes,,35.34,6.0
+TKT-0224,22/06/2024,07:54 PM,2024-06-24,,Marketing,SOFTWARE INSTALLATION,CRITICAL,In Progress,self-service portal,East,35.0,1211,NO,N,,Linux,Night,yes,0.0,172.6,9.0
+TKT-0600,26/02/2024,11:35 PM,2024-02-26,Alice Johnson,Marketing,VPN Access,High,Resolved,Phone,Central,58.0,3594,no,,,windows 10,Afternoon,No,,125.11,
+,2024/01/26,06:02 AM,2024-01-26,James Anderson,Legal,Email problem,Medium,In progress,chat,North,28.0,1661,YES,yes,,linux,Night,Yes,3.0,80.91,-2.0
+TKT-0707,2024/11/11,09:35:59 AM,,Frank Miller,,Email problem,low,In Progress,Chat,Central,60.0,1040,Yes,Yes,2.0,Linux,AFTERNOON,,0.0,30.11,8.0
+TKT-0571,2024/12/14,12:01:34 AM,14-Dec-2024,Emily Davis,HR,Network Issue,Medium,resolved,Walk In,North,128.0,2184,,yes,3.0,MacOS,Morning,no,1.0,36.9,
+TKT-0487,10/01/2024,01:12:55 AM,10-Jan-2024,JAMES ANDERSON,Admin,Hardware Failure,High,OPEN,Chat,West,135.0,842,yes,no,,MacOS,Morning,,0.0,196.86,99.0
+TKT-0466,2024-06-19,08:47:03 AM,19/06/2024,frank miller,IT,Software Installation,CRITICAL,resolved,EMAIL,,19.0,396,,Yes,2.0,linux,Morning,,1.0,6.03,9.0
+TKT-0933,2024-10-03,01:57 AM,2024/10/05,JAMES ANDERSON,,password reset,Hign,OPEN,EMAIL,West,21.0,1316,,yes,,Linux,Night,no,0.0,66.64,10.0
+TKT-0637,16-Aug-2024,19:59:49,,Grace Wilson ,Finance,SOFTWARE INSTALLATION,Hign,Open,chat,South,2.0,621,no,No,1.0,Windows 10 ,Night Shift,,0.0,114.2,3.0
+TKT-0177,01-May-2024,21:28:46,01-May-2024,Bob Smith,Legal,Data Recovery,Medium,Resolved,Chat,,55.0,2376,NO,,,MacOS,morning,yes,0.0,,9.0
+TKT-0696,2024/03/01,05:03:51 AM,,Alice Johnson,Admin,Data Recovery,medium,In Progress,Walk-in,East,165.0,128,No,yes,3.0,MacOS,Night,no,2.0,55.27,5.0
+TKT-0656,09/02/2024,01:27:34,09-Feb-2024,Grace Wilson,IT,Hardware Failure,low,Escalated,chat,Central,20.0,1855,no,,1.0,Windows 10,Night,yes,-1.0,52.12,9.0
+TKT-0614,02-Apr-2024,03:28 AM,03-Apr-2024,,Finance,System Crash,CRITICAL,escalated,Phone,East,106.0,1348,,N,4.0,Windows 11,AFTERNOON,No,1.0,31.63,10.0
+TKT-0457,12-09-2024,05:46:37 PM,2024/12/10,Frank Miller,IT,Hardware failure,Critical,resolved,Email,North,55.0,1948,NO,Yes,,Windows 10,Morning,No,2.0,99.94,6.0
+TKT-0545,04/10/2024,10:06:25 AM,2024/10/05,Alice Johnson,Finance,SOFTWARE INSTALLATION,Hign,Escalated,EMAIL,West,160.0,1932,Yes,Y,10.0,WINDOWS 11,AFTERNOON,,-1.0,19.17,1.0
+TKT-0394,05-07-2024,08:28:50,2024-05-07,Frank Miller,Legal,Printer Issue,Hign,escalated,phone,East,85.0,1886,NO,N,5.0,WINDOWS 11,Night,,-1.0,152.53,4.0
+TKT-0164,02-04-2024,13:53,2024/02/04,alice johnson,Marketing,network issue,Hign,Escalated,Walk-in,South,76.0,1938,No,Yes,5.0,Windows 10,Morning,,-1.0,128.21,8.0
+TKT-0249,09-Oct-2024,14:46,2024-10-11,david brown ,HR,network issue,Critical,In progress,chat,South,89.0,3253,,yes,4.0,linux,Morning,No,3.0,160.83,10.0
+TKT-0663,2024-06-30,12:20 AM,07-01-2024,Irene  Taylor,Marketing,Network Issue,HIGH,Escalated,Phone,,55.0,2958,,No,2.0,linux,morning,,0.0,148.51,1.0
+TKT-0921,28/01/2024,01:05:09 PM,,James Anderson,,Email Problem,low,escalated,Phone,West,130.0,2494,no,No,10.0,macOS,AFTERNOON,Yes,3.0,144.86,9.0
+TKT-0998,07-21-2024,15:42:27,22/07/2024,alice johnson,Sales,Email problem,low,OPEN,self-service portal,North,154.0,1622,,,5.0,Windows 10 ,AFTERNOON,yes,1.0,38.08,
+TKT-0376,2024/01/04,10:57 AM,06/01/2024,James Anderson,Legal,Network Issue,CRITICAL,resolved,Walk In,South,128.0,678,No,Yes,,macOS,Afternoon,No,0.0,105.71,8.0
+TKT-0413,02-05-2024,05:08 AM,,alice johnson,Operations,Account Locked,Medium,resolved,self-service portal,,175.0,1622,No,Yes,10.0,MacOS,Morning,yes,2.0,89.43,1.0
+TKT-0075,19-Jun-2024,19:24,2024/06/20,Emily Davis,Operations,Account Locked,medium,closed,Walk-in,Central,114.0,1381,no,,-1.0,MacOS,Night,,0.0,112.27,0.0
+TKT-0917,03-Nov-2024,01:16:43 AM,,Carol  White,Finance,Hardware failure,Low,OPEN,self-service portal,East,11.0,129,YES,No,,Windows 10,Afternoon,Yes,0.0,,4.0
+TKT-0114,17-May-2024,23:05,18/05/2024,,Admin,Hardware failure,CRITICAL,OPEN,Chat,West,48.0,476,no,no,99.0,Windows 11,Afternoon,Yes,,17.35,
+TKT-0501,2024/02/09,19:04:46,11/02/2024,henry moore,Operations,Email Problem,Mediun,closed,EMAIL,East,128.0,2510,YES,no,,linux,morning,Yes,2.0,134.4,99.0
+TKT-0586,05-22-2024,06:27:54 PM,2024/05/23,Henry Moore,Legal,Software Installation,High,In Progress,phone,North,99.0,272,No,N,-1.0,Windows 11,Afternoon,,1.0,55.91,6.0
+TKT-0115,09-Jun-2024,12:45:55 AM,2024-06-11,Grace Wilson ,Admin,Network Issue,low,Resolve,Walk-in,East,-5.0,2974,YES,No,,MacOS,Night,No,3.0,14.82,4.0
+TKT-0418,28-Oct-2024,11:44:43 AM,28-Oct-2024,EMILY DAVIS,Admin,SOFTWARE INSTALLATION,CRITICAL,resolved,chat,South,147.0,1084,,,,Windows 10 ,morning,No,,9.77,3.0
+TKT-0090,01-19-2024,17:51:58,2024-01-21,Irene Taylor,Marketing,Hardware Failure,Mediun,resolved,Email,South,59.0,1328,No,,,linux,Night Shift,yes,2.0,52.3,6.0
+TKT-0959,2024-07-26,15:36:37,26/07/2024,Alice Johnson,Admin,Email Problem,Hign,OPEN,phone,North,159.0,1685,,no,,Linux,AFTERNOON,,0.0,163.09,8.0
+TKT-0902,2024-08-26,07:58,26-Aug-2024,Grace Wilson ,Sales,Printer Issue,Medium,In Progress,chat,,30.0,171,no,,0.0,Linux,Night Shift,Yes,,36.23,10.0
+TKT-0634,2024/01/02,16:33:36,2024/01/05,Alice Johnson,Marketing,Password Reset,Mediun,Open,EMAIL,East,25.0,506,yes,Yes,,macOS,Afternoon,,0.0,173.99,9.0
+TKT-0678,29/08/2024,04:55:59 PM,2024-08-29,Henry Moore,Admin,Network Issue,medium,Resolve,Walk In,North,100.0,2606,no,N,5.0,Windows 10,Morning,,0.0,63.18,8.0
+TKT-0012,2024/07/29,09:55:47 PM,2024/07/30,Carol  White,Marketing,Software Installation,CRITICAL,Escalated,Walk-in,North,,662,,N,2.0,MacOS,Night,Yes,2.0,192.69,5.0
+TKT-0397,05-13-2024,10:50 PM,2024/05/14,,HR,SOFTWARE INSTALLATION,Medium,In Progress,phone,West,112.0,1526,yes,No,,Linux,AFTERNOON,,-1.0,90.06,3.0
+TKT-0558,08/09/2024,02:24 PM,09-08-2024,BOB SMITH,Marketing,Password Reset,Medium,In progress,Walk-in,North,87.0,1353,Yes,No,3.0,WINDOWS 11,Night,Yes,0.0,11.23,1.0
+TKT-0043,04/11/2024,04:21 AM,04-Nov-2024,Emily Davis,Operations,Hardware Failure,HIGH,escalated,EMAIL,South,91.0,1280,NO,N,,windows 10,Afternoon,No,0.0,,99.0
+TKT-0168,08/03/2024,06:46,03-10-2024,,Admin,Account Locked,High,Resolve,self-service portal,,101.0,2933,,Y,2.0,Windows 11,Night,Yes,2.0,58.36,1.0
+TKT-0417,06-Apr-2024,05:54,2024-04-07,James Anderson,Legal,network issue,Hign,Resolve,Self-Service Portal,North,,1626,NO,,-1.0,Linux,morning,no,0.0,136.53,6.0
+TKT-0788,19-Nov-2024,13:02:51,19/11/2024,,Finance,Account Locked,medium,resolved,phone,,151.0,960,yes,Yes,2.0,Linux,Night Shift,yes,-1.0,87.52,0.0
+TKT-0427,24-Feb-2024,23:59,25-Feb-2024,Grace Wilson,IT,Account Locked,medium,In progress,Phone,West,,3121,,N,5.0,Linux,AFTERNOON,no,2.0,135.07,4.0
+TKT-0918,2024/10/26,06:16 AM,10-26-2024,David Brown,Operations,Hardware failure,Low,Open,Walk In,North,119.0,1797,YES,,3.0,Linux,Night Shift,no,0.0,184.33,1.0
+TKT-0977,30/10/2024,11:04:27,10-31-2024,David Brown,,network issue,High,Resolve,Email,West,127.0,2769,Yes,No,2.0,linux,Morning,,0.0,,-2.0
+TKT-0715,2024-11-27,07:10,2024/11/29,Carol  White,Finance,Data Recovery,Low,In progress,EMAIL,West,9.0,3028,NO,yes,0.0,MacOS,Night,,0.0,33.6,7.0
+TKT-0732,10/06/2024,02:16:20,2024/06/13,david brown ,HR,System Crash,Critical,escalated,Chat,North,38.0,88,Yes,,,macOS,Afternoon,Yes,1.0,64.82,4.0
+,04/05/2024,06:34:03,05-May-2024,Carol  White,Sales,password reset,Low,In progress,Phone,South,177.0,2861,NO,No,-1.0,Windows 11,morning,No,1.0,123.14,5.0
+TKT-0336,01-17-2024,09:46 PM,2024-01-19,Grace Wilson ,Operations,network issue,Hign,Open,Walk In,West,168.0,331,Yes,No,-1.0,Windows 10,AFTERNOON,no,3.0,,9.0
+TKT-0016,2024-08-18,08:48 AM,19-Aug-2024,,HR,Hardware Failure,HIGH,Escalated,Self-Service Portal,Central,135.0,1994,NO,No,5.0,windows 10,Night,no,-1.0,,6.0
+TKT-0658,2024-01-31,04:53:27 AM,02-02-2024,EMILY DAVIS,Legal,VPN Access,Hign,Resolve,Self-Service Portal,North,117.0,1628,,yes,3.0,windows 10,Afternoon,No,0.0,134.7,2.0
+,2024/04/28,11:50 PM,28-Apr-2024,Carol White,Admin,Software Installation,Mediun,Closed,Email,,46.0,2992,no,,,Windows 10,Night Shift,yes,1.0,36.61,99.0
+TKT-0790,2024/11/11,06:34 PM,11-11-2024,Henry Moore,HR,Network Issue,Low,Escalated,Self-Service Portal,,175.0,2893,NO,no,,Linux,AFTERNOON,No,0.0,51.32,4.0
+TKT-0223,2024-10-10,09:02 AM,12/10/2024,,Admin,System Crash,High,escalated,Phone,East,126.0,2112,YES,N,-1.0,WINDOWS 11,AFTERNOON,no,1.0,119.59,
+TKT-0180,2024-02-05,03:59:12 PM,02-07-2024,,Legal,network issue,Critical,closed,Email,Central,47.0,2653,no,,10.0,MacOS,Night Shift,Yes,-1.0,83.76,0.0
+,2024/06/12,08:06,06-13-2024,henry moore,Operations,Hardware Failure,medium,closed,self-service portal,North,45.0,1547,No,N,2.0,MacOS,Night Shift,Yes,,168.77,3.0
+TKT-0522,05-09-2024,03:01:13 PM,2024-05-09,JAMES ANDERSON,Sales,Hardware failure,Low,In progress,Self-Service Portal,East,,99999,yes,No,4.0,WINDOWS 11,morning,,0.0,160.05,1.0
+TKT-0023,2024-11-12,07:49 AM,11-14-2024,david brown ,Admin,Account Locked,Mediun,closed,Phone,North,117.0,1823,yes,,,Windows 11,Afternoon,No,2.0,126.89,
+TKT-0357,01-19-2024,18:24,2024/01/21,James Anderson,HR,Printer Issue,medium,escalated,Walk In,East,147.0,872,NO,no,,Windows 10 ,Morning,Yes,3.0,6.54,7.0
+,11-18-2024,06:08:02 PM,19/11/2024,James Anderson,IT,password reset,Critical,escalated,Email,Central,75.0,3070,YES,Y,5.0,Windows 11,AFTERNOON,yes,0.0,125.22,1.0
+TKT-0897,2024-02-02,08:40 PM,02-03-2024,David Brown,IT,network issue,Mediun,Escalated,EMAIL,Central,9.0,647,No,no,5.0,linux,Afternoon,No,,182.74,3.0
+TKT-0341,2024-12-27,03:28,2024/12/29,Irene Taylor,HR,Network Issue,medium,Open,Walk-in,,128.0,1087,Yes,,10.0,Windows 11,Night,Yes,1.0,78.36,4.0
+TKT-0432,06-20-2024,03:07 PM,06-21-2024,Henry Moore,Operations,SOFTWARE INSTALLATION,low,Open,Walk-in,Central,,1627,YES,N,,MacOS,Afternoon,Yes,1.0,,1.0
+TKT-0577,19-Nov-2024,05:11,20/11/2024,alice johnson,HR,Printer Issue,medium,Resolve,Phone,West,105.0,244,no,No,-1.0,WINDOWS 11,Afternoon,yes,1.0,190.21,-2.0
+TKT-0868,01-May-2024,22:04,05-02-2024,Henry Moore,Legal,network issue,CRITICAL,In progress,Chat,,169.0,2365,,no,99.0,Windows 10 ,Night,yes,1.0,173.98,
+,2024-10-04,10:51:55 AM,2024/10/06,David Brown,Admin,Hardware failure,CRITICAL,resolved,EMAIL,West,141.0,82,,Yes,,MacOS,morning,,0.0,81.32,8.0
+TKT-0737,2024/02/12,03:25:57,14/02/2024,Alice Johnson,Legal,System Crash,High,In progress,Walk-in,,169.0,815,,no,2.0,MacOS,Afternoon,yes,1.0,195.95,5.0
+TKT-0094,2024-04-11,12:23:43 PM,11/04/2024,Alice Johnson,Marketing,Hardware Failure,Critical,Resolve,chat,South,,2410,yes,,2.0,macOS,Morning,No,2.0,177.27,1.0
+TKT-0584,29/05/2024,11:14 PM,,Carol  White,Marketing,System Crash,Mediun,Escalated,Self-Service Portal,Central,20.0,3252,yes,Y,2.0,Windows 10 ,AFTERNOON,no,0.0,98.02,4.0
+TKT-0069,2024/10/26,18:46:26,2024-10-27,Irene  Taylor,HR,System Crash,CRITICAL,escalated,phone,North,41.0,813,yes,No,,Windows 10 ,morning,no,0.0,50.13,0.0
+TKT-0651,19/01/2024,11:04:28 AM,2024-01-19,EMILY DAVIS,Sales,Network Issue,medium,OPEN,Self-Service Portal,Central,8.0,1896,No,Yes,10.0,MacOS,AFTERNOON,yes,-1.0,79.75,3.0
+TKT-0285,10-14-2024,12:25 PM,2024-10-15,Grace Wilson,Operations,Password Reset,Hign,In progress,Walk In,South,54.0,763,Yes,,-1.0,linux,Night,,0.0,,6.0
+,2024/09/02,12:26:35 PM,02-Sep-2024,david brown ,Finance,Software Installation,Medium,Resolve,Walk In,East,147.0,2584,,,5.0,Windows 10,Night,yes,2.0,176.75,6.0
+TKT-0435,01/10/2024,08:46:03 PM,,,IT,Email problem,HIGH,In Progress,Phone,South,-5.0,491,NO,Y,99.0,Windows 10 ,AFTERNOON,yes,-1.0,91.71,0.0
+,2024/09/13,13:49:44,13/09/2024,Carol  White,Marketing,Printer Issue,Hign,closed,Walk In,Central,36.0,1979,,No,99.0,Linux,Afternoon,no,0.0,185.22,4.0
+TKT-0076,2024-08-24,22:13,2024/08/25,frank miller,Finance,Email Problem,HIGH,Escalated,Self-Service Portal,North,179.0,293,,,,macOS,Night Shift,No,3.0,124.47,10.0
+TKT-0762,17/10/2024,14:54:56,10-17-2024,Bob Smith,Marketing,Email problem,High,Escalated,Walk-in,North,97.0,486,,Y,5.0,linux,Afternoon,no,-1.0,147.32,1.0
+TKT-0447,09-Feb-2024,02:49 AM,10/02/2024,henry moore,Marketing,SOFTWARE INSTALLATION,Low,In Progress,Walk In,Central,47.0,2197,Yes,,99.0,macOS,Afternoon,yes,-1.0,39.15,2.0
+TKT-0189,27-Jul-2024,06:08,07-28-2024,James Anderson,Legal,VPN Access,CRITICAL,closed,self-service portal,East,63.0,99999,Yes,Yes,99.0,Windows 10,morning,,1.0,20.79,6.0
+TKT-0272,2024-03-01,05:55 AM,2024/03/01,David Brown,Sales,Software Installation,Low,closed,Walk-in,,3.0,2282,no,,,macOS,Morning,,-1.0,100.64,6.0
+TKT-0237,05-May-2024,21:20:21,06-May-2024,Alice Johnson,Marketing,vpn access,High,Resolved,Chat,West,119.0,2465,yes,Yes,3.0,WINDOWS 11,AFTERNOON,No,0.0,77.24,4.0
+TKT-0488,05-15-2024,09:47:02 AM,2024-05-15,EMILY DAVIS,HR,Printer Issue,medium,Closed,Walk-in,Central,63.0,1255,YES,Yes,0.0,MacOS,Night Shift,yes,0.0,60.72,3.0
+TKT-0560,03-28-2024,06:47 PM,2024/03/30,Henry Moore,HR,network issue,Low,Resolved,Chat,South,81.0,696,no,Yes,4.0,MacOS,Night,No,,37.81,
+TKT-0118,04/03/2024,14:29,03-06-2024,henry moore,Sales,network issue,Mediun,In progress,Walk In,West,36.0,2053,Yes,Y,1.0,macOS,Night Shift,No,0.0,141.5,0.0
+TKT-0852,2024/02/12,12:02:20,2024/02/13,Irene  Taylor,IT,Software Installation,Mediun,In progress,Phone,Central,157.0,2802,Yes,no,5.0,Linux,Night,no,-1.0,95.16,3.0
+TKT-0513,06/05/2024,09:57 PM,,,HR,password reset,Low,closed,Walk In,East,136.0,2048,NO,Yes,4.0,linux,Afternoon,,-1.0,188.25,8.0
+TKT-0579,2024/12/10,10:21:27 AM,2024-12-11,Carol  White,IT,Printer Issue,Mediun,resolved,chat,East,,2342,NO,Yes,10.0,linux,morning,Yes,1.0,151.62,7.0
+TKT-0828,22-Feb-2024,00:26,24-Feb-2024,Alice Johnson,IT,Software Installation,Hign,Resolve,Chat,,166.0,1568,NO,Y,2.0,macOS,Night Shift,no,,10.94,4.0
+TKT-0127,18/06/2024,15:29:28,2024/06/19,JAMES ANDERSON,,Hardware Failure,HIGH,In Progress,Walk In,West,80.0,2004,YES,Yes,3.0,Linux,Night,No,3.0,178.83,10.0
+TKT-0117,2024-11-13,07:30:45 PM,14/11/2024,,Marketing,password reset,medium,Resolve,Self-Service Portal,North,117.0,477,Yes,,4.0,linux,AFTERNOON,no,0.0,168.31,10.0
+TKT-0474,24-Jan-2024,11:11:12 PM,,EMILY DAVIS,Marketing,System Crash,Mediun,In Progress,Phone,North,52.0,553,yes,no,1.0,Windows 11,Night Shift,,0.0,179.12,2.0
+,05-25-2024,20:05,27-May-2024,Carol White,HR,Email problem,High,resolved,Phone,,70.0,3044,YES,Yes,,macOS,Afternoon,,2.0,44.66,8.0
+TKT-0058,12-27-2024,04:33,29-Dec-2024,alice johnson,Marketing,VPN Access,CRITICAL,escalated,phone,West,85.0,2722,no,Y,,linux,Night,yes,2.0,116.83,9.0
+TKT-0705,07-Aug-2024,14:26,08-Aug-2024,Alice Johnson,Operations,Software Installation,Critical,OPEN,Walk-in,North,147.0,19,,no,3.0,linux,Night Shift,,1.0,141.3,10.0
+TKT-0949,25/09/2024,10:58:34 AM,2024/09/25,BOB SMITH,Operations,password reset,Medium,Escalated,self-service portal,South,177.0,1541,YES,yes,5.0,Windows 11,AFTERNOON,No,0.0,,0.0
+TKT-0370,09-23-2024,15:55:24,09-23-2024,JAMES ANDERSON,Legal,Password Reset,CRITICAL,In progress,Phone,,108.0,1075,NO,Y,,Windows 10 ,morning,yes,0.0,160.13,4.0
+TKT-0269,2024-07-19,12:04,2024/07/20,Carol  White,Finance,Network Issue,Low,resolved,self-service portal,,74.0,2862,No,N,0.0,Windows 10,Night Shift,No,,88.29,99.0
+TKT-0047,2024-03-14,09:27,03-15-2024,Grace Wilson ,,SOFTWARE INSTALLATION,Medium,escalated,Walk In,East,-5.0,2347,no,No,2.0,linux,AFTERNOON,No,-1.0,98.31,3.0
+TKT-0350,2024-03-10,05:33 AM,12-Mar-2024,frank miller,Sales,Hardware Failure,High,Closed,Walk-in,East,4.0,1311,no,,,Linux,Night Shift,,,114.42,
+TKT-0196,03/02/2024,18:48,03-Feb-2024,Frank Miller,Finance,Email problem,Mediun,In Progress,Walk-in,,3.0,1687,NO,yes,,macOS,morning,yes,,181.82,
+TKT-0103,2024/08/10,06:52:40,2024/08/10,Carol White,Finance,Hardware failure,Hign,OPEN,Walk In,East,154.0,1066,yes,N,,windows 10,Night,,3.0,56.51,
+TKT-0869,23/01/2024,05:39:58 AM,23/01/2024,James Anderson,IT,Email Problem,HIGH,In progress,self-service portal,East,,1116,,N,1.0,WINDOWS 11,Morning,yes,0.0,48.06,-2.0
+TKT-0722,29/07/2024,03:36 PM,30/07/2024,david brown ,Finance,Account Locked,High,Open,EMAIL,Central,8.0,3128,No,,,Linux,Afternoon,no,1.0,31.66,99.0
+,23/10/2024,20:37:49,2024/10/25,Emily Davis,Marketing,Network Issue,CRITICAL,In progress,phone,South,43.0,99999,No,no,,linux,Morning,No,-1.0,152.02,7.0
+TKT-0264,24-Jun-2024,10:52:15 AM,2024-06-25,BOB SMITH,Marketing,password reset,Medium,Resolved,chat,North,172.0,1642,no,Y,,WINDOWS 11,Night Shift,yes,0.0,148.48,
+TKT-0444,06-Jun-2024,01:37 PM,2024-06-08,david brown ,Legal,Email problem,CRITICAL,In Progress,EMAIL,South,116.0,884,No,Yes,2.0,WINDOWS 11,Morning,no,1.0,73.89,5.0
+,13/12/2024,15:47,2024-12-15,Irene Taylor,IT,network issue,High,closed,self-service portal,North,73.0,3459,YES,,2.0,windows 10,Night,No,0.0,182.49,6.0
+TKT-0305,2024-04-09,05:53:15 PM,,Emily Davis,Finance,Password Reset,Mediun,Open,Email,South,68.0,2710,,yes,2.0,MacOS,AFTERNOON,no,,128.54,8.0
+TKT-0342,2024/12/10,06:16 AM,10-Dec-2024,,,Email Problem,Critical,Resolve,Email,,126.0,3343,No,N,,linux,Night Shift,No,2.0,175.63,
+TKT-0627,2024-11-26,21:13:11,28/11/2024,Bob Smith,Legal,Software Installation,Critical,Closed,EMAIL,West,,451,YES,,,linux,morning,No,0.0,43.34,9.0
+TKT-0039,02-26-2024,09:43:43,2024-02-28,Carol  White,Legal,Software Installation,High,Escalated,Self-Service Portal,North,136.0,2742,yes,Yes,4.0,Linux,Afternoon,no,0.0,117.27,10.0
+TKT-0150,16-May-2024,16:02:46,16/05/2024,David Brown,,System Crash,Hign,OPEN,Walk-in,West,79.0,329,No,Y,2.0,Linux,AFTERNOON,,3.0,109.11,10.0
+,2024/03/21,05:14 PM,23/03/2024,BOB SMITH,Sales,Password Reset,Hign,escalated,Chat,South,141.0,1218,NO,No,5.0,Windows 11,Morning,Yes,0.0,115.62,1.0
+TKT-0818,08-15-2024,17:20:44,15/08/2024,frank miller,Admin,Data Recovery,CRITICAL,resolved,self-service portal,West,132.0,2525,YES,Y,99.0,Windows 10 ,Night Shift,no,,59.87,5.0
+TKT-0856,25-Jul-2024,14:29,07-27-2024,James Anderson,Finance,password reset,Mediun,In progress,Walk-in,North,17.0,48,no,yes,,Windows 11,Night Shift,yes,2.0,172.46,10.0
+TKT-0051,2024-03-03,04:54,03-05-2024,BOB SMITH,Admin,Hardware Failure,Hign,escalated,Self-Service Portal,Central,46.0,2931,no,Yes,,Windows 10 ,Afternoon,No,0.0,,7.0
+TKT-0354,2024/11/19,14:31:11,11-21-2024,Bob Smith,IT,SOFTWARE INSTALLATION,High,closed,Chat,Central,167.0,3084,YES,,2.0,macOS,Afternoon,yes,0.0,83.62,99.0
+TKT-0967,11-26-2024,02:14:19 PM,28-Nov-2024,Irene  Taylor,Sales,network issue,Critical,In Progress,Walk In,South,108.0,1939,Yes,,,windows 10,Night Shift,,,122.72,10.0
+TKT-0143,31-Mar-2024,06:38:29 PM,03-Apr-2024,James Anderson,Sales,SOFTWARE INSTALLATION,CRITICAL,escalated,Walk-in,Central,,2154,NO,N,0.0,Windows 11,morning,No,0.0,41.77,9.0
+TKT-0471,17/03/2024,00:20,,Grace Wilson,Marketing,VPN Access,Medium,Closed,EMAIL,East,109.0,2336,yes,Yes,99.0,Windows 10 ,Night Shift,no,1.0,101.16,7.0
+,2024/02/16,05:16,17/02/2024,alice johnson,Operations,Email problem,Medium,escalated,Self-Service Portal,,-5.0,1448,,N,2.0,Windows 10,AFTERNOON,,-1.0,47.58,6.0
+TKT-0654,13-Sep-2024,19:56:29,2024-09-15,Carol White,Admin,Password Reset,Critical,escalated,Self-Service Portal,East,88.0,1420,yes,No,,macOS,Afternoon,no,,193.9,2.0
+TKT-0321,2024-09-03,22:21:55,,Bob Smith,Finance,Printer Issue,Hign,In Progress,Walk In,Central,-5.0,3042,YES,N,0.0,MacOS,Afternoon,Yes,1.0,97.38,99.0
+,2024-09-04,02:27 PM,05-Sep-2024,Irene Taylor,Admin,Email problem,Critical,In progress,self-service portal,Central,84.0,3498,No,,2.0,WINDOWS 11,Night,No,-1.0,100.71,-2.0
+TKT-0843,10-09-2024,12:53:49 AM,,BOB SMITH,HR,Network Issue,low,OPEN,Phone,West,126.0,3069,YES,yes,99.0,macOS,AFTERNOON,Yes,2.0,120.62,8.0
+TKT-0947,2024/04/16,03:25:01 AM,2024/04/17,Carol White,Operations,Software Installation,medium,In progress,Phone,,171.0,2047,NO,,2.0,Linux,AFTERNOON,No,1.0,94.94,1.0
+TKT-0842,11-25-2024,08:29,2024/11/26,Irene Taylor,Marketing,vpn access,Low,In Progress,phone,South,75.0,2527,yes,No,2.0,windows 10,morning,No,0.0,193.51,6.0
+TKT-0408,17/07/2024,06:07:54 PM,07-18-2024,Alice Johnson,Operations,vpn access,Mediun,Resolve,EMAIL,South,162.0,154,YES,Y,2.0,Windows 10 ,Night Shift,yes,0.0,80.75,5.0
+TKT-0538,2024/05/17,01:02:43,19-May-2024,EMILY DAVIS,Operations,password reset,Low,Escalated,Email,South,67.0,1261,NO,yes,5.0,Windows 11,Afternoon,yes,0.0,10.99,99.0
+TKT-0880,28-Jun-2024,09:38 PM,,Grace Wilson ,Operations,Software Installation,CRITICAL,Escalated,self-service portal,North,104.0,858,yes,No,2.0,macOS,Morning,no,-1.0,98.8,10.0
+TKT-0039,02-26-2024,09:43:43,2024-02-28,Carol  White,Legal,Software Installation,High,Escalated,Self-Service Portal,North,136.0,2742,yes,Yes,4.0,Linux,Afternoon,no,0.0,117.27,10.0
+TKT-0176,15/11/2024,00:18:31,2024-11-15,Irene Taylor,IT,Email Problem,Mediun,Closed,Self-Service Portal,Central,34.0,2080,Yes,,5.0,Windows 10 ,Morning,No,-1.0,85.52,7.0
+TKT-0246,2024/05/23,04:54:32,25/05/2024,JAMES ANDERSON,Admin,Hardware Failure,Low,escalated,EMAIL,South,55.0,2989,Yes,,99.0,linux,Night,no,1.0,178.3,10.0
+TKT-0938,2024/05/15,23:42,17-May-2024,JAMES ANDERSON,Sales,Hardware Failure,Low,Closed,Walk In,North,,858,No,N,3.0,windows 10,Night,no,,,9.0
+TKT-0698,2024/06/10,22:26,,Emily Davis,Marketing,Account Locked,Hign,OPEN,Phone,South,62.0,3334,no,,,MacOS,Morning,Yes,0.0,137.48,
+TKT-0786,21/11/2024,11:42:40,21-Nov-2024,Emily Davis,Sales,password reset,Hign,resolved,Email,,63.0,2312,Yes,Yes,,windows 10,Morning,No,1.0,125.99,99.0
+TKT-0894,01/11/2024,14:00:06,2024/11/02,frank miller,IT,Password Reset,Critical,closed,Walk-in,West,171.0,2583,NO,yes,,Windows 10 ,Night Shift,Yes,0.0,,2.0
+TKT-0155,2024-04-12,09:23:09 PM,2024/04/12,Emily Davis,HR,Account Locked,High,resolved,Email,East,30.0,3039,Yes,No,-1.0,Windows 10 ,morning,No,0.0,158.89,10.0
+TKT-0288,01-07-2024,20:59:02,,JAMES ANDERSON,HR,Password Reset,High,Open,Walk In,North,65.0,3164,Yes,yes,3.0,windows 10,Night Shift,,2.0,177.86,7.0
+TKT-0631,2024/02/24,18:42,02-25-2024,david brown ,HR,Hardware failure,HIGH,closed,Walk In,Central,139.0,2391,,Yes,3.0,WINDOWS 11,Night,No,-1.0,113.71,2.0
+TKT-0570,01-07-2024,14:55,2024-01-07,David Brown,Admin,Data Recovery,Low,OPEN,Email,Central,63.0,1517,,N,-1.0,Windows 10 ,Morning,no,1.0,94.29,2.0
+TKT-0775,2024/06/22,08:13 AM,,Bob Smith,Admin,Printer Issue,Critical,resolved,EMAIL,Central,128.0,479,,,4.0,Linux,morning,Yes,0.0,65.4,99.0
+TKT-0018,2024-06-16,10:48 AM,06-18-2024,Carol White,Marketing,vpn access,High,escalated,Phone,South,-5.0,3090,,no,5.0,windows 10,Afternoon,,0.0,36.93,5.0
+TKT-0128,05-28-2024,04:29,30/05/2024,Henry Moore,,VPN Access,Hign,In Progress,chat,East,25.0,1635,yes,Y,1.0,macOS,Afternoon,no,-1.0,176.9,1.0
+TKT-0323,01/08/2024,13:09,2024/08/02,Irene  Taylor,Legal,Account Locked,High,Resolve,self-service portal,Central,119.0,502,YES,,1.0,MacOS,Morning,Yes,0.0,73.61,0.0
+TKT-0256,05-22-2024,08:39:23 PM,,frank miller,HR,Network Issue,Hign,closed,Chat,Central,19.0,905,no,yes,-1.0,Windows 10 ,Morning,,-1.0,129.92,4.0
+TKT-0993,2024/10/09,08:45:23 PM,,Irene  Taylor,Sales,Printer Issue,Medium,Escalated,EMAIL,North,44.0,310,YES,No,99.0,Linux,Night Shift,no,2.0,19.23,6.0
+TKT-0443,08/08/2024,07:14 AM,09/08/2024,Alice Johnson,IT,password reset,Critical,In Progress,EMAIL,South,143.0,1458,,No,,Linux,AFTERNOON,yes,0.0,,
+TKT-0191,25/06/2024,14:31:32,2024/06/27,James Anderson,IT,Email problem,Mediun,resolved,Email,West,33.0,1935,,Y,0.0,Linux,morning,yes,,130.71,5.0
+TKT-0116,2024/10/08,08:24 PM,09-Oct-2024,,Marketing,Hardware Failure,CRITICAL,In progress,phone,East,,1890,no,,-1.0,Windows 11,morning,Yes,1.0,69.73,-2.0
+TKT-0645,16-Dec-2024,22:39:48,16-Dec-2024,EMILY DAVIS,HR,password reset,medium,Resolved,Email,,131.0,1068,Yes,Y,5.0,Windows 11,Afternoon,No,-1.0,86.02,7.0
+TKT-0607,2024-10-20,05:12 PM,,henry moore,Marketing,System Crash,Mediun,closed,chat,,86.0,1986,,N,10.0,Windows 10 ,Night Shift,no,,178.28,-2.0
+TKT-0181,05/02/2024,17:14:00,07/02/2024,Irene  Taylor,Sales,SOFTWARE INSTALLATION,medium,Resolve,Self-Service Portal,,178.0,3360,,no,,WINDOWS 11,Morning,no,0.0,75.06,2.0
+TKT-0302,10-Jul-2024,05:35 AM,10-Jul-2024,,,Network Issue,Medium,Open,Email,West,140.0,1795,no,yes,,Windows 10,AFTERNOON,Yes,1.0,190.36,6.0
+TKT-0791,2024-05-10,04:30:23,11/05/2024,JAMES ANDERSON,Admin,Hardware Failure,Medium,resolved,Self-Service Portal,West,115.0,1560,no,No,-1.0,Windows 10,Night Shift,Yes,0.0,84.56,
+TKT-0744,09-May-2024,11:21,2024/05/10,,Operations,Password Reset,Low,Resolve,phone,North,46.0,3113,NO,no,5.0,Windows 10 ,morning,Yes,3.0,198.13,0.0
+TKT-0755,02/01/2024,01:41:01,01-02-2024,Carol  White,Operations,Email Problem,Low,resolved,EMAIL,South,150.0,2664,yes,no,2.0,Windows 10 ,Night Shift,No,0.0,131.92,8.0
+TKT-0716,2024-07-04,10:36:19,06-Jul-2024,,Marketing,Email Problem,Critical,In Progress,chat,East,161.0,2257,,,1.0,macOS,Afternoon,,-1.0,,9.0
+TKT-0793,2024/07/02,04:36:32,07-04-2024,,Marketing,Hardware Failure,medium,Escalated,Phone,North,,14,no,N,5.0,Windows 10 ,Night,No,3.0,93.25,7.0
+TKT-0518,20/08/2024,03:09:17 AM,21/08/2024,BOB SMITH,HR,Hardware failure,HIGH,In Progress,Walk-in,West,,1480,YES,yes,0.0,Windows 10,Night,Yes,,120.21,7.0
+TKT-0373,2024-02-03,10:14,2024/02/04,Grace Wilson,,SOFTWARE INSTALLATION,CRITICAL,In progress,self-service portal,North,59.0,624,yes,Y,2.0,Windows 10,Night Shift,Yes,-1.0,53.35,5.0
+TKT-0046,12-Jun-2024,03:53:45 AM,,Emily Davis,Admin,vpn access,CRITICAL,closed,Phone,Central,39.0,573,Yes,yes,99.0,Windows 11,Morning,,0.0,117.13,0.0
+TKT-0946,12-Nov-2024,03:56:32 AM,14/11/2024,David Brown,Marketing,System Crash,Critical,In Progress,Phone,,,156,yes,,1.0,Linux,Night,no,0.0,165.97,-2.0
+TKT-0158,12-16-2024,06:55 AM,2024-12-17,Emily Davis,IT,VPN Access,medium,Open,Walk In,South,178.0,2898,YES,No,,linux,Night Shift,Yes,2.0,124.41,10.0
+TKT-0961,23/06/2024,12:20:28 PM,23/06/2024,Carol White,HR,VPN Access,Hign,Open,chat,South,111.0,1938,no,yes,5.0,Windows 10 ,morning,No,,181.29,6.0
+TKT-0172,02-05-2024,07:06:43 PM,02-07-2024,Carol White,Finance,Printer Issue,Low,closed,Phone,Central,85.0,2034,NO,N,1.0,macOS,Night Shift,Yes,,171.24,1.0
+TKT-0017,2024/06/01,12:54:57,03-Jun-2024,Henry Moore,IT,vpn access,Critical,Closed,EMAIL,West,139.0,3071,NO,Y,-1.0,MacOS,Morning,No,0.0,68.83,8.0
+TKT-0512,2024-12-25,07:50 AM,2024/12/27,david brown ,Admin,Network Issue,CRITICAL,Resolve,chat,North,,1321,YES,yes,5.0,MacOS,Afternoon,No,0.0,36.61,6.0
+TKT-0049,2024-02-12,23:27:05,14-Feb-2024,alice johnson,Marketing,Network Issue,Medium,resolved,Self-Service Portal,Central,156.0,3378,,Y,5.0,Windows 10 ,morning,No,0.0,123.48,-2.0
+TKT-0975,2024/07/10,01:56,,Henry Moore,Finance,network issue,Hign,In progress,Email,Central,32.0,2367,Yes,N,-1.0,linux,morning,no,0.0,120.24,4.0
+TKT-0875,2024-02-10,06:39:10 PM,11-Feb-2024,Henry Moore,Marketing,Software Installation,CRITICAL,escalated,Email,East,97.0,3515,Yes,No,,Windows 11,Afternoon,no,0.0,81.5,-2.0
+TKT-0516,10/12/2024,02:07:07 AM,12-12-2024,David Brown,,Software Installation,CRITICAL,In Progress,phone,North,105.0,438,,No,1.0,linux,morning,No,2.0,22.57,1.0
+TKT-0717,2024-05-23,14:28,2024-05-24,david brown ,,vpn access,medium,resolved,Walk-in,Central,68.0,299,,,99.0,linux,Morning,yes,3.0,123.66,0.0
+TKT-0481,04-May-2024,04:43:04,05-04-2024,Frank Miller,Legal,Account Locked,low,Closed,Chat,South,180.0,1648,YES,N,5.0,Windows 10,Afternoon,yes,3.0,173.92,1.0
+TKT-0284,2024-09-30,11:09 PM,30-Sep-2024,henry moore,Admin,SOFTWARE INSTALLATION,medium,In progress,Email,,51.0,1722,YES,N,5.0,WINDOWS 11,Morning,,0.0,151.39,7.0
+TKT-0750,23-Dec-2024,00:34,2024-12-24,JAMES ANDERSON,Finance,network issue,Mediun,Resolve,Phone,West,49.0,2368,NO,Yes,,Windows 10 ,Night,yes,0.0,23.18,4.0
+TKT-0866,23-Aug-2024,00:06:23,2024/08/23,,Operations,Email Problem,High,closed,Chat,West,29.0,2326,no,no,-1.0,windows 10,Morning,,3.0,120.71,2.0
+TKT-0226,04-Jul-2024,05:46,06/07/2024,Emily Davis,IT,SOFTWARE INSTALLATION,medium,In Progress,Email,Central,131.0,2051,NO,,,Linux,morning,no,1.0,88.62,7.0
+TKT-0027,2024/05/04,02:35:09 PM,05-06-2024,Carol White,Operations,Data Recovery,low,resolved,Walk In,,50.0,2465,YES,N,3.0,Windows 10 ,Morning,No,,156.23,1.0
+TKT-0814,10-15-2024,11:43 PM,16-Oct-2024,david brown ,Finance,password reset,High,Closed,phone,West,74.0,2853,No,yes,-1.0,Windows 10,Night Shift,,0.0,161.3,2.0
+TKT-0438,19-Apr-2024,03:11:24,21-Apr-2024,,HR,Email Problem,Hign,In Progress,Email,South,164.0,2578,YES,,2.0,MacOS,AFTERNOON,yes,,168.09,4.0
+TKT-0991,2024/10/02,05:30,2024-10-03,JAMES ANDERSON,IT,Printer Issue,Critical,Resolved,Self-Service Portal,South,114.0,557,,yes,4.0,windows 10,Night Shift,yes,2.0,71.31,-2.0
+,08-11-2024,08:47 AM,,Carol  White,Sales,VPN Access,HIGH,Closed,Phone,,72.0,2064,NO,Yes,10.0,WINDOWS 11,Afternoon,,-1.0,128.78,6.0
+TKT-0230,03-Jul-2024,02:06:09 PM,05/07/2024,Emily Davis,,vpn access,Critical,In progress,Email,South,107.0,345,Yes,Yes,,windows 10,Night Shift,no,-1.0,142.38,99.0
+TKT-0038,03-14-2024,06:42:25 PM,14-Mar-2024,Grace Wilson ,Admin,Printer Issue,low,OPEN,chat,West,38.0,3045,,,2.0,windows 10,Afternoon,yes,1.0,27.19,7.0
+TKT-0670,09-10-2024,07:39:36 PM,2024-09-11,,IT,Account Locked,Hign,Escalated,chat,East,46.0,1237,NO,No,1.0,Windows 10 ,Night,yes,3.0,78.81,-2.0
+TKT-0764,17/09/2024,05:44,2024-09-19,Grace Wilson,Operations,Hardware failure,High,resolved,Self-Service Portal,East,129.0,2974,NO,N,,Windows 10 ,morning,Yes,0.0,,6.0
+TKT-0375,2024/02/21,05:37 PM,2024/02/23,David Brown,,Email problem,Critical,closed,self-service portal,East,78.0,2341,Yes,Y,,MacOS,Morning,no,0.0,189.41,8.0
+TKT-0470,2024-09-01,12:17 PM,09-03-2024,frank miller,Operations,Hardware failure,Critical,escalated,Walk In,,58.0,1804,No,Yes,4.0,macOS,Morning,,0.0,195.6,1.0
+TKT-0254,2024-07-19,05:04:42,19/07/2024,Frank Miller,Operations,Printer Issue,High,Resolve,Walk In,East,175.0,1129,No,no,,Linux,morning,No,1.0,,7.0
+TKT-0886,2024-11-11,04:46,,frank miller,Marketing,network issue,Hign,escalated,Walk-in,North,170.0,2781,YES,No,,Windows 10 ,Morning,No,0.0,27.59,99.0
+TKT-0735,2024/02/23,08:30,24/02/2024,BOB SMITH,Sales,VPN Access,HIGH,In progress,Self-Service Portal,South,58.0,1030,no,,-1.0,WINDOWS 11,morning,no,-1.0,34.39,2.0
+TKT-0757,24/12/2024,08:20:30 PM,12-26-2024,Bob Smith,IT,Email Problem,Low,Escalated,Email,North,,1676,NO,Yes,-1.0,Windows 11,morning,No,,105.78,5.0
+TKT-0195,29-Jan-2024,09:23 PM,2024/01/29,James Anderson,Finance,SOFTWARE INSTALLATION,medium,Closed,chat,South,111.0,1524,no,yes,1.0,linux,Morning,No,2.0,174.17,6.0
+TKT-0890,2024-08-21,14:00:48,2024-08-21,frank miller,IT,password reset,Mediun,Closed,self-service portal,North,115.0,2001,,,4.0,Linux,Afternoon,yes,2.0,189.24,-2.0
+TKT-0900,01-12-2024,06:09:12,13/01/2024,Frank Miller,Sales,password reset,medium,Resolve,self-service portal,,132.0,1226,Yes,Y,1.0,MacOS,morning,no,2.0,19.33,8.0
+TKT-0504,10-13-2024,10:01 AM,2024-10-14,Henry Moore,Finance,Password Reset,Critical,Closed,self-service portal,East,126.0,3176,NO,yes,,Windows 11,Night Shift,No,,68.42,8.0
+TKT-0872,2024/11/26,09:19 AM,11-28-2024,alice johnson,Operations,Data Recovery,High,Closed,Chat,,130.0,2012,,,,Linux,Morning,,,59.05,99.0
+TKT-0865,2024/07/22,01:30 AM,23-Jul-2024,Grace Wilson,Admin,Password Reset,Mediun,resolved,Walk In,North,76.0,3020,YES,,4.0,MacOS,Afternoon,yes,3.0,24.45,
+TKT-0580,11-13-2024,12:29:34 PM,16-Nov-2024,Grace Wilson ,Marketing,vpn access,Critical,Open,Chat,South,167.0,1869,no,Yes,-1.0,WINDOWS 11,morning,No,2.0,122.51,
+TKT-0224,22/06/2024,07:54 PM,2024-06-24,,Marketing,SOFTWARE INSTALLATION,CRITICAL,In Progress,self-service portal,East,35.0,1211,NO,N,,Linux,Night,yes,0.0,172.6,9.0
+TKT-0681,2024-09-05,12:05 AM,05-Sep-2024,James Anderson,HR,VPN Access,medium,Escalated,EMAIL,South,77.0,3329,NO,N,3.0,Windows 10,AFTERNOON,yes,1.0,30.93,-2.0
+TKT-0163,2024/11/03,12:15 AM,2024/11/05,Bob Smith,Marketing,VPN Access,Low,Resolved,phone,North,73.0,2548,NO,,4.0,Windows 10,Afternoon,Yes,2.0,180.02,99.0
+TKT-0733,21/10/2024,03:12,21-Oct-2024,Grace Wilson,Legal,VPN Access,Critical,closed,Self-Service Portal,South,95.0,753,YES,no,2.0,windows 10,morning,yes,0.0,147.29,10.0
+TKT-0153,03-02-2024,07:47:41 AM,03-02-2024,James Anderson,Finance,Software Installation,medium,escalated,self-service portal,West,164.0,3194,NO,no,,macOS,Night,,0.0,56.2,7.0
+TKT-0712,10-23-2024,12:37:49 AM,25-Oct-2024,JAMES ANDERSON,Sales,vpn access,Mediun,In progress,Chat,Central,165.0,281,,Y,99.0,Windows 10 ,Night,Yes,3.0,129.64,4.0
+TKT-0731,03-14-2024,01:52 PM,2024-03-15,,Finance,VPN Access,Critical,Resolved,EMAIL,East,64.0,3322,NO,Yes,10.0,Windows 10,Morning,No,0.0,98.68,2.0
+TKT-0787,2024/06/18,06:05,2024/06/18,Irene  Taylor,Operations,Password Reset,HIGH,In Progress,EMAIL,Central,30.0,592,No,N,,windows 10,Afternoon,yes,3.0,191.14,5.0
+TKT-0112,04/03/2024,17:16,04/03/2024,James Anderson,Marketing,network issue,Medium,Resolve,Walk In,,54.0,2857,NO,N,1.0,Windows 10 ,AFTERNOON,no,2.0,111.89,4.0
+TKT-0227,2024/08/22,16:50,2024/08/23,Grace Wilson ,Sales,Hardware Failure,Medium,resolved,phone,,9.0,1822,No,,,WINDOWS 11,Afternoon,yes,3.0,,5.0
+TKT-0719,18-Sep-2024,04:52,18-Sep-2024,Carol  White,HR,Software Installation,Medium,Resolved,chat,South,168.0,3399,no,Yes,,macOS,Afternoon,yes,0.0,68.94,9.0
+TKT-0104,2024-09-05,06:38 PM,05-Sep-2024,JAMES ANDERSON,Marketing,Hardware failure,High,OPEN,phone,East,,1138,no,No,-1.0,Linux,Morning,no,0.0,46.22,99.0
+TKT-0422,05-21-2024,22:09:23,21/05/2024,alice johnson,,SOFTWARE INSTALLATION,Mediun,In progress,Walk In,Central,123.0,1020,No,N,1.0,macOS,Night,yes,1.0,87.48,99.0
+TKT-0420,2024/12/27,03:38:18 PM,,david brown ,Admin,vpn access,High,Closed,Chat,East,62.0,2134,no,,4.0,windows 10,Night Shift,no,1.0,68.61,4.0
+TKT-0782,2024/03/17,05:10:14 AM,18-Mar-2024,,Sales,Password Reset,low,In Progress,Phone,North,106.0,2486,No,,2.0,Windows 10,morning,yes,-1.0,139.62,-2.0
+TKT-0587,2024-10-09,09:12:16,10-Oct-2024,Henry Moore,Legal,SOFTWARE INSTALLATION,High,Escalated,Self-Service Portal,Central,103.0,1598,No,Yes,2.0,macOS,Afternoon,no,0.0,,-2.0
+TKT-0812,2024/05/25,10:13:20 AM,2024/05/25,EMILY DAVIS,Legal,Network Issue,Hign,escalated,Walk-in,West,122.0,1668,yes,Yes,5.0,Windows 10,Morning,no,2.0,84.67,2.0
+TKT-0673,2024-11-07,06:02 PM,07-Nov-2024,David Brown,Sales,Password Reset,Hign,Closed,phone,West,,1957,NO,No,-1.0,Windows 10,Night Shift,,1.0,82.29,
+TKT-0120,2024-04-12,08:48:50 AM,04-12-2024,James Anderson,,Printer Issue,Hign,Resolved,phone,North,75.0,2809,yes,No,1.0,MacOS,Morning,Yes,2.0,174.43,99.0
+TKT-0054,13/08/2024,13:30,08-14-2024,BOB SMITH,Operations,Hardware failure,Low,resolved,Walk In,South,89.0,2494,No,yes,,linux,Morning,no,-1.0,65.17,1.0
+TKT-0152,2024-10-19,04:06,,Irene  Taylor,Legal,System Crash,Critical,Closed,Self-Service Portal,North,93.0,649,No,yes,,Windows 11,AFTERNOON,Yes,3.0,164.34,7.0
+TKT-0404,2024/12/31,06:31,12-31-2024,James Anderson,Legal,Password Reset,Critical,Resolve,phone,,,1572,No,N,2.0,macOS,morning,Yes,,78.54,99.0
+TKT-0985,06-25-2024,02:33 PM,06-27-2024,frank miller,Operations,Email problem,HIGH,resolved,Chat,East,57.0,2792,yes,yes,0.0,WINDOWS 11,Afternoon,Yes,0.0,194.15,
+TKT-0208,24-Sep-2024,06:23:29 AM,24-Sep-2024,david brown ,Legal,network issue,medium,Open,Walk-in,,63.0,626,NO,N,5.0,WINDOWS 11,Night,Yes,1.0,31.6,5.0
+TKT-0659,10-16-2024,05:38,2024-10-16,Henry Moore,Finance,Software Installation,HIGH,Closed,Walk In,Central,49.0,3170,Yes,,5.0,Windows 10,AFTERNOON,No,3.0,160.26,
+TKT-0925,06-13-2024,19:55:47,15/06/2024,,Operations,Email Problem,low,Resolve,self-service portal,West,81.0,1052,,,,Windows 10 ,Night Shift,,1.0,158.94,-2.0
+,25/01/2024,07:41:49 AM,2024-01-25,Irene Taylor,Marketing,network issue,CRITICAL,Resolve,phone,North,71.0,44,YES,,4.0,Windows 10 ,Night Shift,No,1.0,16.72,9.0
+TKT-0009,10-16-2024,16:20:59,10-17-2024,Irene Taylor,Sales,Hardware failure,Low,Resolve,Self-Service Portal,South,54.0,2753,NO,yes,,MacOS,Night,no,2.0,197.51,
+TKT-0980,11-22-2024,05:58:53 PM,23-Nov-2024,Emily Davis,Finance,Data Recovery,Medium,Closed,Chat,Central,148.0,2688,Yes,no,5.0,Windows 10,Night,yes,1.0,,7.0
+TKT-0037,11-Oct-2024,01:37:35,10-13-2024,david brown ,HR,Software Installation,HIGH,closed,Self-Service Portal,South,86.0,2754,Yes,no,,windows 10,Morning,yes,2.0,73.45,3.0
+TKT-0453,2024-09-12,23:25,2024-09-13,Henry Moore,Legal,System Crash,Critical,In progress,Chat,West,67.0,446,,No,0.0,Windows 11,Night Shift,no,0.0,195.78,6.0
+TKT-0652,15/10/2024,05:21:16 AM,17/10/2024,Frank Miller,Marketing,Account Locked,High,In progress,EMAIL,Central,177.0,2173,no,No,99.0,WINDOWS 11,Night,No,1.0,89.09,9.0
+TKT-0254,2024-07-19,05:04:42,19/07/2024,Frank Miller,Operations,Printer Issue,High,Resolve,Walk In,East,175.0,1129,No,no,,Linux,morning,No,1.0,,7.0
+TKT-0304,2024/11/21,12:46:11,2024-11-23,David Brown,IT,Email Problem,Hign,Open,self-service portal,West,-5.0,2128,No,,4.0,WINDOWS 11,Night Shift,yes,0.0,180.09,5.0
+TKT-0778,27/11/2024,12:48:46 AM,27/11/2024,David Brown,IT,vpn access,CRITICAL,OPEN,Chat,South,105.0,3337,no,no,99.0,linux,AFTERNOON,no,,105.37,0.0
+TKT-0572,12-12-2024,12:44 AM,2024/12/14,Henry Moore,Finance,Email problem,CRITICAL,In progress,Chat,North,,3595,NO,,3.0,WINDOWS 11,morning,yes,3.0,133.37,1.0
+TKT-0624,13-Oct-2024,03:50:06 AM,,Grace Wilson,Sales,Account Locked,Critical,closed,Walk In,North,71.0,3187,NO,,1.0,linux,Morning,No,0.0,126.42,2.0
+TKT-0741,01-Aug-2024,03:25:58,2024/08/03,Bob Smith,Finance,System Crash,HIGH,In Progress,Email,South,10.0,3073,Yes,Y,-1.0,Linux,Night,,,,6.0
+TKT-0751,08-02-2024,21:35:04,03/08/2024,Henry Moore,Operations,Password Reset,Hign,Closed,Walk-in,,152.0,2270,Yes,No,,MacOS,Night Shift,No,2.0,63.79,1.0
+TKT-0263,28/07/2024,14:40:58,2024/07/28,Carol  White,Sales,Network Issue,HIGH,Open,phone,West,,690,Yes,yes,2.0,Windows 10,AFTERNOON,no,3.0,70.63,
+TKT-0611,02-04-2024,22:49:30,2024/02/05,Frank Miller,Marketing,network issue,HIGH,escalated,Walk In,West,165.0,596,NO,no,99.0,Linux,AFTERNOON,yes,0.0,15.67,1.0
+TKT-0298,05-May-2024,10:52 PM,2024-05-05,Frank Miller,Marketing,Hardware failure,Medium,Escalated,EMAIL,East,41.0,3504,Yes,yes,,MacOS,Night Shift,,-1.0,149.55,2.0
+TKT-0415,2024/12/09,02:51:42 AM,12-10-2024,David Brown,Finance,System Crash,Medium,In Progress,phone,Central,132.0,474,Yes,,,Windows 11,Afternoon,Yes,0.0,43.91,0.0
+TKT-0151,08-14-2024,11:57:20,16/08/2024,alice johnson,Operations,System Crash,Mediun,escalated,Walk-in,East,85.0,3470,yes,no,,WINDOWS 11,AFTERNOON,Yes,2.0,104.7,10.0
+TKT-0820,2024-06-24,07:33:51,,alice johnson,Operations,VPN Access,Critical,Resolve,Chat,East,169.0,2701,,yes,4.0,WINDOWS 11,morning,,3.0,20.17,10.0
+TKT-0641,28/07/2024,17:28,,,Legal,Software Installation,Critical,resolved,Phone,,161.0,1211,no,no,2.0,Windows 10,morning,no,0.0,34.41,6.0
+TKT-0926,2024/07/21,23:36:49,07-23-2024,,,password reset,medium,In progress,Email,West,99.0,2195,Yes,N,,MacOS,Night,No,2.0,136.4,8.0
+TKT-0551,30/07/2024,11:08:38,07-31-2024,Carol White,Operations,Email Problem,CRITICAL,Escalated,Self-Service Portal,,,1944,,Yes,,linux,Morning,yes,-1.0,153.97,99.0
+,2024/08/18,07:13:35 AM,08-18-2024,alice johnson,Finance,VPN Access,HIGH,In progress,Self-Service Portal,Central,66.0,1868,NO,N,0.0,Windows 10 ,Afternoon,no,,174.08,8.0
+TKT-0489,01-09-2024,10:28:16 PM,2024/01/09,JAMES ANDERSON,Operations,network issue,Mediun,closed,EMAIL,South,105.0,3107,YES,N,-1.0,Windows 10 ,AFTERNOON,yes,0.0,155.6,5.0
+TKT-0711,09-27-2024,13:58:34,2024/09/29,frank miller,Operations,Software Installation,Medium,In progress,Phone,North,6.0,2109,,No,,Linux,morning,,2.0,46.46,
+TKT-0148,20-May-2024,07:58 PM,22-May-2024,James Anderson,,Data Recovery,Hign,resolved,chat,South,43.0,292,YES,No,99.0,Windows 10,Night Shift,,2.0,129.98,2.0
+TKT-0147,12-Sep-2024,02:43:39 AM,2024/09/13,henry moore,Admin,Network Issue,Low,In progress,Walk-in,South,162.0,255,Yes,yes,3.0,windows 10,AFTERNOON,,0.0,68.12,8.0
+TKT-0752,17/01/2024,08:05,17/01/2024,Henry Moore,Operations,Hardware failure,Mediun,Open,phone,South,80.0,463,NO,yes,,linux,Night,No,3.0,61.77,3.0
+TKT-0971,18-Jun-2024,12:27 PM,2024-06-18,EMILY DAVIS,IT,Email problem,Medium,closed,Walk In,South,143.0,793,,Y,5.0,linux,AFTERNOON,Yes,,161.43,
+TKT-0771,19/11/2024,03:06:24 PM,11-20-2024,Carol  White,Operations,Email problem,low,Closed,Phone,West,,1789,yes,,,WINDOWS 11,AFTERNOON,,1.0,40.55,99.0
+TKT-0660,2024-01-18,07:54 AM,01-20-2024,JAMES ANDERSON,Sales,Printer Issue,Critical,Escalated,Chat,North,,3321,YES,yes,4.0,Windows 10 ,Afternoon,No,0.0,70.0,10.0
+TKT-0349,04-11-2024,02:55 PM,04-11-2024,frank miller,,Email Problem,Hign,OPEN,EMAIL,Central,110.0,2038,No,N,0.0,Windows 10,Night,yes,-1.0,187.56,0.0
+TKT-0464,2024-06-23,03:39:51 AM,06-23-2024,david brown ,Legal,Account Locked,High,Open,Phone,North,165.0,1308,No,yes,0.0,Windows 10 ,Night Shift,Yes,2.0,143.8,99.0
+TKT-0326,09-27-2024,06:05 AM,27-Sep-2024,Emily Davis,Legal,Password Reset,medium,OPEN,self-service portal,,163.0,2748,Yes,No,1.0,linux,Morning,no,0.0,29.8,9.0
+TKT-0187,09-05-2024,01:56 AM,2024/09/05,,IT,Email Problem,CRITICAL,Escalated,phone,Central,57.0,2506,no,No,,Windows 10 ,Afternoon,,1.0,,99.0
+,2024/02/07,01:11:50,02-08-2024,Irene Taylor,Finance,network issue,low,In progress,EMAIL,East,144.0,298,YES,,4.0,WINDOWS 11,Night,no,,133.84,8.0
+TKT-0889,07-Sep-2024,12:15,2024/09/07,alice johnson,Finance,Account Locked,low,Open,Chat,West,,119,YES,Y,,windows 10,Afternoon,Yes,1.0,25.77,1.0
+TKT-0609,09/05/2024,04:38 AM,09/05/2024,david brown ,Finance,Hardware failure,medium,In Progress,Self-Service Portal,Central,102.0,1992,yes,N,,Windows 10,morning,Yes,3.0,186.71,
+TKT-0144,11/08/2024,12:15:10,2024-08-13,,IT,Data Recovery,HIGH,Resolve,Walk In,North,98.0,913,yes,Yes,,Windows 10 ,morning,yes,2.0,90.49,1.0
+TKT-0709,2024/07/17,06:56:43 AM,07-19-2024,Emily Davis,Admin,Printer Issue,low,Open,Phone,,63.0,25,,Y,,linux,Morning,,,151.56,6.0
+TKT-0198,20/09/2024,06:49 AM,2024/09/20,alice johnson,,password reset,HIGH,Closed,phone,Central,26.0,2462,,No,,Windows 11,AFTERNOON,,0.0,183.63,2.0
+TKT-0610,12-03-2024,09:28,03/12/2024,James Anderson,HR,Account Locked,medium,resolved,self-service portal,North,68.0,2053,yes,no,,Linux,AFTERNOON,No,,41.04,2.0
+TKT-0280,03/08/2024,11:21 PM,2024-08-03,David Brown,Operations,network issue,CRITICAL,escalated,chat,North,43.0,2738,No,no,5.0,macOS,Night,yes,,148.8,7.0
+TKT-0294,2024-04-22,12:11 PM,04-24-2024,frank miller,Operations,password reset,low,OPEN,Chat,Central,-5.0,3457,Yes,,99.0,Windows 10,Night,No,0.0,21.58,10.0
+TKT-0401,2024-02-19,09:58:09 PM,20/02/2024,Grace Wilson ,Marketing,Email Problem,CRITICAL,Resolved,self-service portal,West,148.0,734,no,N,3.0,Windows 10,AFTERNOON,,,189.08,
+TKT-0123,14-Jul-2024,03:24:16,16-Jul-2024,Grace Wilson ,Finance,Email problem,CRITICAL,Resolved,Self-Service Portal,,74.0,111,YES,,,Linux,Night,No,0.0,69.68,2.0
+TKT-0184,02-Feb-2024,03:17:09 AM,04/02/2024,EMILY DAVIS,IT,System Crash,Mediun,Resolved,Chat,,45.0,2862,,Y,,Windows 11,Night Shift,yes,-1.0,187.93,10.0
+TKT-0203,07-01-2024,15:42:38,2024/07/03,,Admin,Network Issue,HIGH,In progress,chat,West,126.0,2104,yes,,99.0,Linux,Night Shift,No,2.0,100.6,5.0
+,03-06-2024,15:39,2024/03/08,,Marketing,Account Locked,CRITICAL,Open,EMAIL,East,106.0,2656,,,3.0,Windows 10,morning,no,-1.0,174.88,0.0
+TKT-0247,2024-03-21,11:16,03-21-2024,Grace Wilson ,,SOFTWARE INSTALLATION,Critical,closed,Phone,Central,36.0,3088,Yes,yes,99.0,MacOS,AFTERNOON,,0.0,185.69,2.0
+TKT-0416,11/02/2024,05:05:45,,Grace Wilson,Operations,Software Installation,Medium,OPEN,phone,East,2.0,1783,,N,4.0,linux,Afternoon,No,1.0,142.06,2.0
+TKT-0808,12-23-2024,07:19 PM,12-25-2024,david brown ,Finance,Hardware Failure,medium,OPEN,Self-Service Portal,,91.0,2883,Yes,Yes,10.0,Windows 10,AFTERNOON,,0.0,165.81,7.0
+TKT-0797,04-Jul-2024,08:59 AM,06-Jul-2024,,Finance,password reset,low,Open,self-service portal,South,157.0,1945,No,Y,,macOS,morning,no,,90.92,4.0
+TKT-0960,23-Sep-2024,01:33:40 AM,25/09/2024,Irene  Taylor,Legal,System Crash,Low,Resolved,chat,East,108.0,2932,NO,,,Windows 10,AFTERNOON,Yes,-1.0,136.27,5.0
+TKT-0800,24/07/2024,11:14 PM,07-24-2024,JAMES ANDERSON,Admin,Network Issue,Low,In progress,Phone,North,90.0,2371,No,N,,WINDOWS 11,Night,,1.0,,9.0
+TKT-0924,19/10/2024,12:03:43 AM,2024/10/21,BOB SMITH,Admin,Password Reset,Low,Resolved,phone,East,15.0,3349,Yes,no,0.0,Windows 10,Afternoon,no,3.0,174.29,7.0
+TKT-0130,04-05-2024,05:23 AM,05-Apr-2024,,HR,vpn access,CRITICAL,In progress,Walk-in,,171.0,953,no,,,macOS,Night Shift,yes,0.0,123.27,8.0
+TKT-0638,09/10/2024,10:21:06 PM,2024-10-11,,IT,SOFTWARE INSTALLATION,Mediun,Resolved,Self-Service Portal,South,31.0,2822,no,Yes,3.0,WINDOWS 11,Morning,No,,,2.0
+TKT-0403,08-Sep-2024,03:20 AM,2024-09-10,Bob Smith,Operations,Software Installation,Critical,Open,Self-Service Portal,North,,1602,yes,no,5.0,linux,Afternoon,no,0.0,143.92,2.0
+TKT-0937,19-Mar-2024,10:21 AM,03-20-2024,Irene  Taylor,Legal,Email problem,CRITICAL,Resolve,Phone,Central,107.0,2144,,N,4.0,Windows 10 ,Morning,Yes,2.0,59.31,
+TKT-0802,2024-08-09,02:31:13,10/08/2024,Grace Wilson,,Network Issue,Low,closed,chat,,106.0,3538,No,Yes,,windows 10,Night,,0.0,195.72,3.0
+TKT-0736,2024/06/22,03:05 PM,2024/06/24,Henry Moore,Finance,password reset,HIGH,Escalated,Self-Service Portal,West,167.0,2868,no,No,0.0,WINDOWS 11,AFTERNOON,Yes,3.0,136.39,9.0
+TKT-0950,2024-04-30,13:16,05-01-2024,,HR,network issue,CRITICAL,Closed,Email,Central,134.0,1284,no,no,,WINDOWS 11,Afternoon,Yes,0.0,57.52,-2.0
+TKT-0220,02-Jun-2024,04:08 AM,03-Jun-2024,Bob Smith,HR,Hardware Failure,High,escalated,Email,North,65.0,99999,no,yes,-1.0,linux,morning,no,2.0,146.2,-2.0
+TKT-0642,11-22-2024,01:53 PM,2024/11/23,Alice Johnson,Sales,Hardware failure,HIGH,Closed,Email,Central,43.0,1471,,Y,3.0,Windows 11,Morning,,0.0,108.01,5.0
+TKT-0952,13/07/2024,04:48 PM,14/07/2024,Grace Wilson,Operations,Account Locked,HIGH,Resolve,phone,Central,129.0,1861,,yes,1.0,Windows 10 ,Night,no,-1.0,138.96,0.0
+TKT-0784,27/04/2024,09:59:22 PM,2024/04/29,,,Printer Issue,low,OPEN,Self-Service Portal,South,111.0,2590,No,,,linux,Night,yes,2.0,195.2,7.0
+TKT-0888,14-Jan-2024,07:13:54,16-Jan-2024,JAMES ANDERSON,Admin,Email problem,High,closed,Walk-in,East,69.0,1067,YES,N,-1.0,Linux,AFTERNOON,No,0.0,113.52,6.0
+TKT-0957,2024-07-12,08:40,07-14-2024,henry moore,Sales,Email Problem,Medium,escalated,chat,West,26.0,3401,Yes,yes,0.0,Windows 10,Night Shift,Yes,0.0,171.97,4.0
+TKT-0625,06-27-2024,06:32:52,,Emily Davis,Admin,SOFTWARE INSTALLATION,HIGH,In Progress,Phone,,7.0,773,YES,No,10.0,Windows 10 ,Morning,,2.0,,4.0
+TKT-0873,18/04/2024,11:49:42 PM,18/04/2024,henry moore,IT,System Crash,medium,In progress,Walk-in,East,178.0,1430,No,Y,,Linux,AFTERNOON,no,2.0,,10.0
+TKT-0923,11-Oct-2024,12:33:28 AM,11/10/2024,,Sales,vpn access,Medium,resolved,Chat,West,32.0,1940,Yes,N,0.0,Windows 10,morning,Yes,0.0,18.14,1.0
+TKT-0387,10-Jul-2024,21:09,2024-07-10,,Sales,Password Reset,Low,Resolve,Phone,,100.0,2598,Yes,,4.0,Linux,Afternoon,,3.0,179.04,5.0
+TKT-0140,2024-03-09,20:33,2024/03/10,Bob Smith,Operations,Hardware failure,Medium,In Progress,Phone,Central,126.0,1238,yes,Y,10.0,Linux,Night,,0.0,60.5,6.0
+TKT-0510,29-Aug-2024,12:33:45 PM,2024/08/29,BOB SMITH,Operations,vpn access,CRITICAL,resolved,Self-Service Portal,,172.0,1877,No,,3.0,windows 10,AFTERNOON,Yes,,,99.0
+TKT-0268,25-Dec-2024,01:38,26/12/2024,frank miller,HR,Printer Issue,CRITICAL,Closed,EMAIL,Central,130.0,2830,Yes,yes,-1.0,Windows 10,Night,no,3.0,97.32,6.0
+TKT-0853,2024/03/01,10:59 AM,03-01-2024,alice johnson,,VPN Access,low,Resolved,Chat,South,155.0,99999,NO,no,3.0,macOS,Morning,,2.0,168.64,
+TKT-0442,2024-10-25,08:32:36 AM,2024/10/27,JAMES ANDERSON,HR,Network Issue,CRITICAL,OPEN,EMAIL,North,52.0,1098,,,99.0,windows 10,Morning,Yes,3.0,145.32,5.0
+TKT-0497,2024-03-23,08:05 PM,03-25-2024,Grace Wilson,Legal,Data Recovery,Hign,OPEN,Chat,North,152.0,2206,,No,2.0,linux,Night,yes,1.0,92.68,0.0
+TKT-0113,12-18-2024,03:21:15 PM,2024-12-18,frank miller,HR,Email Problem,Medium,escalated,Email,North,5.0,2761,,Yes,-1.0,Windows 11,Night,No,0.0,179.43,10.0
+TKT-0692,11-Aug-2024,22:38:13,2024-08-12,Grace Wilson,Finance,Software Installation,Critical,closed,chat,Central,,1413,NO,no,3.0,Windows 10 ,Night,,0.0,145.96,0.0
+TKT-0233,18-Nov-2024,22:19:35,2024/11/18,henry moore,Marketing,Software Installation,Mediun,escalated,Walk-in,West,166.0,2301,,No,-1.0,MacOS,AFTERNOON,,0.0,187.1,6.0
+TKT-0905,01-Jan-2024,08:23 AM,2024/01/02,Carol  White,IT,Data Recovery,Mediun,In progress,Phone,East,18.0,87,no,Yes,,Windows 10,Night Shift,Yes,0.0,66.98,1.0
+TKT-0608,2024-11-01,11:41:13,01/11/2024,Irene Taylor,Legal,Printer Issue,CRITICAL,escalated,Self-Service Portal,East,93.0,1596,,Yes,0.0,WINDOWS 11,morning,Yes,0.0,184.19,5.0
+TKT-0672,07-Sep-2024,08:40 PM,2024-09-07,Irene Taylor,Marketing,Data Recovery,Critical,In progress,Phone,,77.0,919,no,Y,0.0,WINDOWS 11,Night Shift,yes,0.0,164.21,0.0
+TKT-0374,2024/04/03,22:59:41,2024-04-04,,Operations,Data Recovery,Hign,Closed,Email,West,60.0,2834,,no,3.0,Linux,Night Shift,Yes,-1.0,,4.0
+TKT-0271,2024-02-12,03:31:41 AM,2024/02/14,frank miller,,Data Recovery,Medium,closed,Chat,West,59.0,104,YES,Y,-1.0,WINDOWS 11,morning,Yes,0.0,45.46,
+TKT-0878,2024-06-29,02:33,30/06/2024,Irene  Taylor,Admin,Hardware failure,medium,OPEN,Walk In,South,109.0,2450,Yes,yes,,linux,Afternoon,yes,,95.89,4.0
+TKT-0234,11/08/2024,05:26:01 AM,08-13-2024,David Brown,Legal,VPN Access,HIGH,In Progress,Chat,North,,1574,yes,Yes,2.0,Windows 10 ,Morning,Yes,1.0,121.42,4.0
+TKT-0817,11-17-2024,19:16,19-Nov-2024,Henry Moore,Admin,Network Issue,Hign,Open,Chat,West,155.0,1556,NO,,,Linux,Afternoon,No,,80.68,7.0
+TKT-0677,2024/06/03,21:40,03/06/2024,JAMES ANDERSON,HR,network issue,CRITICAL,Resolved,EMAIL,,,1166,yes,,-1.0,macOS,Morning,No,0.0,110.06,7.0
+TKT-0318,2024/12/14,04:33 AM,12-16-2024,Carol White,IT,Account Locked,High,In progress,Phone,,,676,yes,no,5.0,Linux,Night,No,,20.74,4.0
+,2024/07/05,10:35:24 PM,2024-07-06,,Marketing,password reset,Critical,Closed,Walk In,West,105.0,2930,,No,4.0,Windows 11,Morning,No,3.0,154.16,99.0
+TKT-0411,07-Mar-2024,03:20:39 PM,09/03/2024,Carol White,Sales,Hardware Failure,High,Resolved,Phone,East,162.0,3597,Yes,N,2.0,windows 10,Morning,Yes,0.0,34.64,7.0
+TKT-0935,2024-09-03,05:24:08 PM,2024/09/05,Frank Miller,Operations,vpn access,Low,escalated,chat,South,140.0,2887,NO,,,WINDOWS 11,Morning,yes,3.0,152.11,
+TKT-0710,09-09-2024,11:06,2024/09/10,Bob Smith,Admin,Hardware failure,Hign,In progress,phone,East,,1775,,Yes,1.0,linux,morning,Yes,0.0,167.47,4.0
+TKT-0359,23/12/2024,16:12,,Carol White,IT,Account Locked,Low,resolved,chat,East,35.0,2727,yes,,1.0,WINDOWS 11,Afternoon,Yes,-1.0,81.84,4.0
+TKT-0259,05-26-2024,06:28 PM,27/05/2024,BOB SMITH,Sales,Hardware failure,low,In Progress,chat,West,71.0,3542,,,2.0,MacOS,morning,no,2.0,78.15,10.0
+TKT-0745,06-23-2024,13:28,25/06/2024,James Anderson,HR,Email Problem,Low,In progress,Email,West,-5.0,1507,,,0.0,MacOS,Afternoon,,,55.83,-2.0
+TKT-0628,25-Oct-2024,00:00:21,27-Oct-2024,David Brown,Finance,vpn access,Critical,In Progress,phone,,123.0,2487,yes,Yes,1.0,Windows 10,Morning,no,-1.0,28.39,-2.0
+TKT-0633,2024-09-15,05:07:14,17-Sep-2024,Emily Davis,Operations,Password Reset,Low,Open,Chat,East,107.0,1314,yes,no,10.0,Linux,Night Shift,no,-1.0,26.69,1.0
+TKT-0283,27-Feb-2024,03:42:00,,Irene  Taylor,,SOFTWARE INSTALLATION,Critical,Resolve,Self-Service Portal,Central,35.0,1366,yes,N,,Linux,AFTERNOON,yes,2.0,197.98,4.0
+TKT-0377,30-Nov-2024,19:50,,BOB SMITH,Operations,Email Problem,HIGH,resolved,phone,South,,1086,no,,5.0,windows 10,morning,yes,2.0,9.62,7.0
+,05/07/2024,03:50:10,2024-07-05,Irene Taylor,Finance,password reset,High,Resolved,phone,West,,845,yes,no,10.0,Windows 10,morning,no,,109.66,3.0
+TKT-0225,2024-01-17,02:21:27,2024/01/17,frank miller,Finance,Data Recovery,medium,resolved,Phone,Central,160.0,938,Yes,,4.0,linux,Night,Yes,0.0,28.02,4.0
+TKT-0995,05-Nov-2024,12:05 AM,2024/11/07,EMILY DAVIS,Legal,Password Reset,HIGH,Resolve,self-service portal,North,102.0,408,,no,5.0,Windows 11,Night,Yes,0.0,94.32,7.0
+TKT-0848,12-10-2024,04:12,12-10-2024,alice johnson,Operations,VPN Access,low,Open,Email,South,21.0,1090,NO,N,3.0,MacOS,Night Shift,yes,3.0,185.28,2.0
+TKT-0473,2024-11-02,17:47:40,2024/11/03,Frank Miller,HR,Password Reset,CRITICAL,Escalated,EMAIL,,13.0,1959,NO,yes,0.0,windows 10,Morning,yes,1.0,35.61,0.0
+TKT-0348,2024/09/24,23:53:36,25-Sep-2024,James Anderson,Finance,password reset,Low,Resolved,phone,West,17.0,3153,no,yes,,WINDOWS 11,Morning,No,0.0,150.89,3.0
+TKT-0506,2024-12-22,18:33,2024/12/24,frank miller,,Password Reset,HIGH,resolved,Chat,West,17.0,2488,NO,,3.0,Linux,AFTERNOON,no,-1.0,173.21,3.0
+TKT-0640,07-Jun-2024,15:54,08-Jun-2024,frank miller,IT,network issue,Hign,In Progress,Chat,South,62.0,1442,YES,no,2.0,windows 10,Morning,yes,0.0,126.17,8.0
+TKT-0609,09/05/2024,04:38 AM,09/05/2024,david brown ,Finance,Hardware failure,medium,In Progress,Self-Service Portal,Central,102.0,1992,yes,N,,Windows 10,morning,Yes,3.0,186.71,
+TKT-0798,13-Jan-2024,11:23 AM,2024-01-14,frank miller,Sales,Account Locked,High,In Progress,Chat,,119.0,413,No,Y,0.0,Linux,Night Shift,Yes,0.0,86.14,2.0
+TKT-0968,21/06/2024,07:18:00 PM,22/06/2024,david brown ,IT,SOFTWARE INSTALLATION,low,Resolve,phone,East,,2315,yes,yes,5.0,Linux,Morning,no,-1.0,142.37,3.0
+TKT-0942,2024/12/06,04:30 AM,08-Dec-2024,Grace Wilson ,Operations,Email Problem,HIGH,Resolved,Walk-in,East,161.0,99999,no,No,1.0,windows 10,Night Shift,Yes,2.0,,-2.0
+TKT-0620,02-10-2024,06:44:22 AM,12/02/2024,BOB SMITH,Admin,System Crash,Mediun,Resolved,Phone,Central,155.0,1652,YES,No,4.0,windows 10,AFTERNOON,No,3.0,176.06,2.0
+TKT-0891,2024-07-01,10:54,2024/07/03,Grace Wilson ,IT,Account Locked,Mediun,OPEN,phone,West,116.0,1154,No,No,4.0,windows 10,Afternoon,no,3.0,80.25,2.0
+TKT-0836,02/07/2024,08:27 PM,02/07/2024,david brown ,IT,System Crash,High,Resolved,self-service portal,Central,158.0,1661,no,Y,,Linux,Night,yes,1.0,134.25,3.0
+TKT-0646,2024/01/15,17:44:32,2024/01/15,Grace Wilson,Marketing,Hardware failure,HIGH,In progress,chat,East,159.0,99999,,No,3.0,Windows 11,AFTERNOON,no,0.0,,
+TKT-0882,2024/07/12,03:25:13 AM,07-12-2024,Henry Moore,Legal,System Crash,High,Resolved,Phone,West,53.0,3279,,,5.0,Windows 11,Night,No,-1.0,75.05,9.0
+TKT-0557,18/01/2024,01:26 AM,01-21-2024,Irene  Taylor,Sales,network issue,Hign,Resolved,Email,Central,149.0,63,NO,Yes,,linux,morning,yes,1.0,,7.0
+TKT-1000,2024/12/22,08:51:49 AM,22-Dec-2024,Irene Taylor,Operations,Hardware Failure,medium,Resolved,EMAIL,South,123.0,916,,No,1.0,Linux,Afternoon,yes,,131.31,5.0
+TKT-0578,2024-03-03,08:35 PM,2024-03-03,Frank Miller,Marketing,Hardware failure,High,escalated,Self-Service Portal,North,5.0,2713,Yes,No,,WINDOWS 11,Afternoon,no,2.0,,10.0
+TKT-0796,05/06/2024,08:31 PM,2024/06/07,Emily Davis,Marketing,Hardware Failure,HIGH,Open,Phone,North,49.0,199,Yes,Yes,,MacOS,Morning,Yes,0.0,160.72,5.0
+TKT-0086,03-18-2024,01:39 PM,2024/03/20,,Operations,Hardware failure,medium,OPEN,phone,,57.0,365,Yes,No,2.0,macOS,Afternoon,no,2.0,157.84,-2.0
+TKT-0243,30-Jan-2024,07:32 AM,01/02/2024,Grace Wilson,Operations,Hardware Failure,medium,Escalated,chat,West,15.0,1738,yes,No,4.0,MacOS,AFTERNOON,,1.0,148.24,99.0
+,2024-02-16,13:31,16-Feb-2024,EMILY DAVIS,HR,Software Installation,medium,In Progress,Chat,East,82.0,1743,Yes,yes,0.0,Windows 10 ,Night,no,0.0,148.39,-2.0
+TKT-0910,2024/10/19,07:48:40 PM,2024-10-21,EMILY DAVIS,,Network Issue,medium,OPEN,Phone,East,149.0,3533,,Y,3.0,Linux,Afternoon,No,-1.0,52.33,0.0
+TKT-0160,22-Jan-2024,07:47:52 PM,01-24-2024,JAMES ANDERSON,Admin,Software Installation,Hign,Open,chat,South,82.0,1624,,N,-1.0,MacOS,Morning,no,2.0,15.64,9.0
+TKT-0525,2024/03/12,12:13:29 AM,2024-03-12,David Brown,Finance,Hardware Failure,low,Resolved,Chat,West,133.0,1897,,Y,,Windows 10,Night Shift,Yes,2.0,104.1,99.0
+TKT-0036,15/11/2024,08:37:35 PM,,Grace Wilson ,Finance,network issue,Medium,Open,Walk In,North,99.0,2456,YES,yes,99.0,Linux,morning,no,0.0,77.67,3.0
+TKT-0541,2024/09/19,09:16:55 PM,21/09/2024,david brown ,Sales,Email Problem,Mediun,Resolved,Self-Service Portal,South,100.0,3302,YES,Y,-1.0,windows 10,morning,No,1.0,36.73,4.0
+TKT-0171,2024-10-11,08:04:50 PM,2024/10/12,Henry Moore,Admin,System Crash,Hign,In Progress,chat,East,138.0,1898,no,Y,,WINDOWS 11,Morning,,0.0,39.35,7.0
+,04/08/2024,05:03:49 AM,2024/08/05,James Anderson,,Data Recovery,Hign,OPEN,self-service portal,North,42.0,2536,YES,yes,10.0,linux,Afternoon,Yes,2.0,82.52,8.0
+TKT-0927,2024/05/10,08:21,13-May-2024,,,Data Recovery,medium,Escalated,phone,Central,160.0,2375,YES,no,4.0,macOS,morning,,3.0,164.61,2.0
+TKT-0893,2024/05/20,06:12 PM,05-20-2024,david brown ,Sales,Password Reset,medium,resolved,Walk In,West,125.0,2504,no,no,1.0,Windows 11,morning,yes,,120.54,0.0
+TKT-0883,11-06-2024,12:10:09,2024-11-07,Bob Smith,,Password Reset,Low,In Progress,Walk-in,,41.0,1862,,yes,,Windows 10,Afternoon,No,0.0,85.5,7.0
+TKT-0984,2024/11/24,02:17:55,2024-11-24,Irene Taylor,HR,Printer Issue,CRITICAL,In progress,self-service portal,,139.0,3245,no,Y,4.0,linux,Afternoon,,,65.59,7.0
+TKT-0734,07-01-2024,07:27:48 AM,03-Jul-2024,Irene Taylor,IT,SOFTWARE INSTALLATION,Low,closed,chat,East,164.0,2754,no,N,4.0,Linux,Night,No,0.0,86.23,5.0
+TKT-0096,22/04/2024,12:57 AM,04-23-2024,Irene  Taylor,Marketing,System Crash,Low,Open,Walk-in,Central,16.0,3322,no,Y,,Linux,Night,Yes,3.0,114.9,10.0
+TKT-0564,2024-05-09,12:12:00 PM,2024/05/09,EMILY DAVIS,HR,Email problem,CRITICAL,resolved,EMAIL,South,,2939,,Y,,Windows 11,AFTERNOON,,1.0,158.11,5.0
+TKT-0241,18-Jan-2024,12:20:56,2024-01-18,James Anderson,Admin,network issue,Medium,Open,Phone,Central,34.0,99999,,no,,linux,Morning,yes,1.0,7.4,0.0
+TKT-0743,07-13-2024,09:55 AM,14-Jul-2024,Bob Smith,Legal,vpn access,HIGH,closed,Email,,156.0,303,No,Y,2.0,WINDOWS 11,Morning,No,,,9.0
+TKT-0575,2024/02/14,04:22 PM,2024/02/16,Bob Smith,,VPN Access,low,closed,chat,,,385,,Y,99.0,Windows 11,AFTERNOON,No,0.0,101.13,-2.0
+TKT-0691,07-May-2024,19:59:50,05-09-2024,Alice Johnson,IT,Printer Issue,Mediun,OPEN,EMAIL,Central,40.0,739,Yes,,0.0,macOS,Night Shift,yes,0.0,79.52,0.0
+,02/12/2024,09:42:16,12-04-2024,BOB SMITH,Finance,Network Issue,HIGH,Closed,Walk In,Central,43.0,1756,,N,3.0,linux,Night Shift,,-1.0,98.84,10.0
+TKT-0554,01-10-2024,04:21,2024-01-11,Frank Miller,HR,Password Reset,low,closed,phone,South,115.0,2803,no,,3.0,Linux,Night,no,0.0,,2.0
+,02-Aug-2024,10:29:09 AM,2024/08/04,Carol  White,IT,Printer Issue,HIGH,escalated,phone,,146.0,3246,no,No,10.0,Windows 10 ,Night Shift,no,0.0,30.78,7.0
+TKT-0914,2024/12/15,12:20 PM,12-15-2024,David Brown,Marketing,Account Locked,Mediun,In progress,Chat,East,119.0,984,yes,,,Windows 10 ,AFTERNOON,no,0.0,34.02,1.0
+TKT-0207,2024/10/23,03:37 AM,24/10/2024,david brown ,Admin,Printer Issue,medium,Open,Self-Service Portal,East,19.0,2330,,Y,10.0,linux,Night,,,146.69,1.0
+TKT-0393,2024-07-14,01:38,14-Jul-2024,BOB SMITH,HR,network issue,low,Resolved,phone,,149.0,398,Yes,,4.0,MacOS,morning,no,2.0,138.19,6.0
+TKT-0795,2024/06/07,05:09:00,07-Jun-2024,BOB SMITH,Operations,System Crash,Low,Resolved,Walk In,,62.0,2203,NO,Y,3.0,Linux,Night Shift,no,0.0,104.5,0.0
+,01-12-2024,17:28,2024/01/12,Carol White,Legal,SOFTWARE INSTALLATION,Medium,Closed,self-service portal,South,90.0,1962,,N,3.0,Windows 10 ,Night Shift,,3.0,194.32,1.0
+TKT-0767,2024/09/21,13:07:05,24-Sep-2024,EMILY DAVIS,Marketing,SOFTWARE INSTALLATION,Mediun,escalated,Walk-in,West,148.0,1935,,,,Linux,Afternoon,No,3.0,190.61,4.0
+TKT-0884,01-23-2024,22:34,2024-01-23,Grace Wilson ,IT,Account Locked,HIGH,In progress,self-service portal,South,48.0,900,YES,No,99.0,Windows 10,AFTERNOON,yes,0.0,111.12,7.0
+TKT-0218,03/01/2024,10:02 AM,05-Jan-2024,Emily Davis,Sales,Printer Issue,High,Resolve,Self-Service Portal,,85.0,3006,NO,,10.0,windows 10,Morning,No,0.0,161.21,0.0
+TKT-0005,01-Jan-2024,07:20 PM,01/01/2024,,Sales,Software Installation,Critical,closed,Email,West,30.0,1496,,,5.0,Windows 11,Night Shift,yes,-1.0,93.04,4.0
+TKT-0769,30/10/2024,17:51:41,31/10/2024,Bob Smith,,VPN Access,medium,In Progress,Walk In,,-5.0,1307,Yes,N,,windows 10,Night,No,-1.0,96.48,0.0
+TKT-0643,2024-10-27,13:34,2024/10/29,BOB SMITH,Legal,Network Issue,Medium,Resolved,Chat,North,105.0,1073,,,1.0,Windows 11,Afternoon,No,-1.0,144.14,
+TKT-0934,19/05/2024,12:37 PM,2024-05-21,henry moore,Operations,Account Locked,CRITICAL,Resolved,phone,West,81.0,729,YES,Y,3.0,macOS,Morning,no,,29.72,8.0
+TKT-0613,06-19-2024,07:31 AM,21-Jun-2024,Grace Wilson,Operations,network issue,Medium,Open,Walk-in,North,9.0,920,No,Yes,0.0,Linux,Night Shift,yes,,138.43,6.0
+TKT-0739,2024-11-13,01:28 PM,11-13-2024,alice johnson,Sales,System Crash,Mediun,Open,Phone,South,,2803,YES,No,4.0,Windows 11,morning,no,,133.07,4.0
+TKT-0547,20/06/2024,04:20 PM,22-Jun-2024,Emily Davis,Marketing,vpn access,HIGH,OPEN,self-service portal,Central,126.0,1881,yes,N,2.0,macOS,Morning,,0.0,163.18,5.0
+TKT-0726,2024/07/30,13:04:00,30-Jul-2024,Frank Miller,Finance,Software Installation,Low,In Progress,Chat,East,82.0,3068,no,No,,Linux,Night,No,2.0,83.7,5.0
+TKT-0954,08-30-2024,02:02:00 PM,09-01-2024,Irene  Taylor,IT,password reset,Medium,Closed,Chat,Central,46.0,3329,no,Y,,windows 10,Night,Yes,0.0,193.53,0.0
+TKT-0684,25/10/2024,13:11:12,10-26-2024,Irene  Taylor,Operations,System Crash,Critical,resolved,Walk In,North,-5.0,2509,YES,Y,3.0,MacOS,morning,yes,1.0,150.48,-2.0
+TKT-0099,2024/02/09,07:22:20 AM,09-Feb-2024,,Operations,Password Reset,HIGH,Escalated,Walk-in,South,164.0,373,,N,,Windows 11,Night,no,0.0,11.52,1.0
+TKT-0805,2024/04/03,10:12:25 PM,04-03-2024,Irene  Taylor,HR,Data Recovery,medium,Closed,Email,,33.0,2861,YES,,4.0,Linux,Night Shift,,,64.64,-2.0
+TKT-0728,14/05/2024,02:19 AM,05-14-2024,alice johnson,Admin,Password Reset,Low,resolved,phone,South,8.0,896,,,0.0,Windows 11,Night Shift,No,0.0,75.43,7.0
+TKT-0574,2024/09/22,12:11 PM,,Henry Moore,Marketing,SOFTWARE INSTALLATION,Low,resolved,self-service portal,West,155.0,2651,No,Y,99.0,windows 10,Night Shift,No,3.0,49.19,7.0
+TKT-0407,19/07/2024,12:09,21/07/2024,alice johnson,Finance,Email problem,High,In progress,Email,,18.0,932,,N,4.0,Linux,AFTERNOON,No,0.0,114.73,99.0
+TKT-0503,2024/02/22,10:25:10,23-Feb-2024,henry moore,Marketing,password reset,CRITICAL,In Progress,phone,East,22.0,2813,NO,yes,3.0,WINDOWS 11,Afternoon,Yes,-1.0,191.47,99.0
+TKT-0048,10-Mar-2024,02:45:49 AM,12-Mar-2024,Bob Smith,Marketing,password reset,HIGH,escalated,EMAIL,South,11.0,1211,No,Yes,4.0,linux,morning,no,-1.0,160.47,5.0
+TKT-0033,2024/09/09,03:06,,david brown ,Sales,Email Problem,low,Resolve,Email,South,36.0,1601,no,yes,,MacOS,AFTERNOON,Yes,-1.0,,4.0
+TKT-0780,08-Jul-2024,23:34:01,07-09-2024,,,Network Issue,low,resolved,chat,West,9.0,306,NO,yes,2.0,linux,AFTERNOON,Yes,0.0,75.41,1.0
+TKT-0840,10-Jul-2024,11:04,07-11-2024,Frank Miller,HR,password reset,Critical,Resolve,Email,West,78.0,403,,yes,-1.0,WINDOWS 11,Night,Yes,3.0,146.43,5.0
+TKT-0201,06-Jul-2024,22:37:11,08-Jul-2024,Carol  White,Sales,network issue,Critical,escalated,Walk-in,,174.0,449,No,,,WINDOWS 11,Morning,no,1.0,61.66,99.0
+TKT-0135,2024/12/02,16:18,2024/12/02,JAMES ANDERSON,Marketing,VPN Access,High,resolved,Walk-in,East,-5.0,2101,YES,N,4.0,Windows 10,Afternoon,yes,1.0,42.93,7.0
+TKT-0028,06-11-2024,23:30,13-Jun-2024,frank miller,Finance,Software Installation,Low,escalated,self-service portal,East,100.0,2728,,,3.0,windows 10,Morning,,,127.23,-2.0
+TKT-0916,2024/12/01,22:40,02/12/2024,BOB SMITH,Operations,System Crash,High,Closed,phone,,100.0,1222,yes,no,0.0,windows 10,Night,No,-1.0,197.3,10.0
+TKT-0231,2024/09/27,03:44:13 AM,,,Sales,Network Issue,Mediun,OPEN,Email,East,123.0,143,NO,No,0.0,Windows 11,Night,No,0.0,100.31,2.0
+TKT-0490,18-Oct-2024,07:50 PM,10-19-2024,James Anderson,,Email Problem,low,OPEN,self-service portal,,46.0,789,Yes,No,10.0,linux,Morning,No,1.0,134.2,6.0
+TKT-0773,2024/12/08,08:54:29 AM,09-Dec-2024,,Sales,password reset,HIGH,escalated,Walk In,,155.0,1876,,Y,4.0,Linux,Night,No,0.0,,4.0
+TKT-0379,02-26-2024,15:08,26-Feb-2024,Emily Davis,Operations,Account Locked,Mediun,Escalated,Walk In,South,-5.0,3185,NO,no,3.0,Windows 11,morning,yes,-1.0,75.63,4.0
+TKT-0289,2024-03-13,12:58 AM,2024/03/13,James Anderson,Marketing,System Crash,low,Resolve,Email,Central,60.0,1759,,No,,MacOS,Afternoon,No,,135.12,5.0
+TKT-0419,11-Jun-2024,12:55:40 PM,11/06/2024,Emily Davis,Admin,VPN Access,Critical,Open,Phone,,104.0,1507,Yes,no,,WINDOWS 11,morning,Yes,3.0,18.05,6.0
+TKT-0675,14/09/2024,15:25:01,15-Sep-2024,Irene  Taylor,IT,Email Problem,Low,Open,chat,Central,165.0,1331,,Yes,5.0,Windows 10,Night,Yes,-1.0,162.87,10.0
+TKT-0392,2024/11/04,07:55:23 PM,2024-11-05,david brown ,Admin,Software Installation,Medium,Closed,Self-Service Portal,Central,172.0,2035,,N,,Windows 10 ,Night Shift,,,174.73,
+TKT-0593,29-May-2024,10:02 PM,05-30-2024,JAMES ANDERSON,Sales,Data Recovery,medium,In Progress,self-service portal,South,155.0,628,yes,Yes,-1.0,windows 10,Night Shift,No,0.0,78.49,6.0
+TKT-0499,23/02/2024,09:16 PM,2024-02-26,Carol White,Marketing,Email Problem,medium,closed,EMAIL,North,40.0,3010,Yes,Y,3.0,MacOS,AFTERNOON,,1.0,110.75,0.0
+TKT-0139,06-15-2024,11:39 AM,16-Jun-2024,frank miller,Operations,password reset,medium,In Progress,chat,South,49.0,2256,yes,No,5.0,WINDOWS 11,Afternoon,No,-1.0,39.44,8.0
+TKT-0063,02-Oct-2024,21:52:13,03-Oct-2024,Grace Wilson ,HR,Email problem,Hign,resolved,Email,West,176.0,3101,YES,,2.0,Windows 11,Morning,No,,16.26,8.0
+TKT-0472,2024-10-14,00:44,14-Oct-2024,Grace Wilson,Operations,Email problem,low,escalated,Email,North,146.0,99999,No,no,1.0,Windows 11,Night Shift,yes,1.0,23.23,5.0
+TKT-0648,15-Mar-2024,12:04:00,03-17-2024,Grace Wilson ,Operations,Data Recovery,Low,Closed,Walk-in,North,-5.0,901,No,,1.0,Windows 11,AFTERNOON,No,0.0,18.9,8.0
+TKT-0129,28-Nov-2024,10:06:45,30/11/2024,Irene  Taylor,Admin,VPN Access,low,Resolve,EMAIL,South,164.0,3408,yes,,5.0,windows 10,AFTERNOON,No,0.0,59.76,3.0
+TKT-0842,11-25-2024,08:29,2024/11/26,Irene Taylor,Marketing,vpn access,Low,In Progress,phone,South,75.0,2527,yes,No,2.0,windows 10,morning,No,0.0,193.51,6.0
+,25/02/2024,10:45:03,,,Legal,Network Issue,Critical,Resolved,chat,South,23.0,810,YES,Yes,,Linux,Night,yes,3.0,142.16,10.0
+TKT-0839,2024/06/13,23:56:54,06-14-2024,EMILY DAVIS,Finance,password reset,medium,escalated,Chat,,144.0,1017,,Yes,10.0,Windows 11,Afternoon,,0.0,17.61,8.0
+TKT-0404,2024/12/31,06:31,12-31-2024,James Anderson,Legal,Password Reset,Critical,Resolve,phone,,,1572,No,N,2.0,macOS,morning,Yes,,78.54,99.0
+TKT-0065,09-Mar-2024,20:55:22,2024-03-09,Henry Moore,Finance,Password Reset,High,Closed,chat,Central,47.0,2210,no,Y,3.0,linux,morning,Yes,-1.0,142.14,1.0
+TKT-0813,2024-08-22,22:54,,JAMES ANDERSON,,Email problem,Medium,Open,Phone,West,112.0,2403,Yes,Yes,5.0,Linux,AFTERNOON,Yes,0.0,134.13,5.0
+TKT-0015,31-Aug-2024,19:54,31-Aug-2024,Carol  White,,vpn access,low,Escalated,Chat,West,118.0,1707,NO,Y,4.0,Windows 10,Morning,,-1.0,150.01,8.0
+TKT-0157,29/06/2024,11:40:19 AM,2024/06/30,Carol  White,Marketing,Password Reset,Hign,Closed,Walk-in,West,130.0,1139,,Yes,,macOS,Night,,0.0,32.02,9.0
+TKT-0041,2024-11-04,04:48:48,11-04-2024,Irene  Taylor,Finance,Email problem,Mediun,Resolve,self-service portal,,47.0,3175,NO,no,99.0,windows 10,Night Shift,Yes,,113.09,-2.0
+TKT-0493,2024/02/29,12:32 PM,29-Feb-2024,alice johnson,Legal,Password Reset,High,Open,EMAIL,,22.0,2747,No,,-1.0,linux,Morning,No,0.0,48.0,5.0
+,2024-12-12,22:16:16,2024-12-12,Carol  White,,vpn access,High,escalated,Phone,South,37.0,498,NO,no,,linux,Night,,0.0,96.35,
+TKT-0188,24-Sep-2024,03:55:13 PM,2024-09-26,Henry Moore,Admin,System Crash,medium,OPEN,self-service portal,West,120.0,1153,,N,,Linux,AFTERNOON,No,0.0,7.42,0.0
+TKT-0764,17/09/2024,05:44,2024-09-19,Grace Wilson,Operations,Hardware failure,High,resolved,Self-Service Portal,East,129.0,2974,NO,N,,Windows 10 ,morning,Yes,0.0,,6.0
+TKT-0217,2024-03-16,03:22,2024-03-17,Irene Taylor,Admin,Printer Issue,Mediun,Resolved,Walk In,,74.0,749,,No,0.0,macOS,morning,no,-1.0,57.52,
+TKT-0922,09-20-2024,00:50:12,2024-09-20,James Anderson,Finance,vpn access,Mediun,resolved,Email,Central,178.0,3447,NO,no,,macOS,morning,,0.0,113.49,5.0
+TKT-0792,26-Oct-2024,03:43:59,28-Oct-2024,Carol White,Operations,Email problem,Critical,In Progress,Walk In,,156.0,528,no,,,Windows 11,morning,no,,27.21,1.0
+TKT-0053,2024/11/16,09:39,11-16-2024,Emily Davis,Admin,VPN Access,Mediun,closed,phone,South,130.0,2635,No,Y,-1.0,Windows 10,Morning,no,2.0,139.28,3.0
+TKT-0879,30-Dec-2024,12:34:14 AM,2024/12/30,Irene  Taylor,Marketing,SOFTWARE INSTALLATION,Medium,Resolve,Self-Service Portal,West,104.0,2482,no,Y,-1.0,windows 10,Night,Yes,0.0,74.09,1.0
+TKT-0338,08-Aug-2024,12:44:10 AM,08-Aug-2024,david brown ,Sales,SOFTWARE INSTALLATION,Low,OPEN,Walk In,West,35.0,2119,,Y,,Linux,Night Shift,No,0.0,119.96,99.0
+TKT-0749,2024/10/11,19:14:01,10-13-2024,Alice Johnson,,System Crash,CRITICAL,escalated,self-service portal,East,58.0,3106,yes,no,0.0,Windows 11,Night Shift,yes,-1.0,120.51,5.0
+TKT-0720,10/11/2024,13:55:33,2024/11/11,Alice Johnson,Operations,vpn access,CRITICAL,Escalated,Email,Central,50.0,1395,,N,10.0,macOS,Night Shift,yes,2.0,65.68,9.0
+TKT-0725,18/08/2024,09:01:47,18/08/2024,henry moore,Legal,Hardware failure,HIGH,Resolve,Walk-in,West,153.0,3329,NO,,3.0,Linux,Morning,no,-1.0,150.52,7.0
+TKT-0296,2024/11/16,02:45:14 AM,2024-11-17,Grace Wilson ,IT,password reset,CRITICAL,In Progress,phone,East,176.0,2689,No,,,Windows 10 ,Night,,0.0,93.69,3.0
+TKT-0702,2024/03/22,07:46 AM,2024-03-23,Frank Miller,Admin,Password Reset,Mediun,Open,Self-Service Portal,East,168.0,586,Yes,No,4.0,Windows 10,Morning,yes,0.0,57.4,6.0
+TKT-0252,06-26-2024,22:53:45,27/06/2024,david brown ,Admin,System Crash,Low,closed,EMAIL,West,102.0,2520,,,3.0,MacOS,morning,,0.0,19.92,2.0
+TKT-0727,05-30-2024,12:39:10 AM,05-31-2024,EMILY DAVIS,Marketing,Account Locked,low,resolved,EMAIL,Central,64.0,3192,,yes,,Windows 10 ,Afternoon,No,0.0,90.54,99.0
+TKT-0462,22-May-2024,02:22:50,22-May-2024,henry moore,Operations,Data Recovery,High,closed,Email,South,92.0,732,no,,4.0,Windows 11,Afternoon,No,-1.0,150.81,2.0
+TKT-0456,06-22-2024,21:10,2024/06/24,Carol  White,Operations,network issue,Critical,Closed,phone,,,1479,YES,yes,,Linux,Afternoon,no,,186.33,
+TKT-0271,2024-02-12,03:31:41 AM,2024/02/14,frank miller,,Data Recovery,Medium,closed,Chat,West,59.0,104,YES,Y,-1.0,WINDOWS 11,morning,Yes,0.0,45.46,
+TKT-0816,13/02/2024,12:49:05 AM,13/02/2024,alice johnson,HR,Hardware Failure,Mediun,Resolve,Walk-in,South,114.0,2259,YES,no,-1.0,Windows 10,Night,no,1.0,137.6,4.0
+TKT-0863,2024-04-13,10:04 PM,04-13-2024,Frank Miller,Marketing,Network Issue,CRITICAL,Resolve,self-service portal,,81.0,99999,yes,,,WINDOWS 11,Night,Yes,0.0,33.69,3.0
+TKT-0270,2024-03-27,01:06:22 AM,29-Mar-2024,Irene  Taylor,Sales,network issue,Low,Resolve,EMAIL,,47.0,224,Yes,Y,,Linux,Morning,no,3.0,,2.0
+TKT-0202,07-Aug-2024,06:54:04,09-Aug-2024,David Brown,Admin,Hardware failure,CRITICAL,escalated,Email,East,175.0,1515,No,Yes,99.0,Windows 11,Afternoon,,2.0,161.19,7.0
+TKT-0162,22-Mar-2024,12:35:24 PM,2024-03-22,Frank Miller,Admin,Email Problem,Low,Resolved,EMAIL,South,-5.0,1382,YES,,10.0,Windows 10 ,Night,No,-1.0,91.17,10.0
+,2024/06/04,23:00,04/06/2024,Grace Wilson,Marketing,network issue,High,escalated,self-service portal,,2.0,1146,yes,No,1.0,Windows 10 ,Morning,,3.0,75.46,2.0
+TKT-0730,2024/12/22,17:30,22/12/2024,Carol White,Marketing,Hardware Failure,HIGH,Escalated,EMAIL,West,,854,YES,,,MacOS,AFTERNOON,Yes,,132.08,1.0
+TKT-0402,10/10/2024,02:21:15 AM,10-11-2024,Carol  White,Legal,Software Installation,medium,Resolved,chat,West,38.0,990,,no,4.0,Windows 11,AFTERNOON,no,,,1.0
+,05/03/2024,12:03 PM,07-Mar-2024,JAMES ANDERSON,Admin,Hardware Failure,Critical,escalated,Walk-in,South,84.0,1797,YES,N,-1.0,Windows 11,Morning,No,0.0,146.57,0.0
+,2024/11/21,02:33:09,23/11/2024,,Admin,password reset,CRITICAL,In Progress,Self-Service Portal,North,20.0,1739,,N,,windows 10,Morning,no,3.0,,
+TKT-0822,25/07/2024,10:38:37,07-26-2024,Irene Taylor,Finance,VPN Access,Critical,Escalated,Phone,South,6.0,2167,NO,Y,2.0,macOS,AFTERNOON,Yes,,65.12,5.0
+TKT-0772,15-Feb-2024,06:04 PM,2024-02-16,Alice Johnson,,SOFTWARE INSTALLATION,HIGH,In progress,Walk-in,North,64.0,2564,,Yes,99.0,WINDOWS 11,Morning,No,,116.51,4.0
+TKT-0106,30/08/2024,18:35:22,2024/08/31,James Anderson,Sales,Password Reset,low,Resolved,Chat,,43.0,99999,,N,2.0,Linux,Afternoon,yes,,171.06,8.0
+TKT-0566,26/05/2024,08:19,26-May-2024,JAMES ANDERSON,IT,Printer Issue,Critical,closed,EMAIL,,114.0,1777,no,No,5.0,windows 10,Morning,yes,3.0,34.5,
+TKT-0390,06-02-2024,00:04:16,06-04-2024,JAMES ANDERSON,IT,Hardware Failure,High,OPEN,Chat,West,173.0,1286,No,N,-1.0,macOS,morning,Yes,0.0,32.77,5.0
+,25/06/2024,19:16,06-25-2024,henry moore,Finance,Account Locked,Mediun,resolved,self-service portal,Central,119.0,2206,Yes,no,2.0,Linux,Night Shift,No,1.0,78.99,
+TKT-0977,30/10/2024,11:04:27,10-31-2024,David Brown,,network issue,High,Resolve,Email,West,127.0,2769,Yes,No,2.0,linux,Morning,,0.0,,-2.0
+TKT-0115,09-Jun-2024,12:45:55 AM,2024-06-11,Grace Wilson ,Admin,Network Issue,low,Resolve,Walk-in,East,-5.0,2974,YES,No,,MacOS,Night,No,3.0,14.82,4.0
+TKT-0562,06-22-2024,07:30 AM,23/06/2024,Grace Wilson ,IT,vpn access,Low,escalated,Self-Service Portal,,-5.0,2252,no,Y,3.0,windows 10,Night,No,0.0,59.1,8.0
+TKT-0932,2024-06-10,07:06:24,2024-06-10,Henry Moore,Operations,System Crash,High,Escalated,chat,Central,35.0,2904,No,no,,macOS,Night Shift,Yes,-1.0,41.27,8.0
+TKT-0081,2024-05-20,07:34:18 AM,2024-05-20,henry moore,Admin,Network Issue,Mediun,Open,Self-Service Portal,North,119.0,2326,NO,,99.0,linux,Night,No,1.0,119.65,6.0
+TKT-0206,2024-09-20,01:17 PM,2024-09-22,Carol  White,Sales,password reset,Mediun,Open,chat,Central,152.0,101,yes,no,-1.0,Windows 11,Night Shift,no,1.0,191.8,0.0
+TKT-0035,03-Aug-2024,04:07:47 PM,,Irene  Taylor,Finance,Network Issue,CRITICAL,escalated,Walk-in,East,123.0,1846,,,0.0,Windows 10,Night Shift,,0.0,,5.0
+TKT-0943,2024-02-15,05:57 PM,16/02/2024,alice johnson,Sales,Software Installation,High,Closed,chat,Central,170.0,684,yes,,-1.0,Windows 10 ,Morning,yes,-1.0,,4.0
+TKT-0776,2024/09/29,01:11:33,30/09/2024,henry moore,Legal,VPN Access,Mediun,Resolve,Phone,Central,87.0,2873,,Yes,,Linux,Morning,Yes,3.0,173.72,10.0
+TKT-0509,2024/03/07,11:54 AM,07-Mar-2024,Grace Wilson,IT,VPN Access,Hign,Open,Chat,South,96.0,1189,No,Yes,0.0,Linux,Morning,,-1.0,108.84,-2.0
+,2024-02-09,19:06,09-Feb-2024,Irene Taylor,Operations,Password Reset,HIGH,In progress,EMAIL,North,9.0,2546,Yes,,1.0,macOS,Morning,Yes,-1.0,26.95,0.0
+TKT-0455,17-Dec-2024,22:22,2024/12/17,Bob Smith,Finance,Hardware Failure,High,closed,Phone,West,12.0,686,yes,yes,2.0,Linux,Afternoon,,1.0,11.25,99.0
+TKT-0878,2024-06-29,02:33,30/06/2024,Irene  Taylor,Admin,Hardware failure,medium,OPEN,Walk In,South,109.0,2450,Yes,yes,,linux,Afternoon,yes,,95.89,4.0
+TKT-0367,29/06/2024,06:27:26 PM,06-29-2024,Carol  White,Marketing,Email Problem,low,closed,Email,East,74.0,2289,NO,no,4.0,Windows 11,morning,Yes,3.0,108.84,4.0
+TKT-0092,23/09/2024,13:44:57,24/09/2024,Grace Wilson ,Finance,Email Problem,low,Open,self-service portal,South,119.0,3073,Yes,Y,2.0,Windows 10,morning,Yes,0.0,66.24,2.0
+TKT-0340,26-Jun-2024,09:10:07,06-27-2024,James Anderson,Legal,Data Recovery,Mediun,Open,Walk-in,,72.0,2003,no,,3.0,Windows 10 ,Afternoon,no,0.0,62.51,2.0
+TKT-0898,2024/07/13,19:15:29,2024-07-14,Frank Miller,Finance,VPN Access,medium,In Progress,self-service portal,East,156.0,3474,YES,Y,,WINDOWS 11,Night,No,1.0,,5.0
+TKT-0565,2024-05-06,11:34:52 PM,07-May-2024,Emily Davis,IT,Hardware Failure,Critical,Open,EMAIL,North,19.0,2549,no,no,3.0,MacOS,Morning,,,16.79,10.0
+TKT-0346,18-Jan-2024,08:47:07,20-Jan-2024,Carol White,Operations,Hardware Failure,Medium,escalated,EMAIL,North,169.0,1651,No,,5.0,Windows 10,Morning,yes,-1.0,88.76,4.0
+TKT-0777,2024-06-04,14:57:44,05/06/2024,Henry Moore,Legal,Hardware Failure,Medium,Resolved,phone,Central,119.0,3478,Yes,,,linux,Afternoon,No,-1.0,148.02,6.0
+TKT-0242,04/02/2024,06:50 PM,2024/02/05,,Marketing,network issue,CRITICAL,closed,chat,East,148.0,526,NO,Y,5.0,macOS,Afternoon,yes,0.0,133.25,3.0
+TKT-0014,2024/04/08,13:42,08/04/2024,Alice Johnson,Sales,Account Locked,HIGH,Escalated,EMAIL,South,159.0,2341,yes,no,0.0,windows 10,morning,No,0.0,,4.0
+TKT-0316,2024/12/14,09:53:14 AM,2024/12/16,David Brown,HR,Account Locked,medium,In progress,chat,South,,695,,No,2.0,windows 10,AFTERNOON,no,1.0,32.62,8.0
+TKT-0601,2024/10/16,19:03,2024/10/18,EMILY DAVIS,Legal,network issue,Critical,Escalated,Chat,South,103.0,2197,NO,no,3.0,linux,Afternoon,no,-1.0,89.64,5.0
+TKT-0388,2024-06-23,03:49 PM,2024/06/25,Grace Wilson ,Operations,Data Recovery,Medium,resolved,EMAIL,South,171.0,405,NO,,,Windows 10,AFTERNOON,No,0.0,150.2,9.0
+,05-17-2024,20:44,18/05/2024,JAMES ANDERSON,Sales,VPN Access,low,In Progress,phone,North,97.0,2318,NO,N,,WINDOWS 11,morning,Yes,,48.33,2.0
+TKT-0167,02-29-2024,09:45:54 AM,2024/03/01,Henry Moore,Sales,SOFTWARE INSTALLATION,CRITICAL,Closed,Walk-in,East,10.0,1122,no,Yes,,linux,Night,No,0.0,187.91,
+TKT-0841,2024-11-28,22:13,2024/11/29,frank miller,Admin,Network Issue,medium,OPEN,self-service portal,West,58.0,3146,no,Y,99.0,macOS,Afternoon,Yes,0.0,26.41,6.0
+TKT-0021,09/01/2024,02:18 AM,11-Jan-2024,BOB SMITH,Sales,vpn access,Hign,escalated,phone,,179.0,1006,yes,N,-1.0,WINDOWS 11,Night Shift,,2.0,167.36,5.0
+TKT-0647,2024-05-11,09:55 PM,05-12-2024,David Brown,IT,Hardware failure,Mediun,Resolved,EMAIL,North,36.0,883,no,No,3.0,WINDOWS 11,AFTERNOON,yes,0.0,168.55,5.0
+TKT-0819,03-17-2024,00:55:30,03-19-2024,EMILY DAVIS,Legal,SOFTWARE INSTALLATION,Critical,Closed,Email,East,121.0,1462,Yes,,-1.0,Windows 11,Night,,0.0,61.65,5.0
+TKT-0485,22/11/2024,10:31:16 PM,11-23-2024,,HR,Printer Issue,low,resolved,self-service portal,Central,154.0,500,NO,no,1.0,windows 10,Afternoon,No,,163.91,3.0
+TKT-0486,20/04/2024,07:38:32 PM,20-Apr-2024,alice johnson,Legal,network issue,Medium,Open,Self-Service Portal,,20.0,993,no,,,Windows 10,Night Shift,Yes,0.0,30.11,-2.0
+TKT-0505,02-25-2024,10:52:20,,JAMES ANDERSON,Marketing,Printer Issue,low,In progress,Walk In,South,,897,NO,No,,Windows 11,Afternoon,no,,189.86,2.0
+TKT-0832,2024/04/09,17:24,2024/04/10,Carol White,Finance,Password Reset,Critical,escalated,Phone,East,125.0,3412,YES,yes,99.0,Linux,Night,no,0.0,50.5,8.0
+TKT-0244,18/06/2024,23:24,20/06/2024,Carol White,IT,SOFTWARE INSTALLATION,High,escalated,Email,South,49.0,3393,Yes,yes,1.0,macOS,Night,Yes,0.0,182.58,1.0
+TKT-0567,09-20-2024,04:40:56 PM,20/09/2024,David Brown,Marketing,network issue,Low,Resolve,Walk-in,,138.0,3020,no,Y,-1.0,Windows 10 ,Night Shift,Yes,3.0,48.86,5.0
+TKT-0876,2024/04/28,05:32:40 AM,04-28-2024,David Brown,Legal,network issue,Low,Open,Walk In,Central,73.0,1687,No,Yes,,windows 10,Night Shift,no,-1.0,64.68,
+,22/05/2024,20:13:46,22/05/2024,BOB SMITH,HR,Printer Issue,High,Resolve,Chat,South,136.0,3072,Yes,Yes,,Windows 10,Afternoon,,0.0,177.84,7.0
+TKT-0994,2024-04-22,17:01,24/04/2024,Emily Davis,Legal,Printer Issue,Critical,closed,self-service portal,East,78.0,743,,,99.0,Windows 10,Night Shift,no,0.0,56.0,10.0
+TKT-0687,05/07/2024,07:40,2024-07-05,Grace Wilson ,Operations,network issue,Mediun,resolved,chat,West,116.0,2531,,no,2.0,macOS,Night Shift,,3.0,23.9,1.0
+TKT-0958,31/01/2024,18:29,01/02/2024,Grace Wilson,Finance,password reset,Low,Escalated,chat,,46.0,3006,,yes,99.0,MacOS,Night,,0.0,36.87,3.0
+,29/01/2024,04:58 PM,01-30-2024,JAMES ANDERSON,,Software Installation,medium,resolved,Chat,,15.0,464,no,yes,99.0,linux,Night Shift,no,2.0,,6.0
+TKT-0783,24-Nov-2024,08:19,2024/11/25,Bob Smith,Operations,Hardware failure,Hign,In progress,Walk-in,,106.0,2788,,no,5.0,windows 10,Night Shift,yes,1.0,114.51,99.0
+TKT-0976,12-Mar-2024,02:48:12 AM,13/03/2024,,Legal,Data Recovery,High,Resolve,Phone,,149.0,1455,No,No,1.0,Linux,morning,No,0.0,183.79,7.0
+TKT-0700,25-Nov-2024,16:40:36,27/11/2024,Irene  Taylor,Admin,Printer Issue,low,resolved,EMAIL,West,103.0,1790,NO,yes,,Windows 11,AFTERNOON,Yes,2.0,6.17,
+TKT-0476,04-27-2024,23:44,27/04/2024,,HR,Software Installation,Hign,In Progress,Walk In,West,145.0,1973,,N,-1.0,Linux,Afternoon,no,1.0,159.06,0.0
+,2024/12/19,09:02:22 AM,20/12/2024,Grace Wilson ,,Hardware Failure,Hign,In progress,phone,East,58.0,2870,,no,5.0,Windows 10 ,Night Shift,yes,,199.82,3.0
+TKT-0511,04-03-2024,22:28:07,05/04/2024,Grace Wilson,,Email problem,Critical,closed,self-service portal,Central,46.0,269,no,N,4.0,macOS,Morning,No,1.0,68.39,6.0
+TKT-0059,13/07/2024,12:52:22,07-13-2024,BOB SMITH,Admin,Email problem,HIGH,In progress,Walk-in,North,76.0,182,yes,N,2.0,Linux,AFTERNOON,No,0.0,195.69,3.0
+TKT-0475,2024-02-13,05:13 AM,13-Feb-2024,Irene Taylor,,password reset,CRITICAL,In Progress,self-service portal,West,108.0,454,no,No,3.0,linux,Night Shift,Yes,0.0,29.72,1.0
+TKT-0561,07-Nov-2024,11:42:10 PM,2024-11-07,,Legal,vpn access,High,Resolve,phone,Central,92.0,2158,,Yes,0.0,Windows 11,morning,,0.0,151.33,-2.0
+TKT-0857,2024-06-04,22:55:28,2024/06/05,Alice Johnson,Admin,password reset,HIGH,In Progress,chat,West,31.0,2227,Yes,yes,,Windows 10,morning,yes,-1.0,136.35,6.0
+TKT-0748,07-03-2024,15:35,05-Jul-2024,Alice Johnson,Admin,Hardware Failure,High,Closed,Email,East,136.0,994,Yes,No,,Windows 10 ,Night Shift,No,0.0,130.1,
+TKT-0253,15/09/2024,10:26:28 AM,09-15-2024,,IT,Hardware Failure,CRITICAL,OPEN,phone,South,66.0,859,YES,Yes,99.0,WINDOWS 11,Afternoon,Yes,0.0,29.21,0.0
+TKT-0022,2024-04-26,11:11:19,2024/04/26,henry moore,Sales,Account Locked,Low,Resolve,chat,North,138.0,528,,Yes,1.0,Windows 11,Morning,No,0.0,86.15,10.0
+TKT-0314,14-Jul-2024,11:59:27 PM,15/07/2024,,Sales,vpn access,Hign,OPEN,Email,West,77.0,785,no,No,-1.0,Windows 10,Night Shift,No,0.0,72.79,5.0
+TKT-0460,20-May-2024,17:52:57,22/05/2024,JAMES ANDERSON,Admin,Software Installation,CRITICAL,closed,Walk-in,North,108.0,76,YES,,10.0,linux,Night Shift,Yes,0.0,147.55,3.0
+TKT-0161,2024-03-13,14:53:41,15-Mar-2024,Irene  Taylor,Marketing,Email Problem,low,OPEN,phone,North,25.0,2969,YES,Yes,3.0,MacOS,Morning,,,195.16,10.0
+,2024/10/10,15:51:55,10/10/2024,frank miller,,vpn access,Hign,Resolve,Walk In,South,,2783,YES,N,3.0,Windows 11,morning,No,0.0,31.0,6.0
+TKT-0956,01-Dec-2024,10:28,01-Dec-2024,James Anderson,,Account Locked,Medium,Closed,Chat,North,63.0,177,,yes,-1.0,Linux,Night,No,0.0,85.84,6.0
+TKT-0192,06/04/2024,02:01,07/04/2024,alice johnson,IT,password reset,CRITICAL,closed,Walk In,,135.0,2650,yes,no,-1.0,linux,morning,,2.0,39.2,0.0
+TKT-0386,04/11/2024,20:00,11-06-2024,BOB SMITH,Marketing,Network Issue,CRITICAL,In progress,self-service portal,,122.0,1062,,yes,0.0,Linux,Afternoon,no,2.0,30.68,7.0
+TKT-0806,23-Oct-2024,17:29:08,24/10/2024,Frank Miller,Finance,Network Issue,CRITICAL,In progress,Walk-in,West,10.0,2313,,Y,-1.0,windows 10,Night Shift,No,2.0,142.74,3.0
+TKT-0414,19-May-2024,23:48,05-21-2024,Emily Davis,Sales,Password Reset,Mediun,Resolved,Self-Service Portal,Central,170.0,338,yes,Y,,WINDOWS 11,Afternoon,No,-1.0,21.24,8.0
+TKT-0492,03/09/2024,13:06:43,,alice johnson,,Network Issue,HIGH,Escalated,Self-Service Portal,West,50.0,3316,YES,yes,-1.0,WINDOWS 11,AFTERNOON,,,80.91,1.0
+TKT-0344,2024/10/14,10:16,2024/10/15,,HR,Data Recovery,High,Closed,chat,,107.0,1613,,no,,Linux,Night,Yes,,,0.0
+TKT-0770,2024-02-29,03:56,02-Mar-2024,,Admin,Hardware failure,Critical,Resolved,self-service portal,West,76.0,584,yes,No,,Windows 10,Morning,Yes,,137.18,10.0
+,2024/02/22,17:17:45,02-22-2024,alice johnson,IT,password reset,Critical,Escalated,Phone,West,148.0,2657,no,N,10.0,MacOS,morning,Yes,0.0,8.17,8.0
+TKT-0662,28/04/2024,23:25,,Carol  White,IT,Data Recovery,low,Open,Chat,,,1949,yes,No,0.0,Windows 10,AFTERNOON,Yes,0.0,49.9,6.0
+TKT-0131,2024-09-03,05:14 AM,2024/09/05,JAMES ANDERSON,HR,Data Recovery,Low,Resolve,phone,Central,155.0,594,,Y,3.0,MacOS,AFTERNOON,,0.0,,
+TKT-0664,2024/06/03,17:30,06-03-2024,Grace Wilson,,Printer Issue,Critical,In Progress,self-service portal,Central,,2028,NO,no,-1.0,linux,morning,No,0.0,67.52,7.0
+TKT-0872,2024/11/26,09:19 AM,11-28-2024,alice johnson,Operations,Data Recovery,High,Closed,Chat,,130.0,2012,,,,Linux,Morning,,,59.05,99.0
+TKT-0088,2024-05-22,02:19 AM,05-24-2024,Carol  White,,Hardware Failure,HIGH,OPEN,Walk-in,Central,54.0,3319,No,Y,,Windows 10,Afternoon,yes,0.0,151.21,99.0
+TKT-0331,2024-09-05,08:05,05-Sep-2024,Grace Wilson,Admin,Network Issue,medium,In Progress,Phone,North,,954,yes,N,0.0,Linux,Night Shift,no,,48.77,7.0
+TKT-0467,19-May-2024,18:50:46,20-May-2024,Grace Wilson,Operations,Hardware failure,Critical,escalated,Self-Service Portal,,128.0,2252,No,Yes,,windows 10,Afternoon,yes,0.0,163.82,10.0
+TKT-0122,2024-02-07,22:20:33,08-Feb-2024,Frank Miller,Operations,network issue,Hign,escalated,EMAIL,,49.0,2142,Yes,,0.0,Windows 11,Night,,1.0,138.1,6.0
+TKT-0861,03-12-2024,07:19 PM,03-12-2024,Bob Smith,IT,Hardware failure,HIGH,Closed,Walk In,Central,131.0,1417,No,no,1.0,linux,Night,Yes,3.0,91.59,-2.0

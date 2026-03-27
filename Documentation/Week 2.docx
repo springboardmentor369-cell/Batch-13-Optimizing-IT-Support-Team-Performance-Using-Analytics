@@ -1,0 +1,125 @@
+WEEK 2 
+(PRACTICAL WORKING OF POWER BI)
+
+1.	Introduction
+Power BI is a powerful business intelligence tool developed by Microsoft, widely used for data analysis and visualization across industries. It enables users to transform raw, unstructured data into meaningful insights through interactive dashboards and comprehensive reports.
+This week focuses on understanding the practical working of Power BI, including its interface, core tools, and different views such as Report View, Data View, and Model View.
+
+2.	Overview of Power BI Interface
+The Power BI interface consists of several key components that work together to help users build reports efficiently. These include:
+•	Ribbon
+•	Canvas
+•	Fields Pane
+•	Visualizations Pane
+•	Filters Pane
+•	Different Views (Report, Data, Model)
+A thorough understanding of these components is essential for effective and efficient report creation.
+
+3.	Ribbon in Power BI
+The Ribbon is located at the top of the Power BI window and contains a wide range of tools organized into tabs for easy access.
+3.1 Home Tab
+•	Get Data – Import data from a variety of external sources
+•	Transform Data – Launch the Power Query Editor for data preparation
+•	Refresh – Update the dataset with the latest available data
+•	Publish – Share and distribute reports to the Power BI Service
+3.2 Insert Tab
+•	Add charts, tables, and custom visuals to the report
+•	Insert text boxes and images for better context
+•	Add interactive buttons and shapes to enhance navigation
+3.3 Modeling Tab
+•	Create new calculated columns and measures using DAX
+•	Manage and define relationships between multiple tables
+•	Perform advanced calculations to support complex analysis
+3.4 View Tab
+•	Apply themes to maintain consistent report aesthetics
+•	Show or hide gridlines for better visual alignment
+•	Adjust layout settings to optimize the report structure
+
+4.	Canvas in Power BI
+The Canvas is the primary working area in Power BI where all reports and dashboards are designed and built.
+•	Serves as a blank workspace for report creation
+•	Allows users to drag and drop visuals freely onto the page
+•	Supports the creation of multiple report pages within a single file
+Key Features:
+•	Resize and align visuals for a clean, professional layout
+•	Arrange charts and visuals in a logical and structured manner
+•	Build interactive and dynamic report layouts for end users
+
+5.	Report View
+Report View is the default view in Power BI and serves as the primary space where users design and create visualizations.
+Key Features:
+•	Used to design and build complete interactive dashboards
+•	Allows users to drag and drop fields directly onto the canvas to create charts
+•	Supports the addition of multiple visuals on a single report page
+•	Enables the creation of multiple report pages for organized storytelling
+Importance: Report View is the core environment for presenting data insights in a clear and visually engaging format.
+
+6.	Data View
+Data View displays the entire dataset in a structured table format, making it easy to inspect and verify data quality.
+Key Features:
+•	Presents raw data in a familiar rows-and-columns format
+•	Helps analysts verify data accuracy before proceeding with visualization
+•	Allows the creation of calculated columns using DAX expressions
+•	Used for quick and efficient data inspection and validation
+Importance: Data View is particularly useful for understanding the structure of the dataset and ensuring data integrity before building visualizations.
+
+7.	Model View
+Model View is used to manage and visualize the relationships between different tables within Power BI.
+Key Features:
+•	Displays all table relationships in a clear visual diagram
+•	Allows users to create, edit, and delete relationships between tables
+•	Supports the management of complex data models
+•	Enables seamless connection of multiple related tables
+Importance: Model View is essential when working with multiple datasets, as it ensures a well-structured and properly connected data model that supports accurate analysis.
+
+8.	Fields Pane
+The Fields Pane displays all available tables and columns within the loaded dataset.
+Functions:
+•	Provides a clear overview of the entire dataset structure
+•	Allows users to select specific fields for use in visuals
+•	Enables drag-and-drop functionality to add fields directly into charts and visuals
+
+9.	Visualizations Pane
+The Visualizations Pane is used to create, select, and customize the various chart types available in Power BI.
+Available Visuals:
+•	Bar Chart
+•	Line Chart
+•	Pie Chart
+•	Table
+•	Card
+•	Map
+Functions:
+•	Select the most appropriate chart type for the data being presented
+•	Define axis values and data fields for each visual
+•	Customize colors, labels, and formatting to improve clarity and readability
+
+10.	Filters Pane
+The Filters Pane provides users with the ability to apply filters and narrow down the data displayed in reports.
+Types of Filters:
+•	Visual Level Filter – Applies only to a specific visual on the page
+•	Page Level Filter – Applies to all visuals on a single report page
+•	Report Level Filter – Applies across all pages within the entire report
+Importance: Filters are a powerful feature that help analysts focus on specific subsets of data, improving the depth and precision of the analysis.
+
+11.	Power Query Editor
+•	Power Query Editor is the primary tool used for data cleaning and data preparation within Power BI
+•	It enables users to efficiently handle missing values, duplicate records, and errors within the dataset
+•	Used to remove irrelevant or redundant columns and retain only the data necessary for analysis
+•	Facilitates data type conversions such as changing Text to Date, Time, or Number formats
+•	Supports data standardization to ensure consistency across the dataset (e.g., "closed" → "Closed")
+•	Allows the creation of new calculated columns to derive additional insights (e.g., Resolution Time)
+•	Enables advanced filtering and reshaping of data into the format required for analysis
+•	All transformation steps are recorded and saved in the Applied Steps panel, ensuring they execute automatically during each data refresh
+•	Significantly improves overall data quality, consistency, and accuracy
+•	Serves as the essential foundation upon which dashboards and visualizations are built in Power BI
+
+12.	Importance of Practical Working
+A solid understanding of Power BI tools and components is critical for:
+•	Creating effective, visually appealing, and interactive dashboards
+•	Improving the overall depth and accuracy of data analysis
+•	Enhancing user interaction and engagement with reports
+•	Supporting better and more informed organizational decision-making
+
+Summary
+Overall In this Week , the practical working of Power BI was explored in comprehensive detail. Key components such as the Ribbon, Canvas, and various Panes were studied thoroughly, along with the three important views — Report View, Data View, and Model View.
+This foundational knowledge of Power BI's interface and tools forms a strong basis for the next stages of the project, including data cleaning using Power Query, data modelling, and the creation of interactive dashboards and visualizations.
