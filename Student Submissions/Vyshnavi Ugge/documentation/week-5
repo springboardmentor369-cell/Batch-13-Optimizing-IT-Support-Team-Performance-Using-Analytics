@@ -1,1 +1,58 @@
 
+Key Concepts:
+
+Exploratory Data Analysis (EDA):
+The process of analyzing datasets to summarize their main characteristics, often using visualizations. EDA helps in understanding patterns, spotting anomalies, identifying relationships, and guiding further analysis or modeling.
+Importance of EDA:
+Understand the dataset before modeling.
+Identify numerical, categorical, and time-series features.
+Detect outliers that may skew results.
+Understand relationships between columns.
+Visualizations dynamically change as the dataset grows because they depend on the data connections.
+
+Steps in EDA:
+
+Understand the dataset: Review columns, data types, and basic statistics.
+Handle missing values: Detect and decide whether to fill, remove, or ignore missing data.
+Identify outliers: Detect anomalies in numerical features using statistical or visual methods.
+Analyze relationships between columns: Study correlations, dependencies, and trends.
+
+Task for Visualization:
+
+Frame questions to explore the dataset visually. Example questions could include:
+How are numerical features distributed?
+Are there any outliers affecting the data?
+How do categorical features relate to numerical outcomes?
+What trends exist in time-series data?
+How do different columns interact or correlate?
+Final Dashboard Questions
+
+1️⃣ Most Common Issues
+
+Question: Which issue type affects customers the most?
+Purpose: Identify the issue category that impacts customers the most so the team can prioritize fixes.
+
+2️⃣ Time Analysis
+
+Question: Which issue category takes the longest time to resolve?
+Purpose: Determine which types of tickets consume more time, highlighting complex or resource-intensive issues.
+
+3️⃣ Priority Insight
+
+Question: How are tickets distributed across different priority levels?
+Purpose: Understand the urgency distribution of tickets to manage resources and escalation effectively.
+
+4️⃣ Trend Analysis
+
+Question: In which months do we receive the highest number of tickets?
+Purpose: Spot ticket volume trends over time to plan staffing and support during peak periods.
+
+5️⃣ KPI Insight
+
+Question: How many tickets are currently open?
+Purpose: Track active workload and backlog to ensure timely resolution and effective resource planning.
+
+6️⃣ Customer Issue Detail (Advanced)
+
+Question: What are the most common customer issues?
+Purpose: Drill down into the specific problems customers face most frequently, guiding targeted improvements.
