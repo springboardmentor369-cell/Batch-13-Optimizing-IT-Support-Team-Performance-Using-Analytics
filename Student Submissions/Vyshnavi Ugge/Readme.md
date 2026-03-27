@@ -56,15 +56,7 @@ The dataset contains **8470 customer support ticket records** with the following
 
 ## 📊 Key Performance Indicators (KPIs)  
 
-- Total Number of Tickets  
-- Average First Response Time  
-- Average Resolution Time  
-- Customer Satisfaction Rating  
-- Ticket Distribution by Priority  
-- Ticket Distribution by Channel  
-- Ticket Distribution by Type  
-- Ticket Status Overview  
-
+- Total Number of Support Tickets 
 ---
 
 ## 📈 Dashboard Features  
