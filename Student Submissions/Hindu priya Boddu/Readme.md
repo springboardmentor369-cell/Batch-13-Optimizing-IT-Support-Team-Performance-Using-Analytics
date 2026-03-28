@@ -12,12 +12,12 @@ This project demonstrates how raw educational data can be transformed into actio
 
 ## 🎯 Project Objectives
 
-- ✅ Analyze student performance across subjects  
-- ✅ Identify factors affecting academic scores  
-- ✅ Perform data cleaning and transformation using Power Query  
-- ✅ Apply Exploratory Data Analysis (EDA) concepts  
-- ✅ Build interactive dashboards using Power BI  
-- ✅ Present insights using data storytelling techniques  
+-  Analyze student performance across subjects  
+-  Identify factors affecting academic scores  
+-  Perform data cleaning and transformation using Power Query  
+-  Apply Exploratory Data Analysis (EDA) concepts  
+-  Build interactive dashboards using Power BI  
+-  Present insights using data storytelling techniques  
 
 
 ## 🗂️ Dataset Information
