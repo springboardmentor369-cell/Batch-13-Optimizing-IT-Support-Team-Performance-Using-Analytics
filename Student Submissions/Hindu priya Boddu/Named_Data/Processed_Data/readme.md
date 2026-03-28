@@ -16,4 +16,4 @@ The `Processed Data` folder contains the cleaned and transformed version of the 
 - Support accurate dashboard reporting and insights generation
 
 ### 🔄 Data Workflow
--Raw Data → Data Cleaning & Transformation → Processed Data → Dashboard & Insights
+Raw Data → Data Cleaning & Transformation → Processed Data → Dashboard & Insights
