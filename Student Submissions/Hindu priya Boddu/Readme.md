@@ -1,5 +1,5 @@
-# 📊 Optimizing-IT-Support-Team-Performance-Using-Analytics
-# 🎓 Student Performance Analysis Dashboard
+## 📊 Optimizing-IT-Support-Team-Performance-Using-Analytics
+##🎓 Student Performance Analysis Dashboard
 
 
 ## 📌 Project Overview
