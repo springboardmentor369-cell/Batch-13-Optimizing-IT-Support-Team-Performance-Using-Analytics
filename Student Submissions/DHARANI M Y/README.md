@@ -5,7 +5,6 @@ IT support teams handle a high volume of service tickets daily, making it challe
 
 This project focuses on analyzing IT support ticket data to identify operational gaps and improve overall efficiency. By cleaning and transforming raw data using Excel and Power Query, the goal is to enable meaningful analysis and support data-driven decision-making through an interactive dashboard.
 
----
 
 ## 2. Dataset Description  
 The dataset used in this project contains IT service desk ticket information, including details related to ticket creation, assignment, priority, resolution, and customer feedback.  
@@ -26,7 +25,6 @@ The dataset used in this project contains IT service desk ticket information, in
 
 The dataset initially contained missing values and inconsistencies, which were handled using Excel and Power Query to ensure clean and structured data for analysis.
 
----
 
 ## 3. Key Performance Indicators (KPIs)  
 
@@ -37,7 +35,6 @@ The dataset initially contained missing values and inconsistencies, which were h
 - Resolution Rate (%) – Percentage of tickets resolved out of total tickets  
 - Customer Satisfaction Score – Measure of user satisfaction  
 
----
 
 ## 4. Dashboard Description  
 
@@ -51,7 +48,6 @@ The dashboard provides a comprehensive overview of IT support operations through
 
 The dashboard is designed with a clean layout, consistent color theme, and insight-driven titles to improve readability and usability.
 
----
 
 ## 5. Key Insights  
 
@@ -62,7 +58,6 @@ The dashboard is designed with a clean layout, consistent color theme, and insig
 - Workload varies across different days and weeks, highlighting peak activity periods  
 - Approximately 50% of tickets are resolved, indicating scope for improving efficiency  
 
----
 
 ## 6. Recommendations  
 
@@ -72,7 +67,6 @@ The dashboard is designed with a clean layout, consistent color theme, and insig
 - Monitor peak periods and allocate resources accordingly  
 - Focus on reducing resolution time to improve customer satisfaction  
 
----
 
 ## 7. Tools Used  
 
@@ -81,7 +75,6 @@ The dashboard is designed with a clean layout, consistent color theme, and insig
 - Power BI  
 - Data Cleaning & Transformation Techniques  
 
----
 
 ## Project Outcome  
 
