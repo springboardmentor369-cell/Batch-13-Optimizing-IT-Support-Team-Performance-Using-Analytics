@@ -1,0 +1,26 @@
+Week 4 – Data Understanding and GitHub
+
+“In Week 4, we learned how to understand the quality and distribution of data.
+
+Column Quality
+This shows the percentage of valid values, empty values, and error values in a column.
+It helps us quickly identify whether the data is clean or if there are issues.
+
+Column Distribution
+This shows how the values in a column are distributed, including unique values and repeated values.
+It helps us understand patterns and frequency of data.
+
+Column Statistics
+This provides statistical information about numeric columns, such as:
+
+Minimum value
+
+Maximum value
+
+Average
+
+Standard deviation.
+
+We also discussed KPIs (Key Performance Indicators), which are metrics used to measure performance, such as revenue growth or business performance.
+
+In this week, we also created a GitHub repository and organized our project files into different folders for better project management.”

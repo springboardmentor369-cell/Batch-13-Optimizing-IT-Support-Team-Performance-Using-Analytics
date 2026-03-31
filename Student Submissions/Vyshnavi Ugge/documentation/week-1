@@ -1,0 +1,20 @@
+
+Week 1 – Power BI Basics and Data Types
+
+“In Week 1, I learned how to import data into Power BI from different sources like CSV files and Excel files.
+
+I also learned about different types of data structures:
+
+Structured data – organized data stored in tables like Excel or databases
+
+Semi-structured data – data like JSON or XML which has some structure but not fully organized
+
+Unstructured data – data like text, images, or videos which do not have a fixed format.
+
+I also learned about the three main views in Power BI:
+
+Report View – used to create visualizations like charts and dashboards
+
+Data View – used to view the dataset in tabular format
+
+Model View – used to understand relationships between different tables.”

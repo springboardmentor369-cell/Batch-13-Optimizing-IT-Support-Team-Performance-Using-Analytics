@@ -1,0 +1,21 @@
+Week 2 – Data Cleaning and Importance of Data Types
+
+“In Week 2, we focused on data cleaning using Power Query.
+
+Some of the tasks we performed were:
+
+Changing column names
+
+Changing data types
+
+Removing null values
+
+Removing error values
+
+Changing the correct data type is very important.
+If a column has the wrong data type, it can cause calculation errors.
+
+For example, if numeric data is stored as text, Power BI cannot perform calculations like sum or average.
+So we converted the columns into the correct data types such as text, number, and date to make the data ready for analysis.
+
+For numeric missing values, we replaced them using statistical methods like mean or average.
