@@ -1,0 +1,9 @@
+This module focuses on analyzing similarities among support tickets and identifying clusters of related issues. Clustering helps group similar tickets together, allowing the support team to detect recurring problem patterns and improve troubleshooting efficiency.
+
+The first step involved calculating and analyzing average similarity scores within clusters. Similarity scores measure how closely related tickets are within the same group based on their textual descriptions or features. High similarity scores indicate that the tickets in a cluster represent similar problems, while lower scores may suggest more diverse issues within the cluster.
+
+Next, a comparison was performed between cluster size and issue type. Cluster size refers to the number of tickets belonging to a particular group. By analyzing cluster sizes along with their corresponding issue types, it becomes possible to identify which problems occur most frequently and affect the largest number of users.
+
+To further explore performance gaps, visualizations such as boxplots and scatter plots were created. Boxplots help show the distribution of resolution times or similarity scores across clusters, making it easier to detect outliers or unusually complex issues. Scatter plots allow the visualization of relationships between variables such as cluster size, priority score, and resolution duration.
+
+These visual analyses help identify recurring problem clusters, inefficient ticket handling patterns, and potential areas where support processes can be improved.

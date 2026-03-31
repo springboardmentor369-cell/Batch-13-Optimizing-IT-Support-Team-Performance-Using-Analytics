@@ -1,0 +1,9 @@
+The first stage of the project focuses on understanding the problem, defining objectives, and preparing the dataset for analysis. The primary goal is to analyze IT support ticket data in order to identify patterns in customer issues, improve support team performance, and reduce ticket resolution time.
+
+Initially, the project objectives, key performance indicators (KPIs), and workflow were defined. The KPIs considered for this analysis include ticket resolution time, ticket distribution across categories, and priority handling efficiency. These metrics help evaluate the effectiveness of the support system and identify potential areas of improvement.
+
+After defining the objectives, the dataset was loaded into the analysis environment using the pandas library in Python. The dataset was stored in a CSV format and contained multiple attributes related to customer support tickets, including ticket ID, customer details, product information, ticket type, priority, category, and timestamps.
+
+Next, exploratory inspection of the dataset was performed to understand its structure. This included examining the dataset schema, checking column names, reviewing data types, and identifying missing values. Understanding the dataset structure is important to ensure that each feature is correctly interpreted during analysis.
+
+Finally, an initial statistical overview of the data was performed by calculating the distribution of tickets based on Type, Priority, and Category. This step helps in identifying which types of issues occur most frequently and how support tickets are prioritized. The insights from this stage provide the foundation for further data cleaning and feature engineering in the next module.

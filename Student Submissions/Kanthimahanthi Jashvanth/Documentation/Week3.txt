@@ -1,0 +1,9 @@
+In this module, exploratory data analysis (EDA) was performed to understand patterns and trends in the IT support ticket dataset through visualizations. Visualization helps transform raw data into meaningful insights that can support better decision-making.
+
+The first step involved plotting the ticket type distribution to understand the frequency of different types of support requests. This visualization provides a clear overview of which ticket types occur most frequently and which ones are relatively rare. Understanding this distribution helps identify the areas where the support team receives the highest number of requests.
+
+Next, the dataset was analyzed to identify the top ticket categories and clusters based on frequency. Categories represent the type of problem reported by customers, such as software issues, hardware failures, network problems, or account-related requests. By calculating the frequency of each category and visualizing the results using bar charts or similar graphs, it becomes easier to recognize the most common problem areas.
+
+Additionally, visualizations were created to analyze tickets by priority and queue. Priority levels indicate the urgency of issues, while queues represent the support teams or departments responsible for resolving them. These visualizations help determine whether high-priority issues are distributed evenly among queues or if certain teams are handling a larger share of critical tickets.
+
+Overall, the exploratory visualization stage provides a clear understanding of ticket distribution, common problem categories, and workload patterns among support teams. These insights form the basis for deeper analytical techniques used in the next module.

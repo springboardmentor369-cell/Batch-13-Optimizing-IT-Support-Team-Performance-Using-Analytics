@@ -1,0 +1,13 @@
+In this module, the dataset was prepared for detailed analysis by cleaning inconsistent data and creating new useful features. Data cleaning is an important step to ensure that the dataset is accurate, consistent, and suitable for analysis.
+
+The first step involved handling missing or incorrect values in text fields such as ticket descriptions, categories, and priority labels. Missing entries were either filled using appropriate placeholders or removed depending on their importance and frequency. Incorrect or inconsistent text entries were standardized to maintain uniformity across the dataset.
+
+After cleaning the data, feature engineering was performed to create new attributes that provide deeper insights into ticket handling performance. Two new features were created:
+
+Resolution_Duration: This feature represents the time taken to resolve each support ticket. It was calculated using the difference between the ticket creation time and the resolution time. This metric helps analyze how quickly issues are resolved.
+
+Priority_Score: A numerical score was assigned to each ticket priority level (for example, High = 3, Medium = 2, Low = 1). This transformation allows priority levels to be used in quantitative analysis and visualizations.
+
+Once the cleaning and feature engineering processes were completed, the processed dataset was saved for further analysis in subsequent modules. Proper documentation was also created to describe the changes made during preprocessing.
+
+The deliverables of this module include a cleaned dataset, a feature engineering summary, and a data dictionary that explains the meaning and data type of each variable used in the analysis.
