@@ -1,0 +1,91 @@
+# Optimizing IT Support Team Performance Using Analytics
+
+## 📌 Project Overview
+This project focuses on analyzing IT support ticket data to identify patterns, improve operational efficiency, and optimize support team performance. The goal is to derive meaningful insights from ticket data such as resolution time, customer satisfaction, and issue distribution.
+
+---
+
+## ❗ Problem Statement
+IT support teams handle a large number of tickets daily, but lack of proper analysis can lead to delays, inefficiencies, and low customer satisfaction. This project aims to analyze support data and identify key areas of improvement.
+
+---
+
+## 📊 Dataset Description
+The dataset contains synthetic IT support ticket data simulating real-world scenarios. It includes:
+
+- ticket_id  
+- created_at  
+- customer_id  
+- customer_segment  
+- channel  
+- product_area  
+- issue_type  
+- priority  
+- status  
+- resolution_time_hours  
+- customer_sentiment  
+- csat_score  
+- platform  
+- region  
+
+---
+
+## 🎯 KPIs (Key Performance Indicators)
+- Total Tickets  
+- Average Resolution Time  
+- Average CSAT Score  
+- High Priority Ticket Count  
+- Ticket Distribution by Channel  
+- Ticket Distribution by Region  
+
+---
+
+## 📈 Dashboard (Work in Progress)
+The dashboard is currently under development and will include:
+- KPI Cards  
+- Bar Charts  
+- Pie Charts  
+- Line Charts  
+- Filters (Slicers)  
+
+---
+
+## 📷 Screenshots (To be updated)
+Screenshots will be added after completing the dashboard.
+
+---
+
+## 🔍 Key Insights (To be updated)
+Insights will be derived after dashboard creation.
+
+---
+
+## 💡 Recommendations (To be updated)
+Recommendations will be based on insights from the analysis.
+
+---
+
+## 🛠 Tools Used
+- Power BI  
+- Microsoft Excel  
+- Power Query  
+- DAX  
+- GitHub  
+
+---
+
+## 📁 Project Structure 
+data/
+documentation/
+dashboard/ (to be added)
+screenshots/ (to be added)
+README.md 
+
+
+---
+
+## 🚀 Future Work
+- Complete dashboard development  
+- Add advanced DAX measures  
+- Improve data model  
+- Generate actionable insights  
