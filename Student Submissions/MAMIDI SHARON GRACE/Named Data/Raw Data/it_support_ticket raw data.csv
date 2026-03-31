@@ -1,0 +1,1001 @@
+Ticket ID,Customer ID,Agent ID,Team,Category,Sub Category,Priority,Channel,Location,Created Date,First Response Time Min,Resolution Time Hours,SLA Hours,Reopen Count,Escalation Level,Customer Satisfaction,Agent Experience Years,Agent Workload,Resolution Attempts,Ticket Age Days,Cost Per Ticket,Status
+T0001,C202,A14,Network,Connectivity,VPN,Low,Email,Chennai,2026-01-01 00:00:00,30,2.16,4,0,2,5.0,8,6,2,1,77,Closed
+T0002,C535,A11,Software,Laptop,Driver Issue,High,Phone,Mumbai,2026-01-01 01:00:00,18,7.68,12,1,0,5.0,1,7,1,1,243,Closed
+T0003,C960,A03,Software,Database,Driver Issue,Low,Portal,Hyderabad,2026-01-01 02:00:00,11,6.79,6,1,1,3.0,5,19,2,3,248,Resolved
+T0004,C370,A02,Hardware,Database,VPN,High,Phone,Pune,2026-01-01 03:00:00,37,3.84,8,1,0,1.0,4,27,2,2,96,Open
+T0005,C206,A04,Security,Connectivity,Login,High,Email,Chennai,2026-01-01 04:00:00,30,6.59,4,2,0,1.0,7,23,3,2,135,Closed
+T0006,C171,A09,Security,Access,Query Error,Medium,Phone,Hyderabad,2026-01-01 05:00:00,49,2.98,4,0,0,1.0,5,17,1,2,59,Closed
+T0007,C800,A06,Software,Connectivity,Login,High,Phone,Delhi,2026-01-01 06:00:00,24,5.0,4,2,0,4.0,8,9,1,0,163,Resolved
+T0008,C120,A01,Hardware,Access,Driver Issue,High,Portal,Bangalore,2026-01-01 07:00:00,7,9.09,8,0,0,5.0,1,26,3,0,82,Resolved
+T0009,C714,A08,Security,Access,Password Reset,Low,Phone,Delhi,2026-01-01 08:00:00,56,2.2,4,1,1,5.0,5,10,2,4,184,Resolved
+T0010,C221,A12,Software,Application,VPN,High,Portal,Bangalore,2026-01-01 09:00:00,8,4.48,8,0,2,4.0,4,18,2,0,180,Resolved
+T0011,C566,A14,Network,Database,Driver Issue,Low,Portal,Mumbai,2026-01-01 10:00:00,30,8.39,6,0,2,2.0,3,8,1,1,63,Open
+T0012,C314,A07,Security,Printer,Driver Issue,High,Email,Chennai,2026-01-01 11:00:00,15,9.73,6,0,1,4.0,5,26,3,1,221,Closed
+T0013,C430,A10,Hardware,Access,Query Error,High,Portal,Mumbai,2026-01-01 12:00:00,6,5.09,6,2,2,1.0,3,23,3,1,95,Closed
+T0014,C558,A03,Hardware,Application,VPN,Low,Portal,Bangalore,2026-01-01 13:00:00,18,5.56,12,0,2,4.0,8,27,2,1,110,Closed
+T0015,C187,A01,Hardware,Database,Query Error,Medium,Email,Bangalore,2026-01-01 14:00:00,48,6.15,8,0,2,1.0,3,11,2,4,213,Closed
+T0016,C472,A05,Network,Printer,VPN,Low,Portal,Bangalore,2026-01-01 15:00:00,34,9.39,4,0,1,3.0,1,8,3,1,62,Open
+T0017,C199,A13,Security,Access,Query Error,Low,Email,Pune,2026-01-01 16:00:00,53,8.72,4,2,1,,9,6,1,3,65,Closed
+T0018,C971,A04,Security,Access,Login,Low,Phone,Hyderabad,2026-01-01 17:00:00,16,2.54,4,2,2,,9,11,2,3,182,Open
+T0019,C763,A10,Network,Connectivity,Password Reset,Medium,Email,Chennai,2026-01-01 18:00:00,30,4.93,4,2,2,4.0,6,7,3,3,87,Open
+T0020,C230,A08,Security,Connectivity,Password Reset,High,Portal,Mumbai,2026-01-01 19:00:00,48,5.18,12,0,2,1.0,1,19,3,0,227,Resolved
+T0021,C761,A01,Network,Database,VPN,Low,Email,Mumbai,2026-01-01 20:00:00,37,8.1,4,1,0,2.0,8,5,3,2,87,Resolved
+T0022,C408,A10,Network,Printer,Screen,Low,Portal,Delhi,2026-01-01 21:00:00,17,6.43,12,1,0,3.0,2,6,1,4,152,Closed
+T0023,C869,A01,Network,Access,Driver Issue,Medium,Phone,Bangalore,2026-01-01 22:00:00,18,6.89,8,1,0,2.0,9,14,2,3,105,Open
+T0024,C443,A12,Hardware,Database,Driver Issue,Low,Email,Bangalore,2026-01-01 23:00:00,28,9.98,6,0,1,2.0,8,20,2,3,112,Resolved
+T0025,C591,A04,Security,Database,VPN,High,Phone,Bangalore,2026-01-02 00:00:00,38,1.67,4,1,2,2.0,3,29,2,1,169,Open
+T0026,C513,A08,Network,Laptop,Query Error,Medium,Portal,Mumbai,2026-01-02 01:00:00,48,3.01,6,1,1,3.0,5,19,1,3,97,Resolved
+T0027,C905,A05,Security,Connectivity,Screen,High,Portal,Delhi,2026-01-02 02:00:00,30,4.67,8,1,1,3.0,9,28,2,1,154,Open
+T0028,C485,A02,Hardware,Printer,Login,High,Phone,Hyderabad,2026-01-02 03:00:00,25,4.13,8,0,1,3.0,1,19,2,1,108,Closed
+T0029,C291,A06,Network,Access,Query Error,Medium,Email,Pune,2026-01-02 04:00:00,32,1.19,4,1,2,3.0,9,18,2,2,126,Closed
+T0030,C376,A05,Software,Database,Query Error,Low,Email,Chennai,2026-01-02 05:00:00,52,1.83,8,1,0,2.0,4,26,2,0,221,Open
+T0031,C260,A02,Hardware,Access,VPN,High,Portal,Hyderabad,2026-01-02 06:00:00,40,7.13,6,0,2,5.0,4,18,1,1,176,Resolved
+T0032,C559,A13,Software,Laptop,VPN,High,Phone,Mumbai,2026-01-02 07:00:00,44,8.91,4,2,2,5.0,4,10,3,1,104,Resolved
+T0033,C413,A14,Security,Printer,Driver Issue,High,Phone,Pune,2026-01-02 08:00:00,6,5.63,12,1,1,3.0,9,18,3,2,104,Closed
+T0034,C121,A11,Security,Database,VPN,High,Email,Pune,2026-01-02 09:00:00,46,5.85,4,2,1,4.0,6,21,2,1,178,Closed
+T0035,C352,A11,Hardware,Access,VPN,Medium,Email,Pune,2026-01-02 10:00:00,13,3.3,6,1,1,1.0,8,22,2,4,185,Closed
+T0036,C847,A11,Security,Connectivity,VPN,medium,Email,Bangalore,2026-01-02 11:00:00,27,7.91,4,0,0,4.0,4,24,2,0,176,Resolved
+T0037,C956,A03,Software,Laptop,Driver Issue,High,Phone,Chennai,2026-01-02 12:00:00,19,7.77,4,2,0,4.0,3,23,1,4,181,Resolved
+T0038,C660,A09,Network,Printer,Login,Low,Email,Mumbai,2026-01-02 13:00:00,17,6.3,6,2,0,4.0,1,21,2,3,134,Closed
+T0039,C574,A07,Network,Laptop,Login,High,Email,Mumbai,2026-01-02 14:00:00,27,2.91,4,2,2,5.0,7,20,1,0,164,Open
+T0040,C158,A07,Network,Connectivity,VPN,Low,Portal,Pune,2026-01-02 15:00:00,21,1.87,4,2,1,1.0,4,12,2,3,230,Resolved
+T0041,C610,A11,Hardware,Printer,Driver Issue,High,Email,Mumbai,2026-01-02 16:00:00,52,1.58,6,1,2,4.0,8,11,2,1,107,Closed
+T0042,C781,A06,Security,Laptop,Login,Low,Email,Chennai,2026-01-02 17:00:00,6,6.33,8,1,0,3.0,3,24,3,2,86,Open
+T0043,C575,A08,Software,Application,Query Error,High,Phone,Chennai,2026-01-02 18:00:00,24,8.43,6,2,1,5.0,1,16,2,4,98,Resolved
+T0044,C799,A04,Security,Connectivity,Login,Low,Phone,Delhi,2026-01-02 19:00:00,24,8.72,4,1,0,3.0,5,13,1,3,116,Open
+T0045,C882,A08,Security,Connectivity,Login,High,Portal,Delhi,2026-01-02 20:00:00,50,5.17,12,2,1,3.0,2,18,3,1,68,Open
+T0046,C289,A04,Security,Connectivity,Driver Issue,High,Email,Hyderabad,2026-01-02 21:00:00,7,8.06,12,2,1,4.0,3,24,1,4,178,Resolved
+T0047,C786,A08,Network,Application,Query Error,Low,Portal,Chennai,2026-01-02 22:00:00,59,9.52,6,0,2,3.0,6,5,3,4,78,Closed
+T0048,C662,A09,Software,Application,Driver Issue,Medium,Phone,Chennai,2026-01-02 23:00:00,16,3.48,12,2,2,1.0,3,14,1,3,136,Open
+T0049,C975,A03,Software,Access,VPN,Low,Portal,Chennai,2026-01-03 00:00:00,44,4.58,4,1,0,3.0,3,21,3,1,82,Closed
+T0050,C666,A03,Security,Database,Password Reset,Medium,Phone,Delhi,2026-01-03 01:00:00,6,9.38,4,2,2,4.0,6,21,1,2,168,Resolved
+T0051,C343,A11,Network,Laptop,Login,High,Portal,Pune,2026-01-03 02:00:00,40,4.04,6,0,2,3.0,5,21,1,3,229,Open
+T0052,C931,A13,Network,Access,Password Reset,Low,Portal,Pune,2026-01-03 03:00:00,18,9.22,4,1,2,5.0,9,8,2,4,218,Open
+T0053,C604,A02,Software,Laptop,Driver Issue,Low,Email,Mumbai,2026-01-03 04:00:00,20,9.83,8,0,1,5.0,1,21,3,4,200,Open
+T0054,C230,A13,Network,Database,Driver Issue,Low,Portal,Pune,2026-01-03 05:00:00,23,6.96,4,0,2,5.0,3,22,3,0,182,Open
+T0055,C584,A10,Network,Application,Driver Issue,Medium,Email,Bangalore,2026-01-03 06:00:00,38,8.35,6,2,0,2.0,3,24,2,1,120,Open
+T0056,C918,A03,Network,Database,Password Reset,Medium,Email,Delhi,2026-01-03 07:00:00,48,7.75,8,0,1,5.0,6,27,1,0,234,Resolved
+T0057,C746,A03,Hardware,Application,Driver Issue,High,Email,Chennai,2026-01-03 08:00:00,50,7.3,8,0,1,5.0,8,6,1,2,183,Open
+T0058,C120,A05,Security,Database,VPN,Medium,Email,Pune,2026-01-03 09:00:00,10,3.76,12,1,2,2.0,3,12,3,3,226,Resolved
+T0059,C940,A05,Software,Access,Driver Issue,Medium,Portal,Delhi,2026-01-03 10:00:00,17,1.51,4,0,1,5.0,3,17,1,4,71,Closed
+T0060,C266,A02,Software,Printer,Screen,high,Phone,Pune,2026-01-03 11:00:00,40,4.09,6,2,0,4.0,6,27,3,1,126,Resolved
+T0061,C373,A12,Hardware,Access,Password Reset,Low,Phone,Hyderabad,2026-01-03 12:00:00,26,7.0,12,2,0,5.0,8,29,3,4,53,Open
+T0062,C487,A10,Security,Laptop,Screen,Low,Phone,Chennai,2026-01-03 13:00:00,22,1.92,12,2,1,5.0,6,26,1,0,121,Closed
+T0063,C700,A13,Software,Access,Driver Issue,High,Portal,Hyderabad,2026-01-03 14:00:00,16,unknown,4,0,2,2.0,3,24,1,0,241,Resolved
+T0064,C415,A06,Network,Connectivity,VPN,Low,Email,Chennai,2026-01-03 15:00:00,56,2.26,4,1,2,4.0,4,26,1,3,214,Resolved
+T0065,C113,A05,Software,Laptop,Login,Medium,Phone,Delhi,2026-01-03 16:00:00,58,7.44,6,2,1,,1,19,2,1,208,Resolved
+T0066,C341,A06,Network,Database,Query Error,high,Portal,Mumbai,2026-01-03 17:00:00,34,9.76,12,0,0,1.0,8,24,3,1,214,Open
+T0067,C876,A01,Hardware,Laptop,Query Error,High,Email,Pune,2026-01-03 18:00:00,57,unknown,6,2,1,4.0,4,27,1,3,177,Open
+T0068,C445,A05,Network,Printer,Driver Issue,High,Phone,Pune,2026-01-03 19:00:00,55,5.45,12,2,2,3.0,6,13,2,0,94,Resolved
+T0069,C664,A09,Software,Application,VPN,Low,Email,Bangalore,2026-01-03 20:00:00,44,8.82,12,1,2,4.0,3,7,1,0,185,Resolved
+T0070,C997,A12,Software,Database,Password Reset,High,Phone,Hyderabad,2026-01-03 21:00:00,11,7.63,12,2,1,3.0,6,7,3,0,217,Closed
+T0071,C439,A10,Software,Laptop,Screen,High,Phone,Pune,2026-01-03 22:00:00,36,unknown,4,1,0,3.0,9,6,2,4,142,Open
+T0072,C191,A14,Hardware,Database,Screen,High,Phone,Delhi,2026-01-03 23:00:00,52,6.15,12,0,1,4.0,9,5,3,2,54,Open
+T0073,C466,A02,Hardware,Database,Screen,Low,Email,Mumbai,2026-01-04 00:00:00,23,2.24,12,2,0,2.0,3,18,1,0,205,Closed
+T0074,C554,A01,Security,Database,Password Reset,Medium,Portal,Delhi,2026-01-04 01:00:00,10,9.44,12,0,0,4.0,3,21,1,2,153,Resolved
+T0075,C527,A14,Software,Application,Query Error,High,Email,Hyderabad,2026-01-04 02:00:00,24,4.17,8,0,1,4.0,4,17,1,2,130,Resolved
+T0076,C608,A10,Network,Access,VPN,Medium,Phone,Bangalore,2026-01-04 03:00:00,31,5.02,4,0,1,3.0,7,23,2,1,136,Closed
+T0077,C875,A13,Hardware,Database,Password Reset,Low,Email,Pune,2026-01-04 04:00:00,57,7.04,8,2,0,1.0,3,27,2,3,186,Resolved
+T0078,C134,A11,Software,Connectivity,Screen,Low,Portal,Delhi,2026-01-04 05:00:00,47,4.01,4,1,0,3.0,8,19,2,4,179,Resolved
+T0079,C305,A09,Software,Printer,Driver Issue,Low,Email,Chennai,2026-01-04 06:00:00,41,3.29,6,2,0,5.0,8,29,2,2,112,Closed
+T0080,C180,A10,Hardware,Application,Login,Low,Portal,Mumbai,2026-01-04 07:00:00,52,6.68,8,0,0,4.0,6,18,1,4,100,Closed
+T0081,C661,A09,Security,Laptop,Password Reset,Medium,Portal,Delhi,2026-01-04 08:00:00,11,1.22,6,1,2,4.0,4,6,1,1,165,Closed
+T0082,C971,A09,Hardware,Application,Password Reset,High,Email,Mumbai,2026-01-04 09:00:00,9,7.49,12,0,1,,5,11,1,0,162,Resolved
+T0083,C487,A06,Hardware,Laptop,VPN,Low,Phone,Pune,2026-01-04 10:00:00,15,5.63,6,1,0,3.0,2,21,2,2,80,Closed
+T0084,C101,A08,Network,Application,VPN,Low,Portal,Chennai,2026-01-04 11:00:00,19,6.45,6,2,1,2.0,6,22,2,3,56,Resolved
+T0085,C489,A14,Network,Laptop,Password Reset,Medium,Email,Bangalore,2026-01-04 12:00:00,7,6.69,6,1,0,4.0,3,10,1,1,207,Open
+T0086,C665,A11,Security,Database,Screen,Medium,Portal,Bangalore,2026-01-04 13:00:00,9,5.74,6,2,1,3.0,6,25,1,4,235,Open
+T0087,C205,A13,Software,Access,Login,Low,Phone,Chennai,2026-01-04 14:00:00,27,6.24,4,0,1,3.0,5,12,2,0,52,Closed
+T0088,C871,A01,Hardware,Laptop,VPN,High,Email,Mumbai,2026-01-04 15:00:00,57,7.15,8,1,0,5.0,2,6,3,4,100,Resolved
+T0089,C921,A10,Security,Laptop,Screen,High,Email,Pune,2026-01-04 16:00:00,41,7.78,4,0,0,5.0,5,5,1,3,105,Resolved
+T0090,C576,A04,Network,Connectivity,Driver Issue,Low,Email,Delhi,2026-01-04 17:00:00,13,7.55,4,1,1,1.0,5,20,1,2,122,Resolved
+T0091,C802,A01,Hardware,Laptop,VPN,medium,Phone,Chennai,2026-01-04 18:00:00,19,8.83,4,2,1,5.0,9,11,1,3,59,Closed
+T0092,C501,A08,Software,Connectivity,Screen,Low,Portal,Hyderabad,2026-01-04 19:00:00,7,2.7,6,1,1,3.0,8,26,2,4,110,Resolved
+T0093,C829,A01,Network,Printer,Screen,Low,Email,Mumbai,2026-01-04 20:00:00,33,4.61,4,1,2,5.0,7,28,1,4,99,Resolved
+T0094,C655,A03,Network,Database,Login,Medium,Portal,Bangalore,2026-01-04 21:00:00,10,9.53,8,2,0,1.0,3,15,1,3,171,Resolved
+T0095,C261,A13,Network,Connectivity,Login,Low,Portal,Chennai,2026-01-04 22:00:00,21,4.57,4,2,2,4.0,4,19,1,3,224,Open
+T0096,C301,A04,Security,Access,Driver Issue,Low,Phone,Bangalore,2026-01-04 23:00:00,30,2.12,12,2,2,5.0,6,17,1,3,50,Resolved
+T0097,C369,A08,Software,Database,Screen,Low,Email,Mumbai,2026-01-05 00:00:00,25,5.73,6,1,0,3.0,3,28,1,0,234,Open
+T0098,C962,A06,Hardware,Connectivity,Query Error,Medium,Portal,Bangalore,2026-01-05 01:00:00,12,1.99,12,0,0,4.0,9,6,3,4,87,Resolved
+T0099,C915,A14,Security,Database,Screen,High,Email,Chennai,2026-01-05 02:00:00,25,2.83,8,1,2,3.0,8,18,3,1,239,Resolved
+T0100,C370,A10,Security,Database,Login,High,Email,Mumbai,2026-01-05 03:00:00,15,9.98,8,1,0,4.0,6,28,1,0,128,Resolved
+T0101,C555,A12,Security,Database,Query Error,Medium,Phone,Hyderabad,2026-01-05 04:00:00,42,5.87,8,0,1,3.0,4,10,1,0,138,Open
+T0102,C561,A07,Network,Printer,VPN,High,Email,Chennai,2026-01-05 05:00:00,12,3.56,8,2,1,5.0,7,13,1,0,247,Resolved
+T0103,C826,A14,Software,Access,VPN,Low,Email,Delhi,2026-01-05 06:00:00,46,9.95,4,1,2,,3,11,1,1,131,Closed
+T0104,C351,A08,Security,Application,Password Reset,High,Portal,Pune,2026-01-05 07:00:00,28,9.7,6,0,2,1.0,8,22,2,3,242,Resolved
+T0105,C801,A02,Hardware,Application,Login,Low,Phone,Chennai,2026-01-05 08:00:00,39,4.97,8,2,0,4.0,1,28,2,4,239,Open
+T0106,C395,A13,Software,Connectivity,Password Reset,High,Email,Mumbai,2026-01-05 09:00:00,59,3.34,12,2,0,1.0,3,13,2,2,233,Open
+T0107,C824,A10,Hardware,Database,Query Error,Medium,Portal,Pune,2026-01-05 10:00:00,18,8.55,8,1,2,2.0,5,27,3,2,116,Closed
+T0108,C819,A14,Software,Connectivity,Login,High,Phone,Chennai,2026-01-05 11:00:00,59,7.44,6,2,2,5.0,5,8,1,4,66,Closed
+T0109,C848,A11,Hardware,Printer,Driver Issue,High,Phone,Hyderabad,2026-01-05 12:00:00,18,7.18,12,2,1,4.0,2,13,2,1,176,Closed
+T0110,C437,A08,Network,Printer,Screen,High,Portal,Hyderabad,2026-01-05 13:00:00,14,9.04,12,0,1,1.0,8,8,1,2,161,Open
+T0111,C978,A03,Security,Laptop,Driver Issue,Medium,Portal,Delhi,2026-01-05 14:00:00,16,7.2,12,0,0,1.0,5,16,1,0,185,Resolved
+T0112,C152,A07,Hardware,Printer,Query Error,High,Portal,Bangalore,2026-01-05 15:00:00,42,3.55,4,2,1,2.0,7,8,3,2,109,Resolved
+T0113,C891,A03,Software,Laptop,Login,Medium,Portal,Pune,2026-01-05 16:00:00,48,7.24,8,0,0,1.0,7,29,3,4,89,Closed
+T0114,C316,A07,Security,Access,Query Error,Low,Portal,Mumbai,2026-01-05 17:00:00,59,3.75,4,2,0,3.0,5,28,2,0,138,Closed
+T0115,C863,A14,Security,Connectivity,Screen,High,Email,Mumbai,2026-01-05 18:00:00,50,7.83,12,1,0,5.0,8,24,2,2,239,Resolved
+T0116,C287,A11,Software,Access,VPN,Medium,Email,Bangalore,2026-01-05 19:00:00,38,6.58,4,0,1,1.0,9,18,3,4,90,Closed
+T0117,C479,A12,Hardware,Printer,VPN,Medium,Phone,Hyderabad,2026-01-05 20:00:00,45,1.7,4,2,2,,4,28,3,1,189,Resolved
+T0118,C592,A13,Network,Access,Query Error,high,Email,Hyderabad,2026-01-05 21:00:00,14,5.62,4,2,2,2.0,4,28,1,4,164,Resolved
+T0119,C140,A02,Network,Access,Password Reset,Low,Email,Chennai,2026-01-05 22:00:00,21,4.09,8,0,1,3.0,8,11,1,1,149,Resolved
+T0120,C256,A10,Hardware,Access,Login,Medium,Email,Delhi,2026-01-05 23:00:00,21,3.96,12,0,2,1.0,1,17,2,0,166,Resolved
+T0121,C114,A06,Security,Printer,Login,High,Portal,Pune,2026-01-06 00:00:00,7,6.42,12,1,0,5.0,4,26,2,4,231,Open
+T0122,C912,A03,Security,Database,VPN,Low,Phone,Delhi,2026-01-06 01:00:00,35,3.9,8,2,2,5.0,6,12,3,3,138,Resolved
+T0123,C164,A03,Security,Access,Driver Issue,Medium,Phone,Delhi,2026-01-06 02:00:00,55,7.99,4,1,1,1.0,4,27,2,3,142,Closed
+T0124,C956,A09,Security,Laptop,Screen,Medium,Phone,Chennai,2026-01-06 03:00:00,5,1.64,4,1,2,3.0,6,9,1,3,188,Closed
+T0125,C938,A07,Hardware,Printer,Driver Issue,Low,Phone,Delhi,2026-01-06 04:00:00,16,6.94,6,1,0,5.0,5,16,3,3,109,Closed
+T0126,C620,A05,Security,Access,Driver Issue,Low,Email,Bangalore,2026-01-06 05:00:00,43,8.28,6,0,0,5.0,9,17,1,3,117,Closed
+T0127,C443,A12,Software,Database,Query Error,High,Email,Chennai,2026-01-06 06:00:00,8,7.06,6,1,1,3.0,9,24,3,1,127,Open
+T0128,C228,A10,Security,Printer,VPN,high,Portal,Bangalore,2026-01-06 07:00:00,46,5.48,8,0,1,3.0,4,18,3,4,95,Resolved
+T0129,C747,A07,Network,Application,VPN,Medium,Phone,Chennai,2026-01-06 08:00:00,17,9.55,12,0,1,1.0,4,22,1,0,87,Resolved
+T0130,C571,A09,Security,Database,VPN,Low,Email,Delhi,2026-01-06 09:00:00,38,3.7,6,1,0,4.0,8,28,2,3,238,Closed
+T0131,C162,A01,Hardware,Laptop,Query Error,Low,Email,Bangalore,2026-01-06 10:00:00,46,1.17,12,1,2,2.0,4,29,2,3,66,Closed
+T0132,C238,A07,Network,Access,Password Reset,Low,Portal,Bangalore,2026-01-06 11:00:00,25,4.89,12,2,2,4.0,2,24,2,0,115,Closed
+T0133,C598,A06,Hardware,Application,Driver Issue,Medium,Portal,Bangalore,2026-01-06 12:00:00,26,1.3,12,1,1,4.0,2,8,2,0,249,Resolved
+T0134,C692,A10,Hardware,Application,Query Error,Low,Portal,Chennai,2026-01-06 13:00:00,8,9.59,8,2,2,5.0,1,25,1,3,85,Open
+T0135,C491,A14,Network,Printer,Login,Low,Email,Mumbai,2026-01-06 14:00:00,22,2.89,8,1,2,3.0,5,22,3,1,123,Open
+T0136,C774,A12,Hardware,Application,Screen,Medium,Email,Delhi,2026-01-06 15:00:00,9,8.1,8,1,1,5.0,6,11,1,0,56,Open
+T0137,C518,A09,Hardware,Laptop,Password Reset,High,Portal,Bangalore,2026-01-06 16:00:00,23,7.97,8,1,1,2.0,9,19,2,4,65,Open
+T0138,C388,A01,Security,Laptop,Login,High,Phone,Pune,2026-01-06 17:00:00,6,2.96,6,1,0,1.0,5,25,2,4,63,Closed
+T0139,C478,A13,Software,Connectivity,Driver Issue,Medium,Portal,Mumbai,2026-01-06 18:00:00,16,6.59,4,2,0,2.0,6,10,1,1,129,Resolved
+T0140,C872,A04,Hardware,Laptop,VPN,Low,Portal,Pune,2026-01-06 19:00:00,21,1.43,4,2,0,5.0,6,20,3,2,74,Closed
+T0141,C589,A09,Hardware,Database,Driver Issue,Medium,Portal,Delhi,2026-01-06 20:00:00,14,5.35,4,1,0,5.0,3,24,1,1,154,Open
+T0142,C330,A04,Hardware,Application,Query Error,High,Portal,Delhi,2026-01-06 21:00:00,38,1.13,6,1,2,5.0,4,28,1,3,53,Closed
+T0143,C140,A10,Security,Laptop,Screen,High,Email,Bangalore,2026-01-06 22:00:00,10,9.29,4,2,2,5.0,1,12,1,2,206,Open
+T0144,C127,A03,Software,Printer,Query Error,Medium,Phone,Bangalore,2026-01-06 23:00:00,12,9.78,6,0,0,4.0,4,25,3,3,176,Resolved
+T0145,C234,A09,Network,Connectivity,Password Reset,Medium,Portal,Chennai,2026-01-07 00:00:00,55,3.0,6,0,0,1.0,1,20,1,4,105,Open
+T0146,C300,A13,Security,Application,Password Reset,High,Phone,Mumbai,2026-01-07 01:00:00,15,2.87,6,0,1,4.0,5,26,1,0,55,Closed
+T0147,C939,A02,Security,Connectivity,Screen,Medium,Phone,Mumbai,2026-01-07 02:00:00,16,7.78,4,2,2,5.0,8,20,2,3,178,Resolved
+T0148,C879,A04,Software,Application,Login,High,Phone,Bangalore,2026-01-07 03:00:00,13,3.28,12,2,2,3.0,8,7,1,4,216,Open
+T0149,C132,A06,Software,Printer,Login,Medium,Portal,Delhi,2026-01-07 04:00:00,6,9.06,4,0,0,,5,21,2,1,178,Open
+T0150,C147,A02,Security,Connectivity,Password Reset,Medium,Email,Bangalore,2026-01-07 05:00:00,12,6.17,4,0,2,5.0,2,13,2,3,164,Resolved
+T0151,C602,A08,Network,Access,Password Reset,Medium,Portal,Delhi,2026-01-07 06:00:00,15,4.16,8,1,1,5.0,6,29,2,4,240,Closed
+T0152,C506,A08,Security,Database,VPN,High,Phone,Delhi,2026-01-07 07:00:00,57,8.49,6,2,1,1.0,1,7,3,0,106,Resolved
+T0153,C673,A01,Software,Database,Login,Medium,Phone,Bangalore,2026-01-07 08:00:00,40,5.44,12,2,2,,7,24,2,3,244,Closed
+T0154,C827,A12,Network,Application,Screen,High,Email,Hyderabad,2026-01-07 09:00:00,14,9.2,8,0,0,4.0,4,11,1,4,114,Open
+T0155,C904,A03,Software,Access,Login,High,Portal,Mumbai,2026-01-07 10:00:00,25,9.35,12,0,2,4.0,5,22,1,3,114,Open
+T0156,C198,A10,Network,Connectivity,VPN,Medium,Phone,Pune,2026-01-07 11:00:00,24,2.49,12,2,1,,6,16,2,0,152,Resolved
+T0157,C783,A09,Hardware,Access,Query Error,Medium,Email,Delhi,2026-01-07 12:00:00,52,1.02,6,1,0,5.0,1,23,2,3,70,Open
+T0158,C971,A05,Software,Access,Password Reset,High,Phone,Delhi,2026-01-07 13:00:00,12,9.86,4,0,2,1.0,9,20,1,3,207,Resolved
+T0159,C825,A06,Software,Connectivity,Password Reset,High,Email,Hyderabad,2026-01-07 14:00:00,40,9.16,6,2,0,5.0,4,26,2,4,82,Open
+T0160,C646,A04,Security,Printer,VPN,low,Email,Pune,2026-01-07 15:00:00,33,1.5,6,2,0,,8,28,3,2,225,Open
+T0161,C838,A10,Software,Access,Screen,High,Portal,Chennai,2026-01-07 16:00:00,46,8.5,8,1,1,3.0,5,21,2,3,71,Closed
+T0162,C712,A02,Software,Access,Password Reset,Low,Phone,Hyderabad,2026-01-07 17:00:00,16,5.12,6,1,0,1.0,8,24,3,2,231,Resolved
+T0163,C561,A11,Hardware,Printer,Driver Issue,Low,Portal,Pune,2026-01-07 18:00:00,18,3.33,4,0,2,4.0,1,19,3,1,159,Resolved
+T0164,C742,A08,Software,Access,Password Reset,Low,Phone,Hyderabad,2026-01-07 19:00:00,52,8.91,12,0,0,2.0,8,5,3,3,53,Open
+T0165,C868,A11,Hardware,Access,Driver Issue,Medium,Portal,Delhi,2026-01-07 20:00:00,58,2.77,6,0,0,4.0,4,6,2,2,232,Closed
+T0166,C104,A13,Hardware,Access,VPN,Medium,Phone,Mumbai,2026-01-07 21:00:00,54,9.53,12,2,2,5.0,2,12,3,1,221,Closed
+T0167,C317,A06,Hardware,Database,VPN,High,Portal,Hyderabad,2026-01-07 22:00:00,25,2.85,6,0,1,1.0,6,26,3,4,189,Resolved
+T0168,C602,A05,Hardware,Laptop,Password Reset,Low,Email,Chennai,2026-01-07 23:00:00,26,6.52,12,2,1,1.0,2,29,2,3,123,Resolved
+T0169,C866,A09,Network,Printer,Login,Medium,Phone,Bangalore,2026-01-08 00:00:00,25,3.01,6,0,2,1.0,5,6,3,4,168,Open
+T0170,C497,A01,Security,Access,Driver Issue,Medium,Phone,Pune,2026-01-08 01:00:00,48,5.91,8,1,2,3.0,2,23,2,1,229,Resolved
+T0171,C970,A05,Network,Database,Screen,Medium,Email,Hyderabad,2026-01-08 02:00:00,54,7.16,12,1,1,4.0,3,13,1,4,142,Open
+T0172,C894,A06,Software,Printer,Password Reset,Medium,Portal,Hyderabad,2026-01-08 03:00:00,34,2.71,6,2,0,3.0,6,13,3,4,114,Closed
+T0173,C492,A05,Network,Application,Screen,Medium,Phone,Chennai,2026-01-08 04:00:00,43,5.69,6,1,2,2.0,1,17,2,0,114,Resolved
+T0174,C306,A06,Network,Application,Password Reset,Low,Phone,Mumbai,2026-01-08 05:00:00,24,5.22,8,2,0,,6,10,1,1,59,Closed
+T0175,C114,A06,Software,Access,Login,Low,Portal,Hyderabad,2026-01-08 06:00:00,28,1.64,8,2,2,3.0,3,19,3,4,195,Closed
+T0176,C957,A07,Software,Database,Login,Low,Email,Hyderabad,2026-01-08 07:00:00,27,unknown,8,1,1,3.0,7,23,3,2,96,Open
+T0177,C653,A04,Software,Database,Login,low,Portal,Mumbai,2026-01-08 08:00:00,11,4.02,12,2,0,5.0,2,25,2,1,115,Closed
+T0178,C991,A14,Network,Printer,Query Error,High,Portal,Chennai,2026-01-08 09:00:00,13,6.17,12,1,0,1.0,6,19,1,0,98,Open
+T0179,C560,A11,Network,Printer,Login,Low,Portal,Pune,2026-01-08 10:00:00,5,5.63,8,0,2,5.0,8,22,2,3,249,Open
+T0180,C790,A14,Software,Database,VPN,Medium,Phone,Pune,2026-01-08 11:00:00,30,5.62,4,0,0,4.0,1,11,3,4,71,Closed
+T0181,C674,A14,Security,Printer,VPN,Low,Email,Hyderabad,2026-01-08 12:00:00,42,1.97,4,1,2,5.0,9,15,3,2,135,Closed
+T0182,C963,A14,Security,Database,Query Error,High,Email,Mumbai,2026-01-08 13:00:00,42,4.81,6,1,1,1.0,5,12,3,0,75,Open
+T0183,C842,A08,Hardware,Laptop,Driver Issue,Medium,Portal,Hyderabad,2026-01-08 14:00:00,58,5.07,4,1,0,5.0,5,10,3,1,186,Open
+T0184,C340,A07,Software,Database,Screen,low,Phone,Bangalore,2026-01-08 15:00:00,48,7.6,6,1,2,3.0,5,12,1,4,198,Closed
+T0185,C663,A09,Hardware,Application,Password Reset,Low,Portal,Pune,2026-01-08 16:00:00,26,8.56,12,0,0,2.0,6,6,1,0,144,Open
+T0186,C195,A07,Security,Printer,Password Reset,Low,Phone,Delhi,2026-01-08 17:00:00,48,5.9,12,2,2,3.0,2,23,2,0,240,Open
+T0187,C833,A03,Hardware,Database,Query Error,Medium,Phone,Bangalore,2026-01-08 18:00:00,14,1.78,4,2,2,2.0,6,20,2,2,156,Resolved
+T0188,C584,A03,Software,Database,VPN,Medium,Phone,Hyderabad,2026-01-08 19:00:00,59,3.13,12,0,2,5.0,4,11,2,3,183,Resolved
+T0189,C506,A08,Software,Printer,Password Reset,High,Phone,Chennai,2026-01-08 20:00:00,10,2.48,8,2,1,4.0,8,14,3,3,63,Resolved
+T0190,C330,A05,Software,Laptop,VPN,Medium,Email,Pune,2026-01-08 21:00:00,21,2.12,8,0,0,5.0,9,16,2,3,210,Resolved
+T0191,C848,A04,Network,Laptop,Driver Issue,Medium,Phone,Delhi,2026-01-08 22:00:00,55,4.29,4,2,1,1.0,9,21,1,1,120,Resolved
+T0192,C754,A08,Hardware,Printer,Screen,Low,Phone,Bangalore,2026-01-08 23:00:00,54,unknown,4,1,2,5.0,8,11,2,0,201,Open
+T0193,C270,A06,Security,Connectivity,Driver Issue,Medium,Portal,Pune,2026-01-09 00:00:00,42,2.96,6,1,2,2.0,3,26,2,1,124,Open
+T0194,C640,A02,Security,Printer,Query Error,low,Portal,Mumbai,2026-01-09 01:00:00,28,1.49,12,1,1,3.0,4,12,1,0,169,Resolved
+T0195,C135,A04,Security,Printer,Login,low,Email,Chennai,2026-01-09 02:00:00,55,1.16,6,0,1,4.0,1,11,1,2,161,Closed
+T0196,C624,A12,Network,Laptop,Login,Medium,Portal,Bangalore,2026-01-09 03:00:00,14,1.92,6,0,0,5.0,9,8,3,2,100,Resolved
+T0197,C259,A11,Network,Laptop,Login,High,Phone,Mumbai,2026-01-09 04:00:00,12,2.55,8,2,2,5.0,5,7,1,1,179,Closed
+T0198,C938,A04,Software,Printer,Driver Issue,High,Portal,Hyderabad,2026-01-09 05:00:00,25,4.88,8,2,1,3.0,6,23,1,1,192,Open
+T0199,C798,A06,Security,Printer,Password Reset,Medium,Email,Mumbai,2026-01-09 06:00:00,10,5.59,8,2,2,4.0,3,19,2,2,212,Closed
+T0200,C342,A06,Network,Printer,Screen,High,Portal,Bangalore,2026-01-09 07:00:00,25,2.27,8,0,2,5.0,8,8,1,4,85,Open
+T0201,C185,A01,Software,Laptop,Login,Low,Portal,Bangalore,2026-01-09 08:00:00,43,4.82,6,2,0,5.0,7,29,3,3,167,Closed
+T0202,C895,A14,Security,Printer,Query Error,Low,Email,Hyderabad,2026-01-09 09:00:00,28,4.08,8,1,0,2.0,1,13,2,3,216,Open
+T0203,C677,A08,Hardware,Printer,Query Error,Medium,Email,Mumbai,2026-01-09 10:00:00,37,2.65,12,2,0,2.0,5,17,3,2,53,Open
+T0204,C781,A06,Software,Access,Login,high,Phone,Mumbai,2026-01-09 11:00:00,22,1.06,8,1,1,1.0,9,22,1,3,241,Resolved
+T0205,C656,A03,Network,Connectivity,Login,High,Portal,Hyderabad,2026-01-09 12:00:00,32,5.2,8,0,2,,6,25,3,4,55,Open
+T0206,C673,A14,Network,Application,Screen,Low,Phone,Mumbai,2026-01-09 13:00:00,56,7.17,8,1,1,4.0,8,20,3,4,234,Resolved
+T0207,C745,A09,Software,Connectivity,Login,Medium,Portal,Pune,2026-01-09 14:00:00,36,3.04,4,1,1,,1,5,1,0,207,Resolved
+T0208,C895,A02,Software,Access,Screen,High,Portal,Hyderabad,2026-01-09 15:00:00,16,2.19,12,1,0,5.0,7,8,1,1,159,Resolved
+T0209,C127,A11,Network,Application,Query Error,Medium,Phone,Chennai,2026-01-09 16:00:00,52,8.98,12,0,2,1.0,3,22,2,3,148,Closed
+T0210,C719,A08,Hardware,Printer,Login,High,Portal,Bangalore,2026-01-09 17:00:00,46,3.48,6,0,2,5.0,9,12,2,4,171,Closed
+T0211,C655,A10,Security,Access,Driver Issue,Low,Portal,Chennai,2026-01-09 18:00:00,31,3.01,6,0,0,3.0,6,24,2,1,166,Open
+T0212,C439,A03,Hardware,Printer,Driver Issue,Low,Portal,Pune,2026-01-09 19:00:00,14,8.71,8,0,2,1.0,5,20,1,1,145,Resolved
+T0213,C897,A13,Software,Laptop,Query Error,Medium,Email,Pune,2026-01-09 20:00:00,50,8.35,4,2,0,3.0,8,25,3,0,116,Resolved
+T0214,C430,A12,Hardware,Database,Screen,Low,Phone,Delhi,2026-01-09 21:00:00,56,5.04,6,0,1,1.0,8,15,3,1,169,Open
+T0215,C739,A05,Network,Access,Driver Issue,High,Email,Delhi,2026-01-09 22:00:00,46,5.4,6,1,1,5.0,3,24,2,1,64,Resolved
+T0216,C605,A06,Software,Laptop,Screen,Low,Phone,Delhi,2026-01-09 23:00:00,36,2.96,8,0,0,1.0,2,25,2,2,66,Open
+T0217,C447,A10,Security,Access,Driver Issue,medium,Phone,Hyderabad,2026-01-10 00:00:00,46,1.7,8,2,1,2.0,2,25,1,0,67,Resolved
+T0218,C572,A06,Network,Access,Driver Issue,Medium,Portal,Mumbai,2026-01-10 01:00:00,30,6.16,6,2,1,4.0,5,25,3,0,164,Closed
+T0219,C330,A04,Network,Laptop,Screen,Medium,Phone,Pune,2026-01-10 02:00:00,29,1.89,6,2,0,5.0,7,23,2,3,196,Open
+T0220,C289,A03,Security,Application,Password Reset,High,Email,Chennai,2026-01-10 03:00:00,15,5.04,12,1,1,4.0,8,27,1,1,125,Open
+T0221,C324,A04,Security,Connectivity,Driver Issue,High,Email,Chennai,2026-01-10 04:00:00,27,9.46,4,0,2,5.0,8,23,2,3,137,Closed
+T0222,C484,A01,Hardware,Printer,Login,High,Email,Chennai,2026-01-10 05:00:00,38,9.58,12,0,1,4.0,8,22,1,4,246,Open
+T0223,C476,A04,Software,Access,Query Error,High,Phone,Chennai,2026-01-10 06:00:00,56,3.15,6,0,0,2.0,3,23,3,1,201,Closed
+T0224,C382,A01,Security,Printer,Password Reset,High,Email,Delhi,2026-01-10 07:00:00,44,6.62,12,1,2,4.0,2,15,1,4,140,Resolved
+T0225,C732,A12,Security,Database,Screen,Low,Phone,Chennai,2026-01-10 08:00:00,27,5.27,12,1,2,1.0,4,7,2,2,97,Closed
+T0226,C727,A01,Software,Laptop,Password Reset,High,Email,Mumbai,2026-01-10 09:00:00,33,8.88,6,2,1,,1,12,2,1,207,Closed
+T0227,C844,A10,Security,Printer,VPN,High,Email,Delhi,2026-01-10 10:00:00,35,3.44,8,2,2,5.0,3,24,3,3,64,Open
+T0228,C358,A14,Security,Laptop,VPN,Low,Phone,Chennai,2026-01-10 11:00:00,11,1.03,6,0,0,3.0,9,23,3,3,224,Resolved
+T0229,C458,A06,Hardware,Printer,Driver Issue,High,Email,Hyderabad,2026-01-10 12:00:00,44,2.46,8,1,2,4.0,7,14,2,1,172,Closed
+T0230,C809,A05,Network,Connectivity,Driver Issue,Medium,Portal,Bangalore,2026-01-10 13:00:00,37,4.15,6,1,1,4.0,7,20,2,3,176,Resolved
+T0231,C555,A14,Network,Connectivity,Login,High,Phone,Bangalore,2026-01-10 14:00:00,25,3.84,6,0,1,4.0,1,9,2,1,221,Closed
+T0232,C510,A11,Network,Connectivity,Query Error,High,Phone,Bangalore,2026-01-10 15:00:00,6,8.12,6,0,2,,7,24,3,0,147,Open
+T0233,C748,A04,Network,Connectivity,Password Reset,Medium,Phone,Delhi,2026-01-10 16:00:00,22,7.13,4,2,0,4.0,7,13,2,3,204,Closed
+T0234,C417,A13,Security,Connectivity,VPN,Medium,Portal,Chennai,2026-01-10 17:00:00,51,3.7,8,2,0,5.0,4,12,3,1,133,Closed
+T0235,C776,A11,Software,Connectivity,Driver Issue,Medium,Phone,Pune,2026-01-10 18:00:00,37,5.12,4,2,1,5.0,7,15,2,1,241,Resolved
+T0236,C324,A03,Software,Laptop,Query Error,Medium,Email,Pune,2026-01-10 19:00:00,41,1.86,6,0,1,3.0,8,20,1,3,90,Closed
+T0237,C918,A01,Hardware,Access,Password Reset,High,Email,Pune,2026-01-10 20:00:00,38,9.08,12,0,0,1.0,3,11,1,0,145,Open
+T0238,C333,A06,Hardware,Printer,Driver Issue,Medium,Email,Delhi,2026-01-10 21:00:00,24,unknown,4,2,2,5.0,2,19,2,3,117,Open
+T0239,C783,A02,Security,Connectivity,Driver Issue,Medium,Phone,Mumbai,2026-01-10 22:00:00,39,9.82,8,2,2,,7,28,1,1,54,Closed
+T0240,C763,A08,Software,Laptop,VPN,Low,Email,Hyderabad,2026-01-10 23:00:00,55,8.82,6,1,2,4.0,5,25,3,0,102,Closed
+T0241,C926,A10,Software,Laptop,VPN,Medium,Phone,Hyderabad,2026-01-11 00:00:00,54,2.57,4,1,2,2.0,5,24,1,4,171,Resolved
+T0242,C473,A05,Network,Laptop,Driver Issue,Medium,Email,Bangalore,2026-01-11 01:00:00,58,1.42,12,2,0,4.0,5,27,1,2,185,Resolved
+T0243,C771,A07,Security,Access,Screen,Low,Portal,Bangalore,2026-01-11 02:00:00,22,6.22,4,2,1,3.0,7,21,3,3,71,Open
+T0244,C707,A10,Security,Printer,Driver Issue,Low,Portal,Pune,2026-01-11 03:00:00,50,9.21,8,1,1,5.0,9,10,1,1,155,Resolved
+T0245,C571,A12,Network,Access,Query Error,High,Portal,Pune,2026-01-11 04:00:00,28,unknown,4,2,2,1.0,8,19,1,0,56,Closed
+T0246,C332,A02,Security,Application,Driver Issue,Low,Portal,Bangalore,2026-01-11 05:00:00,12,1.06,12,1,0,5.0,6,12,2,0,199,Open
+T0247,C791,A13,Security,Laptop,Login,high,Phone,Chennai,2026-01-11 06:00:00,34,8.25,12,1,0,4.0,7,11,3,4,95,Resolved
+T0248,C212,A08,Hardware,Application,Login,Low,Email,Mumbai,2026-01-11 07:00:00,48,1.69,8,1,2,1.0,9,6,3,3,79,Open
+T0249,C929,A02,Software,Database,Login,Low,Portal,Mumbai,2026-01-11 08:00:00,57,4.72,12,0,2,5.0,6,17,2,0,175,Closed
+T0250,C596,A04,Security,Connectivity,Screen,High,Phone,Mumbai,2026-01-11 09:00:00,14,7.11,6,0,2,1.0,1,27,2,4,150,Resolved
+T0251,C541,A01,Hardware,Connectivity,Screen,Low,Portal,Mumbai,2026-01-11 10:00:00,27,3.13,12,2,1,4.0,4,10,1,1,193,Closed
+T0252,C663,A05,Software,Access,Driver Issue,High,Portal,Bangalore,2026-01-11 11:00:00,56,1.76,6,1,2,3.0,8,9,1,4,128,Closed
+T0253,C367,A09,Network,Printer,Login,Low,Phone,Hyderabad,2026-01-11 12:00:00,53,7.93,4,0,1,3.0,7,24,1,3,182,Open
+T0254,C609,A01,Hardware,Application,Screen,medium,Phone,Bangalore,2026-01-11 13:00:00,15,6.67,6,2,0,5.0,3,5,2,4,116,Open
+T0255,C906,A09,Hardware,Printer,VPN,Low,Email,Mumbai,2026-01-11 14:00:00,6,unknown,6,2,0,2.0,3,22,3,0,72,Open
+T0256,C485,A11,Software,Access,Driver Issue,High,Email,Bangalore,2026-01-11 15:00:00,30,4.1,4,2,1,4.0,3,19,1,0,238,Resolved
+T0257,C486,A08,Network,Connectivity,Query Error,Low,Portal,Mumbai,2026-01-11 16:00:00,40,1.56,12,2,1,5.0,1,27,2,2,123,Resolved
+T0258,C212,A06,Hardware,Printer,Password Reset,High,Portal,Delhi,2026-01-11 17:00:00,37,7.61,6,2,1,5.0,1,14,3,4,54,Open
+T0259,C712,A07,Security,Printer,Driver Issue,High,Email,Pune,2026-01-11 18:00:00,51,5.7,12,1,1,3.0,6,7,2,1,200,Resolved
+T0260,C724,A03,Security,Connectivity,Password Reset,Medium,Email,Hyderabad,2026-01-11 19:00:00,17,2.92,4,2,2,,1,9,1,3,131,Resolved
+T0261,C180,A14,Security,Application,Login,Medium,Phone,Delhi,2026-01-11 20:00:00,44,8.04,8,1,0,4.0,5,28,2,2,74,Open
+T0262,C798,A01,Network,Connectivity,Password Reset,High,Email,Chennai,2026-01-11 21:00:00,29,2.83,12,0,2,1.0,4,17,2,4,57,Closed
+T0263,C212,A05,Hardware,Printer,Login,Low,Email,Bangalore,2026-01-11 22:00:00,8,3.35,12,2,1,4.0,5,12,2,1,198,Resolved
+T0264,C101,A14,Security,Application,VPN,High,Portal,Chennai,2026-01-11 23:00:00,46,1.83,8,0,2,2.0,7,26,2,2,51,Resolved
+T0265,C741,A12,Network,Application,Password Reset,High,Email,Bangalore,2026-01-12 00:00:00,23,4.59,8,1,2,3.0,6,25,3,0,71,Closed
+T0266,C319,A12,Security,Connectivity,Driver Issue,Low,Portal,Pune,2026-01-12 01:00:00,22,4.77,4,1,0,2.0,9,6,1,3,121,Closed
+T0267,C665,A02,Software,Printer,Login,Low,Email,Delhi,2026-01-12 02:00:00,41,5.63,12,0,2,5.0,6,13,3,4,136,Closed
+T0268,C954,A14,Hardware,Access,Driver Issue,Low,Phone,Pune,2026-01-12 03:00:00,34,7.38,12,2,0,3.0,9,21,2,1,121,Open
+T0269,C835,A05,Hardware,Printer,Screen,Low,Email,Mumbai,2026-01-12 04:00:00,23,9.15,4,2,1,5.0,4,22,2,0,117,Closed
+T0270,C324,A08,Network,Laptop,Login,High,Email,Pune,2026-01-12 05:00:00,27,2.24,12,0,2,2.0,1,17,1,2,113,Open
+T0271,C484,A11,Network,Database,Password Reset,High,Email,Pune,2026-01-12 06:00:00,58,1.49,6,0,1,4.0,1,5,1,3,143,Closed
+T0272,C502,A09,Hardware,Access,Login,Medium,Portal,Mumbai,2026-01-12 07:00:00,20,1.17,6,0,0,5.0,7,16,3,2,68,Closed
+T0273,C737,A02,Security,Application,Driver Issue,High,Phone,Bangalore,2026-01-12 08:00:00,5,2.29,6,2,1,1.0,3,24,3,2,177,Open
+T0274,C229,A12,Security,Access,VPN,Low,Email,Mumbai,2026-01-12 09:00:00,16,6.92,12,2,1,4.0,2,24,1,1,136,Open
+T0275,C152,A03,Software,Application,Login,Medium,Portal,Delhi,2026-01-12 10:00:00,28,7.55,6,2,0,4.0,6,25,3,0,131,Closed
+T0276,C783,A03,Security,Application,Password Reset,Low,Phone,Pune,2026-01-12 11:00:00,38,8.08,6,0,1,2.0,6,9,2,4,230,Closed
+T0277,C829,A01,Network,Access,Screen,High,Portal,Mumbai,2026-01-12 12:00:00,57,3.19,4,2,1,2.0,7,12,2,1,136,Closed
+T0278,C771,A08,Network,Application,Query Error,Medium,Portal,Pune,2026-01-12 13:00:00,12,3.75,4,1,1,3.0,5,19,1,3,146,Resolved
+T0279,C809,A06,Security,Application,VPN,Low,Phone,Delhi,2026-01-12 14:00:00,22,5.35,8,0,2,3.0,8,7,3,2,101,Closed
+T0280,C515,A12,Network,Laptop,Screen,Medium,Email,Chennai,2026-01-12 15:00:00,52,1.57,8,2,1,1.0,7,10,2,3,224,Open
+T0281,C346,A13,Hardware,Printer,Login,Medium,Portal,Delhi,2026-01-12 16:00:00,9,6.5,8,0,0,4.0,2,17,1,1,131,Resolved
+T0282,C935,A08,Hardware,Printer,Driver Issue,High,Portal,Hyderabad,2026-01-12 17:00:00,30,9.85,8,1,2,1.0,1,16,3,1,231,Open
+T0283,C538,A11,Security,Database,Driver Issue,low,Email,Hyderabad,2026-01-12 18:00:00,34,4.25,4,1,2,1.0,9,23,2,4,221,Resolved
+T0284,C302,A09,Hardware,Database,Password Reset,Medium,Email,Hyderabad,2026-01-12 19:00:00,58,7.78,4,0,0,2.0,5,22,3,2,146,Resolved
+T0285,C283,A05,Hardware,Laptop,Driver Issue,Medium,Phone,Pune,2026-01-12 20:00:00,17,5.5,4,0,1,1.0,5,28,3,1,184,Open
+T0286,C222,A14,Software,Database,VPN,Low,Phone,Bangalore,2026-01-12 21:00:00,23,2.15,6,1,2,1.0,4,5,3,3,164,Resolved
+T0287,C500,A12,Software,Access,Driver Issue,Medium,Phone,Bangalore,2026-01-12 22:00:00,33,6.24,6,0,2,5.0,2,29,1,4,141,Open
+T0288,C866,A14,Hardware,Connectivity,Password Reset,Medium,Email,Bangalore,2026-01-12 23:00:00,7,3.7,8,1,2,3.0,5,11,2,3,50,Closed
+T0289,C393,A03,Security,Connectivity,Query Error,Medium,Portal,Pune,2026-01-13 00:00:00,30,1.31,6,1,1,3.0,2,16,1,2,112,Resolved
+T0290,C379,A05,Software,Connectivity,Login,Low,Portal,Delhi,2026-01-13 01:00:00,44,6.71,12,2,2,4.0,7,14,2,4,216,Open
+T0291,C936,A05,Network,Laptop,Login,Low,Phone,Bangalore,2026-01-13 02:00:00,16,8.73,4,0,0,3.0,9,16,2,4,68,Resolved
+T0292,C983,A05,Network,Laptop,Driver Issue,Low,Email,Chennai,2026-01-13 03:00:00,6,4.1,8,0,1,4.0,9,15,1,4,80,Open
+T0293,C709,A03,Network,Application,Screen,Low,Portal,Hyderabad,2026-01-13 04:00:00,15,4.51,8,2,0,5.0,6,8,1,0,126,Closed
+T0294,C297,A11,Security,Connectivity,Login,High,Phone,Delhi,2026-01-13 05:00:00,48,9.02,12,1,0,3.0,1,23,2,4,170,Closed
+T0295,C610,A14,Hardware,Access,Query Error,Medium,Portal,Hyderabad,2026-01-13 06:00:00,32,8.32,6,0,2,5.0,6,10,2,3,73,Resolved
+T0296,C851,A10,Network,Database,Driver Issue,Low,Portal,Bangalore,2026-01-13 07:00:00,22,7.43,8,2,2,3.0,5,29,2,3,118,Resolved
+T0297,C243,A14,Security,Access,Password Reset,Medium,Email,Delhi,2026-01-13 08:00:00,17,unknown,6,2,2,3.0,4,13,3,2,242,Open
+T0298,C708,A04,Software,Database,Query Error,Medium,Email,Mumbai,2026-01-13 09:00:00,41,9.19,6,0,0,5.0,6,24,2,1,210,Open
+T0299,C300,A09,Hardware,Connectivity,Driver Issue,High,Portal,Chennai,2026-01-13 10:00:00,26,2.39,12,2,1,1.0,6,14,1,1,108,Resolved
+T0300,C223,A13,Software,Connectivity,Query Error,Low,Phone,Bangalore,2026-01-13 11:00:00,16,6.64,8,1,2,1.0,6,9,1,0,163,Open
+T0301,C286,A10,Security,Connectivity,Login,low,Email,Bangalore,2026-01-13 12:00:00,6,1.26,6,2,2,1.0,2,17,1,4,210,Open
+T0302,C425,A09,Network,Laptop,Password Reset,Medium,Portal,Chennai,2026-01-13 13:00:00,41,6.79,6,1,0,1.0,7,13,2,0,209,Open
+T0303,C563,A02,Network,Database,Driver Issue,Low,Email,Chennai,2026-01-13 14:00:00,11,3.49,12,1,1,3.0,4,6,2,2,236,Resolved
+T0304,C448,A08,Security,Laptop,VPN,Medium,Email,Mumbai,2026-01-13 15:00:00,30,5.05,12,0,0,2.0,9,22,3,2,150,Closed
+T0305,C870,A08,Network,Laptop,Password Reset,Medium,Email,Bangalore,2026-01-13 16:00:00,30,4.11,6,2,2,5.0,2,25,3,1,218,Closed
+T0306,C759,A07,Hardware,Printer,VPN,High,Portal,Pune,2026-01-13 17:00:00,28,2.55,12,1,0,2.0,5,5,1,2,61,Open
+T0307,C863,A08,Security,Access,Query Error,High,Phone,Bangalore,2026-01-13 18:00:00,16,6.6,6,1,2,2.0,4,28,3,4,168,Resolved
+T0308,C502,A14,Software,Access,Screen,High,Phone,Hyderabad,2026-01-13 19:00:00,20,8.94,8,2,1,4.0,9,25,3,3,188,Open
+T0309,C445,A03,Security,Application,Password Reset,Medium,Phone,Delhi,2026-01-13 20:00:00,27,9.63,4,1,0,1.0,4,16,1,2,146,Closed
+T0310,C610,A13,Hardware,Laptop,Query Error,Low,Email,Delhi,2026-01-13 21:00:00,44,2.73,12,2,2,3.0,8,14,2,0,196,Open
+T0311,C246,A06,Hardware,Database,VPN,High,Portal,Hyderabad,2026-01-13 22:00:00,13,7.46,4,0,2,1.0,8,6,3,4,231,Closed
+T0312,C247,A01,Security,Printer,Login,Low,Email,Delhi,2026-01-13 23:00:00,36,6.98,6,1,2,1.0,6,13,2,2,106,Resolved
+T0313,C963,A07,Security,Printer,Login,High,Phone,Chennai,2026-01-14 00:00:00,19,4.09,6,1,2,2.0,6,6,1,2,91,Open
+T0314,C810,A01,Network,Access,Screen,High,Phone,Delhi,2026-01-14 01:00:00,41,1.17,6,2,0,4.0,8,27,1,4,147,Resolved
+T0315,C919,A09,Hardware,Laptop,Password Reset,Medium,Portal,Delhi,2026-01-14 02:00:00,17,7.21,4,2,2,1.0,9,28,3,2,248,Open
+T0316,C588,A01,Security,Application,Password Reset,High,Email,Hyderabad,2026-01-14 03:00:00,9,9.51,6,2,0,5.0,5,26,1,3,80,Open
+T0317,C739,A01,Security,Laptop,Password Reset,High,Phone,Mumbai,2026-01-14 04:00:00,15,6.69,12,2,2,5.0,1,18,1,1,229,Open
+T0318,C650,A07,Hardware,Connectivity,Query Error,Medium,Portal,Delhi,2026-01-14 05:00:00,14,4.92,8,1,0,1.0,1,15,1,4,51,Open
+T0319,C437,A02,Security,Laptop,Screen,Low,Email,Pune,2026-01-14 06:00:00,56,5.73,8,0,0,2.0,2,27,3,0,215,Open
+T0320,C971,A14,Network,Connectivity,Password Reset,High,Email,Delhi,2026-01-14 07:00:00,17,2.8,12,0,2,2.0,5,15,3,2,81,Resolved
+T0321,C740,A05,Hardware,Connectivity,Query Error,Medium,Phone,Mumbai,2026-01-14 08:00:00,45,7.75,8,0,2,3.0,4,21,3,1,187,Resolved
+T0322,C878,A08,Network,Application,Login,High,Phone,Hyderabad,2026-01-14 09:00:00,57,7.72,4,0,2,4.0,1,8,1,0,154,Closed
+T0323,C572,A08,Network,Database,VPN,Medium,Email,Mumbai,2026-01-14 10:00:00,50,2.31,6,2,2,2.0,4,17,2,0,185,Open
+T0324,C250,A03,Network,Access,Query Error,low,Email,Hyderabad,2026-01-14 11:00:00,54,8.9,6,1,1,3.0,4,11,1,3,124,Closed
+T0325,C514,A07,Network,Laptop,Login,Low,Phone,Chennai,2026-01-14 12:00:00,19,3.42,6,1,2,5.0,4,20,3,1,154,Resolved
+T0326,C397,A03,Hardware,Connectivity,Login,Medium,Email,Hyderabad,2026-01-14 13:00:00,46,unknown,4,1,2,5.0,1,5,2,4,197,Closed
+T0327,C710,A06,Network,Laptop,VPN,Medium,Phone,Chennai,2026-01-14 14:00:00,11,4.45,4,2,2,5.0,9,17,2,1,197,Resolved
+T0328,C362,A06,Network,Database,Login,Medium,Email,Chennai,2026-01-14 15:00:00,44,2.6,4,1,0,1.0,3,5,3,1,176,Open
+T0329,C863,A03,Security,Access,Screen,Low,Phone,Hyderabad,2026-01-14 16:00:00,32,unknown,12,2,2,4.0,4,15,2,0,58,Closed
+T0330,C243,A07,Hardware,Database,VPN,High,Portal,Pune,2026-01-14 17:00:00,36,4.96,4,1,0,3.0,5,10,2,3,249,Closed
+T0331,C445,A03,Hardware,Access,Login,Low,Phone,Bangalore,2026-01-14 18:00:00,39,1.62,8,0,0,4.0,7,24,3,3,64,Closed
+T0332,C723,A08,Software,Printer,Driver Issue,Medium,Phone,Hyderabad,2026-01-14 19:00:00,19,6.2,12,2,0,1.0,6,7,2,1,146,Closed
+T0333,C671,A10,Hardware,Access,Query Error,Medium,Portal,Delhi,2026-01-14 20:00:00,52,6.38,12,1,0,3.0,5,16,2,1,154,Open
+T0334,C980,A04,Hardware,Application,Login,Low,Email,Pune,2026-01-14 21:00:00,40,7.65,12,0,1,,8,9,3,2,112,Resolved
+T0335,C101,A13,Software,Database,Screen,Medium,Portal,Pune,2026-01-14 22:00:00,25,1.26,4,0,2,2.0,1,13,2,0,70,Resolved
+T0336,C996,A01,Hardware,Connectivity,Password Reset,Low,Phone,Delhi,2026-01-14 23:00:00,10,5.87,12,0,0,4.0,7,16,2,4,54,Open
+T0337,C403,A04,Hardware,Printer,Login,Medium,Email,Bangalore,2026-01-15 00:00:00,5,1.48,4,2,2,4.0,6,14,2,4,174,Resolved
+T0338,C353,A14,Hardware,Application,Password Reset,High,Portal,Pune,2026-01-15 01:00:00,8,7.31,4,2,0,2.0,5,23,2,3,212,Closed
+T0339,C751,A07,Hardware,Laptop,Driver Issue,High,Email,Chennai,2026-01-15 02:00:00,15,1.5,12,1,1,5.0,7,9,3,0,134,Open
+T0340,C552,A11,Software,Database,Login,Medium,Email,Bangalore,2026-01-15 03:00:00,48,9.21,6,0,0,1.0,3,9,1,3,245,Resolved
+T0341,C136,A04,Hardware,Connectivity,VPN,Low,Portal,Delhi,2026-01-15 04:00:00,30,7.32,6,1,2,4.0,1,13,1,4,162,Open
+T0342,C259,A13,Hardware,Access,Password Reset,High,Email,Bangalore,2026-01-15 05:00:00,41,5.57,12,1,2,2.0,9,24,2,1,225,Open
+T0343,C108,A06,Software,Connectivity,Driver Issue,Low,Portal,Hyderabad,2026-01-15 06:00:00,27,4.97,6,0,1,3.0,2,21,3,0,129,Resolved
+T0344,C332,A09,Security,Laptop,VPN,Medium,Phone,Bangalore,2026-01-15 07:00:00,33,2.18,8,1,2,2.0,3,14,3,0,239,Resolved
+T0345,C198,A01,Network,Printer,VPN,Low,Email,Chennai,2026-01-15 08:00:00,25,3.62,8,2,2,5.0,8,25,2,2,165,Open
+T0346,C758,A13,Security,Printer,VPN,High,Phone,Hyderabad,2026-01-15 09:00:00,52,8.82,4,1,0,1.0,9,5,1,1,212,Open
+T0347,C915,A05,Software,Database,VPN,Low,Phone,Mumbai,2026-01-15 10:00:00,49,9.14,6,0,2,5.0,3,26,2,1,247,Resolved
+T0348,C307,A11,Network,Printer,Login,Low,Email,Delhi,2026-01-15 11:00:00,49,1.01,8,2,0,3.0,6,20,3,3,146,Open
+T0349,C230,A07,Software,Database,Query Error,Medium,Portal,Delhi,2026-01-15 12:00:00,53,6.35,12,2,1,3.0,7,19,3,0,70,Resolved
+T0350,C503,A01,Software,Database,Login,Medium,Email,Bangalore,2026-01-15 13:00:00,31,7.47,6,1,2,3.0,1,27,1,3,129,Open
+T0351,C251,A14,Hardware,Database,Login,Medium,Phone,Pune,2026-01-15 14:00:00,43,6.57,8,1,0,3.0,7,21,3,1,88,Open
+T0352,C153,A04,Network,Access,Driver Issue,High,Phone,Hyderabad,2026-01-15 15:00:00,44,1.74,8,2,2,2.0,4,24,3,2,211,Open
+T0353,C219,A06,Hardware,Application,Driver Issue,High,Portal,Mumbai,2026-01-15 16:00:00,17,2.96,12,1,0,3.0,5,29,3,0,170,Resolved
+T0354,C772,A02,Network,Database,Query Error,Medium,Email,Hyderabad,2026-01-15 17:00:00,27,3.25,4,0,1,3.0,8,17,1,1,173,Closed
+T0355,C727,A10,Software,Database,Driver Issue,Medium,Phone,Delhi,2026-01-15 18:00:00,20,8.49,12,1,0,2.0,4,5,3,2,192,Resolved
+T0356,C686,A05,Software,Application,Screen,High,Phone,Hyderabad,2026-01-15 19:00:00,34,5.17,4,1,2,3.0,4,29,2,4,55,Open
+T0357,C724,A11,Security,Connectivity,Query Error,High,Phone,Mumbai,2026-01-15 20:00:00,8,5.38,8,2,0,5.0,8,12,1,1,243,Closed
+T0358,C519,A10,Network,Database,Driver Issue,High,Portal,Pune,2026-01-15 21:00:00,44,9.41,4,1,2,5.0,5,9,2,4,105,Closed
+T0359,C521,A01,Hardware,Access,Query Error,High,Phone,Bangalore,2026-01-15 22:00:00,20,6.73,8,1,1,4.0,6,10,2,3,98,Open
+T0360,C203,A06,Security,Printer,Login,Medium,Phone,Chennai,2026-01-15 23:00:00,35,9.09,8,1,0,5.0,5,27,1,4,141,Resolved
+T0361,C951,A06,Security,Printer,Login,High,Email,Hyderabad,2026-01-16 00:00:00,57,5.11,6,0,2,1.0,1,24,2,1,178,Closed
+T0362,C353,A13,Security,Laptop,Query Error,Medium,Email,Chennai,2026-01-16 01:00:00,46,2.34,4,1,2,1.0,7,18,1,4,114,Closed
+T0363,C326,A04,Hardware,Laptop,Screen,Low,Phone,Delhi,2026-01-16 02:00:00,29,9.37,4,0,2,1.0,6,26,2,0,77,Resolved
+T0364,C211,A13,Security,Printer,Screen,Low,Phone,Bangalore,2026-01-16 03:00:00,48,5.13,4,0,0,2.0,2,27,1,1,149,Resolved
+T0365,C609,A08,Hardware,Printer,Query Error,High,Email,Bangalore,2026-01-16 04:00:00,16,2.63,12,0,0,5.0,7,15,3,2,197,Closed
+T0366,C572,A04,Security,Access,Driver Issue,Low,Portal,Hyderabad,2026-01-16 05:00:00,30,3.72,6,0,0,1.0,6,10,3,4,225,Resolved
+T0367,C198,A08,Hardware,Application,Password Reset,Low,Portal,Pune,2026-01-16 06:00:00,41,1.46,6,2,1,4.0,5,15,2,0,121,Closed
+T0368,C252,A13,Software,Laptop,Screen,Low,Portal,Bangalore,2026-01-16 07:00:00,52,5.21,6,0,2,2.0,8,17,3,3,114,Open
+T0369,C960,A08,Software,Application,VPN,High,Portal,Hyderabad,2026-01-16 08:00:00,37,8.68,12,1,2,4.0,5,16,1,3,100,Resolved
+T0370,C995,A05,Software,Access,Login,High,Portal,Hyderabad,2026-01-16 09:00:00,32,9.4,4,0,1,5.0,2,26,2,4,220,Closed
+T0371,C977,A13,Software,Printer,Query Error,Low,Portal,Chennai,2026-01-16 10:00:00,13,9.39,4,1,1,3.0,6,6,3,3,98,Resolved
+T0372,C437,A04,Software,Database,VPN,Medium,Portal,Bangalore,2026-01-16 11:00:00,16,2.13,4,0,0,4.0,1,25,3,2,202,Resolved
+T0373,C805,A12,Security,Application,Query Error,Low,Portal,Hyderabad,2026-01-16 12:00:00,9,4.44,6,2,0,3.0,5,7,2,1,123,Closed
+T0374,C921,A13,Security,Printer,Login,High,Email,Chennai,2026-01-16 13:00:00,58,1.25,6,0,0,2.0,6,27,3,0,218,Open
+T0375,C262,A02,Security,Printer,Login,High,Portal,Mumbai,2026-01-16 14:00:00,56,8.7,8,0,0,4.0,7,8,3,4,248,Closed
+T0376,C819,A11,Hardware,Connectivity,Screen,High,Portal,Chennai,2026-01-16 15:00:00,58,4.23,12,2,0,4.0,2,21,2,3,241,Resolved
+T0377,C780,A03,Hardware,Application,Screen,Low,Portal,Chennai,2026-01-16 16:00:00,32,6.68,12,0,0,2.0,1,26,3,1,238,Closed
+T0378,C260,A03,Hardware,Database,VPN,Medium,Phone,Hyderabad,2026-01-16 17:00:00,39,7.43,6,1,1,2.0,6,10,3,2,61,Resolved
+T0379,C679,A04,Hardware,Application,Query Error,High,Email,Delhi,2026-01-16 18:00:00,9,4.87,8,0,1,1.0,3,11,3,3,153,Closed
+T0380,C900,A04,Software,Printer,Login,High,Email,Delhi,2026-01-16 19:00:00,38,3.76,4,0,1,5.0,5,19,3,3,130,Open
+T0381,C497,A10,Software,Database,VPN,Low,Email,Pune,2026-01-16 20:00:00,50,9.66,6,0,2,4.0,2,15,2,0,246,Open
+T0382,C376,A11,Software,Access,Password Reset,Medium,Portal,Delhi,2026-01-16 21:00:00,38,9.68,12,2,2,4.0,1,28,1,2,176,Open
+T0383,C915,A11,Network,Connectivity,VPN,Low,Portal,Chennai,2026-01-16 22:00:00,17,3.6,12,0,0,2.0,1,7,1,2,63,Open
+T0384,C603,A05,Security,Printer,Driver Issue,High,Phone,Pune,2026-01-16 23:00:00,43,5.32,12,0,1,2.0,4,10,3,4,83,Closed
+T0385,C995,A04,Hardware,Laptop,VPN,Medium,Email,Hyderabad,2026-01-17 00:00:00,46,9.76,4,1,2,5.0,2,6,3,0,97,Open
+T0386,C491,A11,Hardware,Laptop,Driver Issue,Medium,Portal,Bangalore,2026-01-17 01:00:00,49,1.04,12,0,2,2.0,1,18,1,4,110,Closed
+T0387,C234,A14,Software,Connectivity,Driver Issue,High,Email,Chennai,2026-01-17 02:00:00,52,4.71,4,0,1,3.0,6,13,3,0,84,Resolved
+T0388,C294,A10,Hardware,Access,Driver Issue,Medium,Phone,Chennai,2026-01-17 03:00:00,18,1.9,4,0,2,3.0,4,22,1,2,168,Resolved
+T0389,C500,A08,Hardware,Printer,Password Reset,Medium,Phone,Pune,2026-01-17 04:00:00,15,5.58,4,0,2,3.0,7,23,2,0,114,Resolved
+T0390,C739,A06,Security,Application,VPN,Low,Phone,Hyderabad,2026-01-17 05:00:00,46,1.22,6,1,1,3.0,6,16,2,0,108,Open
+T0391,C132,A06,Software,Connectivity,VPN,High,Email,Mumbai,2026-01-17 06:00:00,42,4.66,4,1,2,5.0,5,17,2,0,85,Open
+T0392,C787,A08,Security,Access,Password Reset,High,Portal,Chennai,2026-01-17 07:00:00,8,2.99,8,2,1,4.0,2,16,2,1,196,Open
+T0393,C559,A07,Network,Application,Login,High,Portal,Mumbai,2026-01-17 08:00:00,57,unknown,12,0,2,3.0,5,16,2,1,91,Resolved
+T0394,C982,A10,Network,Laptop,Screen,High,Phone,Mumbai,2026-01-17 09:00:00,37,9.96,6,2,1,2.0,9,22,2,2,118,Resolved
+T0395,C569,A14,Network,Laptop,VPN,High,Portal,Delhi,2026-01-17 10:00:00,11,8.2,12,2,2,3.0,9,13,1,0,196,Resolved
+T0396,C474,A11,Software,Application,Screen,Medium,Phone,Hyderabad,2026-01-17 11:00:00,45,8.61,4,0,2,5.0,2,21,3,2,156,Resolved
+T0397,C121,A12,Hardware,Connectivity,Query Error,Low,Email,Mumbai,2026-01-17 12:00:00,12,6.72,6,1,1,2.0,7,25,1,1,88,Closed
+T0398,C849,A10,Software,Laptop,Query Error,High,Phone,Hyderabad,2026-01-17 13:00:00,41,1.37,8,1,2,3.0,4,20,2,0,118,Closed
+T0399,C769,A13,Software,Printer,Password Reset,Low,Email,Delhi,2026-01-17 14:00:00,55,2.86,4,0,1,4.0,3,21,3,4,229,Open
+T0400,C137,A08,Hardware,Database,Query Error,Low,Phone,Hyderabad,2026-01-17 15:00:00,14,9.33,12,0,1,2.0,1,25,3,1,61,Open
+T0401,C329,A14,Security,Application,Query Error,Medium,Portal,Chennai,2026-01-17 16:00:00,47,4.3,8,1,2,2.0,3,28,2,1,132,Resolved
+T0402,C464,A02,Network,Application,Login,High,Portal,Mumbai,2026-01-17 17:00:00,19,1.93,4,0,0,4.0,9,12,2,1,224,Closed
+T0403,C662,A09,Security,Laptop,Login,Medium,Phone,Hyderabad,2026-01-17 18:00:00,42,unknown,8,0,2,2.0,9,15,2,0,85,Closed
+T0404,C537,A01,Network,Connectivity,Login,High,Portal,Bangalore,2026-01-17 19:00:00,19,3.7,4,0,0,3.0,7,28,2,3,175,Open
+T0405,C875,A08,Software,Printer,Query Error,Medium,Portal,Hyderabad,2026-01-17 20:00:00,9,3.42,6,1,0,2.0,3,6,2,4,112,Closed
+T0406,C382,A12,Network,Connectivity,Password Reset,Low,Portal,Mumbai,2026-01-17 21:00:00,33,9.98,4,2,2,3.0,3,12,2,4,125,Open
+T0407,C126,A11,Software,Access,Driver Issue,High,Email,Delhi,2026-01-17 22:00:00,23,8.72,6,2,0,4.0,4,16,3,2,131,Resolved
+T0408,C325,A12,Security,Access,Driver Issue,Low,Portal,Delhi,2026-01-17 23:00:00,58,4.67,4,0,1,,7,25,2,0,100,Resolved
+T0409,C376,A12,Software,Database,Screen,Low,Email,Mumbai,2026-01-18 00:00:00,55,9.82,4,1,1,4.0,7,5,2,1,92,Open
+T0410,C897,A04,Security,Laptop,Driver Issue,Medium,Phone,Chennai,2026-01-18 01:00:00,14,6.85,12,0,0,3.0,2,27,3,3,83,Resolved
+T0411,C708,A04,Hardware,Laptop,Driver Issue,High,Portal,Chennai,2026-01-18 02:00:00,16,7.68,8,1,1,5.0,5,17,1,0,146,Resolved
+T0412,C383,A05,Hardware,Laptop,Login,Low,Portal,Delhi,2026-01-18 03:00:00,58,1.28,8,0,2,4.0,7,26,2,0,98,Closed
+T0413,C978,A08,Hardware,Database,Login,Medium,Portal,Delhi,2026-01-18 04:00:00,8,2.09,8,1,1,5.0,7,25,3,3,195,Closed
+T0414,C580,A05,Software,Access,Query Error,High,Phone,Mumbai,2026-01-18 05:00:00,35,6.7,4,1,0,5.0,6,21,3,1,174,Closed
+T0415,C552,A08,Hardware,Connectivity,Screen,High,Email,Chennai,2026-01-18 06:00:00,22,9.09,4,2,2,,8,18,1,0,238,Closed
+T0416,C928,A10,Network,Database,VPN,Low,Email,Delhi,2026-01-18 07:00:00,20,6.61,4,0,1,3.0,3,18,2,4,106,Closed
+T0417,C915,A01,Security,Database,Screen,High,Portal,Chennai,2026-01-18 08:00:00,44,2.21,6,2,2,1.0,1,20,2,4,142,Open
+T0418,C758,A12,Security,Connectivity,Screen,Low,Phone,Delhi,2026-01-18 09:00:00,40,2.04,6,2,0,2.0,3,21,2,3,158,Open
+T0419,C615,A10,Network,Laptop,Password Reset,High,Phone,Hyderabad,2026-01-18 10:00:00,29,8.6,12,1,1,4.0,2,10,3,1,54,Closed
+T0420,C646,A09,Software,Printer,Query Error,Medium,Phone,Bangalore,2026-01-18 11:00:00,27,2.25,4,0,2,3.0,2,11,2,3,73,Resolved
+T0421,C291,A06,Software,Connectivity,Password Reset,Low,Phone,Pune,2026-01-18 12:00:00,16,5.68,8,1,2,4.0,2,5,2,0,241,Resolved
+T0422,C148,A03,Security,Access,Screen,Low,Phone,Hyderabad,2026-01-18 13:00:00,38,1.33,8,1,1,5.0,5,29,2,4,108,Open
+T0423,C611,A13,Hardware,Application,Screen,high,Email,Pune,2026-01-18 14:00:00,40,1.73,12,1,2,2.0,1,19,2,2,87,Open
+T0424,C116,A14,Software,Application,Screen,High,Email,Delhi,2026-01-18 15:00:00,41,7.05,8,0,2,,4,24,1,3,210,Open
+T0425,C271,A08,Software,Database,Driver Issue,Low,Email,Bangalore,2026-01-18 16:00:00,7,7.2,12,0,0,4.0,5,25,1,2,59,Resolved
+T0426,C319,A09,Network,Application,Password Reset,High,Portal,Bangalore,2026-01-18 17:00:00,13,4.07,4,1,0,2.0,2,22,1,2,214,Open
+T0427,C257,A06,Network,Printer,Screen,Medium,Phone,Delhi,2026-01-18 18:00:00,57,2.94,8,0,0,1.0,5,17,2,4,175,Resolved
+T0428,C576,A11,Hardware,Laptop,Login,High,Portal,Delhi,2026-01-18 19:00:00,22,8.32,4,1,0,4.0,4,28,2,3,60,Open
+T0429,C145,A07,Software,Access,Query Error,Medium,Phone,Chennai,2026-01-18 20:00:00,47,2.95,6,0,0,2.0,8,6,3,2,73,Resolved
+T0430,C472,A01,Software,Printer,Query Error,Medium,Email,Delhi,2026-01-18 21:00:00,39,5.88,8,0,0,3.0,1,23,3,0,137,Open
+T0431,C617,A14,Network,Access,Login,Medium,Portal,Mumbai,2026-01-18 22:00:00,59,9.71,6,2,1,4.0,5,19,3,1,248,Open
+T0432,C198,A05,Software,Access,Query Error,Medium,Email,Delhi,2026-01-18 23:00:00,38,2.33,8,1,0,2.0,1,16,2,1,163,Resolved
+T0433,C991,A05,Security,Laptop,Driver Issue,Medium,Phone,Mumbai,2026-01-19 00:00:00,45,9.47,4,2,2,1.0,4,19,1,4,70,Open
+T0434,C844,A10,Network,Database,Driver Issue,High,Phone,Delhi,2026-01-19 01:00:00,18,2.65,12,2,1,2.0,8,29,1,3,197,Closed
+T0435,C136,A14,Hardware,Application,VPN,Medium,Phone,Chennai,2026-01-19 02:00:00,8,6.11,4,1,2,3.0,1,22,1,3,59,Resolved
+T0436,C379,A04,Network,Laptop,VPN,High,Email,Mumbai,2026-01-19 03:00:00,33,4.39,4,1,0,4.0,2,18,2,1,224,Open
+T0437,C448,A06,Software,Printer,VPN,Medium,Phone,Hyderabad,2026-01-19 04:00:00,45,9.68,4,0,0,4.0,1,10,1,0,224,Resolved
+T0438,C596,A07,Hardware,Database,Query Error,Low,Email,Mumbai,2026-01-19 05:00:00,49,3.46,8,1,2,4.0,7,16,3,1,192,Open
+T0439,C401,A09,Network,Printer,Driver Issue,Medium,Portal,Chennai,2026-01-19 06:00:00,54,4.6,12,2,2,3.0,2,24,3,1,221,Closed
+T0440,C280,A01,Security,Database,Driver Issue,Low,Phone,Pune,2026-01-19 07:00:00,19,9.85,6,2,2,1.0,1,27,1,3,239,Open
+T0441,C706,A06,Security,Printer,Driver Issue,Medium,Phone,Mumbai,2026-01-19 08:00:00,32,5.83,4,1,1,4.0,6,10,3,2,183,Open
+T0442,C198,A07,Network,Laptop,Login,Medium,Phone,Delhi,2026-01-19 09:00:00,46,5.52,8,2,0,1.0,6,13,1,0,115,Closed
+T0443,C799,A03,Security,Database,Driver Issue,Medium,Portal,Delhi,2026-01-19 10:00:00,20,3.32,6,0,2,2.0,2,29,1,3,171,Resolved
+T0444,C215,A08,Security,Database,Login,Low,Phone,Pune,2026-01-19 11:00:00,16,7.31,4,2,0,1.0,1,8,3,1,181,Open
+T0445,C290,A05,Security,Access,VPN,Low,Email,Chennai,2026-01-19 12:00:00,56,1.13,6,0,2,1.0,3,21,3,2,72,Open
+T0446,C352,A09,Hardware,Access,VPN,Medium,Email,Bangalore,2026-01-19 13:00:00,9,1.45,4,2,0,4.0,5,6,3,0,62,Closed
+T0447,C260,A05,Security,Connectivity,Query Error,High,Phone,Delhi,2026-01-19 14:00:00,38,6.39,6,0,1,5.0,6,20,3,4,208,Resolved
+T0448,C355,A09,Security,Printer,VPN,Medium,Phone,Hyderabad,2026-01-19 15:00:00,46,4.08,6,0,0,5.0,3,28,1,0,65,Resolved
+T0449,C422,A10,Security,Access,Query Error,Low,Portal,Chennai,2026-01-19 16:00:00,5,9.58,12,1,2,3.0,9,18,3,0,90,Closed
+T0450,C227,A04,Hardware,Connectivity,Screen,Medium,Portal,Mumbai,2026-01-19 17:00:00,43,9.13,12,0,0,3.0,5,12,3,1,50,Closed
+T0451,C117,A09,Network,Access,Screen,Low,Portal,Mumbai,2026-01-19 18:00:00,36,7.42,4,1,1,5.0,2,18,2,1,160,Open
+T0452,C892,A05,Software,Printer,Password Reset,Low,Phone,Hyderabad,2026-01-19 19:00:00,30,8.36,8,2,1,2.0,6,6,3,4,61,Closed
+T0453,C834,A10,Security,Database,Query Error,Low,Portal,Delhi,2026-01-19 20:00:00,21,7.01,12,2,0,4.0,8,20,3,4,168,Closed
+T0454,C665,A09,Network,Application,Password Reset,Medium,Portal,Chennai,2026-01-19 21:00:00,52,2.13,6,2,2,4.0,6,8,1,4,233,Closed
+T0455,C669,A03,Security,Printer,Password Reset,Low,Email,Hyderabad,2026-01-19 22:00:00,31,7.89,12,0,1,2.0,4,5,1,3,227,Resolved
+T0456,C422,A04,Hardware,Laptop,Screen,Low,Portal,Delhi,2026-01-19 23:00:00,28,2.89,12,2,1,2.0,6,27,2,3,69,Closed
+T0457,C971,A09,Network,Access,Query Error,Medium,Email,Chennai,2026-01-20 00:00:00,39,3.91,4,2,0,5.0,8,24,3,1,243,Open
+T0458,C785,A10,Hardware,Access,Screen,Low,Email,Mumbai,2026-01-20 01:00:00,50,8.37,12,1,1,3.0,8,18,3,1,85,Open
+T0459,C891,A11,Security,Database,Password Reset,Medium,Portal,Chennai,2026-01-20 02:00:00,46,5.83,12,1,1,2.0,2,12,3,4,128,Open
+T0460,C725,A06,Security,Laptop,Query Error,Low,Email,Pune,2026-01-20 03:00:00,58,8.74,6,2,2,3.0,8,29,3,3,215,Closed
+T0461,C387,A02,Hardware,Database,Password Reset,High,Phone,Bangalore,2026-01-20 04:00:00,43,2.92,12,2,2,1.0,6,29,3,2,199,Resolved
+T0462,C953,A07,Software,Laptop,Driver Issue,High,Phone,Chennai,2026-01-20 05:00:00,30,6.47,6,0,2,4.0,2,7,3,3,157,Closed
+T0463,C762,A02,Hardware,Application,Query Error,Low,Portal,Bangalore,2026-01-20 06:00:00,53,1.75,12,0,0,5.0,1,9,2,1,238,Closed
+T0464,C738,A11,Security,Access,Query Error,High,Phone,Chennai,2026-01-20 07:00:00,42,6.79,12,2,1,4.0,6,10,3,3,227,Open
+T0465,C254,A02,Hardware,Access,Password Reset,Medium,Email,Bangalore,2026-01-20 08:00:00,27,7.86,8,1,0,5.0,7,26,3,1,145,Closed
+T0466,C589,A11,Software,Application,Driver Issue,High,Phone,Pune,2026-01-20 09:00:00,26,6.26,12,2,1,1.0,5,12,3,4,108,Resolved
+T0467,C485,A01,Hardware,Connectivity,Login,Low,Portal,Mumbai,2026-01-20 10:00:00,8,3.4,6,0,1,4.0,8,10,2,4,69,Open
+T0468,C884,A11,Software,Database,Screen,Low,Portal,Delhi,2026-01-20 11:00:00,53,1.28,6,1,1,1.0,9,10,3,4,213,Resolved
+T0469,C203,A11,Software,Application,Password Reset,Medium,Email,Bangalore,2026-01-20 12:00:00,13,2.08,4,1,2,5.0,4,8,2,2,175,Resolved
+T0470,C492,A12,Hardware,Database,Query Error,Low,Portal,Pune,2026-01-20 13:00:00,8,6.6,4,0,0,2.0,7,11,1,2,146,Resolved
+T0471,C910,A11,Hardware,Printer,Screen,Medium,Phone,Bangalore,2026-01-20 14:00:00,11,9.41,8,2,0,4.0,8,28,3,1,192,Closed
+T0472,C345,A03,Network,Access,Screen,High,Portal,Mumbai,2026-01-20 15:00:00,27,2.86,6,2,1,1.0,6,23,2,0,111,Closed
+T0473,C275,A06,Security,Database,Screen,High,Email,Bangalore,2026-01-20 16:00:00,6,7.62,6,2,0,4.0,2,11,1,2,180,Closed
+T0474,C138,A08,Software,Laptop,Login,Medium,Portal,Pune,2026-01-20 17:00:00,53,8.8,6,0,2,4.0,7,7,2,1,142,Closed
+T0475,C576,A09,Network,Database,VPN,Medium,Phone,Pune,2026-01-20 18:00:00,28,5.69,8,1,0,4.0,9,12,2,3,140,Open
+T0476,C781,A07,Hardware,Printer,Password Reset,Low,Email,Hyderabad,2026-01-20 19:00:00,44,7.02,6,0,1,3.0,5,5,1,4,182,Closed
+T0477,C858,A04,Security,Access,VPN,High,Phone,Mumbai,2026-01-20 20:00:00,59,8.34,4,2,2,1.0,2,5,3,4,172,Open
+T0478,C637,A06,Network,Application,VPN,Medium,Email,Hyderabad,2026-01-20 21:00:00,35,unknown,8,0,2,1.0,4,18,3,4,233,Resolved
+T0479,C966,A05,Software,Printer,VPN,High,Portal,Mumbai,2026-01-20 22:00:00,51,3.67,4,1,1,4.0,3,10,2,1,208,Open
+T0480,C917,A08,Network,Access,Screen,Medium,Email,Bangalore,2026-01-20 23:00:00,35,1.01,4,0,0,2.0,4,14,1,4,135,Closed
+T0481,C507,A01,Software,Database,Driver Issue,High,Email,Pune,2026-01-21 00:00:00,51,9.67,8,2,1,4.0,7,29,3,2,212,Open
+T0482,C624,A01,Hardware,Connectivity,Screen,Low,Portal,Hyderabad,2026-01-21 01:00:00,44,9.26,12,1,0,3.0,8,18,2,3,167,Closed
+T0483,C927,A13,Security,Connectivity,Screen,High,Phone,Bangalore,2026-01-21 02:00:00,52,7.88,12,0,0,5.0,1,8,1,4,248,Closed
+T0484,C605,A11,Security,Laptop,Query Error,High,Portal,Pune,2026-01-21 03:00:00,55,1.71,4,0,2,3.0,8,10,2,1,247,Open
+T0485,C924,A06,Security,Access,Query Error,High,Email,Mumbai,2026-01-21 04:00:00,47,5.03,12,1,1,2.0,5,20,1,3,75,Open
+T0486,C135,A10,Hardware,Connectivity,VPN,High,Portal,Pune,2026-01-21 05:00:00,38,1.92,6,1,2,4.0,7,25,3,4,167,Resolved
+T0487,C784,A12,Software,Application,Screen,High,Email,Bangalore,2026-01-21 06:00:00,59,1.14,8,2,1,1.0,1,5,3,0,50,Resolved
+T0488,C119,A02,Hardware,Access,VPN,Low,Portal,Hyderabad,2026-01-21 07:00:00,28,6.55,4,1,1,4.0,2,10,2,4,56,Resolved
+T0489,C420,A05,Security,Application,Query Error,Medium,Portal,Hyderabad,2026-01-21 08:00:00,53,9.65,6,2,2,2.0,1,13,3,2,213,Resolved
+T0490,C875,A01,Hardware,Application,Driver Issue,High,Phone,Pune,2026-01-21 09:00:00,30,9.13,12,0,1,1.0,5,19,3,3,125,Resolved
+T0491,C611,A07,Hardware,Connectivity,Password Reset,Low,Email,Bangalore,2026-01-21 10:00:00,20,7.27,6,2,1,3.0,6,16,1,2,136,Open
+T0492,C499,A01,Hardware,Access,VPN,High,Phone,Chennai,2026-01-21 11:00:00,51,1.87,12,0,0,5.0,9,7,3,0,202,Resolved
+T0493,C753,A04,Software,Database,Driver Issue,High,Email,Mumbai,2026-01-21 12:00:00,17,3.47,4,1,1,5.0,8,15,1,0,143,Open
+T0494,C982,A09,Network,Printer,Password Reset,Medium,Portal,Mumbai,2026-01-21 13:00:00,19,3.88,6,0,1,4.0,7,19,1,2,236,Resolved
+T0495,C570,A01,Network,Connectivity,Login,High,Email,Bangalore,2026-01-21 14:00:00,31,7.87,8,1,2,3.0,5,7,2,3,110,Closed
+T0496,C242,A04,Hardware,Connectivity,VPN,Low,Phone,Chennai,2026-01-21 15:00:00,8,8.22,4,0,2,2.0,3,18,1,0,78,Resolved
+T0497,C191,A06,Network,Database,VPN,Low,Phone,Hyderabad,2026-01-21 16:00:00,20,4.47,6,0,1,5.0,9,6,3,0,144,Closed
+T0498,C453,A06,Network,Access,Login,Medium,Phone,Delhi,2026-01-21 17:00:00,34,4.76,6,0,0,3.0,5,8,1,4,67,Open
+T0499,C933,A12,Hardware,Access,Login,High,Email,Delhi,2026-01-21 18:00:00,48,1.4,12,0,0,4.0,3,23,1,1,90,Resolved
+T0500,C899,A13,Hardware,Application,VPN,Low,Phone,Bangalore,2026-01-21 19:00:00,34,3.6,4,2,2,1.0,3,16,2,0,196,Open
+T0501,C826,A08,Security,Database,Login,High,Phone,Chennai,2026-01-21 20:00:00,40,5.06,4,0,1,4.0,3,6,3,3,181,Resolved
+T0502,C953,A01,Network,Database,Screen,High,Phone,Chennai,2026-01-21 21:00:00,7,2.05,4,2,1,4.0,6,21,3,3,242,Open
+T0503,C150,A07,Software,Access,Password Reset,High,Portal,Mumbai,2026-01-21 22:00:00,26,5.08,4,1,0,3.0,1,7,3,4,90,Resolved
+T0504,C764,A01,Hardware,Application,Password Reset,Medium,Portal,Hyderabad,2026-01-21 23:00:00,53,8.68,12,1,0,5.0,4,14,1,3,172,Resolved
+T0505,C797,A13,Security,Connectivity,Password Reset,High,Email,Pune,2026-01-22 00:00:00,26,6.23,8,2,0,3.0,8,20,3,4,192,Closed
+T0506,C674,A14,Software,Laptop,Screen,Low,Email,Chennai,2026-01-22 01:00:00,54,1.71,4,1,2,1.0,3,26,3,0,231,Open
+T0507,C289,A07,Network,Printer,Login,High,Phone,Pune,2026-01-22 02:00:00,54,2.73,12,1,1,3.0,5,13,1,0,241,Open
+T0508,C224,A03,Security,Connectivity,Driver Issue,Low,Portal,Delhi,2026-01-22 03:00:00,59,5.27,8,0,2,,2,15,2,0,249,Open
+T0509,C249,A11,Hardware,Access,Login,High,Phone,Pune,2026-01-22 04:00:00,53,4.25,8,0,1,4.0,2,25,2,0,192,Open
+T0510,C413,A08,Software,Printer,VPN,Low,Phone,Hyderabad,2026-01-22 05:00:00,16,4.23,12,0,2,5.0,7,19,1,1,227,Open
+T0511,C669,A03,Hardware,Laptop,Query Error,Low,Portal,Hyderabad,2026-01-22 06:00:00,59,5.76,4,2,1,1.0,3,7,2,1,71,Closed
+T0512,C441,A14,Network,Laptop,Password Reset,High,Portal,Pune,2026-01-22 07:00:00,25,6.26,8,2,0,4.0,5,20,2,0,195,Resolved
+T0513,C404,A14,Software,Application,Login,High,Portal,Bangalore,2026-01-22 08:00:00,8,8.17,4,1,0,3.0,3,25,2,3,129,Closed
+T0514,C791,A13,Network,Printer,Driver Issue,Low,Email,Chennai,2026-01-22 09:00:00,35,4.07,4,0,0,2.0,6,25,3,4,179,Open
+T0515,C781,A01,Network,Application,VPN,Medium,Email,Bangalore,2026-01-22 10:00:00,48,8.25,6,2,2,3.0,3,25,2,2,85,Open
+T0516,C937,A13,Security,Connectivity,Screen,High,Phone,Pune,2026-01-22 11:00:00,35,4.05,4,2,0,4.0,8,16,3,4,69,Resolved
+T0517,C882,A13,Hardware,Database,Screen,Medium,Email,Chennai,2026-01-22 12:00:00,27,1.5,6,0,1,1.0,2,27,2,2,193,Closed
+T0518,C153,A14,Software,Database,Driver Issue,High,Portal,Mumbai,2026-01-22 13:00:00,58,5.99,8,2,2,,3,9,3,2,116,Resolved
+T0519,C543,A08,Network,Database,VPN,High,Portal,Bangalore,2026-01-22 14:00:00,57,unknown,12,0,1,4.0,8,11,1,0,169,Resolved
+T0520,C712,A03,Network,Printer,Password Reset,High,Email,Bangalore,2026-01-22 15:00:00,24,9.41,6,1,2,1.0,8,13,1,2,207,Closed
+T0521,C363,A02,Software,Database,Login,High,Phone,Pune,2026-01-22 16:00:00,19,7.53,12,1,1,4.0,1,25,2,0,104,Resolved
+T0522,C152,A01,Network,Connectivity,VPN,Medium,Phone,Delhi,2026-01-22 17:00:00,27,9.26,8,1,1,2.0,8,22,3,1,115,Closed
+T0523,C671,A14,Security,Application,Screen,High,Email,Pune,2026-01-22 18:00:00,32,9.18,4,0,2,3.0,2,25,1,3,75,Closed
+T0524,C719,A03,Security,Printer,Driver Issue,Low,Phone,Bangalore,2026-01-22 19:00:00,20,6.44,8,2,2,5.0,7,12,1,2,234,Open
+T0525,C104,A02,Security,Application,Driver Issue,Low,Phone,Chennai,2026-01-22 20:00:00,41,5.75,12,1,0,1.0,6,16,1,3,246,Resolved
+T0526,C202,A02,Security,Printer,Login,Medium,Phone,Delhi,2026-01-22 21:00:00,25,6.02,8,1,0,5.0,2,24,1,0,179,Open
+T0527,C295,A06,Network,Application,Driver Issue,High,Portal,Pune,2026-01-22 22:00:00,19,9.8,4,1,1,5.0,5,6,2,2,105,Resolved
+T0528,C873,A12,Software,Laptop,Driver Issue,Low,Portal,Pune,2026-01-22 23:00:00,21,7.96,8,2,1,5.0,7,14,3,4,239,Resolved
+T0529,C976,A01,Software,Application,VPN,Medium,Email,Bangalore,2026-01-23 00:00:00,54,1.96,4,2,1,1.0,8,23,1,1,83,Open
+T0530,C983,A02,Software,Database,Password Reset,High,Portal,Bangalore,2026-01-23 01:00:00,41,8.01,6,0,2,1.0,3,13,2,1,105,Open
+T0531,C449,A14,Software,Laptop,Login,low,Phone,Mumbai,2026-01-23 02:00:00,17,2.53,12,1,2,5.0,1,29,1,2,104,Open
+T0532,C146,A06,Hardware,Application,VPN,Low,Portal,Pune,2026-01-23 03:00:00,23,5.03,4,2,0,3.0,7,28,1,1,69,Closed
+T0533,C966,A03,Software,Printer,Password Reset,medium,Email,Bangalore,2026-01-23 04:00:00,34,2.89,4,0,1,4.0,5,12,1,4,99,Resolved
+T0534,C922,A04,Hardware,Printer,VPN,High,Portal,Hyderabad,2026-01-23 05:00:00,49,7.21,8,1,0,5.0,5,28,1,3,202,Closed
+T0535,C919,A01,Hardware,Printer,Query Error,High,Phone,Delhi,2026-01-23 06:00:00,22,8.9,6,2,2,2.0,7,28,2,4,133,Resolved
+T0536,C755,A08,Security,Access,VPN,Low,Phone,Hyderabad,2026-01-23 07:00:00,18,3.61,4,2,2,5.0,1,28,3,1,202,Resolved
+T0537,C368,A13,Hardware,Connectivity,Driver Issue,Low,Email,Delhi,2026-01-23 08:00:00,40,1.74,6,0,2,1.0,8,5,2,3,102,Closed
+T0538,C469,A07,Network,Printer,Password Reset,Low,Portal,Pune,2026-01-23 09:00:00,40,3.69,6,1,0,4.0,5,10,2,4,191,Closed
+T0539,C735,A07,Hardware,Laptop,Login,High,Portal,Mumbai,2026-01-23 10:00:00,24,7.05,8,1,2,2.0,8,16,2,0,237,Resolved
+T0540,C205,A03,Security,Printer,Login,Medium,Portal,Bangalore,2026-01-23 11:00:00,56,3.96,4,2,1,4.0,5,29,1,0,160,Open
+T0541,C769,A10,Hardware,Access,Password Reset,Medium,Phone,Bangalore,2026-01-23 12:00:00,23,3.5,8,1,0,4.0,7,28,3,3,220,Open
+T0542,C758,A10,Network,Database,Driver Issue,High,Email,Bangalore,2026-01-23 13:00:00,49,2.66,12,0,2,2.0,3,23,1,3,239,Open
+T0543,C756,A03,Network,Laptop,Screen,Medium,Portal,Pune,2026-01-23 14:00:00,48,5.48,12,2,0,5.0,2,21,2,3,161,Open
+T0544,C219,A14,Network,Access,VPN,Low,Phone,Delhi,2026-01-23 15:00:00,11,3.48,4,2,0,5.0,6,6,1,0,118,Resolved
+T0545,C930,A02,Security,Database,Driver Issue,Medium,Phone,Bangalore,2026-01-23 16:00:00,48,7.58,6,0,2,5.0,5,15,3,4,240,Open
+T0546,C886,A12,Security,Laptop,Query Error,Medium,Phone,Hyderabad,2026-01-23 17:00:00,57,1.69,4,2,2,3.0,9,22,3,3,51,Open
+T0547,C703,A01,Software,Application,Password Reset,Medium,Portal,Bangalore,2026-01-23 18:00:00,8,6.98,4,1,0,,4,27,1,0,231,Open
+T0548,C157,A07,Security,Connectivity,VPN,Low,Portal,Pune,2026-01-23 19:00:00,38,3.14,12,1,0,2.0,3,26,2,3,65,Resolved
+T0549,C445,A07,Network,Connectivity,Login,High,Portal,Mumbai,2026-01-23 20:00:00,6,5.4,12,2,2,3.0,9,15,1,3,232,Closed
+T0550,C840,A12,Network,Access,Screen,Low,Portal,Hyderabad,2026-01-23 21:00:00,9,3.57,6,0,1,5.0,8,22,2,3,143,Open
+T0551,C573,A02,Security,Database,Query Error,High,Portal,Bangalore,2026-01-23 22:00:00,59,7.5,6,0,0,3.0,6,12,3,0,220,Resolved
+T0552,C216,A07,Hardware,Connectivity,Login,High,Portal,Bangalore,2026-01-23 23:00:00,14,9.51,4,1,0,2.0,1,19,1,4,238,Resolved
+T0553,C929,A13,Security,Database,Password Reset,High,Portal,Chennai,2026-01-24 00:00:00,36,9.25,8,0,1,5.0,1,13,3,0,215,Open
+T0554,C890,A08,Security,Database,VPN,Medium,Portal,Delhi,2026-01-24 01:00:00,46,6.25,4,2,2,1.0,6,19,2,0,94,Closed
+T0555,C226,A01,Network,Access,Password Reset,Medium,Portal,Hyderabad,2026-01-24 02:00:00,45,5.16,6,2,2,2.0,3,11,2,3,175,Closed
+T0556,C492,A09,Software,Access,VPN,high,Phone,Chennai,2026-01-24 03:00:00,17,8.36,8,1,1,4.0,3,24,1,2,228,Closed
+T0557,C740,A07,Network,Access,Driver Issue,High,Portal,Mumbai,2026-01-24 04:00:00,43,7.15,12,1,2,4.0,6,17,1,2,219,Resolved
+T0558,C157,A03,Software,Connectivity,Screen,Medium,Email,Delhi,2026-01-24 05:00:00,9,2.65,6,1,2,2.0,3,17,1,2,73,Open
+T0559,C733,A08,Network,Access,Driver Issue,Low,Phone,Hyderabad,2026-01-24 06:00:00,14,8.39,6,0,0,4.0,6,5,3,0,164,Open
+T0560,C612,A07,Security,Connectivity,Driver Issue,High,Portal,Bangalore,2026-01-24 07:00:00,14,4.86,8,2,0,2.0,5,24,2,3,207,Resolved
+T0561,C850,A11,Network,Access,Password Reset,Low,Email,Hyderabad,2026-01-24 08:00:00,42,2.7,6,2,0,1.0,4,8,2,2,214,Open
+T0562,C901,A13,Network,Printer,Screen,Medium,Portal,Bangalore,2026-01-24 09:00:00,31,3.54,6,2,1,2.0,8,28,3,1,172,Open
+T0563,C195,A08,Network,Database,VPN,High,Email,Delhi,2026-01-24 10:00:00,55,3.41,6,1,2,5.0,2,8,1,1,230,Closed
+T0564,C737,A06,Security,Access,VPN,Low,Email,Bangalore,2026-01-24 11:00:00,25,5.67,6,2,2,5.0,7,8,1,1,240,Open
+T0565,C217,A09,Security,Laptop,Query Error,Low,Email,Mumbai,2026-01-24 12:00:00,12,3.11,6,0,0,3.0,4,17,3,4,188,Open
+T0566,C659,A05,Security,Database,Login,Low,Email,Pune,2026-01-24 13:00:00,5,2.11,6,0,0,4.0,2,6,2,3,127,Resolved
+T0567,C700,A03,Security,Database,Query Error,Medium,Phone,Bangalore,2026-01-24 14:00:00,32,2.11,6,2,1,4.0,7,27,2,0,200,Resolved
+T0568,C587,A03,Software,Access,Query Error,Medium,Phone,Mumbai,2026-01-24 15:00:00,53,6.25,6,1,2,2.0,1,19,2,0,166,Closed
+T0569,C336,A01,Software,Application,VPN,Low,Email,Pune,2026-01-24 16:00:00,43,7.61,12,2,1,4.0,4,8,2,3,129,Resolved
+T0570,C984,A12,Hardware,Access,Password Reset,Low,Portal,Delhi,2026-01-24 17:00:00,18,3.89,6,0,2,5.0,9,10,3,4,99,Closed
+T0571,C996,A08,Security,Database,Driver Issue,Medium,Email,Delhi,2026-01-24 18:00:00,25,1.31,12,0,1,1.0,4,7,2,3,134,Closed
+T0572,C371,A02,Software,Laptop,Driver Issue,Low,Phone,Hyderabad,2026-01-24 19:00:00,34,2.15,12,0,0,2.0,3,11,3,4,232,Open
+T0573,C288,A03,Network,Database,Driver Issue,Low,Portal,Mumbai,2026-01-24 20:00:00,25,9.23,4,2,1,4.0,2,10,1,2,232,Closed
+T0574,C803,A08,Security,Laptop,Screen,Medium,Phone,Mumbai,2026-01-24 21:00:00,53,5.44,4,0,1,5.0,3,7,3,2,53,Open
+T0575,C546,A14,Hardware,Connectivity,VPN,Low,Phone,Chennai,2026-01-24 22:00:00,13,5.08,12,1,0,3.0,1,8,2,4,231,Closed
+T0576,C680,A08,Hardware,Printer,Password Reset,Low,Portal,Chennai,2026-01-24 23:00:00,21,1.34,12,2,2,4.0,8,14,1,3,110,Resolved
+T0577,C889,A14,Hardware,Database,Screen,Low,Email,Pune,2026-01-25 00:00:00,9,7.56,6,2,2,1.0,1,25,3,2,160,Resolved
+T0578,C960,A11,Network,Access,Login,Medium,Email,Pune,2026-01-25 01:00:00,35,5.75,4,0,0,1.0,3,13,3,3,127,Resolved
+T0579,C346,A04,Software,Connectivity,Password Reset,Low,Email,Chennai,2026-01-25 02:00:00,56,2.82,8,0,1,4.0,3,10,3,2,132,Closed
+T0580,C175,A04,Network,Printer,Query Error,Medium,Email,Pune,2026-01-25 03:00:00,44,1.99,4,1,1,4.0,2,24,1,3,182,Closed
+T0581,C253,A05,Security,Access,Password Reset,Medium,Portal,Bangalore,2026-01-25 04:00:00,42,4.45,12,2,1,5.0,5,15,3,3,149,Open
+T0582,C755,A06,Hardware,Application,Password Reset,High,Portal,Chennai,2026-01-25 05:00:00,47,8.53,12,0,2,,3,11,2,1,195,Open
+T0583,C534,A05,Network,Access,Driver Issue,High,Portal,Mumbai,2026-01-25 06:00:00,23,8.79,6,1,1,3.0,3,22,1,4,221,Open
+T0584,C185,A14,Network,Laptop,Password Reset,Low,Phone,Bangalore,2026-01-25 07:00:00,40,unknown,6,0,2,5.0,8,8,1,0,80,Open
+T0585,C796,A07,Software,Laptop,Query Error,Medium,Portal,Pune,2026-01-25 08:00:00,54,7.55,4,2,1,2.0,4,9,3,4,168,Closed
+T0586,C384,A02,Software,Application,Query Error,High,Email,Delhi,2026-01-25 09:00:00,37,2.04,6,0,0,3.0,4,8,2,3,143,Closed
+T0587,C319,A07,Hardware,Connectivity,VPN,Low,Phone,Hyderabad,2026-01-25 10:00:00,17,6.29,8,2,0,5.0,3,8,1,3,198,Open
+T0588,C168,A10,Network,Printer,Password Reset,High,Email,Chennai,2026-01-25 11:00:00,18,7.0,8,0,2,5.0,1,17,3,4,224,Closed
+T0589,C146,A07,Network,Access,Driver Issue,High,Email,Delhi,2026-01-25 12:00:00,37,2.81,6,2,2,1.0,8,20,2,3,79,Closed
+T0590,C193,A01,Software,Laptop,Password Reset,Medium,Portal,Pune,2026-01-25 13:00:00,33,unknown,8,1,0,5.0,1,29,3,2,104,Closed
+T0591,C849,A07,Network,Connectivity,Login,Medium,Portal,Mumbai,2026-01-25 14:00:00,47,2.75,8,2,0,3.0,7,18,3,3,154,Closed
+T0592,C552,A05,Network,Application,Login,High,Email,Hyderabad,2026-01-25 15:00:00,53,3.82,4,1,1,4.0,5,15,1,4,245,Open
+T0593,C303,A03,Network,Database,Driver Issue,High,Email,Delhi,2026-01-25 16:00:00,40,6.59,8,2,0,3.0,4,6,1,4,246,Open
+T0594,C317,A13,Software,Laptop,VPN,medium,Phone,Hyderabad,2026-01-25 17:00:00,48,6.75,12,1,2,2.0,4,26,3,4,90,Closed
+T0595,C573,A03,Hardware,Application,VPN,Low,Portal,Chennai,2026-01-25 18:00:00,14,7.29,12,0,0,5.0,8,18,1,1,222,Resolved
+T0596,C531,A04,Security,Access,Query Error,Medium,Phone,Pune,2026-01-25 19:00:00,35,2.01,4,2,2,5.0,6,28,1,1,123,Open
+T0597,C440,A13,Hardware,Printer,Query Error,High,Phone,Mumbai,2026-01-25 20:00:00,10,8.65,6,0,2,5.0,1,28,2,1,207,Open
+T0598,C650,A12,Security,Laptop,Screen,Low,Phone,Pune,2026-01-25 21:00:00,5,5.8,4,1,1,5.0,8,11,2,1,126,Resolved
+T0599,C711,A02,Network,Laptop,Driver Issue,High,Email,Hyderabad,2026-01-25 22:00:00,11,5.24,6,2,1,1.0,2,15,3,1,134,Open
+T0600,C388,A02,Hardware,Access,Password Reset,Low,Phone,Delhi,2026-01-25 23:00:00,31,9.83,6,2,1,1.0,6,8,3,1,222,Resolved
+T0601,C353,A01,Security,Database,Driver Issue,high,Phone,Chennai,2026-01-26 00:00:00,25,7.66,6,0,1,4.0,9,11,3,1,153,Resolved
+T0602,C833,A05,Software,Connectivity,Screen,Low,Email,Chennai,2026-01-26 01:00:00,32,2.06,6,2,0,5.0,1,20,3,4,222,Closed
+T0603,C456,A04,Software,Printer,Query Error,Low,Portal,Pune,2026-01-26 02:00:00,20,7.81,6,2,1,2.0,6,10,2,0,128,Open
+T0604,C122,A11,Hardware,Laptop,Driver Issue,High,Portal,Delhi,2026-01-26 03:00:00,50,1.86,4,0,0,,8,10,1,1,133,Resolved
+T0605,C861,A10,Hardware,Printer,Driver Issue,Low,Phone,Delhi,2026-01-26 04:00:00,27,1.25,6,2,1,5.0,2,6,2,4,222,Closed
+T0606,C621,A02,Network,Laptop,Query Error,Medium,Email,Hyderabad,2026-01-26 05:00:00,56,4.63,8,0,1,1.0,5,28,3,0,232,Open
+T0607,C857,A03,Hardware,Printer,Screen,High,Portal,Pune,2026-01-26 06:00:00,24,unknown,8,0,2,2.0,6,12,3,1,236,Closed
+T0608,C936,A07,Network,Application,Query Error,Medium,Phone,Pune,2026-01-26 07:00:00,42,2.57,6,0,0,4.0,5,11,2,0,182,Closed
+T0609,C199,A07,Network,Laptop,VPN,High,Phone,Bangalore,2026-01-26 08:00:00,58,7.05,8,0,2,2.0,3,29,2,0,173,Resolved
+T0610,C901,A12,Software,Printer,Password Reset,Low,Email,Pune,2026-01-26 09:00:00,29,2.56,12,0,1,5.0,4,28,3,2,81,Open
+T0611,C279,A04,Software,Connectivity,Query Error,Low,Phone,Chennai,2026-01-26 10:00:00,32,7.52,4,1,0,3.0,7,18,1,3,55,Closed
+T0612,C322,A05,Security,Application,Screen,Low,Portal,Hyderabad,2026-01-26 11:00:00,9,5.55,4,1,1,2.0,4,13,3,2,143,Resolved
+T0613,C861,A05,Software,Application,Login,High,Email,Delhi,2026-01-26 12:00:00,25,7.12,6,0,2,2.0,9,19,2,0,75,Resolved
+T0614,C758,A06,Software,Connectivity,VPN,Medium,Portal,Pune,2026-01-26 13:00:00,22,2.83,6,1,0,1.0,2,29,3,4,86,Closed
+T0615,C541,A14,Hardware,Printer,Login,Medium,Portal,Hyderabad,2026-01-26 14:00:00,51,7.71,12,1,2,5.0,5,26,3,1,62,Closed
+T0616,C707,A09,Software,Access,Query Error,High,Portal,Pune,2026-01-26 15:00:00,10,9.96,6,2,1,2.0,8,22,1,3,142,Resolved
+T0617,C868,A02,Security,Connectivity,VPN,High,Phone,Delhi,2026-01-26 16:00:00,33,6.99,8,0,1,5.0,5,16,3,1,246,Closed
+T0618,C424,A05,Hardware,Printer,Password Reset,Medium,Phone,Mumbai,2026-01-26 17:00:00,23,5.44,12,1,1,1.0,8,27,3,4,74,Closed
+T0619,C615,A12,Security,Connectivity,Query Error,Medium,Portal,Delhi,2026-01-26 18:00:00,37,9.31,8,2,0,5.0,8,23,3,3,190,Open
+T0620,C115,A03,Software,Connectivity,Password Reset,Medium,Portal,Delhi,2026-01-26 19:00:00,5,1.14,4,2,2,1.0,9,17,2,2,69,Resolved
+T0621,C891,A04,Security,Laptop,Driver Issue,Medium,Email,Delhi,2026-01-26 20:00:00,49,7.57,8,0,2,1.0,6,11,2,0,121,Closed
+T0622,C435,A10,Hardware,Printer,Login,high,Email,Pune,2026-01-26 21:00:00,7,9.0,4,0,1,4.0,4,29,1,4,237,Resolved
+T0623,C858,A06,Network,Access,VPN,High,Phone,Bangalore,2026-01-26 22:00:00,46,1.56,8,2,2,,3,14,3,0,198,Open
+T0624,C357,A12,Security,Laptop,Password Reset,Low,Phone,Delhi,2026-01-26 23:00:00,25,5.05,4,0,0,3.0,5,14,2,0,164,Resolved
+T0625,C596,A08,Security,Connectivity,Screen,Medium,Email,Chennai,2026-01-27 00:00:00,39,2.84,6,0,1,4.0,6,6,1,1,176,Resolved
+T0626,C995,A01,Hardware,Database,Password Reset,Low,Portal,Chennai,2026-01-27 01:00:00,45,6.1,8,2,1,1.0,3,18,3,4,238,Resolved
+T0627,C259,A10,Hardware,Connectivity,Screen,High,Phone,Hyderabad,2026-01-27 02:00:00,44,6.85,4,2,1,3.0,2,17,1,0,75,Open
+T0628,C574,A14,Security,Connectivity,Query Error,High,Portal,Bangalore,2026-01-27 03:00:00,7,3.72,8,0,0,2.0,7,26,1,2,103,Open
+T0629,C951,A08,Software,Printer,VPN,Low,Email,Hyderabad,2026-01-27 04:00:00,29,5.14,12,1,1,2.0,5,10,1,3,219,Resolved
+T0630,C763,A11,Security,Printer,Password Reset,Medium,Phone,Chennai,2026-01-27 05:00:00,49,3.51,6,0,1,4.0,9,13,1,4,188,Resolved
+T0631,C789,A14,Hardware,Laptop,Password Reset,Medium,Phone,Chennai,2026-01-27 06:00:00,42,4.32,4,1,1,,3,17,1,1,214,Open
+T0632,C774,A07,Network,Access,VPN,Medium,Email,Mumbai,2026-01-27 07:00:00,49,2.44,12,2,1,5.0,8,13,1,4,174,Closed
+T0633,C479,A01,Network,Laptop,Password Reset,Medium,Phone,Delhi,2026-01-27 08:00:00,59,8.97,8,1,2,3.0,6,17,1,1,60,Open
+T0634,C644,A02,Software,Application,Screen,Low,Email,Chennai,2026-01-27 09:00:00,24,1.09,12,2,1,4.0,4,9,3,3,76,Resolved
+T0635,C790,A03,Security,Connectivity,Password Reset,Low,Phone,Pune,2026-01-27 10:00:00,56,8.94,8,0,0,5.0,9,18,3,2,143,Closed
+T0636,C526,A01,Network,Database,Login,High,Email,Pune,2026-01-27 11:00:00,48,6.15,6,0,1,5.0,5,9,1,0,132,Closed
+T0637,C712,A14,Security,Connectivity,Query Error,Medium,Phone,Hyderabad,2026-01-27 12:00:00,49,3.98,12,2,1,2.0,6,13,3,4,83,Closed
+T0638,C367,A09,Hardware,Connectivity,Driver Issue,Medium,Portal,Hyderabad,2026-01-27 13:00:00,38,7.51,6,2,2,3.0,9,12,1,1,87,Open
+T0639,C934,A08,Network,Laptop,Screen,Medium,Portal,Delhi,2026-01-27 14:00:00,25,5.57,4,2,1,5.0,7,11,3,3,238,Open
+T0640,C676,A02,Software,Database,Login,Low,Portal,Delhi,2026-01-27 15:00:00,59,5.49,8,0,2,4.0,5,12,2,0,136,Open
+T0641,C516,A13,Hardware,Database,Query Error,Medium,Phone,Mumbai,2026-01-27 16:00:00,52,1.99,8,0,0,2.0,2,26,1,3,230,Open
+T0642,C267,A09,Software,Database,VPN,Low,Phone,Bangalore,2026-01-27 17:00:00,27,4.51,6,1,2,5.0,4,7,2,2,114,Resolved
+T0643,C941,A07,Hardware,Laptop,Screen,Medium,Portal,Hyderabad,2026-01-27 18:00:00,10,3.17,6,2,1,3.0,2,27,1,0,180,Closed
+T0644,C142,A09,Network,Connectivity,Driver Issue,Medium,Portal,Delhi,2026-01-27 19:00:00,55,1.14,4,1,0,2.0,3,28,1,0,244,Resolved
+T0645,C655,A06,Software,Laptop,Query Error,High,Email,Hyderabad,2026-01-27 20:00:00,57,4.24,12,0,1,3.0,3,19,2,0,205,Open
+T0646,C384,A06,Software,Printer,Driver Issue,medium,Email,Delhi,2026-01-27 21:00:00,17,1.81,8,1,2,3.0,4,12,2,1,191,Open
+T0647,C496,A11,Hardware,Printer,VPN,Medium,Email,Chennai,2026-01-27 22:00:00,53,3.31,8,1,0,3.0,6,5,2,0,101,Resolved
+T0648,C111,A14,Software,Laptop,VPN,High,Portal,Hyderabad,2026-01-27 23:00:00,27,1.83,4,0,0,2.0,3,11,1,3,79,Closed
+T0649,C706,A04,Hardware,Database,Screen,Low,Portal,Chennai,2026-01-28 00:00:00,13,1.91,4,0,2,5.0,1,23,2,1,235,Closed
+T0650,C401,A10,Hardware,Connectivity,Password Reset,Low,Portal,Hyderabad,2026-01-28 01:00:00,21,2.79,6,2,2,1.0,1,6,2,0,231,Open
+T0651,C997,A10,Hardware,Laptop,VPN,Medium,Email,Bangalore,2026-01-28 02:00:00,6,10.0,6,1,0,,9,18,3,3,246,Open
+T0652,C352,A13,Hardware,Laptop,Query Error,Low,Phone,Mumbai,2026-01-28 03:00:00,23,1.02,12,0,0,,9,22,3,3,162,Open
+T0653,C598,A13,Network,Laptop,Password Reset,Medium,Portal,Pune,2026-01-28 04:00:00,23,6.75,4,0,2,1.0,5,19,2,4,192,Open
+T0654,C853,A02,Hardware,Application,Login,High,Phone,Pune,2026-01-28 05:00:00,11,2.27,12,1,1,1.0,9,18,2,3,215,Closed
+T0655,C134,A07,Security,Printer,Driver Issue,High,Phone,Pune,2026-01-28 06:00:00,58,9.29,4,0,0,1.0,7,28,2,2,191,Resolved
+T0656,C826,A05,Software,Database,Password Reset,Medium,Phone,Chennai,2026-01-28 07:00:00,46,1.84,8,2,2,,9,29,2,0,234,Closed
+T0657,C948,A11,Security,Access,Driver Issue,High,Email,Delhi,2026-01-28 08:00:00,46,9.6,4,2,1,2.0,7,23,3,0,236,Resolved
+T0658,C189,A06,Network,Database,Password Reset,High,Phone,Pune,2026-01-28 09:00:00,24,6.5,4,1,0,4.0,9,23,1,0,57,Open
+T0659,C875,A02,Security,Access,Login,Medium,Portal,Bangalore,2026-01-28 10:00:00,13,1.01,8,2,0,1.0,2,26,2,3,121,Open
+T0660,C704,A05,Software,Application,VPN,Medium,Email,Pune,2026-01-28 11:00:00,21,9.05,4,0,2,,8,21,2,3,196,Resolved
+T0661,C701,A10,Security,Laptop,Login,High,Portal,Hyderabad,2026-01-28 12:00:00,31,5.7,12,0,1,4.0,7,26,3,0,81,Open
+T0662,C517,A04,Network,Application,VPN,Low,Portal,Chennai,2026-01-28 13:00:00,51,3.36,6,0,0,2.0,6,23,2,1,144,Closed
+T0663,C214,A09,Hardware,Application,VPN,Low,Email,Hyderabad,2026-01-28 14:00:00,6,7.91,6,0,1,3.0,5,20,2,1,206,Open
+T0664,C716,A06,Security,Connectivity,Driver Issue,Medium,Portal,Hyderabad,2026-01-28 15:00:00,40,9.34,12,1,1,4.0,4,24,3,2,90,Open
+T0665,C295,A02,Network,Printer,Query Error,Medium,Portal,Hyderabad,2026-01-28 16:00:00,23,5.35,8,2,0,,7,29,2,4,124,Open
+T0666,C925,A01,Network,Access,Login,Low,Email,Mumbai,2026-01-28 17:00:00,21,3.84,4,2,1,1.0,3,23,2,2,94,Open
+T0667,C600,A05,Software,Laptop,Password Reset,High,Portal,Mumbai,2026-01-28 18:00:00,9,8.1,12,0,0,1.0,8,5,3,0,62,Closed
+T0668,C725,A09,Software,Access,Login,Low,Phone,Delhi,2026-01-28 19:00:00,43,7.14,6,1,1,1.0,2,23,1,0,204,Resolved
+T0669,C592,A06,Security,Database,Driver Issue,Low,Portal,Chennai,2026-01-28 20:00:00,22,9.0,6,0,0,5.0,1,11,2,0,68,Open
+T0670,C174,A10,Hardware,Access,VPN,Low,Phone,Bangalore,2026-01-28 21:00:00,57,7.23,12,0,2,4.0,2,27,2,4,203,Open
+T0671,C512,A12,Network,Database,Driver Issue,Low,Portal,Bangalore,2026-01-28 22:00:00,58,3.19,6,1,0,1.0,9,15,1,3,102,Closed
+T0672,C475,A07,Security,Printer,Screen,Medium,Email,Bangalore,2026-01-28 23:00:00,11,9.38,12,1,0,,5,9,3,4,228,Closed
+T0673,C519,A05,Network,Database,Screen,Medium,Email,Hyderabad,2026-01-29 00:00:00,21,1.94,6,0,0,5.0,8,21,1,2,214,Closed
+T0674,C828,A10,Network,Access,Password Reset,High,Portal,Mumbai,2026-01-29 01:00:00,43,3.41,12,2,1,,3,15,2,3,186,Open
+T0675,C376,A06,Hardware,Access,Driver Issue,High,Email,Chennai,2026-01-29 02:00:00,40,5.68,4,0,2,4.0,7,28,1,3,229,Resolved
+T0676,C860,A05,Hardware,Database,Password Reset,High,Portal,Hyderabad,2026-01-29 03:00:00,44,6.09,4,2,1,,2,12,3,2,231,Closed
+T0677,C775,A11,Security,Application,Password Reset,High,Email,Mumbai,2026-01-29 04:00:00,49,1.14,4,2,1,2.0,8,14,2,3,52,Closed
+T0678,C493,A09,Hardware,Printer,Screen,Low,Phone,Mumbai,2026-01-29 05:00:00,8,8.03,4,1,0,3.0,7,16,3,1,145,Closed
+T0679,C968,A06,Hardware,Connectivity,Password Reset,Medium,Portal,Pune,2026-01-29 06:00:00,42,4.25,6,1,1,3.0,5,14,3,2,246,Resolved
+T0680,C556,A11,Security,Laptop,Screen,Medium,Phone,Pune,2026-01-29 07:00:00,29,4.66,8,0,0,5.0,4,17,1,2,185,Open
+T0681,C291,A08,Hardware,Access,VPN,High,Phone,Chennai,2026-01-29 08:00:00,9,8.28,12,2,2,4.0,1,22,1,1,63,Open
+T0682,C838,A02,Software,Laptop,Driver Issue,High,Portal,Chennai,2026-01-29 09:00:00,34,4.41,8,2,1,1.0,5,14,3,4,169,Open
+T0683,C788,A12,Network,Connectivity,Password Reset,Low,Phone,Chennai,2026-01-29 10:00:00,16,1.43,6,0,1,2.0,9,23,3,4,180,Closed
+T0684,C198,A13,Network,Laptop,Screen,Low,Portal,Hyderabad,2026-01-29 11:00:00,8,unknown,6,0,1,2.0,4,24,2,4,201,Open
+T0685,C647,A09,Network,Connectivity,Login,High,Phone,Delhi,2026-01-29 12:00:00,28,9.6,8,0,0,2.0,9,21,3,3,62,Closed
+T0686,C195,A05,Network,Database,Password Reset,Medium,Portal,Chennai,2026-01-29 13:00:00,33,1.63,8,1,0,2.0,2,24,3,1,220,Resolved
+T0687,C763,A07,Security,Application,Query Error,Medium,Portal,Pune,2026-01-29 14:00:00,13,4.19,6,0,1,1.0,4,20,1,2,206,Resolved
+T0688,C762,A10,Network,Access,VPN,Medium,Email,Delhi,2026-01-29 15:00:00,8,5.53,6,0,1,1.0,9,9,3,2,121,Open
+T0689,C289,A13,Network,Connectivity,VPN,High,Portal,Hyderabad,2026-01-29 16:00:00,55,5.44,12,2,2,5.0,4,7,3,2,228,Closed
+T0690,C835,A01,Network,Laptop,Login,Medium,Portal,Delhi,2026-01-29 17:00:00,28,1.04,4,0,2,4.0,5,19,1,3,219,Closed
+T0691,C136,A10,Network,Access,Screen,Low,Phone,Bangalore,2026-01-29 18:00:00,18,5.51,4,2,2,1.0,8,6,2,3,208,Open
+T0692,C879,A05,Software,Application,Password Reset,Low,Portal,Delhi,2026-01-29 19:00:00,9,4.45,12,2,2,5.0,1,17,1,4,240,Resolved
+T0693,C468,A12,Network,Database,Screen,High,Email,Chennai,2026-01-29 20:00:00,22,9.75,8,1,2,3.0,1,26,1,3,203,Resolved
+T0694,C794,A14,Software,Access,VPN,Low,Phone,Hyderabad,2026-01-29 21:00:00,46,2.43,6,0,0,4.0,9,12,3,4,195,Resolved
+T0695,C624,A10,Security,Connectivity,Screen,High,Phone,Chennai,2026-01-29 22:00:00,23,4.19,8,0,2,1.0,9,27,3,4,131,Resolved
+T0696,C378,A14,Hardware,Application,VPN,Medium,Email,Pune,2026-01-29 23:00:00,16,4.78,4,2,2,3.0,4,21,2,2,106,Resolved
+T0697,C316,A02,Network,Laptop,Screen,Medium,Phone,Bangalore,2026-01-30 00:00:00,22,4.52,4,1,1,5.0,2,8,3,3,56,Open
+T0698,C966,A12,Hardware,Application,Login,Medium,Phone,Pune,2026-01-30 01:00:00,21,6.99,8,1,0,1.0,9,23,2,4,161,Open
+T0699,C972,A06,Hardware,Application,Driver Issue,Low,Phone,Chennai,2026-01-30 02:00:00,34,2.94,4,0,2,1.0,4,26,2,1,97,Open
+T0700,C897,A11,Security,Printer,Login,High,Phone,Chennai,2026-01-30 03:00:00,28,2.99,6,2,2,3.0,6,29,2,1,129,Resolved
+T0701,C372,A01,Hardware,Application,Login,Medium,Email,Chennai,2026-01-30 04:00:00,15,7.56,12,0,2,1.0,1,13,2,3,168,Resolved
+T0702,C980,A03,Software,Application,Driver Issue,High,Email,Mumbai,2026-01-30 05:00:00,39,5.5,8,0,1,2.0,9,27,3,2,169,Open
+T0703,C161,A05,Hardware,Access,Driver Issue,Medium,Phone,Bangalore,2026-01-30 06:00:00,27,4.74,6,0,1,1.0,5,19,1,2,109,Open
+T0704,C695,A04,Hardware,Laptop,Password Reset,Low,Phone,Chennai,2026-01-30 07:00:00,21,2.52,6,0,1,4.0,3,13,1,4,82,Resolved
+T0705,C979,A03,Hardware,Access,Password Reset,Low,Email,Chennai,2026-01-30 08:00:00,5,2.69,4,2,2,3.0,4,28,3,3,164,Closed
+T0706,C828,A10,Network,Access,Login,high,Email,Pune,2026-01-30 09:00:00,19,1.09,6,1,1,4.0,1,25,3,1,177,Open
+T0707,C441,A13,Network,Connectivity,Login,Low,Email,Pune,2026-01-30 10:00:00,36,1.82,8,0,2,5.0,9,13,2,4,52,Resolved
+T0708,C496,A05,Software,Access,VPN,Low,Phone,Chennai,2026-01-30 11:00:00,13,6.01,6,0,0,4.0,8,18,3,4,53,Resolved
+T0709,C798,A11,Software,Printer,VPN,High,Phone,Hyderabad,2026-01-30 12:00:00,19,9.03,12,0,2,2.0,4,27,1,0,149,Open
+T0710,C118,A08,Network,Printer,Password Reset,Medium,Portal,Mumbai,2026-01-30 13:00:00,32,3.58,6,0,1,2.0,2,25,3,3,53,Closed
+T0711,C276,A11,Software,Connectivity,Query Error,Low,Email,Pune,2026-01-30 14:00:00,28,3.95,6,1,0,4.0,9,20,3,4,91,Resolved
+T0712,C711,A04,Network,Database,Query Error,High,Phone,Hyderabad,2026-01-30 15:00:00,39,2.04,12,1,2,5.0,4,28,2,1,58,Open
+T0713,C495,A01,Security,Laptop,Password Reset,Low,Email,Mumbai,2026-01-30 16:00:00,26,4.5,6,1,0,1.0,9,27,2,0,100,Resolved
+T0714,C544,A11,Hardware,Laptop,VPN,Low,Phone,Chennai,2026-01-30 17:00:00,31,1.33,6,1,0,,3,29,2,1,194,Resolved
+T0715,C332,A07,Hardware,Access,VPN,Low,Email,Bangalore,2026-01-30 18:00:00,23,9.26,4,0,0,4.0,7,21,2,2,194,Resolved
+T0716,C175,A08,Software,Access,Query Error,Low,Phone,Delhi,2026-01-30 19:00:00,49,7.06,8,2,2,4.0,7,17,1,0,146,Resolved
+T0717,C364,A03,Network,Database,Screen,High,Portal,Delhi,2026-01-30 20:00:00,16,9.92,4,1,1,4.0,4,13,3,0,69,Closed
+T0718,C554,A06,Network,Access,Screen,High,Portal,Chennai,2026-01-30 21:00:00,24,8.95,8,1,2,1.0,2,19,3,4,191,Open
+T0719,C895,A02,Software,Laptop,VPN,High,Email,Pune,2026-01-30 22:00:00,5,5.26,12,0,1,3.0,9,11,2,2,71,Open
+T0720,C817,A07,Network,Application,Screen,Low,Phone,Hyderabad,2026-01-30 23:00:00,25,5.68,12,0,2,5.0,4,5,1,4,229,Open
+T0721,C834,A08,Security,Printer,Driver Issue,Low,Phone,Bangalore,2026-01-31 00:00:00,53,2.72,12,0,2,3.0,8,5,1,3,76,Open
+T0722,C483,A06,Hardware,Application,Password Reset,low,Email,Mumbai,2026-01-31 01:00:00,49,5.16,8,0,2,5.0,2,9,3,1,92,Open
+T0723,C663,A06,Software,Application,Password Reset,High,Phone,Chennai,2026-01-31 02:00:00,5,9.13,8,2,1,5.0,8,28,2,1,180,Closed
+T0724,C950,A05,Software,Laptop,VPN,low,Email,Bangalore,2026-01-31 03:00:00,14,1.46,8,2,2,4.0,5,13,3,4,143,Resolved
+T0725,C605,A08,Network,Application,Login,Medium,Phone,Bangalore,2026-01-31 04:00:00,51,8.77,12,1,0,2.0,7,16,3,1,57,Resolved
+T0726,C466,A01,Software,Database,Query Error,Low,Email,Pune,2026-01-31 05:00:00,36,4.07,8,2,2,4.0,7,10,1,1,135,Open
+T0727,C243,A10,Security,Connectivity,VPN,Medium,Phone,Mumbai,2026-01-31 06:00:00,43,9.1,6,1,0,1.0,9,17,1,3,138,Resolved
+T0728,C984,A04,Network,Access,Screen,Low,Email,Bangalore,2026-01-31 07:00:00,26,9.47,4,1,1,5.0,3,12,3,2,187,Resolved
+T0729,C168,A04,Network,Connectivity,Query Error,High,Phone,Pune,2026-01-31 08:00:00,22,7.04,12,2,1,,4,19,2,0,162,Resolved
+T0730,C198,A03,Network,Printer,Login,Low,Portal,Hyderabad,2026-01-31 09:00:00,52,6.98,4,1,2,5.0,4,10,2,4,206,Open
+T0731,C495,A03,Network,Access,Screen,Medium,Phone,Pune,2026-01-31 10:00:00,50,5.07,6,0,2,5.0,5,10,3,4,217,Open
+T0732,C124,A04,Security,Application,Driver Issue,Medium,Email,Hyderabad,2026-01-31 11:00:00,36,8.52,8,1,2,4.0,6,8,3,3,242,Closed
+T0733,C990,A11,Network,Printer,Screen,Low,Portal,Hyderabad,2026-01-31 12:00:00,31,9.65,4,0,0,2.0,3,15,2,3,70,Open
+T0734,C568,A01,Software,Access,Driver Issue,medium,Phone,Bangalore,2026-01-31 13:00:00,32,7.98,6,2,1,2.0,4,25,2,0,201,Closed
+T0735,C583,A14,Security,Database,Query Error,Medium,Portal,Pune,2026-01-31 14:00:00,22,6.6,6,2,0,5.0,3,22,2,2,237,Open
+T0736,C664,A11,Hardware,Database,Driver Issue,High,Phone,Hyderabad,2026-01-31 15:00:00,43,6.46,4,1,0,2.0,2,7,3,4,203,Resolved
+T0737,C250,A13,Hardware,Database,Query Error,Low,Portal,Mumbai,2026-01-31 16:00:00,53,8.65,12,0,2,2.0,9,7,1,3,58,Closed
+T0738,C243,A11,Software,Database,Query Error,Low,Email,Bangalore,2026-01-31 17:00:00,33,5.87,4,1,2,4.0,1,16,2,4,197,Closed
+T0739,C668,A02,Software,Application,Query Error,Low,Phone,Pune,2026-01-31 18:00:00,22,8.23,12,2,0,3.0,2,25,2,1,233,Closed
+T0740,C138,A09,Security,Connectivity,Query Error,Medium,Phone,Pune,2026-01-31 19:00:00,48,5.58,8,1,0,1.0,8,25,2,4,85,Open
+T0741,C208,A10,Hardware,Access,Query Error,Low,Email,Delhi,2026-01-31 20:00:00,12,unknown,12,1,2,3.0,7,10,3,2,85,Closed
+T0742,C792,A02,Hardware,Application,Screen,Low,Portal,Pune,2026-01-31 21:00:00,58,4.46,8,0,2,2.0,1,25,1,2,122,Open
+T0743,C141,A05,Hardware,Database,Query Error,High,Email,Bangalore,2026-01-31 22:00:00,35,5.0,4,2,0,5.0,5,10,1,4,199,Closed
+T0744,C285,A09,Hardware,Connectivity,Screen,High,Email,Mumbai,2026-01-31 23:00:00,38,2.27,8,1,2,1.0,6,12,2,1,50,Open
+T0745,C497,A09,Hardware,Printer,Query Error,High,Portal,Pune,2026-02-01 00:00:00,11,1.92,6,0,2,1.0,5,19,3,2,118,Closed
+T0746,C322,A08,Network,Printer,Driver Issue,Medium,Email,Delhi,2026-02-01 01:00:00,40,5.82,8,1,0,5.0,4,22,1,3,86,Resolved
+T0747,C733,A01,Software,Printer,Query Error,Low,Phone,Bangalore,2026-02-01 02:00:00,22,1.77,12,0,0,1.0,1,24,3,4,121,Resolved
+T0748,C232,A01,Network,Database,Login,High,Phone,Hyderabad,2026-02-01 03:00:00,42,3.73,12,0,1,5.0,7,20,1,1,156,Closed
+T0749,C262,A09,Hardware,Printer,Query Error,High,Phone,Chennai,2026-02-01 04:00:00,13,7.7,12,1,0,1.0,9,10,2,3,145,Open
+T0750,C314,A13,Security,Laptop,Query Error,High,Email,Chennai,2026-02-01 05:00:00,13,9.68,8,2,2,3.0,6,25,3,4,190,Open
+T0751,C832,A11,Security,Access,Driver Issue,Low,Phone,Hyderabad,2026-02-01 06:00:00,50,7.46,12,2,0,1.0,3,21,2,1,133,Open
+T0752,C334,A08,Hardware,Access,Password Reset,Low,Phone,Pune,2026-02-01 07:00:00,12,9.93,12,0,0,4.0,4,13,1,3,92,Resolved
+T0753,C942,A10,Hardware,Database,Driver Issue,Low,Phone,Chennai,2026-02-01 08:00:00,55,7.29,6,2,0,5.0,5,23,1,2,86,Resolved
+T0754,C757,A09,Security,Laptop,Login,Medium,Phone,Chennai,2026-02-01 09:00:00,39,3.64,8,0,1,1.0,1,22,2,4,74,Resolved
+T0755,C850,A07,Network,Application,Password Reset,Medium,Phone,Hyderabad,2026-02-01 10:00:00,22,7.05,6,2,1,,5,29,1,4,198,Open
+T0756,C687,A03,Network,Application,VPN,High,Phone,Pune,2026-02-01 11:00:00,9,7.32,12,1,2,4.0,1,27,2,2,218,Open
+T0757,C108,A03,Hardware,Printer,VPN,Low,Email,Pune,2026-02-01 12:00:00,18,4.35,12,2,1,1.0,9,9,2,0,122,Open
+T0758,C173,A02,Network,Connectivity,Login,High,Phone,Hyderabad,2026-02-01 13:00:00,32,unknown,12,0,0,1.0,7,10,2,3,219,Closed
+T0759,C591,A05,Security,Application,Driver Issue,Low,Phone,Pune,2026-02-01 14:00:00,34,7.33,8,0,1,4.0,3,16,1,2,91,Closed
+T0760,C352,A12,Network,Connectivity,Screen,Low,Portal,Pune,2026-02-01 15:00:00,8,1.2,4,2,0,4.0,9,15,3,4,51,Closed
+T0761,C329,A12,Hardware,Access,Login,Low,Email,Bangalore,2026-02-01 16:00:00,43,6.68,12,1,1,4.0,2,20,2,3,245,Resolved
+T0762,C618,A03,Security,Connectivity,Password Reset,Medium,Email,Bangalore,2026-02-01 17:00:00,24,2.47,12,0,1,5.0,7,24,3,3,185,Resolved
+T0763,C273,A14,Network,Access,Password Reset,Medium,Email,Hyderabad,2026-02-01 18:00:00,29,6.09,12,0,1,4.0,9,21,1,0,145,Open
+T0764,C752,A06,Software,Laptop,Query Error,Low,Email,Mumbai,2026-02-01 19:00:00,32,5.54,12,0,0,5.0,6,24,1,4,110,Closed
+T0765,C267,A02,Security,Laptop,VPN,High,Phone,Chennai,2026-02-01 20:00:00,16,1.12,8,0,1,3.0,5,13,3,1,63,Open
+T0766,C269,A12,Security,Database,Password Reset,Low,Phone,Bangalore,2026-02-01 21:00:00,6,4.27,4,0,0,1.0,7,5,2,0,162,Closed
+T0767,C492,A03,Software,Database,Login,Low,Portal,Chennai,2026-02-01 22:00:00,47,6.41,4,1,0,1.0,6,7,1,0,126,Closed
+T0768,C894,A05,Software,Printer,Password Reset,High,Portal,Delhi,2026-02-01 23:00:00,18,8.64,4,2,2,2.0,5,25,2,1,70,Open
+T0769,C733,A12,Security,Application,Login,Low,Email,Hyderabad,2026-02-02 00:00:00,26,9.0,12,1,1,3.0,2,27,2,1,201,Open
+T0770,C293,A11,Software,Printer,Screen,High,Portal,Mumbai,2026-02-02 01:00:00,35,5.35,12,1,2,4.0,8,13,3,0,227,Closed
+T0771,C616,A11,Hardware,Access,Query Error,Medium,Portal,Delhi,2026-02-02 02:00:00,27,7.56,4,0,2,4.0,7,26,1,3,222,Closed
+T0772,C128,A01,Hardware,Printer,VPN,medium,Email,Delhi,2026-02-02 03:00:00,52,3.85,4,1,0,3.0,6,23,3,2,241,Resolved
+T0773,C264,A13,Hardware,Connectivity,Password Reset,High,Email,Pune,2026-02-02 04:00:00,24,4.08,12,0,1,4.0,5,17,1,2,113,Open
+T0774,C521,A01,Security,Access,Login,Medium,Portal,Delhi,2026-02-02 05:00:00,42,2.75,12,1,0,2.0,5,27,3,0,203,Open
+T0775,C438,A10,Software,Database,Driver Issue,Medium,Phone,Hyderabad,2026-02-02 06:00:00,59,6.06,6,0,0,5.0,9,18,1,3,209,Open
+T0776,C747,A09,Software,Laptop,VPN,High,Portal,Bangalore,2026-02-02 07:00:00,8,3.83,6,0,1,1.0,1,24,1,1,106,Open
+T0777,C595,A07,Network,Database,Screen,Medium,Portal,Hyderabad,2026-02-02 08:00:00,19,1.76,6,1,0,3.0,9,23,1,0,168,Closed
+T0778,C464,A01,Network,Application,Login,Low,Phone,Bangalore,2026-02-02 09:00:00,28,7.17,4,1,1,1.0,6,27,2,4,230,Resolved
+T0779,C932,A12,Software,Access,Query Error,Low,Phone,Delhi,2026-02-02 10:00:00,29,7.37,8,2,1,5.0,4,11,2,3,210,Open
+T0780,C441,A14,Software,Access,Query Error,High,Email,Delhi,2026-02-02 11:00:00,5,4.24,12,2,0,3.0,7,8,3,4,101,Closed
+T0781,C599,A08,Software,Connectivity,Screen,Medium,Email,Mumbai,2026-02-02 12:00:00,11,1.69,6,2,0,5.0,9,16,3,4,144,Closed
+T0782,C756,A03,Security,Application,Screen,Low,Portal,Bangalore,2026-02-02 13:00:00,35,4.84,8,1,2,4.0,5,27,1,0,195,Closed
+T0783,C610,A08,Software,Laptop,Query Error,Low,Phone,Delhi,2026-02-02 14:00:00,16,4.98,12,1,0,4.0,5,18,1,3,212,Closed
+T0784,C426,A05,Network,Access,Password Reset,Medium,Email,Pune,2026-02-02 15:00:00,46,7.02,8,0,1,4.0,8,6,2,4,189,Closed
+T0785,C316,A01,Security,Access,Password Reset,Medium,Portal,Chennai,2026-02-02 16:00:00,9,3.84,4,2,2,5.0,7,5,2,3,228,Open
+T0786,C400,A07,Software,Connectivity,Login,Low,Phone,Mumbai,2026-02-02 17:00:00,48,7.14,4,0,1,5.0,8,22,2,2,138,Open
+T0787,C231,A05,Network,Printer,Driver Issue,Low,Portal,Hyderabad,2026-02-02 18:00:00,54,8.84,4,0,2,5.0,2,24,3,4,59,Resolved
+T0788,C903,A06,Security,Laptop,Login,High,Email,Mumbai,2026-02-02 19:00:00,46,3.14,6,0,0,1.0,9,12,2,4,101,Open
+T0789,C169,A06,Software,Database,Driver Issue,High,Email,Chennai,2026-02-02 20:00:00,42,9.81,12,0,0,5.0,3,7,3,3,83,Closed
+T0790,C351,A08,Software,Application,Screen,Low,Phone,Bangalore,2026-02-02 21:00:00,16,4.48,4,2,0,4.0,6,10,2,2,164,Resolved
+T0791,C514,A09,Software,Access,VPN,High,Portal,Hyderabad,2026-02-02 22:00:00,43,3.41,6,0,1,2.0,6,26,2,4,244,Closed
+T0792,C886,A02,Security,Access,Login,Low,Phone,Hyderabad,2026-02-02 23:00:00,22,4.79,6,1,2,,2,17,1,0,216,Closed
+T0793,C544,A09,Network,Database,Login,Low,Email,Bangalore,2026-02-03 00:00:00,6,1.85,6,1,1,2.0,7,13,3,3,185,Open
+T0794,C975,A12,Network,Laptop,Driver Issue,High,Email,Mumbai,2026-02-03 01:00:00,14,2.13,6,1,2,4.0,9,13,2,3,174,Closed
+T0795,C281,A11,Hardware,Printer,Screen,High,Portal,Delhi,2026-02-03 02:00:00,19,4.73,4,2,0,5.0,1,24,1,4,206,Open
+T0796,C266,A10,Software,Access,Screen,Medium,Portal,Mumbai,2026-02-03 03:00:00,34,7.86,6,0,1,1.0,8,13,3,2,199,Closed
+T0797,C190,A09,Hardware,Laptop,Driver Issue,Medium,Portal,Chennai,2026-02-03 04:00:00,48,9.1,4,2,0,1.0,2,19,3,4,247,Resolved
+T0798,C813,A13,Hardware,Database,Screen,Medium,Phone,Pune,2026-02-03 05:00:00,21,6.98,4,0,1,2.0,1,17,2,1,238,Closed
+T0799,C957,A10,Network,Connectivity,Query Error,Low,Portal,Delhi,2026-02-03 06:00:00,8,1.95,6,2,0,1.0,8,26,3,4,92,Open
+T0800,C630,A10,Security,Printer,Password Reset,High,Portal,Mumbai,2026-02-03 07:00:00,11,7.05,4,2,1,1.0,2,20,1,1,226,Closed
+T0801,C138,A07,Security,Application,Query Error,Low,Email,Pune,2026-02-03 08:00:00,45,6.72,12,0,1,1.0,6,6,1,0,78,Open
+T0802,C225,A01,Network,Access,VPN,High,Email,Pune,2026-02-03 09:00:00,35,8.25,12,2,2,4.0,6,18,3,3,155,Open
+T0803,C550,A07,Security,Laptop,Login,Low,Portal,Bangalore,2026-02-03 10:00:00,55,8.43,8,0,0,1.0,5,10,1,3,169,Resolved
+T0804,C272,A10,Hardware,Connectivity,VPN,Medium,Portal,Chennai,2026-02-03 11:00:00,59,8.81,12,1,2,3.0,8,6,3,2,130,Open
+T0805,C752,A05,Software,Application,Login,Medium,Email,Chennai,2026-02-03 12:00:00,43,4.73,4,1,2,5.0,3,12,1,4,80,Resolved
+T0806,C853,A06,Network,Laptop,Password Reset,Medium,Portal,Chennai,2026-02-03 13:00:00,59,7.28,4,1,0,1.0,4,8,3,0,230,Resolved
+T0807,C319,A10,Software,Laptop,Screen,Low,Phone,Delhi,2026-02-03 14:00:00,38,3.41,12,2,1,1.0,7,25,3,1,211,Closed
+T0808,C737,A07,Security,Application,Query Error,High,Phone,Hyderabad,2026-02-03 15:00:00,10,9.99,6,1,2,1.0,7,28,3,2,177,Resolved
+T0809,C157,A14,Software,Connectivity,Driver Issue,High,Phone,Delhi,2026-02-03 16:00:00,54,2.58,6,0,0,3.0,8,18,1,0,87,Open
+T0810,C759,A05,Security,Database,Query Error,Medium,Portal,Mumbai,2026-02-03 17:00:00,42,1.09,4,1,1,1.0,2,15,3,0,234,Open
+T0811,C575,A07,Security,Connectivity,Password Reset,Medium,Email,Pune,2026-02-03 18:00:00,49,2.34,6,1,2,1.0,2,28,3,1,150,Resolved
+T0812,C555,A09,Hardware,Printer,VPN,Medium,Portal,Pune,2026-02-03 19:00:00,55,7.98,8,2,2,5.0,4,18,2,1,181,Closed
+T0813,C928,A03,Security,Access,Driver Issue,Medium,Portal,Hyderabad,2026-02-03 20:00:00,38,5.02,8,0,2,3.0,9,16,2,3,179,Resolved
+T0814,C994,A08,Hardware,Application,Screen,High,Email,Mumbai,2026-02-03 21:00:00,48,unknown,12,2,1,3.0,9,20,3,4,61,Resolved
+T0815,C460,A02,Hardware,Database,Password Reset,Low,Email,Hyderabad,2026-02-03 22:00:00,19,9.6,12,2,2,1.0,4,10,2,2,84,Open
+T0816,C100,A11,Hardware,Application,Driver Issue,Low,Email,Pune,2026-02-03 23:00:00,18,unknown,6,0,1,3.0,9,24,3,4,247,Closed
+T0817,C486,A07,Network,Application,Password Reset,Low,Phone,Delhi,2026-02-04 00:00:00,10,3.8,4,2,2,2.0,3,5,2,2,159,Closed
+T0818,C447,A13,Network,Connectivity,Password Reset,Low,Portal,Chennai,2026-02-04 01:00:00,54,2.88,12,0,0,3.0,5,16,1,0,121,Closed
+T0819,C289,A02,Security,Access,Screen,Medium,Email,Pune,2026-02-04 02:00:00,41,8.64,8,1,2,3.0,9,11,1,1,198,Closed
+T0820,C604,A14,Hardware,Printer,Login,Medium,Portal,Bangalore,2026-02-04 03:00:00,54,9.15,12,0,0,3.0,6,12,3,1,159,Open
+T0821,C290,A04,Network,Laptop,Driver Issue,Medium,Phone,Chennai,2026-02-04 04:00:00,36,5.87,12,0,0,4.0,3,13,3,0,110,Closed
+T0822,C607,A07,Hardware,Laptop,Screen,Low,Phone,Pune,2026-02-04 05:00:00,7,6.66,8,0,0,4.0,9,6,1,0,212,Closed
+T0823,C468,A03,Software,Application,Password Reset,Medium,Email,Delhi,2026-02-04 06:00:00,7,3.31,4,2,1,4.0,6,21,1,2,97,Closed
+T0824,C508,A02,Software,Access,Screen,Medium,Email,Hyderabad,2026-02-04 07:00:00,26,8.21,12,0,0,3.0,4,24,2,0,192,Open
+T0825,C923,A11,Software,Database,Login,High,Portal,Chennai,2026-02-04 08:00:00,26,6.69,12,0,2,2.0,4,17,3,2,120,Open
+T0826,C216,A10,Security,Connectivity,Query Error,High,Email,Delhi,2026-02-04 09:00:00,14,5.53,12,0,1,3.0,8,9,1,4,192,Closed
+T0827,C233,A07,Hardware,Access,Driver Issue,Medium,Portal,Mumbai,2026-02-04 10:00:00,55,1.54,6,1,0,1.0,7,14,1,1,183,Open
+T0828,C157,A01,Software,Access,Login,High,Email,Bangalore,2026-02-04 11:00:00,7,9.24,12,0,1,2.0,1,16,3,1,117,Resolved
+T0829,C655,A14,Network,Connectivity,VPN,High,Portal,Chennai,2026-02-04 12:00:00,16,6.54,8,2,1,4.0,6,21,2,1,71,Closed
+T0830,C784,A08,Software,Application,Driver Issue,Medium,Portal,Hyderabad,2026-02-04 13:00:00,33,2.73,4,0,1,5.0,8,25,2,4,81,Open
+T0831,C771,A03,Software,Access,Login,Medium,Portal,Mumbai,2026-02-04 14:00:00,52,6.46,4,0,2,2.0,3,10,2,4,172,Closed
+T0832,C272,A12,Software,Laptop,Password Reset,Medium,Portal,Delhi,2026-02-04 15:00:00,21,7.1,8,1,0,4.0,9,7,2,3,71,Closed
+T0833,C928,A12,Security,Connectivity,Driver Issue,Medium,Phone,Bangalore,2026-02-04 16:00:00,11,unknown,6,0,1,2.0,2,19,1,2,204,Open
+T0834,C914,A13,Network,Database,Driver Issue,Low,Portal,Hyderabad,2026-02-04 17:00:00,17,7.46,8,2,1,,6,11,3,2,159,Resolved
+T0835,C248,A02,Hardware,Printer,Screen,Low,Email,Delhi,2026-02-04 18:00:00,6,6.23,4,0,1,3.0,1,10,3,3,64,Closed
+T0836,C179,A03,Network,Application,Password Reset,Medium,Phone,Delhi,2026-02-04 19:00:00,8,9.53,8,2,0,1.0,2,8,1,1,173,Resolved
+T0837,C985,A05,Hardware,Connectivity,VPN,High,Phone,Chennai,2026-02-04 20:00:00,14,1.48,6,1,1,,5,23,1,2,93,Open
+T0838,C312,A11,Security,Printer,Query Error,Medium,Portal,Chennai,2026-02-04 21:00:00,43,1.96,4,0,1,4.0,1,9,1,2,164,Closed
+T0839,C302,A08,Security,Printer,Login,Medium,Phone,Hyderabad,2026-02-04 22:00:00,28,2.56,6,1,2,2.0,8,7,3,1,58,Open
+T0840,C863,A10,Security,Database,Screen,High,Portal,Pune,2026-02-04 23:00:00,21,7.21,8,0,0,5.0,1,29,3,0,83,Open
+T0841,C328,A07,Security,Access,Login,Low,Email,Pune,2026-02-05 00:00:00,56,6.81,12,2,2,2.0,9,13,3,0,122,Open
+T0842,C775,A07,Hardware,Database,VPN,Medium,Portal,Delhi,2026-02-05 01:00:00,10,9.03,8,1,0,1.0,3,10,2,3,192,Open
+T0843,C326,A12,Software,Access,VPN,Medium,Phone,Chennai,2026-02-05 02:00:00,23,7.6,6,0,0,,2,17,1,4,239,Closed
+T0844,C758,A07,Hardware,Access,Driver Issue,Low,Email,Bangalore,2026-02-05 03:00:00,9,5.58,8,2,0,4.0,1,26,1,2,94,Resolved
+T0845,C631,A08,Network,Connectivity,VPN,Low,Portal,Bangalore,2026-02-05 04:00:00,36,9.93,12,1,2,,9,24,1,2,121,Resolved
+T0846,C540,A01,Security,Connectivity,Login,High,Email,Delhi,2026-02-05 05:00:00,14,3.39,6,0,2,1.0,4,8,3,3,107,Closed
+T0847,C501,A04,Security,Application,Password Reset,Low,Email,Chennai,2026-02-05 06:00:00,13,8.5,8,1,2,5.0,1,6,1,3,164,Closed
+T0848,C146,A13,Network,Access,Password Reset,Low,Phone,Hyderabad,2026-02-05 07:00:00,31,4.84,6,0,2,2.0,1,8,1,2,68,Resolved
+T0849,C332,A06,Hardware,Printer,Driver Issue,Low,Email,Hyderabad,2026-02-05 08:00:00,17,6.84,6,2,1,2.0,7,12,2,1,65,Resolved
+T0850,C404,A09,Software,Laptop,Query Error,High,Phone,Hyderabad,2026-02-05 09:00:00,23,7.55,4,2,1,4.0,2,17,3,1,124,Closed
+T0851,C625,A13,Software,Application,Login,Low,Email,Bangalore,2026-02-05 10:00:00,25,6.7,4,1,1,1.0,7,14,1,4,155,Open
+T0852,C242,A02,Network,Connectivity,Login,Low,Portal,Chennai,2026-02-05 11:00:00,28,2.26,6,1,0,3.0,7,22,3,2,185,Closed
+T0853,C514,A01,Software,Database,VPN,High,Email,Chennai,2026-02-05 12:00:00,42,4.99,8,0,1,2.0,9,13,3,2,210,Resolved
+T0854,C612,A13,Hardware,Application,Login,Low,Portal,Bangalore,2026-02-05 13:00:00,8,6.05,8,2,0,5.0,7,5,3,2,123,Open
+T0855,C472,A10,Hardware,Application,Screen,Low,Portal,Hyderabad,2026-02-05 14:00:00,28,8.64,8,0,2,4.0,1,17,2,2,67,Resolved
+T0856,C665,A12,Network,Application,Query Error,High,Email,Hyderabad,2026-02-05 15:00:00,39,4.99,12,2,0,4.0,8,22,3,3,212,Open
+T0857,C985,A14,Hardware,Application,VPN,Medium,Portal,Delhi,2026-02-05 16:00:00,7,9.27,6,1,0,2.0,8,19,3,0,92,Resolved
+T0858,C358,A02,Security,Laptop,Screen,High,Email,Pune,2026-02-05 17:00:00,8,4.96,6,0,1,2.0,4,6,3,2,99,Open
+T0859,C755,A07,Network,Database,Driver Issue,Low,Email,Mumbai,2026-02-05 18:00:00,41,5.94,12,0,2,2.0,8,15,1,0,52,Closed
+T0860,C570,A03,Hardware,Database,Password Reset,Low,Portal,Pune,2026-02-05 19:00:00,44,8.17,6,2,2,3.0,4,18,2,1,108,Closed
+T0861,C111,A10,Network,Database,Driver Issue,Low,Portal,Chennai,2026-02-05 20:00:00,52,6.25,6,2,1,2.0,8,26,1,4,77,Open
+T0862,C429,A02,Software,Access,Password Reset,High,Phone,Chennai,2026-02-05 21:00:00,58,9.64,12,2,2,1.0,5,19,2,1,95,Open
+T0863,C835,A14,Hardware,Printer,Driver Issue,Low,Portal,Chennai,2026-02-05 22:00:00,39,6.94,4,1,2,5.0,4,18,2,2,113,Closed
+T0864,C883,A11,Security,Database,Login,Low,Phone,Pune,2026-02-05 23:00:00,35,5.7,6,0,2,2.0,6,20,3,1,119,Closed
+T0865,C457,A07,Hardware,Application,Screen,High,Portal,Mumbai,2026-02-06 00:00:00,48,1.21,12,2,1,,2,27,3,3,96,Open
+T0866,C507,A13,Network,Application,Password Reset,Medium,Email,Delhi,2026-02-06 01:00:00,29,4.72,8,1,2,5.0,2,19,1,0,191,Open
+T0867,C767,A13,Network,Database,VPN,Medium,Portal,Pune,2026-02-06 02:00:00,44,3.69,4,2,0,,2,23,2,2,184,Closed
+T0868,C472,A02,Hardware,Database,Screen,Low,Email,Mumbai,2026-02-06 03:00:00,17,7.73,8,0,0,2.0,9,13,3,3,208,Resolved
+T0869,C107,A03,Security,Application,VPN,High,Email,Hyderabad,2026-02-06 04:00:00,8,2.87,6,2,2,5.0,3,9,3,0,155,Closed
+T0870,C221,A11,Security,Access,Screen,Low,Email,Hyderabad,2026-02-06 05:00:00,50,2.85,4,0,1,4.0,4,9,3,3,130,Open
+T0871,C447,A07,Security,Connectivity,Screen,High,Phone,Chennai,2026-02-06 06:00:00,18,2.71,12,1,1,3.0,8,15,3,1,100,Open
+T0872,C775,A14,Network,Connectivity,Driver Issue,high,Portal,Bangalore,2026-02-06 07:00:00,17,2.13,6,1,1,1.0,4,24,1,2,78,Resolved
+T0873,C189,A04,Hardware,Database,Password Reset,medium,Email,Chennai,2026-02-06 08:00:00,31,3.8,12,2,2,2.0,7,29,1,1,162,Closed
+T0874,C747,A13,Software,Laptop,Password Reset,Medium,Email,Bangalore,2026-02-06 09:00:00,10,8.97,4,0,2,1.0,5,28,3,4,192,Open
+T0875,C797,A14,Network,Database,Screen,High,Phone,Mumbai,2026-02-06 10:00:00,21,7.97,8,0,0,3.0,9,8,3,2,177,Closed
+T0876,C415,A01,Security,Database,Login,Low,Portal,Hyderabad,2026-02-06 11:00:00,40,7.62,6,0,1,5.0,4,24,3,1,139,Open
+T0877,C277,A13,Hardware,Connectivity,Login,Medium,Portal,Pune,2026-02-06 12:00:00,44,8.18,6,2,0,5.0,3,22,3,2,74,Resolved
+T0878,C639,A14,Security,Application,VPN,Low,Phone,Bangalore,2026-02-06 13:00:00,53,unknown,12,0,0,3.0,2,29,3,0,238,Closed
+T0879,C831,A05,Software,Database,VPN,Medium,Phone,Mumbai,2026-02-06 14:00:00,39,8.99,4,0,1,3.0,1,7,2,2,90,Closed
+T0880,C968,A12,Security,Application,Driver Issue,Medium,Portal,Hyderabad,2026-02-06 15:00:00,21,2.24,12,0,2,2.0,6,8,2,2,118,Resolved
+T0881,C140,A09,Security,Application,Screen,Low,Phone,Pune,2026-02-06 16:00:00,45,4.03,4,0,2,4.0,2,18,2,0,53,Open
+T0882,C839,A08,Software,Laptop,VPN,Medium,Portal,Bangalore,2026-02-06 17:00:00,6,6.28,6,2,0,1.0,8,11,2,1,154,Open
+T0883,C803,A12,Hardware,Application,VPN,Medium,Portal,Chennai,2026-02-06 18:00:00,17,1.93,4,2,0,1.0,6,12,3,2,234,Closed
+T0884,C601,A09,Network,Connectivity,Query Error,Low,Email,Chennai,2026-02-06 19:00:00,56,7.57,6,0,0,5.0,5,28,2,3,80,Resolved
+T0885,C244,A10,Hardware,Access,Screen,Medium,Email,Chennai,2026-02-06 20:00:00,6,4.49,4,0,0,5.0,2,20,2,2,180,Closed
+T0886,C300,A14,Software,Access,Driver Issue,Medium,Portal,Mumbai,2026-02-06 21:00:00,56,8.06,8,1,1,2.0,7,24,1,1,166,Closed
+T0887,C823,A09,Security,Printer,VPN,Medium,Portal,Chennai,2026-02-06 22:00:00,32,5.44,4,1,0,3.0,2,19,2,0,244,Open
+T0888,C560,A07,Hardware,Database,Driver Issue,Low,Portal,Delhi,2026-02-06 23:00:00,47,2.63,8,0,0,1.0,5,11,2,1,139,Open
+T0889,C831,A04,Network,Connectivity,Password Reset,High,Portal,Hyderabad,2026-02-07 00:00:00,30,7.61,4,0,2,2.0,2,21,3,4,227,Open
+T0890,C851,A05,Software,Application,Driver Issue,Low,Portal,Mumbai,2026-02-07 01:00:00,26,3.27,4,1,2,5.0,2,26,2,2,194,Open
+T0891,C657,A01,Hardware,Access,Login,High,Portal,Pune,2026-02-07 02:00:00,51,5.42,12,1,2,5.0,7,26,2,2,237,Open
+T0892,C646,A14,Network,Connectivity,Login,Medium,Phone,Chennai,2026-02-07 03:00:00,47,1.68,12,0,1,1.0,9,26,3,0,115,Resolved
+T0893,C352,A01,Software,Access,Driver Issue,High,Portal,Hyderabad,2026-02-07 04:00:00,59,6.56,6,2,1,5.0,5,16,2,2,137,Closed
+T0894,C489,A03,Network,Application,Login,Low,Phone,Bangalore,2026-02-07 05:00:00,7,6.99,12,2,2,,7,22,3,3,73,Resolved
+T0895,C693,A13,Software,Access,Password Reset,Low,Phone,Chennai,2026-02-07 06:00:00,39,4.41,4,0,2,4.0,4,28,2,3,148,Closed
+T0896,C982,A14,Security,Database,Screen,Medium,Portal,Hyderabad,2026-02-07 07:00:00,16,9.59,12,0,0,3.0,2,18,1,1,209,Open
+T0897,C355,A08,Hardware,Database,Login,High,Portal,Delhi,2026-02-07 08:00:00,28,8.87,4,1,0,5.0,3,19,1,0,154,Resolved
+T0898,C808,A14,Network,Printer,Login,Medium,Phone,Bangalore,2026-02-07 09:00:00,9,7.37,8,1,1,4.0,2,19,2,4,68,Closed
+T0899,C914,A02,Software,Printer,Driver Issue,Medium,Phone,Delhi,2026-02-07 10:00:00,24,7.42,4,2,1,2.0,5,9,1,1,115,Open
+T0900,C549,A04,Network,Access,Password Reset,Low,Portal,Pune,2026-02-07 11:00:00,43,3.27,6,0,0,5.0,6,20,3,0,109,Open
+T0901,C109,A02,Network,Connectivity,Screen,High,Portal,Hyderabad,2026-02-07 12:00:00,43,6.91,8,1,2,2.0,7,9,2,0,164,Resolved
+T0902,C923,A14,Hardware,Database,Driver Issue,High,Phone,Delhi,2026-02-07 13:00:00,17,2.78,6,2,0,5.0,3,6,3,1,243,Resolved
+T0903,C897,A05,Security,Connectivity,Driver Issue,High,Phone,Pune,2026-02-07 14:00:00,45,2.3,6,2,1,1.0,4,24,1,1,64,Resolved
+T0904,C341,A09,Network,Connectivity,Query Error,High,Phone,Hyderabad,2026-02-07 15:00:00,57,10.0,6,2,1,,8,29,3,2,134,Open
+T0905,C350,A01,Software,Access,Password Reset,Medium,Email,Hyderabad,2026-02-07 16:00:00,49,6.6,12,1,0,4.0,4,13,1,4,212,Closed
+T0906,C976,A05,Software,Connectivity,Screen,Medium,Phone,Delhi,2026-02-07 17:00:00,16,4.88,6,1,0,1.0,7,26,1,3,246,Closed
+T0907,C104,A14,Security,Database,Password Reset,Low,Email,Hyderabad,2026-02-07 18:00:00,17,3.59,8,0,0,3.0,6,13,1,2,204,Resolved
+T0908,C218,A09,Software,Application,Screen,Medium,Portal,Chennai,2026-02-07 19:00:00,14,6.44,4,0,1,4.0,7,8,3,0,137,Closed
+T0909,C900,A01,Security,Printer,Password Reset,Medium,Portal,Hyderabad,2026-02-07 20:00:00,37,1.45,6,2,2,2.0,1,19,1,4,56,Open
+T0910,C473,A09,Software,Application,Driver Issue,Low,Phone,Mumbai,2026-02-07 21:00:00,44,1.85,8,2,0,4.0,3,15,2,4,55,Closed
+T0911,C164,A08,Hardware,Connectivity,Driver Issue,low,Portal,Pune,2026-02-07 22:00:00,58,1.3,6,1,1,3.0,6,5,1,1,174,Open
+T0912,C245,A04,Network,Application,VPN,Low,Portal,Hyderabad,2026-02-07 23:00:00,20,5.49,4,1,1,2.0,3,22,2,4,82,Resolved
+T0913,C323,A12,Hardware,Database,Login,Medium,Portal,Mumbai,2026-02-08 00:00:00,49,6.41,8,0,1,2.0,7,5,2,4,107,Closed
+T0914,C338,A11,Network,Database,Query Error,Medium,Portal,Hyderabad,2026-02-08 01:00:00,39,1.56,8,0,0,,9,12,2,0,226,Open
+T0915,C276,A10,Network,Connectivity,Password Reset,Low,Email,Hyderabad,2026-02-08 02:00:00,7,7.49,4,0,0,5.0,3,29,2,2,194,Resolved
+T0916,C878,A05,Network,Access,Query Error,Low,Email,Delhi,2026-02-08 03:00:00,9,3.07,8,1,2,1.0,1,20,3,4,159,Resolved
+T0917,C952,A13,Hardware,Application,VPN,low,Phone,Chennai,2026-02-08 04:00:00,30,7.17,4,2,1,5.0,6,26,2,1,91,Resolved
+T0918,C381,A05,Network,Access,Login,Medium,Phone,Pune,2026-02-08 05:00:00,15,9.84,8,0,0,1.0,1,22,1,2,143,Resolved
+T0919,C162,A11,Hardware,Access,Password Reset,medium,Phone,Chennai,2026-02-08 06:00:00,11,7.22,8,0,1,5.0,1,26,2,1,249,Closed
+T0920,C316,A12,Security,Laptop,Screen,High,Portal,Bangalore,2026-02-08 07:00:00,57,8.95,4,1,1,4.0,8,13,1,4,217,Open
+T0921,C953,A06,Software,Connectivity,Login,Medium,Portal,Delhi,2026-02-08 08:00:00,14,9.53,4,0,2,2.0,9,16,3,2,223,Closed
+T0922,C926,A07,Software,Printer,Driver Issue,Medium,Email,Delhi,2026-02-08 09:00:00,46,5.38,8,2,0,5.0,2,23,2,4,248,Open
+T0923,C894,A08,Network,Database,VPN,Medium,Email,Chennai,2026-02-08 10:00:00,56,7.32,8,1,0,4.0,9,29,1,0,247,Resolved
+T0924,C788,A14,Hardware,Database,Login,Low,Phone,Delhi,2026-02-08 11:00:00,38,8.67,4,0,1,3.0,5,22,3,2,245,Closed
+T0925,C560,A08,Software,Connectivity,Login,medium,Email,Chennai,2026-02-08 12:00:00,7,4.21,12,0,1,1.0,8,9,3,1,178,Resolved
+T0926,C709,A11,Hardware,Printer,Driver Issue,Low,Email,Delhi,2026-02-08 13:00:00,12,3.35,4,1,2,3.0,7,6,1,0,128,Open
+T0927,C204,A14,Hardware,Database,Password Reset,High,Email,Hyderabad,2026-02-08 14:00:00,35,9.52,8,1,2,4.0,7,11,2,3,144,Resolved
+T0928,C198,A13,Network,Connectivity,Screen,High,Email,Chennai,2026-02-08 15:00:00,15,7.54,8,0,2,3.0,4,14,3,1,160,Closed
+T0929,C610,A02,Software,Database,Driver Issue,Low,Email,Chennai,2026-02-08 16:00:00,49,2.98,8,2,2,3.0,2,19,1,4,146,Closed
+T0930,C484,A09,Network,Access,Screen,low,Phone,Mumbai,2026-02-08 17:00:00,11,5.04,4,1,2,4.0,5,29,2,1,229,Open
+T0931,C504,A07,Network,Application,Password Reset,Low,Phone,Delhi,2026-02-08 18:00:00,49,8.17,8,2,2,2.0,3,11,3,3,212,Open
+T0932,C922,A04,Software,Application,Login,Medium,Email,Delhi,2026-02-08 19:00:00,6,5.92,12,0,1,5.0,9,9,1,1,168,Closed
+T0933,C617,A04,Software,Database,Screen,High,Phone,Chennai,2026-02-08 20:00:00,10,6.85,6,2,2,1.0,6,19,3,0,118,Closed
+T0934,C575,A11,Security,Laptop,VPN,Low,Portal,Hyderabad,2026-02-08 21:00:00,45,7.78,12,0,1,5.0,1,24,3,1,182,Closed
+T0935,C808,A08,Security,Printer,VPN,Medium,Email,Hyderabad,2026-02-08 22:00:00,36,6.6,4,0,1,1.0,3,24,1,2,194,Closed
+T0936,C962,A04,Hardware,Printer,Driver Issue,High,Portal,Pune,2026-02-08 23:00:00,24,5.86,8,0,0,5.0,4,19,3,3,230,Open
+T0937,C744,A13,Software,Printer,Password Reset,Medium,Phone,Hyderabad,2026-02-09 00:00:00,38,7.75,4,0,1,3.0,9,14,1,1,101,Closed
+T0938,C969,A06,Security,Access,Driver Issue,High,Phone,Delhi,2026-02-09 01:00:00,54,7.55,6,2,1,2.0,6,28,2,3,191,Open
+T0939,C870,A05,Hardware,Printer,Driver Issue,Medium,Portal,Mumbai,2026-02-09 02:00:00,20,6.67,4,0,2,3.0,4,18,1,0,171,Closed
+T0940,C536,A03,Hardware,Application,Query Error,High,Phone,Chennai,2026-02-09 03:00:00,29,4.24,8,0,1,2.0,1,14,2,2,78,Closed
+T0941,C122,A13,Hardware,Access,Driver Issue,High,Email,Bangalore,2026-02-09 04:00:00,16,4.65,6,2,2,4.0,8,21,3,4,185,Resolved
+T0942,C664,A14,Security,Connectivity,Query Error,Medium,Portal,Mumbai,2026-02-09 05:00:00,11,9.73,6,1,2,1.0,2,25,1,1,153,Resolved
+T0943,C776,A10,Software,Printer,VPN,Low,Email,Bangalore,2026-02-09 06:00:00,43,2.01,8,2,2,1.0,8,18,1,0,50,Closed
+T0944,C813,A11,Network,Printer,VPN,High,Portal,Mumbai,2026-02-09 07:00:00,21,3.42,8,2,0,4.0,6,6,1,3,78,Open
+T0945,C557,A02,Hardware,Connectivity,Driver Issue,Low,Phone,Hyderabad,2026-02-09 08:00:00,49,5.43,8,2,2,5.0,8,20,1,3,213,Closed
+T0946,C182,A09,Security,Printer,VPN,Medium,Portal,Delhi,2026-02-09 09:00:00,15,unknown,4,0,1,4.0,6,17,2,0,228,Resolved
+T0947,C244,A10,Security,Connectivity,Password Reset,Low,Portal,Bangalore,2026-02-09 10:00:00,10,2.47,12,0,2,4.0,5,13,2,1,214,Closed
+T0948,C184,A09,Network,Access,Query Error,Low,Email,Mumbai,2026-02-09 11:00:00,27,3.49,4,0,2,2.0,5,11,3,4,118,Resolved
+T0949,C177,A01,Network,Application,Query Error,Low,Phone,Delhi,2026-02-09 12:00:00,31,1.59,4,1,2,4.0,8,20,3,1,102,Closed
+T0950,C556,A10,Security,Connectivity,Driver Issue,Low,Email,Bangalore,2026-02-09 13:00:00,50,7.35,12,0,0,1.0,7,14,3,2,173,Closed
+T0951,C977,A03,Software,Laptop,VPN,Low,Phone,Chennai,2026-02-09 14:00:00,10,3.14,8,1,1,3.0,8,28,3,1,229,Open
+T0952,C100,A08,Network,Connectivity,Screen,High,Email,Mumbai,2026-02-09 15:00:00,42,4.5,8,0,0,2.0,8,26,1,2,137,Resolved
+T0953,C150,A06,Security,Printer,Query Error,High,Portal,Chennai,2026-02-09 16:00:00,6,4.99,12,2,1,2.0,7,13,2,3,132,Resolved
+T0954,C784,A05,Network,Access,Driver Issue,High,Email,Hyderabad,2026-02-09 17:00:00,26,9.02,12,0,0,5.0,2,26,2,2,61,Resolved
+T0955,C816,A05,Software,Database,Driver Issue,Medium,Phone,Chennai,2026-02-09 18:00:00,24,4.7,4,1,1,3.0,9,27,2,4,101,Open
+T0956,C871,A06,Hardware,Access,Password Reset,Low,Phone,Chennai,2026-02-09 19:00:00,29,2.31,6,1,0,2.0,7,11,2,0,178,Closed
+T0957,C545,A07,Network,Database,Login,High,Portal,Pune,2026-02-09 20:00:00,19,5.72,12,0,2,4.0,6,20,3,2,184,Open
+T0958,C548,A01,Software,Connectivity,Login,Medium,Phone,Mumbai,2026-02-09 21:00:00,53,9.67,4,2,0,2.0,9,13,1,1,194,Closed
+T0959,C980,A09,Security,Application,Query Error,High,Email,Hyderabad,2026-02-09 22:00:00,33,6.47,6,0,0,2.0,1,28,2,2,176,Open
+T0960,C587,A03,Network,Laptop,Password Reset,High,Portal,Chennai,2026-02-09 23:00:00,12,9.85,8,0,2,2.0,2,21,1,3,220,Open
+T0961,C899,A04,Network,Access,Password Reset,Low,Phone,Delhi,2026-02-10 00:00:00,41,8.57,8,0,2,5.0,1,24,1,2,120,Resolved
+T0962,C133,A10,Security,Printer,Password Reset,Medium,Phone,Bangalore,2026-02-10 01:00:00,53,1.32,4,2,1,2.0,3,11,1,4,66,Open
+T0963,C447,A01,Hardware,Database,Query Error,Low,Email,Chennai,2026-02-10 02:00:00,56,6.93,4,1,1,2.0,5,15,1,2,236,Closed
+T0964,C194,A13,Security,Printer,Login,Low,Email,Hyderabad,2026-02-10 03:00:00,37,3.58,12,2,1,5.0,1,12,2,4,52,Open
+T0965,C171,A11,Network,Application,Password Reset,High,Portal,Chennai,2026-02-10 04:00:00,26,6.04,8,1,0,3.0,4,11,2,1,78,Open
+T0966,C650,A10,Security,Database,VPN,Low,Phone,Bangalore,2026-02-10 05:00:00,54,3.51,4,1,1,1.0,8,23,2,3,71,Closed
+T0967,C253,A03,Software,Access,Driver Issue,Medium,Email,Hyderabad,2026-02-10 06:00:00,51,4.14,8,1,0,5.0,6,24,3,0,215,Resolved
+T0968,C349,A02,Security,Connectivity,Driver Issue,Low,Portal,Mumbai,2026-02-10 07:00:00,9,9.31,8,2,0,5.0,1,16,2,1,103,Closed
+T0969,C773,A02,Network,Printer,Screen,Low,Phone,Hyderabad,2026-02-10 08:00:00,43,2.86,12,0,1,2.0,1,11,3,1,156,Closed
+T0970,C537,A14,Security,Application,Screen,Low,Phone,Mumbai,2026-02-10 09:00:00,22,8.87,6,0,1,2.0,3,12,3,0,227,Closed
+T0971,C217,A01,Hardware,Access,Query Error,High,Portal,Hyderabad,2026-02-10 10:00:00,42,1.27,12,0,0,1.0,8,11,3,2,118,Open
+T0972,C870,A08,Security,Access,Query Error,Medium,Portal,Bangalore,2026-02-10 11:00:00,58,1.82,4,0,2,2.0,8,10,2,2,207,Open
+T0973,C990,A03,Hardware,Access,Driver Issue,High,Email,Bangalore,2026-02-10 12:00:00,57,8.69,12,0,2,4.0,3,29,2,2,200,Closed
+T0974,C405,A03,Software,Access,VPN,High,Phone,Hyderabad,2026-02-10 13:00:00,41,6.68,12,2,0,2.0,7,13,2,3,169,Closed
+T0975,C367,A06,Hardware,Database,Login,High,Phone,Chennai,2026-02-10 14:00:00,34,7.73,8,2,1,2.0,3,17,3,1,96,Resolved
+T0976,C153,A13,Security,Access,Login,High,Phone,Bangalore,2026-02-10 15:00:00,55,2.88,12,2,0,4.0,4,11,3,4,198,Open
+T0977,C335,A08,Network,Printer,Query Error,High,Portal,Mumbai,2026-02-10 16:00:00,35,5.83,4,2,0,1.0,9,12,1,0,69,Open
+T0978,C488,A13,Hardware,Application,VPN,Medium,Email,Mumbai,2026-02-10 17:00:00,14,7.63,6,2,1,4.0,4,26,3,1,200,Open
+T0979,C833,A09,Software,Database,Query Error,Low,Phone,Delhi,2026-02-10 18:00:00,19,unknown,12,2,2,5.0,3,21,3,2,245,Open
+T0980,C862,A09,Hardware,Access,Login,High,Portal,Pune,2026-02-10 19:00:00,46,5.25,12,2,0,4.0,5,21,2,0,198,Closed
+T0981,C924,A04,Hardware,Laptop,Query Error,High,Phone,Pune,2026-02-10 20:00:00,52,9.64,6,0,2,3.0,7,20,1,4,70,Closed
+T0982,C500,A14,Hardware,Laptop,Password Reset,Medium,Email,Pune,2026-02-10 21:00:00,48,7.09,4,1,2,5.0,5,26,1,1,50,Resolved
+T0983,C723,A05,Software,Application,Query Error,Medium,Phone,Mumbai,2026-02-10 22:00:00,22,9.17,4,2,1,2.0,4,6,1,1,192,Open
+T0984,C866,A02,Security,Connectivity,Driver Issue,Low,Email,Delhi,2026-02-10 23:00:00,27,7.57,12,1,0,5.0,8,12,2,3,66,Open
+T0985,C402,A11,Hardware,Connectivity,Query Error,Medium,Email,Pune,2026-02-11 00:00:00,37,7.62,8,2,0,1.0,4,21,1,1,100,Closed
+T0986,C306,A09,Hardware,Database,Driver Issue,Low,Phone,Pune,2026-02-11 01:00:00,20,1.72,12,2,2,1.0,2,17,1,1,240,Resolved
+T0987,C328,A08,Network,Database,VPN,High,Phone,Hyderabad,2026-02-11 02:00:00,58,4.24,6,0,2,4.0,6,22,2,4,63,Closed
+T0988,C952,A03,Software,Database,Login,High,Email,Hyderabad,2026-02-11 03:00:00,42,8.73,6,1,1,5.0,2,28,1,4,108,Open
+T0989,C677,A11,Hardware,Connectivity,Screen,Low,Portal,Hyderabad,2026-02-11 04:00:00,39,3.09,6,0,2,2.0,3,26,3,0,132,Open
+T0990,C174,A12,Software,Laptop,Screen,Medium,Email,Chennai,2026-02-11 05:00:00,38,2.04,12,0,1,1.0,1,14,3,2,99,Resolved
+T0991,C534,A13,Hardware,Connectivity,Login,Low,Phone,Pune,2026-02-11 06:00:00,32,3.93,12,1,0,2.0,5,6,3,4,173,Closed
+T0992,C202,A09,Security,Printer,Screen,Medium,Phone,Chennai,2026-02-11 07:00:00,6,2.98,4,0,1,3.0,9,6,3,0,83,Open
+T0993,C521,A03,Security,Access,Query Error,High,Portal,Delhi,2026-02-11 08:00:00,34,9.33,8,2,2,1.0,2,18,3,1,55,Open
+T0994,C803,A09,Hardware,Database,VPN,Medium,Email,Mumbai,2026-02-11 09:00:00,17,8.81,12,2,0,4.0,7,20,3,0,158,Resolved
+T0995,C863,A02,Security,Laptop,VPN,Low,Email,Pune,2026-02-11 10:00:00,45,5.5,4,2,1,3.0,5,11,3,0,98,Open
+T0996,C837,A12,Hardware,Application,Login,Low,Email,Mumbai,2026-02-11 11:00:00,20,1.55,12,2,0,5.0,2,25,3,0,55,Open
+T0997,C905,A10,Security,Application,Screen,High,Phone,Hyderabad,2026-02-11 12:00:00,9,7.43,4,2,1,2.0,8,25,3,0,166,Closed
+T0998,C405,A09,Network,Access,Query Error,medium,Email,Pune,2026-02-11 13:00:00,59,6.61,4,0,2,1.0,6,28,2,4,167,Resolved
+T0999,C197,A08,Network,Laptop,VPN,Medium,Portal,Bangalore,2026-02-11 14:00:00,32,9.73,8,0,2,3.0,4,16,2,2,246,Resolved
+T1000,C949,A09,Network,Connectivity,VPN,medium,Phone,Chennai,2026-02-11 15:00:00,57,6.03,12,2,0,3.0,4,27,3,0,56,Resolved
