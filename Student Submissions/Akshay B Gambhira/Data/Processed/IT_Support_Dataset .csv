@@ -1,0 +1,1001 @@
+Ticket_ID,Created_Date,Created_Time,Resolved_Date,Resolved_Time,Resolution_Hours,Agent_ID,Agent_Name,Support_Tier,Category,Priority,Channel,Status,SLA_Breached,First_Contact_Resolution,CSAT_Score,Reopened,Month,Day_of_Week
+TKT0001,24-04-2024,09:00,24-04-2024,15:09,6.16,AG002,Arjun Mehta,L2,Hardware,High,Phone,Resolved,No,Yes,4.5,No,April,Wednesday
+TKT0002,15-09-2024,16:00,16-09-2024,01:03,55.33,AG001,Riya Sharma,L1,Hardware,Low,Phone,Closed,Yes,Yes,3.3,No,September,Sunday
+TKT0003,23-12-2024,13:00,23-12-2024,16:22,3.38,AG005,Sneha Rao,L2,Hardware,High,Phone,Closed,No,Yes,3.4,No,December,Monday
+TKT0004,05-11-2024,11:00,06-11-2024,07:08,20.14,AG007,Divya Iyer,L3,Software,Medium,Self-Service Portal,Closed,No,No,5,Yes,November,Tuesday
+TKT0005,24-01-2024,17:00,25-01-2024,01:33,8.56,AG005,Sneha Rao,L2,VPN,Medium,Email,Resolved,No,No,3.7,No,January,Wednesday
+TKT0006,24-03-2024,12:00,24-03-2024,23:06,11.11,AG007,Divya Iyer,L3,Email,Medium,Self-Service Portal,Resolved,No,Yes,5,No,March,Sunday
+TKT0007,18-05-2024,17:00,20-05-2024,04:31,58.7,AG003,Priya Nair,L1,Access & Permissions,Low,Chat,Resolved,Yes,Yes,3.1,No,May,Saturday
+TKT0008,18-04-2024,16:00,19-04-2024,13:31,27.41,AG001,Riya Sharma,L1,VPN,Medium,Email,Closed,Yes,Yes,3.5,No,April,Thursday
+TKT0009,14-10-2024,15:00,15-10-2024,09:30,18.51,AG008,Rahul Gupta,L2,Network,Low,Phone,Closed,No,Yes,4.2,No,October,Monday
+TKT0010,26-02-2024,09:00,27-02-2024,18:06,53.57,AG003,Priya Nair,L1,Security,Low,Email,Resolved,Yes,Yes,4,No,February,Monday
+TKT0011,14-12-2024,18:00,14-12-2024,18:54,0.9,AG008,Rahul Gupta,L2,Email,Critical,Email,Escalated,No,Yes,4.7,No,December,Saturday
+TKT0012,14-05-2024,15:00,16-05-2024,05:28,38.48,AG005,Sneha Rao,L2,Printer,Low,Email,Closed,No,No,4,No,May,Tuesday
+TKT0013,03-10-2024,19:00,04-10-2024,17:27,22.45,AG004,Karan Patel,L3,Network,Medium,Phone,Closed,No,No,5,Yes,October,Thursday
+TKT0014,17-10-2024,08:00,17-10-2024,19:25,11.43,AG006,Amit Joshi,L1,Email,Low,Phone,Resolved,No,Yes,3.6,No,October,Thursday
+TKT0015,18-04-2024,15:00,20-04-2024,05:12,38.21,AG008,Rahul Gupta,L2,Network,Low,Chat,Closed,No,Yes,4.4,No,April,Thursday
+TKT0016,02-03-2024,10:00,02-03-2024,12:34,11.42,AG006,Amit Joshi,L1,Security,High,Chat,Resolved,Yes,Yes,3.3,No,March,Saturday
+TKT0017,27-04-2024,08:00,27-04-2024,15:20,7.34,AG001,Riya Sharma,L1,Software,High,Email,Closed,No,No,4.4,No,April,Saturday
+TKT0018,27-07-2024,10:00,27-07-2024,21:46,11.77,AG003,Priya Nair,L1,Security,Low,Chat,Resolved,No,No,3.8,No,July,Saturday
+TKT0019,25-02-2024,10:00,25-02-2024,17:49,7.83,AG002,Arjun Mehta,L2,Hardware,Medium,Self-Service Portal,Resolved,No,No,4.3,No,February,Sunday
+TKT0020,26-01-2024,17:00,27-01-2024,16:59,23.99,AG004,Karan Patel,L3,Software,Medium,Email,Resolved,No,Yes,5,No,January,Friday
+TKT0021,31-01-2024,09:00,01-02-2024,08:09,23.16,AG008,Rahul Gupta,L2,Security,Low,Chat,Closed,No,No,4.9,No,January,Wednesday
+TKT0022,30-01-2024,16:00,01-02-2024,05:25,51.22,AG008,Rahul Gupta,L2,Network,Low,Phone,Resolved,Yes,No,3.4,No,January,Tuesday
+TKT0023,05-04-2024,08:00,05-04-2024,10:34,2.58,AG003,Priya Nair,L1,Hardware,Critical,Email,Escalated,No,No,3.8,No,April,Friday
+TKT0024,13-05-2024,10:00,14-05-2024,03:23,17.39,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Closed,No,No,3.5,No,May,Monday
+TKT0025,07-02-2024,15:00,07-02-2024,23:15,8.26,AG002,Arjun Mehta,L2,Hardware,Medium,Email,Resolved,No,Yes,3.8,No,February,Wednesday
+TKT0026,09-11-2024,19:00,11-11-2024,05:09,34.16,AG006,Amit Joshi,L1,Email,Low,Self-Service Portal,Closed,No,Yes,2.8,No,November,Saturday
+TKT0027,10-10-2024,09:00,11-10-2024,03:53,18.89,AG002,Arjun Mehta,L2,Network,Low,Email,Resolved,No,Yes,4.4,No,October,Thursday
+TKT0028,17-02-2024,17:00,18-02-2024,17:56,24.94,AG005,Sneha Rao,L2,Security,Low,Email,Resolved,No,No,3.6,No,February,Saturday
+TKT0029,14-10-2024,07:00,14-10-2024,08:46,1.78,AG005,Sneha Rao,L2,Network,High,Chat,Resolved,No,Yes,4.7,No,October,Monday
+TKT0030,06-06-2024,12:00,07-06-2024,09:58,21.98,AG006,Amit Joshi,L1,Network,Medium,Email,Closed,No,Yes,4.1,No,June,Thursday
+TKT0031,13-11-2024,18:00,14-11-2024,01:05,7.09,AG004,Karan Patel,L3,Software,Medium,Chat,Resolved,No,Yes,5,No,November,Wednesday
+TKT0032,29-07-2024,19:00,30-07-2024,00:41,5.69,AG001,Riya Sharma,L1,Network,High,Self-Service Portal,Resolved,No,No,4.2,No,July,Monday
+TKT0033,28-06-2024,11:00,30-06-2024,03:49,40.82,AG001,Riya Sharma,L1,Security,Low,Chat,Closed,No,Yes,4.4,No,June,Friday
+TKT0034,13-12-2024,15:00,14-12-2024,01:37,10.62,AG002,Arjun Mehta,L2,Email,Medium,Chat,Closed,No,Yes,3.4,No,December,Friday
+TKT0035,25-06-2024,18:00,27-06-2024,09:27,39.46,AG005,Sneha Rao,L2,Hardware,Low,Chat,Resolved,No,Yes,3.9,No,June,Tuesday
+TKT0036,01-01-2024,15:00,03-01-2024,12:01,54.24,AG004,Karan Patel,L3,Email,Low,Chat,Resolved,Yes,Yes,4.8,No,January,Monday
+TKT0037,02-06-2024,15:00,03-06-2024,01:11,10.19,AG002,Arjun Mehta,L2,VPN,Medium,Email,Closed,No,No,4.1,No,June,Sunday
+TKT0038,12-12-2024,18:00,13-12-2024,16:03,27.56,AG004,Karan Patel,L3,Printer,Medium,Chat,Resolved,Yes,No,4.9,No,December,Thursday
+TKT0039,26-08-2024,14:00,26-08-2024,18:06,9.83,AG004,Karan Patel,L3,Printer,High,Self-Service Portal,Resolved,Yes,No,4.2,No,August,Monday
+TKT0040,10-12-2024,11:00,11-12-2024,03:59,16.99,AG005,Sneha Rao,L2,VPN,Low,Phone,Resolved,No,No,3.5,No,December,Tuesday
+TKT0041,22-12-2024,13:00,23-12-2024,02:53,13.89,AG002,Arjun Mehta,L2,Security,Medium,Phone,Resolved,No,Yes,3.8,No,December,Sunday
+TKT0042,26-01-2024,15:00,27-01-2024,08:58,17.97,AG002,Arjun Mehta,L2,Printer,Low,Chat,Closed,No,No,4.8,No,January,Friday
+TKT0043,07-10-2024,14:00,08-10-2024,11:56,21.94,AG006,Amit Joshi,L1,Security,Medium,Chat,Closed,No,Yes,4,No,October,Monday
+TKT0044,13-08-2024,08:00,14-08-2024,02:16,18.27,AG005,Sneha Rao,L2,Security,Medium,Self-Service Portal,Resolved,No,No,3.6,No,August,Tuesday
+TKT0045,02-02-2024,13:00,03-02-2024,01:09,12.15,AG004,Karan Patel,L3,Printer,Medium,Phone,Resolved,No,No,4.8,No,February,Friday
+TKT0046,01-09-2024,07:00,01-09-2024,14:36,7.6,AG007,Divya Iyer,L3,Hardware,High,Chat,Closed,No,No,4.5,No,September,Sunday
+TKT0047,05-09-2024,07:00,06-09-2024,06:33,23.55,AG004,Karan Patel,L3,Security,Low,Chat,Resolved,No,Yes,5,No,September,Thursday
+TKT0048,12-02-2024,17:00,12-02-2024,19:00,5.73,AG003,Priya Nair,L1,Hardware,Critical,Email,Closed,Yes,No,4.1,No,February,Monday
+TKT0049,09-05-2024,08:00,09-05-2024,12:17,10.14,AG007,Divya Iyer,L3,Email,High,Chat,Closed,Yes,No,5,No,May,Thursday
+TKT0050,12-04-2024,07:00,12-04-2024,12:21,5.35,AG002,Arjun Mehta,L2,Hardware,High,Phone,Resolved,No,No,3.8,No,April,Friday
+TKT0051,26-03-2024,16:00,27-03-2024,08:08,16.14,AG004,Karan Patel,L3,Security,Medium,Self-Service Portal,Resolved,No,No,5,No,March,Tuesday
+TKT0052,22-07-2024,18:00,22-07-2024,19:11,1.19,AG002,Arjun Mehta,L2,Hardware,Critical,Chat,Closed,No,Yes,4.3,No,July,Monday
+TKT0053,04-12-2024,12:00,04-12-2024,17:22,5.38,AG002,Arjun Mehta,L2,Hardware,Medium,Chat,Closed,No,No,4.4,No,December,Wednesday
+TKT0054,28-12-2024,09:00,28-12-2024,11:01,2.02,AG002,Arjun Mehta,L2,Printer,Critical,Chat,Closed,No,Yes,4.6,No,December,Saturday
+TKT0055,22-05-2024,14:00,22-05-2024,16:42,2.71,AG005,Sneha Rao,L2,VPN,High,Email,Closed,No,Yes,3.9,No,May,Wednesday
+TKT0056,30-06-2024,19:00,01-07-2024,13:19,18.33,AG008,Rahul Gupta,L2,VPN,Low,Phone,Closed,No,No,3.7,No,June,Sunday
+TKT0057,07-09-2024,15:00,09-09-2024,05:19,56.26,AG004,Karan Patel,L3,Software,Low,Chat,Closed,Yes,Yes,5,No,September,Saturday
+TKT0058,20-12-2024,10:00,21-12-2024,06:15,20.25,AG001,Riya Sharma,L1,Software,Low,Chat,Closed,No,Yes,3.9,No,December,Friday
+TKT0059,05-06-2024,11:00,05-06-2024,13:36,2.61,AG006,Amit Joshi,L1,VPN,High,Self-Service Portal,Resolved,No,Yes,4,No,June,Wednesday
+TKT0060,21-02-2024,10:00,21-02-2024,13:04,3.07,AG008,Rahul Gupta,L2,Email,High,Self-Service Portal,Resolved,No,No,3.9,No,February,Wednesday
+TKT0061,22-11-2024,19:00,23-11-2024,08:49,13.82,AG001,Riya Sharma,L1,Email,Medium,Phone,Closed,No,Yes,4.4,No,November,Friday
+TKT0062,01-09-2024,08:00,01-09-2024,11:22,3.38,AG006,Amit Joshi,L1,Network,Critical,Self-Service Portal,Resolved,No,Yes,3.4,No,September,Sunday
+TKT0063,12-10-2024,19:00,12-10-2024,20:57,1.96,AG005,Sneha Rao,L2,Software,Critical,Email,Escalated,No,Yes,4.2,No,October,Saturday
+TKT0064,05-06-2024,16:00,05-06-2024,21:21,5.35,AG008,Rahul Gupta,L2,Email,High,Chat,Resolved,No,Yes,4.3,No,June,Wednesday
+TKT0065,09-10-2024,08:00,09-10-2024,22:15,14.26,AG005,Sneha Rao,L2,Software,Low,Phone,Closed,No,Yes,3.9,No,October,Wednesday
+TKT0066,06-02-2024,17:00,06-02-2024,19:37,2.63,AG004,Karan Patel,L3,Email,High,Chat,Resolved,No,Yes,4.3,No,February,Tuesday
+TKT0067,06-02-2024,07:00,06-02-2024,08:04,1.08,AG004,Karan Patel,L3,Network,Critical,Phone,Closed,No,Yes,4.4,No,February,Tuesday
+TKT0068,13-09-2024,15:00,14-09-2024,04:52,13.88,AG008,Rahul Gupta,L2,Email,Medium,Self-Service Portal,Closed,No,No,3.4,No,September,Friday
+TKT0069,10-12-2024,11:00,11-12-2024,18:03,31.05,AG005,Sneha Rao,L2,Hardware,Low,Email,Closed,No,No,4.4,No,December,Tuesday
+TKT0070,16-02-2024,14:00,17-02-2024,00:57,10.96,AG003,Priya Nair,L1,Printer,Medium,Chat,Resolved,No,Yes,3.2,No,February,Friday
+TKT0071,08-10-2024,07:00,08-10-2024,20:06,13.1,AG008,Rahul Gupta,L2,Email,Medium,Chat,Closed,No,No,3.8,No,October,Tuesday
+TKT0072,22-09-2024,12:00,23-09-2024,04:27,16.45,AG001,Riya Sharma,L1,Security,Medium,Phone,Resolved,No,Yes,3.8,No,September,Sunday
+TKT0073,03-03-2024,07:00,04-03-2024,06:27,23.46,AG003,Priya Nair,L1,Email,Medium,Chat,Resolved,No,No,3.7,No,March,Sunday
+TKT0074,24-08-2024,08:00,24-08-2024,10:46,6,AG002,Arjun Mehta,L2,Access & Permissions,Critical,Email,Closed,Yes,Yes,3.6,No,August,Saturday
+TKT0075,15-07-2024,10:00,17-07-2024,06:52,44.87,AG008,Rahul Gupta,L2,Security,Low,Phone,Resolved,No,Yes,4.1,No,July,Monday
+TKT0076,02-01-2024,11:00,02-01-2024,14:02,5.05,AG007,Divya Iyer,L3,VPN,Critical,Self-Service Portal,Resolved,Yes,No,5,No,January,Tuesday
+TKT0077,21-08-2024,12:00,22-08-2024,09:23,31.9,AG008,Rahul Gupta,L2,VPN,Medium,Chat,Closed,Yes,No,4.9,No,August,Wednesday
+TKT0078,27-12-2024,19:00,28-12-2024,06:37,11.62,AG007,Divya Iyer,L3,Hardware,Medium,Chat,Resolved,No,Yes,5,No,December,Friday
+TKT0079,21-02-2024,14:00,21-02-2024,19:59,5.99,AG001,Riya Sharma,L1,Network,Medium,Self-Service Portal,Resolved,No,No,4.5,Yes,February,Wednesday
+TKT0080,28-11-2024,08:00,29-11-2024,05:02,29.2,AG005,Sneha Rao,L2,VPN,Medium,Chat,Closed,Yes,Yes,4.6,No,November,Thursday
+TKT0081,19-11-2024,17:00,20-11-2024,15:25,22.42,AG008,Rahul Gupta,L2,Hardware,Medium,Phone,Closed,No,Yes,4.9,No,November,Tuesday
+TKT0082,15-01-2024,07:00,16-01-2024,03:58,20.97,AG002,Arjun Mehta,L2,Security,Low,Self-Service Portal,Closed,No,No,3.5,No,January,Monday
+TKT0083,08-11-2024,13:00,09-11-2024,21:47,32.79,AG007,Divya Iyer,L3,Network,Low,Email,Resolved,No,Yes,4.4,No,November,Friday
+TKT0084,26-08-2024,11:00,27-08-2024,22:06,35.1,AG005,Sneha Rao,L2,Security,Low,Email,Closed,No,No,3.5,No,August,Monday
+TKT0085,03-06-2024,10:00,04-06-2024,09:59,32.93,AG005,Sneha Rao,L2,Printer,Medium,Chat,Closed,Yes,No,4.6,No,June,Monday
+TKT0086,20-05-2024,07:00,21-05-2024,13:38,30.64,AG005,Sneha Rao,L2,Email,Low,Chat,Resolved,No,Yes,4.3,No,May,Monday
+TKT0087,06-11-2024,19:00,06-11-2024,22:28,3.47,AG008,Rahul Gupta,L2,Email,High,Phone,Resolved,No,Yes,4.3,No,November,Wednesday
+TKT0088,23-10-2024,12:00,23-10-2024,18:07,6.13,AG001,Riya Sharma,L1,Email,High,Email,Resolved,No,Yes,3.1,No,October,Wednesday
+TKT0089,03-09-2024,19:00,03-09-2024,22:04,3.07,AG006,Amit Joshi,L1,Email,High,Self-Service Portal,Closed,No,Yes,4.2,No,September,Tuesday
+TKT0090,12-10-2024,12:00,12-10-2024,13:37,10.3,AG003,Priya Nair,L1,Access & Permissions,High,Chat,Closed,Yes,No,3.3,No,October,Saturday
+TKT0091,25-02-2024,17:00,25-02-2024,19:38,2.64,AG005,Sneha Rao,L2,Printer,High,Self-Service Portal,Closed,No,Yes,3.2,No,February,Sunday
+TKT0092,24-12-2024,11:00,25-12-2024,03:58,16.98,AG004,Karan Patel,L3,Software,Medium,Chat,Resolved,No,No,4.1,No,December,Tuesday
+TKT0093,17-07-2024,14:00,18-07-2024,12:50,22.84,AG008,Rahul Gupta,L2,Software,Low,Phone,Closed,No,Yes,4.8,No,July,Wednesday
+TKT0094,11-11-2024,13:00,12-11-2024,11:46,22.78,AG003,Priya Nair,L1,Printer,Medium,Chat,Resolved,No,Yes,3.1,No,November,Monday
+TKT0095,05-10-2024,17:00,06-10-2024,15:21,22.35,AG004,Karan Patel,L3,VPN,Low,Self-Service Portal,Resolved,No,No,4.5,No,October,Saturday
+TKT0096,26-01-2024,19:00,27-01-2024,05:40,10.67,AG008,Rahul Gupta,L2,Software,Medium,Email,Resolved,No,Yes,4.9,Yes,January,Friday
+TKT0097,17-06-2024,19:00,17-06-2024,21:01,2.03,AG004,Karan Patel,L3,Access & Permissions,High,Phone,Resolved,No,No,5,No,June,Monday
+TKT0098,08-03-2024,07:00,09-03-2024,05:19,22.33,AG005,Sneha Rao,L2,Network,Low,Email,Resolved,No,No,4.5,No,March,Friday
+TKT0099,02-02-2024,14:00,02-02-2024,18:08,4.14,AG001,Riya Sharma,L1,Network,High,Email,Closed,No,Yes,3.6,No,February,Friday
+TKT0100,01-02-2024,14:00,02-02-2024,10:57,20.95,AG001,Riya Sharma,L1,Email,Medium,Email,Closed,No,Yes,3.7,Yes,February,Thursday
+TKT0101,05-03-2024,11:00,06-03-2024,03:29,16.49,AG002,Arjun Mehta,L2,VPN,Medium,Email,Closed,No,Yes,4.3,No,March,Tuesday
+TKT0102,20-02-2024,19:00,21-02-2024,13:02,18.04,AG005,Sneha Rao,L2,Security,Medium,Chat,Resolved,No,Yes,4.6,No,February,Tuesday
+TKT0103,23-07-2024,13:00,24-07-2024,07:35,18.59,AG004,Karan Patel,L3,Printer,Medium,Chat,Closed,No,No,4.4,No,July,Tuesday
+TKT0104,17-02-2024,13:00,18-02-2024,00:51,11.86,AG003,Priya Nair,L1,Security,Low,Email,Resolved,No,Yes,3.9,No,February,Saturday
+TKT0105,27-01-2024,11:00,28-01-2024,03:00,16.01,AG006,Amit Joshi,L1,Software,Medium,Chat,Resolved,No,Yes,3.4,No,January,Saturday
+TKT0106,11-10-2024,12:00,11-10-2024,13:48,1.8,AG008,Rahul Gupta,L2,Access & Permissions,High,Self-Service Portal,Closed,No,No,3.7,No,October,Friday
+TKT0107,25-12-2024,19:00,26-12-2024,15:21,56.46,AG001,Riya Sharma,L1,Email,Low,Self-Service Portal,Closed,Yes,Yes,3.5,Yes,December,Wednesday
+TKT0108,11-07-2024,13:00,11-07-2024,17:10,11.79,AG001,Riya Sharma,L1,Software,High,Phone,Resolved,Yes,No,3.3,No,July,Thursday
+TKT0109,11-12-2024,08:00,11-12-2024,10:54,2.9,AG003,Priya Nair,L1,Network,High,Email,Closed,No,Yes,3.8,No,December,Wednesday
+TKT0110,25-05-2024,17:00,26-05-2024,10:34,17.57,AG004,Karan Patel,L3,Software,Medium,Email,Resolved,No,Yes,4.7,No,May,Saturday
+TKT0111,11-03-2024,19:00,12-03-2024,13:13,18.22,AG001,Riya Sharma,L1,Hardware,Low,Phone,Resolved,No,Yes,3.5,No,March,Monday
+TKT0112,11-08-2024,07:00,12-08-2024,09:23,69.19,AG004,Karan Patel,L3,VPN,Low,Email,Closed,Yes,No,4,No,August,Sunday
+TKT0113,15-06-2024,09:00,17-06-2024,01:03,40.05,AG007,Divya Iyer,L3,Email,Low,Email,Closed,No,Yes,5,No,June,Saturday
+TKT0114,25-09-2024,08:00,25-09-2024,19:55,30.35,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Chat,Closed,Yes,No,3.9,No,September,Wednesday
+TKT0115,27-06-2024,12:00,28-06-2024,06:33,33.37,AG002,Arjun Mehta,L2,Software,Medium,Phone,Resolved,Yes,Yes,4.7,No,June,Thursday
+TKT0116,01-12-2024,08:00,01-12-2024,23:05,15.09,AG005,Sneha Rao,L2,Access & Permissions,Low,Phone,Closed,No,No,4.4,No,December,Sunday
+TKT0117,28-08-2024,14:00,29-08-2024,23:15,33.26,AG006,Amit Joshi,L1,VPN,Low,Email,Closed,No,Yes,4.1,No,August,Wednesday
+TKT0118,07-07-2024,11:00,07-07-2024,16:31,5.53,AG005,Sneha Rao,L2,Security,Medium,Email,Closed,No,Yes,4.6,No,July,Sunday
+TKT0119,13-06-2024,16:00,13-06-2024,18:09,2.16,AG001,Riya Sharma,L1,Security,Critical,Phone,Escalated,No,No,3.2,No,June,Thursday
+TKT0120,12-08-2024,15:00,13-08-2024,19:54,28.91,AG002,Arjun Mehta,L2,Network,Low,Chat,Closed,No,No,3.7,No,August,Monday
+TKT0121,03-02-2024,12:00,03-02-2024,13:39,1.66,AG006,Amit Joshi,L1,Hardware,High,Self-Service Portal,Resolved,No,Yes,3.9,No,February,Saturday
+TKT0122,07-03-2024,16:00,08-03-2024,10:10,18.18,AG003,Priya Nair,L1,VPN,Medium,Chat,Closed,No,Yes,2.8,No,March,Thursday
+TKT0123,04-07-2024,11:00,04-07-2024,18:36,7.61,AG002,Arjun Mehta,L2,Printer,Medium,Email,Closed,No,Yes,3.7,No,July,Thursday
+TKT0124,16-09-2024,19:00,18-09-2024,00:35,29.59,AG003,Priya Nair,L1,Network,Low,Email,Closed,No,Yes,3.9,No,September,Monday
+TKT0125,20-12-2024,19:00,22-12-2024,03:59,32.99,AG003,Priya Nair,L1,Printer,Low,Phone,Resolved,No,Yes,4.1,No,December,Friday
+TKT0126,29-04-2024,15:00,29-04-2024,23:46,8.78,AG004,Karan Patel,L3,Security,Medium,Chat,Resolved,No,Yes,5,No,April,Monday
+TKT0127,14-09-2024,15:00,14-09-2024,18:55,3.93,AG008,Rahul Gupta,L2,Security,High,Chat,Resolved,No,No,3.6,No,September,Saturday
+TKT0128,30-12-2024,15:00,30-12-2024,21:57,6.96,AG001,Riya Sharma,L1,Security,High,Email,Closed,No,Yes,3.5,No,December,Monday
+TKT0129,18-08-2024,12:00,20-08-2024,09:13,45.22,AG003,Priya Nair,L1,Printer,Low,Phone,Closed,No,No,3.4,No,August,Sunday
+TKT0130,28-11-2024,12:00,30-11-2024,03:39,39.66,AG006,Amit Joshi,L1,Access & Permissions,Low,Email,Resolved,No,Yes,3,No,November,Thursday
+TKT0131,10-01-2024,11:00,10-01-2024,19:18,8.31,AG008,Rahul Gupta,L2,Security,Medium,Email,Closed,No,Yes,3.5,No,January,Wednesday
+TKT0132,02-05-2024,13:00,03-05-2024,05:46,27.47,AG005,Sneha Rao,L2,Access & Permissions,Medium,Email,Closed,Yes,No,4.2,No,May,Thursday
+TKT0133,07-08-2024,07:00,07-08-2024,12:18,5.3,AG001,Riya Sharma,L1,Access & Permissions,High,Self-Service Portal,Resolved,No,Yes,3.4,No,August,Wednesday
+TKT0134,18-07-2024,14:00,18-07-2024,14:39,0.65,AG006,Amit Joshi,L1,Software,Critical,Email,Resolved,No,Yes,3.4,No,July,Thursday
+TKT0135,06-10-2024,12:00,08-10-2024,04:32,40.54,AG002,Arjun Mehta,L2,VPN,Low,Self-Service Portal,Closed,No,Yes,3.7,No,October,Sunday
+TKT0136,22-08-2024,07:00,22-08-2024,10:03,3.05,AG008,Rahul Gupta,L2,Network,High,Email,Resolved,No,No,3.4,No,August,Thursday
+TKT0137,09-05-2024,07:00,09-05-2024,10:08,5.63,AG005,Sneha Rao,L2,Printer,Critical,Chat,Escalated,Yes,No,3.5,No,May,Thursday
+TKT0138,11-08-2024,13:00,13-08-2024,02:43,37.73,AG006,Amit Joshi,L1,Email,Low,Self-Service Portal,Closed,No,Yes,4.2,No,August,Sunday
+TKT0139,10-02-2024,13:00,10-02-2024,18:13,5.22,AG006,Amit Joshi,L1,Email,High,Chat,Closed,No,Yes,4.1,No,February,Saturday
+TKT0140,26-03-2024,18:00,27-03-2024,06:52,12.88,AG006,Amit Joshi,L1,Email,Medium,Chat,Closed,No,Yes,3.5,No,March,Tuesday
+TKT0141,08-02-2024,17:00,09-02-2024,09:45,27.62,AG007,Divya Iyer,L3,Email,Medium,Email,Resolved,Yes,Yes,4.6,No,February,Thursday
+TKT0142,30-04-2024,19:00,02-05-2024,04:48,33.81,AG003,Priya Nair,L1,Security,Low,Email,Resolved,No,Yes,3.3,No,April,Tuesday
+TKT0143,20-10-2024,09:00,20-10-2024,23:35,14.59,AG008,Rahul Gupta,L2,VPN,Medium,Email,Resolved,No,Yes,3.9,No,October,Sunday
+TKT0144,14-10-2024,08:00,14-10-2024,17:14,35.29,AG001,Riya Sharma,L1,Network,Medium,Chat,Closed,Yes,Yes,3.4,No,October,Monday
+TKT0145,19-08-2024,09:00,21-08-2024,04:57,43.95,AG008,Rahul Gupta,L2,Access & Permissions,Low,Email,Closed,No,No,4,No,August,Monday
+TKT0146,30-12-2024,18:00,31-12-2024,01:29,7.49,AG002,Arjun Mehta,L2,Email,High,Phone,Resolved,No,Yes,4.4,No,December,Monday
+TKT0147,14-01-2024,12:00,15-01-2024,18:09,30.16,AG004,Karan Patel,L3,Network,Low,Chat,Resolved,No,Yes,4.5,No,January,Sunday
+TKT0148,26-09-2024,13:00,27-09-2024,08:22,19.38,AG002,Arjun Mehta,L2,Software,Medium,Chat,Closed,No,No,4.7,No,September,Thursday
+TKT0149,06-03-2024,19:00,07-03-2024,10:01,15.03,AG008,Rahul Gupta,L2,Security,Medium,Self-Service Portal,Resolved,No,Yes,4.2,No,March,Wednesday
+TKT0150,25-03-2024,09:00,25-03-2024,19:27,29.74,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Closed,Yes,Yes,4.1,No,March,Monday
+TKT0151,05-03-2024,17:00,06-03-2024,03:03,10.06,AG005,Sneha Rao,L2,Access & Permissions,Medium,Self-Service Portal,Resolved,No,No,4.1,No,March,Tuesday
+TKT0152,15-10-2024,07:00,16-10-2024,03:30,20.5,AG003,Priya Nair,L1,Network,Medium,Self-Service Portal,Closed,No,Yes,2.7,No,October,Tuesday
+TKT0153,24-11-2024,11:00,25-11-2024,00:39,13.66,AG007,Divya Iyer,L3,Hardware,Medium,Self-Service Portal,Closed,No,Yes,5,No,November,Sunday
+TKT0154,25-08-2024,10:00,25-08-2024,20:48,10.8,AG001,Riya Sharma,L1,Network,Medium,Chat,Closed,No,Yes,3.2,No,August,Sunday
+TKT0155,20-09-2024,15:00,21-09-2024,03:15,12.25,AG006,Amit Joshi,L1,Printer,Low,Self-Service Portal,Resolved,No,No,3.2,No,September,Friday
+TKT0156,07-05-2024,09:00,07-05-2024,15:41,10.21,AG005,Sneha Rao,L2,Printer,High,Chat,Resolved,Yes,Yes,4.7,No,May,Tuesday
+TKT0157,11-09-2024,07:00,11-09-2024,12:48,5.8,AG008,Rahul Gupta,L2,Security,Medium,Self-Service Portal,Resolved,No,No,3.9,No,September,Wednesday
+TKT0158,01-11-2024,17:00,03-11-2024,03:54,34.9,AG006,Amit Joshi,L1,Hardware,Low,Chat,Resolved,No,No,3.3,No,November,Friday
+TKT0159,27-01-2024,16:00,28-01-2024,07:14,15.24,AG006,Amit Joshi,L1,Printer,Medium,Chat,Closed,No,No,3.4,No,January,Saturday
+TKT0160,20-07-2024,12:00,22-07-2024,03:48,39.8,AG005,Sneha Rao,L2,Software,Low,Email,Resolved,No,Yes,3.7,No,July,Saturday
+TKT0161,19-06-2024,19:00,20-06-2024,21:57,26.95,AG007,Divya Iyer,L3,Hardware,Low,Phone,Resolved,No,Yes,4.7,No,June,Wednesday
+TKT0162,30-10-2024,12:00,31-10-2024,02:09,14.15,AG006,Amit Joshi,L1,Network,Medium,Self-Service Portal,Closed,No,Yes,3.6,No,October,Wednesday
+TKT0163,01-08-2024,16:00,02-08-2024,02:09,10.15,AG001,Riya Sharma,L1,VPN,Medium,Email,Resolved,No,Yes,4.4,No,August,Thursday
+TKT0164,28-03-2024,15:00,28-03-2024,20:24,5.4,AG005,Sneha Rao,L2,Access & Permissions,High,Chat,Resolved,No,Yes,4.2,No,March,Thursday
+TKT0165,07-04-2024,07:00,07-04-2024,19:49,12.82,AG004,Karan Patel,L3,Hardware,Medium,Email,Resolved,No,No,4.6,No,April,Sunday
+TKT0166,14-10-2024,12:00,14-10-2024,19:59,7.99,AG008,Rahul Gupta,L2,Hardware,High,Phone,Resolved,No,No,4.1,No,October,Monday
+TKT0167,08-11-2024,14:00,08-11-2024,21:51,7.85,AG006,Amit Joshi,L1,VPN,Medium,Self-Service Portal,Resolved,No,Yes,3.2,No,November,Friday
+TKT0168,11-06-2024,14:00,11-06-2024,17:26,3.44,AG005,Sneha Rao,L2,Email,High,Chat,Closed,No,Yes,4.7,No,June,Tuesday
+TKT0169,28-05-2024,07:00,28-05-2024,10:00,12,AG007,Divya Iyer,L3,Printer,High,Phone,Closed,Yes,No,5,No,May,Tuesday
+TKT0170,14-10-2024,18:00,15-10-2024,12:51,18.86,AG008,Rahul Gupta,L2,Access & Permissions,Low,Self-Service Portal,Resolved,No,Yes,3.5,No,October,Monday
+TKT0171,18-06-2024,18:00,19-06-2024,20:54,26.9,AG004,Karan Patel,L3,Access & Permissions,Low,Chat,Resolved,No,No,5,No,June,Tuesday
+TKT0172,13-06-2024,11:00,14-06-2024,03:55,16.92,AG008,Rahul Gupta,L2,Security,Medium,Self-Service Portal,Resolved,No,No,4.8,No,June,Thursday
+TKT0173,19-01-2024,13:00,20-01-2024,08:45,19.76,AG001,Riya Sharma,L1,Network,Medium,Phone,Closed,No,Yes,3.3,No,January,Friday
+TKT0174,20-06-2024,11:00,21-06-2024,00:05,13.09,AG001,Riya Sharma,L1,Email,Medium,Email,Resolved,No,Yes,4,No,June,Thursday
+TKT0175,18-06-2024,09:00,19-06-2024,22:14,37.24,AG008,Rahul Gupta,L2,Email,Low,Email,Resolved,No,Yes,4.3,No,June,Tuesday
+TKT0176,06-08-2024,15:00,07-08-2024,12:07,21.12,AG005,Sneha Rao,L2,Access & Permissions,Low,Chat,Resolved,No,No,3.8,No,August,Tuesday
+TKT0177,16-08-2024,19:00,17-08-2024,13:40,18.68,AG004,Karan Patel,L3,Hardware,Low,Phone,Resolved,No,No,4.4,No,August,Friday
+TKT0178,26-08-2024,11:00,27-08-2024,01:23,57.72,AG006,Amit Joshi,L1,Access & Permissions,Low,Email,Closed,Yes,Yes,3.9,No,August,Monday
+TKT0179,09-03-2024,14:00,09-03-2024,21:03,7.06,AG005,Sneha Rao,L2,VPN,Medium,Phone,Closed,No,Yes,4.4,No,March,Saturday
+TKT0180,26-09-2024,14:00,26-09-2024,18:42,4.7,AG008,Rahul Gupta,L2,Access & Permissions,High,Email,Resolved,No,Yes,3.9,Yes,September,Thursday
+TKT0181,29-02-2024,17:00,01-03-2024,09:13,16.22,AG004,Karan Patel,L3,Network,Low,Chat,Closed,No,No,4.8,No,February,Thursday
+TKT0182,15-10-2024,07:00,15-10-2024,22:10,15.18,AG008,Rahul Gupta,L2,Network,Medium,Chat,Resolved,No,No,4.4,No,October,Tuesday
+TKT0183,04-08-2024,12:00,05-08-2024,06:00,18.01,AG001,Riya Sharma,L1,Access & Permissions,Medium,Email,Closed,No,Yes,3.9,Yes,August,Sunday
+TKT0184,10-07-2024,13:00,10-07-2024,17:08,4.14,AG007,Divya Iyer,L3,Network,High,Chat,Resolved,No,No,5,No,July,Wednesday
+TKT0185,27-09-2024,09:00,28-09-2024,22:06,37.11,AG003,Priya Nair,L1,VPN,Low,Chat,Closed,No,No,3.1,No,September,Friday
+TKT0186,23-08-2024,12:00,23-08-2024,14:05,2.09,AG007,Divya Iyer,L3,Printer,High,Phone,Resolved,No,Yes,4.3,Yes,August,Friday
+TKT0187,21-02-2024,16:00,22-02-2024,01:20,9.34,AG007,Divya Iyer,L3,Hardware,Low,Email,Resolved,No,Yes,5,No,February,Wednesday
+TKT0188,29-01-2024,09:00,29-01-2024,23:04,14.08,AG001,Riya Sharma,L1,Printer,Medium,Phone,Closed,No,Yes,3.5,No,January,Monday
+TKT0189,04-12-2024,15:00,04-12-2024,23:25,8.42,AG006,Amit Joshi,L1,Access & Permissions,Medium,Phone,Resolved,No,Yes,3.3,No,December,Wednesday
+TKT0190,25-11-2024,17:00,26-11-2024,16:15,23.25,AG007,Divya Iyer,L3,Security,Low,Self-Service Portal,Closed,No,Yes,4.8,No,November,Monday
+TKT0191,03-05-2024,10:00,03-05-2024,13:06,3.11,AG007,Divya Iyer,L3,Network,High,Chat,Resolved,No,Yes,5,No,May,Friday
+TKT0192,14-04-2024,12:00,15-04-2024,04:55,16.93,AG007,Divya Iyer,L3,Network,Medium,Self-Service Portal,Resolved,No,Yes,5,No,April,Sunday
+TKT0193,07-02-2024,10:00,09-02-2024,02:11,40.19,AG004,Karan Patel,L3,Hardware,Low,Email,Resolved,No,Yes,4.8,No,February,Wednesday
+TKT0194,18-04-2024,10:00,18-04-2024,13:52,5.58,AG006,Amit Joshi,L1,Email,Critical,Email,Resolved,Yes,Yes,3,No,April,Thursday
+TKT0195,24-05-2024,13:00,24-05-2024,15:07,2.13,AG004,Karan Patel,L3,Printer,Critical,Self-Service Portal,Closed,No,No,4.9,No,May,Friday
+TKT0196,09-06-2024,13:00,09-06-2024,13:39,0.66,AG008,Rahul Gupta,L2,VPN,Critical,Self-Service Portal,Closed,No,Yes,4.7,No,June,Sunday
+TKT0197,12-09-2024,15:00,14-09-2024,01:10,34.18,AG004,Karan Patel,L3,VPN,Low,Phone,Closed,No,No,5,No,September,Thursday
+TKT0198,27-03-2024,09:00,28-03-2024,21:48,36.81,AG008,Rahul Gupta,L2,Security,Low,Self-Service Portal,Resolved,No,Yes,4.1,No,March,Wednesday
+TKT0199,11-03-2024,17:00,11-03-2024,19:37,9.56,AG002,Arjun Mehta,L2,Hardware,High,Chat,Closed,Yes,No,4.5,No,March,Monday
+TKT0200,07-01-2024,07:00,08-01-2024,12:10,29.18,AG008,Rahul Gupta,L2,Security,Low,Chat,Resolved,No,Yes,3.7,No,January,Sunday
+TKT0201,25-09-2024,09:00,26-09-2024,02:38,17.64,AG007,Divya Iyer,L3,Network,Low,Email,Closed,No,No,5,No,September,Wednesday
+TKT0202,23-08-2024,16:00,24-08-2024,00:51,8.86,AG007,Divya Iyer,L3,Software,Medium,Chat,Resolved,No,No,5,No,August,Friday
+TKT0203,09-10-2024,14:00,09-10-2024,19:07,34.79,AG001,Riya Sharma,L1,Software,Medium,Chat,Closed,Yes,No,3,No,October,Wednesday
+TKT0204,27-04-2024,10:00,27-04-2024,17:18,7.31,AG006,Amit Joshi,L1,Software,High,Email,Closed,No,Yes,3.9,Yes,April,Saturday
+TKT0205,01-04-2024,12:00,01-04-2024,13:06,1.11,AG002,Arjun Mehta,L2,Email,High,Email,Closed,No,No,3.7,No,April,Monday
+TKT0206,12-12-2024,15:00,13-12-2024,01:37,10.63,AG005,Sneha Rao,L2,Network,Medium,Chat,Resolved,No,No,4.4,No,December,Thursday
+TKT0207,08-02-2024,12:00,09-02-2024,20:12,32.21,AG006,Amit Joshi,L1,Hardware,Low,Phone,Closed,No,Yes,3.8,Yes,February,Thursday
+TKT0208,10-10-2024,13:00,11-10-2024,01:38,12.64,AG005,Sneha Rao,L2,Security,Medium,Self-Service Portal,Resolved,No,Yes,4.3,No,October,Thursday
+TKT0209,17-05-2024,09:00,17-05-2024,12:39,3.66,AG005,Sneha Rao,L2,Access & Permissions,High,Email,Closed,No,No,4.5,No,May,Friday
+TKT0210,15-08-2024,12:00,17-08-2024,02:27,38.45,AG002,Arjun Mehta,L2,Software,Low,Self-Service Portal,Closed,No,No,3.6,No,August,Thursday
+TKT0211,10-10-2024,08:00,11-10-2024,15:52,31.88,AG007,Divya Iyer,L3,Software,Low,Self-Service Portal,Resolved,No,Yes,5,No,October,Thursday
+TKT0212,19-10-2024,15:00,19-10-2024,17:11,2.19,AG007,Divya Iyer,L3,Software,High,Phone,Closed,No,No,4.6,No,October,Saturday
+TKT0213,03-08-2024,11:00,04-08-2024,14:22,27.37,AG003,Priya Nair,L1,Software,Low,Self-Service Portal,Closed,No,No,2.8,No,August,Saturday
+TKT0214,04-01-2024,13:00,05-01-2024,10:17,21.29,AG004,Karan Patel,L3,Security,Low,Self-Service Portal,Closed,No,Yes,4.9,No,January,Thursday
+TKT0215,02-09-2024,12:00,02-09-2024,19:33,7.55,AG007,Divya Iyer,L3,Network,Medium,Phone,Closed,No,No,4.6,No,September,Monday
+TKT0216,05-07-2024,08:00,06-07-2024,06:38,22.64,AG004,Karan Patel,L3,VPN,Medium,Chat,Resolved,No,Yes,4.2,No,July,Friday
+TKT0217,12-08-2024,19:00,12-08-2024,20:31,1.52,AG001,Riya Sharma,L1,Security,Critical,Phone,Escalated,No,Yes,4.1,No,August,Monday
+TKT0218,09-05-2024,17:00,10-05-2024,00:04,7.08,AG008,Rahul Gupta,L2,Network,Medium,Phone,Closed,No,No,4,No,May,Thursday
+TKT0219,05-10-2024,07:00,06-10-2024,02:48,30.04,AG008,Rahul Gupta,L2,Printer,Medium,Chat,Resolved,Yes,Yes,3.9,No,October,Saturday
+TKT0220,15-10-2024,17:00,17-10-2024,04:06,35.1,AG004,Karan Patel,L3,VPN,Low,Email,Closed,No,Yes,4.5,No,October,Tuesday
+TKT0221,16-08-2024,12:00,17-08-2024,11:39,23.65,AG002,Arjun Mehta,L2,Email,Low,Phone,Resolved,No,No,4.6,No,August,Friday
+TKT0222,13-02-2024,08:00,15-02-2024,01:15,53.9,AG001,Riya Sharma,L1,Security,Low,Chat,Resolved,Yes,No,4.2,No,February,Tuesday
+TKT0223,12-06-2024,08:00,13-06-2024,04:00,20.01,AG006,Amit Joshi,L1,Security,Low,Chat,Resolved,No,Yes,4.1,No,June,Wednesday
+TKT0224,18-06-2024,15:00,19-06-2024,03:31,12.53,AG003,Priya Nair,L1,Access & Permissions,Medium,Phone,Resolved,No,Yes,3.4,No,June,Tuesday
+TKT0225,18-08-2024,16:00,19-08-2024,17:10,25.18,AG007,Divya Iyer,L3,Printer,Low,Phone,Closed,No,No,4,No,August,Sunday
+TKT0226,06-07-2024,12:00,06-07-2024,14:22,2.38,AG002,Arjun Mehta,L2,Software,High,Phone,Closed,No,Yes,3.6,No,July,Saturday
+TKT0227,27-06-2024,12:00,28-06-2024,08:54,20.91,AG006,Amit Joshi,L1,Printer,Medium,Email,Closed,No,Yes,3.8,No,June,Thursday
+TKT0228,05-06-2024,08:00,05-06-2024,15:39,7.66,AG002,Arjun Mehta,L2,Network,Medium,Phone,Closed,No,No,4.5,No,June,Wednesday
+TKT0229,11-10-2024,09:00,12-10-2024,12:35,27.59,AG007,Divya Iyer,L3,Printer,Low,Phone,Closed,No,No,4.2,No,October,Friday
+TKT0230,15-07-2024,15:00,16-07-2024,05:06,14.11,AG006,Amit Joshi,L1,Hardware,Medium,Phone,Closed,No,Yes,3.6,No,July,Monday
+TKT0231,22-04-2024,11:00,22-04-2024,20:18,9.31,AG008,Rahul Gupta,L2,Security,Low,Email,Closed,No,No,3.7,No,April,Monday
+TKT0232,05-10-2024,12:00,06-10-2024,02:50,14.84,AG008,Rahul Gupta,L2,Software,Medium,Self-Service Portal,Closed,No,Yes,4.5,No,October,Saturday
+TKT0233,01-06-2024,07:00,01-06-2024,11:09,4.15,AG007,Divya Iyer,L3,Software,High,Phone,Closed,No,Yes,4.6,No,June,Saturday
+TKT0234,29-12-2024,16:00,31-12-2024,01:18,67.79,AG002,Arjun Mehta,L2,Access & Permissions,Low,Self-Service Portal,Resolved,Yes,No,3.7,No,December,Sunday
+TKT0235,14-06-2024,18:00,15-06-2024,03:51,9.85,AG001,Riya Sharma,L1,VPN,Medium,Phone,Resolved,No,Yes,3.9,No,June,Friday
+TKT0236,25-12-2024,09:00,25-12-2024,10:22,1.37,AG007,Divya Iyer,L3,Hardware,Critical,Phone,Escalated,No,Yes,5,No,December,Wednesday
+TKT0237,17-11-2024,13:00,18-11-2024,00:30,11.5,AG008,Rahul Gupta,L2,Network,Medium,Self-Service Portal,Resolved,No,Yes,3.4,No,November,Sunday
+TKT0238,16-06-2024,16:00,16-06-2024,20:03,26.27,AG005,Sneha Rao,L2,VPN,Medium,Chat,Closed,Yes,Yes,4.4,No,June,Sunday
+TKT0239,21-04-2024,13:00,21-04-2024,19:46,10.66,AG006,Amit Joshi,L1,Software,High,Chat,Resolved,Yes,No,3.6,No,April,Sunday
+TKT0240,24-01-2024,08:00,24-01-2024,13:22,5.38,AG008,Rahul Gupta,L2,VPN,High,Email,Resolved,No,No,4.6,No,January,Wednesday
+TKT0241,28-11-2024,11:00,29-11-2024,01:21,14.36,AG001,Riya Sharma,L1,Printer,Low,Phone,Closed,No,Yes,4.5,No,November,Thursday
+TKT0242,24-12-2024,19:00,25-12-2024,03:40,8.68,AG003,Priya Nair,L1,Hardware,Medium,Self-Service Portal,Resolved,No,Yes,3.7,No,December,Tuesday
+TKT0243,05-01-2024,07:00,06-01-2024,00:54,17.91,AG002,Arjun Mehta,L2,Network,Medium,Chat,Closed,No,Yes,4.7,No,January,Friday
+TKT0244,22-02-2024,08:00,23-02-2024,04:31,20.53,AG008,Rahul Gupta,L2,Software,Low,Email,Resolved,No,No,4.7,No,February,Thursday
+TKT0245,08-11-2024,17:00,09-11-2024,00:16,7.28,AG003,Priya Nair,L1,Software,Medium,Email,Closed,No,Yes,3.3,No,November,Friday
+TKT0246,12-03-2024,19:00,13-03-2024,07:55,12.93,AG008,Rahul Gupta,L2,Access & Permissions,Low,Email,Closed,No,No,4.5,No,March,Tuesday
+TKT0247,07-05-2024,15:00,08-05-2024,23:02,32.04,AG003,Priya Nair,L1,Access & Permissions,Low,Email,Resolved,No,Yes,3.9,No,May,Tuesday
+TKT0248,19-07-2024,11:00,20-07-2024,03:55,16.92,AG005,Sneha Rao,L2,Access & Permissions,Medium,Phone,Resolved,No,Yes,4.5,No,July,Friday
+TKT0249,27-09-2024,07:00,28-09-2024,06:44,29.66,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Email,Closed,Yes,No,4.9,No,September,Friday
+TKT0250,09-01-2024,16:00,09-01-2024,16:44,0.74,AG003,Priya Nair,L1,Security,Critical,Email,Escalated,No,No,3.1,No,January,Tuesday
+TKT0251,23-11-2024,15:00,23-11-2024,19:45,11.31,AG007,Divya Iyer,L3,Printer,High,Email,Resolved,Yes,No,4.2,No,November,Saturday
+TKT0252,27-10-2024,17:00,28-10-2024,12:15,19.26,AG004,Karan Patel,L3,Network,Medium,Chat,Closed,No,Yes,4.9,No,October,Sunday
+TKT0253,29-02-2024,14:00,01-03-2024,22:29,32.49,AG004,Karan Patel,L3,Hardware,Low,Chat,Resolved,No,Yes,4,No,February,Thursday
+TKT0254,24-09-2024,15:00,26-09-2024,06:19,39.32,AG003,Priya Nair,L1,Hardware,Low,Self-Service Portal,Closed,No,No,3.9,No,September,Tuesday
+TKT0255,19-05-2024,15:00,19-05-2024,20:16,5.28,AG002,Arjun Mehta,L2,Hardware,Medium,Chat,Resolved,No,No,4.5,No,May,Sunday
+TKT0256,07-07-2024,09:00,07-07-2024,18:06,9.1,AG006,Amit Joshi,L1,Hardware,Medium,Phone,Resolved,No,Yes,3,No,July,Sunday
+TKT0257,05-05-2024,07:00,05-05-2024,11:18,9.23,AG001,Riya Sharma,L1,Hardware,High,Email,Resolved,Yes,Yes,3.6,No,May,Sunday
+TKT0258,12-06-2024,11:00,13-06-2024,07:31,20.52,AG007,Divya Iyer,L3,Access & Permissions,Medium,Chat,Resolved,No,No,4.9,No,June,Wednesday
+TKT0259,24-05-2024,19:00,26-05-2024,12:47,41.79,AG001,Riya Sharma,L1,Printer,Low,Chat,Resolved,No,Yes,3.5,No,May,Friday
+TKT0260,25-08-2024,12:00,25-08-2024,17:08,5.14,AG005,Sneha Rao,L2,Email,High,Phone,Resolved,No,Yes,4,No,August,Sunday
+TKT0261,13-01-2024,10:00,14-01-2024,15:39,29.66,AG004,Karan Patel,L3,Network,Low,Chat,Resolved,No,Yes,4.9,No,January,Saturday
+TKT0262,23-02-2024,10:00,23-02-2024,14:42,4.71,AG001,Riya Sharma,L1,Printer,High,Self-Service Portal,Resolved,No,Yes,3.4,No,February,Friday
+TKT0263,23-09-2024,13:00,25-09-2024,01:01,36.03,AG003,Priya Nair,L1,Email,Low,Phone,Resolved,No,Yes,3.3,No,September,Monday
+TKT0264,10-08-2024,17:00,12-08-2024,15:34,46.57,AG003,Priya Nair,L1,Printer,Low,Email,Closed,No,No,3.1,No,August,Saturday
+TKT0265,08-02-2024,10:00,08-02-2024,16:43,6.72,AG006,Amit Joshi,L1,VPN,Medium,Phone,Closed,No,No,4,No,February,Thursday
+TKT0266,19-08-2024,11:00,20-08-2024,00:16,13.27,AG007,Divya Iyer,L3,Software,Medium,Phone,Closed,No,No,5,No,August,Monday
+TKT0267,16-03-2024,08:00,16-03-2024,13:58,5.98,AG001,Riya Sharma,L1,Access & Permissions,High,Self-Service Portal,Closed,No,No,4.5,No,March,Saturday
+TKT0268,11-10-2024,18:00,11-10-2024,20:25,2.43,AG003,Priya Nair,L1,Hardware,Critical,Chat,Resolved,No,Yes,2.9,No,October,Friday
+TKT0269,09-07-2024,17:00,11-07-2024,02:12,33.21,AG004,Karan Patel,L3,Network,Low,Chat,Closed,No,No,4.9,No,July,Tuesday
+TKT0270,26-11-2024,14:00,26-11-2024,17:19,5.25,AG002,Arjun Mehta,L2,Hardware,Critical,Phone,Escalated,Yes,Yes,3.5,No,November,Tuesday
+TKT0271,21-07-2024,14:00,21-07-2024,23:10,9.18,AG008,Rahul Gupta,L2,Hardware,Low,Chat,Resolved,No,No,4.4,No,July,Sunday
+TKT0272,18-01-2024,16:00,19-01-2024,08:22,16.38,AG005,Sneha Rao,L2,Email,Medium,Phone,Closed,No,No,3.6,No,January,Thursday
+TKT0273,11-03-2024,13:00,12-03-2024,04:58,15.98,AG008,Rahul Gupta,L2,Hardware,Low,Chat,Resolved,No,No,4.7,No,March,Monday
+TKT0274,25-06-2024,16:00,26-06-2024,06:03,14.05,AG006,Amit Joshi,L1,Security,Medium,Chat,Resolved,No,No,3.4,Yes,June,Tuesday
+TKT0275,28-09-2024,12:00,28-09-2024,18:22,6.37,AG005,Sneha Rao,L2,Hardware,High,Chat,Resolved,No,Yes,4.8,No,September,Saturday
+TKT0276,22-04-2024,16:00,23-04-2024,12:55,20.93,AG004,Karan Patel,L3,Email,Medium,Email,Resolved,No,No,5,No,April,Monday
+TKT0277,26-12-2024,18:00,26-12-2024,19:43,1.73,AG006,Amit Joshi,L1,VPN,Critical,Email,Escalated,No,Yes,3.7,No,December,Thursday
+TKT0278,16-02-2024,07:00,17-02-2024,00:18,17.3,AG008,Rahul Gupta,L2,Email,Low,Email,Resolved,No,No,3.7,No,February,Friday
+TKT0279,14-06-2024,07:00,14-06-2024,11:26,4.44,AG004,Karan Patel,L3,Network,Medium,Phone,Resolved,No,Yes,4.8,No,June,Friday
+TKT0280,27-10-2024,08:00,27-10-2024,18:43,10.73,AG006,Amit Joshi,L1,Software,Medium,Chat,Closed,No,Yes,3.3,No,October,Sunday
+TKT0281,24-04-2024,17:00,26-04-2024,00:33,31.56,AG008,Rahul Gupta,L2,VPN,Low,Self-Service Portal,Closed,No,No,3.6,No,April,Wednesday
+TKT0282,03-04-2024,16:00,03-04-2024,19:13,11.21,AG001,Riya Sharma,L1,Printer,High,Email,Resolved,Yes,Yes,4.3,No,April,Wednesday
+TKT0283,26-06-2024,12:00,26-06-2024,14:10,2.18,AG003,Priya Nair,L1,VPN,High,Phone,Closed,No,Yes,4.1,No,June,Wednesday
+TKT0284,28-06-2024,11:00,30-06-2024,02:28,39.48,AG005,Sneha Rao,L2,Access & Permissions,Low,Email,Closed,No,No,4.4,No,June,Friday
+TKT0285,28-06-2024,15:00,29-06-2024,02:30,11.51,AG003,Priya Nair,L1,Printer,Medium,Chat,Resolved,No,Yes,4,No,June,Friday
+TKT0286,13-05-2024,08:00,13-05-2024,18:58,10.97,AG002,Arjun Mehta,L2,Hardware,Low,Self-Service Portal,Resolved,No,No,3.7,No,May,Monday
+TKT0287,26-12-2024,07:00,26-12-2024,19:37,12.63,AG002,Arjun Mehta,L2,VPN,Medium,Chat,Closed,No,Yes,4.4,No,December,Thursday
+TKT0288,28-07-2024,18:00,30-07-2024,00:09,30.16,AG002,Arjun Mehta,L2,VPN,Low,Phone,Closed,No,No,4.9,No,July,Sunday
+TKT0289,19-03-2024,07:00,19-03-2024,18:13,11.22,AG002,Arjun Mehta,L2,Hardware,Medium,Chat,Closed,No,No,4.1,No,March,Tuesday
+TKT0290,11-02-2024,14:00,13-02-2024,07:45,41.75,AG001,Riya Sharma,L1,Access & Permissions,Low,Self-Service Portal,Closed,No,No,3.5,No,February,Sunday
+TKT0291,08-07-2024,09:00,08-07-2024,21:55,12.92,AG007,Divya Iyer,L3,Network,Medium,Chat,Resolved,No,No,4.4,No,July,Monday
+TKT0292,13-02-2024,17:00,13-02-2024,20:24,3.41,AG001,Riya Sharma,L1,Network,High,Email,Resolved,No,Yes,3.9,No,February,Tuesday
+TKT0293,20-10-2024,10:00,20-10-2024,12:10,5.82,AG007,Divya Iyer,L3,Printer,Critical,Chat,Escalated,Yes,Yes,4.1,No,October,Sunday
+TKT0294,29-03-2024,09:00,29-03-2024,12:54,3.9,AG003,Priya Nair,L1,Software,Critical,Chat,Escalated,No,No,4,No,March,Friday
+TKT0295,14-02-2024,13:00,15-02-2024,04:07,15.13,AG003,Priya Nair,L1,Email,Medium,Email,Closed,No,Yes,3.6,No,February,Wednesday
+TKT0296,16-03-2024,16:00,17-03-2024,23:31,31.52,AG001,Riya Sharma,L1,Printer,Low,Phone,Resolved,No,Yes,4.2,No,March,Saturday
+TKT0297,29-07-2024,11:00,29-07-2024,14:40,3.68,AG002,Arjun Mehta,L2,Email,High,Self-Service Portal,Resolved,No,Yes,4.2,No,July,Monday
+TKT0298,20-01-2024,13:00,21-01-2024,10:47,27.12,AG007,Divya Iyer,L3,Network,Medium,Chat,Closed,Yes,No,4.5,No,January,Saturday
+TKT0299,08-06-2024,11:00,09-06-2024,07:51,20.86,AG006,Amit Joshi,L1,Hardware,Medium,Self-Service Portal,Resolved,No,Yes,4.2,No,June,Saturday
+TKT0300,05-11-2024,17:00,06-11-2024,04:34,11.57,AG008,Rahul Gupta,L2,VPN,Low,Chat,Closed,No,Yes,4,No,November,Tuesday
+TKT0301,03-02-2024,11:00,04-02-2024,05:11,18.19,AG006,Amit Joshi,L1,Hardware,Medium,Phone,Resolved,No,Yes,3.4,No,February,Saturday
+TKT0302,26-01-2024,12:00,28-01-2024,00:11,36.19,AG004,Karan Patel,L3,Hardware,Low,Chat,Closed,No,Yes,4.3,No,January,Friday
+TKT0303,31-10-2024,14:00,01-11-2024,05:06,15.1,AG002,Arjun Mehta,L2,Hardware,Low,Chat,Closed,No,No,4.8,No,October,Thursday
+TKT0304,26-01-2024,09:00,28-01-2024,03:09,42.15,AG005,Sneha Rao,L2,Software,Low,Chat,Resolved,No,No,4.4,No,January,Friday
+TKT0305,15-12-2024,07:00,15-12-2024,20:28,13.48,AG004,Karan Patel,L3,Email,Medium,Email,Resolved,No,No,4.1,No,December,Sunday
+TKT0306,27-06-2024,14:00,27-06-2024,23:02,9.04,AG005,Sneha Rao,L2,Email,Medium,Chat,Closed,No,Yes,3.9,No,June,Thursday
+TKT0307,01-06-2024,17:00,01-06-2024,23:09,6.16,AG001,Riya Sharma,L1,VPN,Medium,Self-Service Portal,Closed,No,Yes,3.1,No,June,Saturday
+TKT0308,30-01-2024,19:00,01-02-2024,13:17,42.29,AG005,Sneha Rao,L2,Email,Low,Phone,Closed,No,No,4.5,No,January,Tuesday
+TKT0309,02-08-2024,13:00,02-08-2024,14:51,1.86,AG001,Riya Sharma,L1,Security,Critical,Self-Service Portal,Resolved,No,Yes,3.1,No,August,Friday
+TKT0310,16-09-2024,11:00,16-09-2024,14:27,5.96,AG004,Karan Patel,L3,Security,Critical,Self-Service Portal,Resolved,Yes,Yes,5,No,September,Monday
+TKT0311,01-12-2024,08:00,01-12-2024,09:16,1.28,AG005,Sneha Rao,L2,Network,Critical,Self-Service Portal,Closed,No,Yes,3.6,No,December,Sunday
+TKT0312,28-01-2024,17:00,28-01-2024,22:05,10.3,AG005,Sneha Rao,L2,Security,High,Chat,Resolved,Yes,No,4.7,No,January,Sunday
+TKT0313,11-03-2024,10:00,11-03-2024,20:51,10.85,AG007,Divya Iyer,L3,Email,Medium,Phone,Closed,No,Yes,5,No,March,Monday
+TKT0314,09-06-2024,17:00,09-06-2024,22:09,5.16,AG003,Priya Nair,L1,Software,Medium,Phone,Resolved,No,Yes,3.4,No,June,Sunday
+TKT0315,25-07-2024,13:00,26-07-2024,12:18,23.31,AG002,Arjun Mehta,L2,Network,Medium,Chat,Resolved,No,No,4,No,July,Thursday
+TKT0316,10-01-2024,17:00,10-01-2024,18:01,1.03,AG001,Riya Sharma,L1,VPN,High,Phone,Closed,No,Yes,4.2,No,January,Wednesday
+TKT0317,01-06-2024,11:00,02-06-2024,13:14,26.24,AG007,Divya Iyer,L3,Email,Low,Email,Closed,No,No,4.8,No,June,Saturday
+TKT0318,02-07-2024,19:00,02-07-2024,20:09,1.16,AG003,Priya Nair,L1,VPN,Critical,Chat,Resolved,No,Yes,4.2,No,July,Tuesday
+TKT0319,04-03-2024,12:00,04-03-2024,17:58,5.98,AG003,Priya Nair,L1,Access & Permissions,High,Phone,Resolved,No,Yes,4,No,March,Monday
+TKT0320,25-01-2024,18:00,26-01-2024,00:19,6.32,AG001,Riya Sharma,L1,Software,Medium,Email,Resolved,No,No,3.7,No,January,Thursday
+TKT0321,05-12-2024,15:00,06-12-2024,00:24,35.18,AG001,Riya Sharma,L1,Email,Medium,Email,Resolved,Yes,Yes,4,No,December,Thursday
+TKT0322,11-09-2024,10:00,12-09-2024,18:21,32.36,AG002,Arjun Mehta,L2,Email,Low,Email,Resolved,No,Yes,4.6,No,September,Wednesday
+TKT0323,16-04-2024,18:00,18-04-2024,15:19,45.32,AG007,Divya Iyer,L3,Email,Low,Chat,Resolved,No,No,4.5,No,April,Tuesday
+TKT0324,21-02-2024,11:00,21-02-2024,13:45,2.76,AG008,Rahul Gupta,L2,Network,Critical,Email,Resolved,No,Yes,4,No,February,Wednesday
+TKT0325,12-12-2024,12:00,12-12-2024,15:58,3.98,AG003,Priya Nair,L1,Hardware,High,Self-Service Portal,Resolved,No,Yes,2.9,Yes,December,Thursday
+TKT0326,14-11-2024,11:00,15-11-2024,08:34,21.57,AG003,Priya Nair,L1,Network,Medium,Chat,Resolved,No,Yes,2.8,No,November,Thursday
+TKT0327,19-12-2024,14:00,21-12-2024,06:00,64.28,AG007,Divya Iyer,L3,Security,Low,Chat,Resolved,Yes,Yes,5,No,December,Thursday
+TKT0328,18-10-2024,17:00,19-10-2024,18:31,25.53,AG001,Riya Sharma,L1,Network,Low,Chat,Resolved,No,Yes,4,No,October,Friday
+TKT0329,29-07-2024,14:00,29-07-2024,14:39,0.66,AG003,Priya Nair,L1,Security,Critical,Email,Resolved,No,Yes,3.1,No,July,Monday
+TKT0330,03-09-2024,12:00,04-09-2024,05:16,17.27,AG006,Amit Joshi,L1,Software,Medium,Phone,Resolved,No,Yes,3.8,Yes,September,Tuesday
+TKT0331,08-02-2024,19:00,08-02-2024,23:26,4.44,AG003,Priya Nair,L1,Security,High,Phone,Resolved,No,Yes,3.1,No,February,Thursday
+TKT0332,23-08-2024,14:00,23-08-2024,20:36,6.61,AG007,Divya Iyer,L3,Printer,High,Email,Closed,No,Yes,4.7,No,August,Friday
+TKT0333,19-01-2024,15:00,20-01-2024,20:57,29.96,AG008,Rahul Gupta,L2,Hardware,Low,Chat,Closed,No,Yes,4.6,No,January,Friday
+TKT0334,28-01-2024,10:00,28-01-2024,13:27,3.46,AG004,Karan Patel,L3,Security,Critical,Self-Service Portal,Closed,No,Yes,4.4,No,January,Sunday
+TKT0335,02-01-2024,12:00,02-01-2024,15:29,3.49,AG002,Arjun Mehta,L2,Software,High,Phone,Closed,No,Yes,4.4,No,January,Tuesday
+TKT0336,24-02-2024,11:00,25-02-2024,03:13,16.22,AG001,Riya Sharma,L1,Network,Medium,Chat,Closed,No,Yes,3.3,No,February,Saturday
+TKT0337,24-01-2024,17:00,26-01-2024,10:30,41.5,AG004,Karan Patel,L3,VPN,Low,Chat,Closed,No,Yes,4.8,No,January,Wednesday
+TKT0338,10-10-2024,13:00,12-10-2024,06:33,41.55,AG003,Priya Nair,L1,Security,Low,Email,Resolved,No,Yes,3.5,No,October,Thursday
+TKT0339,15-09-2024,13:00,16-09-2024,13:45,24.75,AG003,Priya Nair,L1,Network,Low,Self-Service Portal,Resolved,No,Yes,3.7,No,September,Sunday
+TKT0340,11-03-2024,13:00,12-03-2024,05:03,16.05,AG006,Amit Joshi,L1,Email,Medium,Phone,Closed,No,Yes,4.2,No,March,Monday
+TKT0341,17-12-2024,12:00,19-12-2024,08:51,44.85,AG004,Karan Patel,L3,Access & Permissions,Low,Self-Service Portal,Resolved,No,Yes,4.1,No,December,Tuesday
+TKT0342,25-10-2024,16:00,25-10-2024,23:36,7.6,AG006,Amit Joshi,L1,Software,High,Chat,Closed,No,Yes,3.9,No,October,Friday
+TKT0343,14-07-2024,09:00,14-07-2024,14:03,5.06,AG007,Divya Iyer,L3,Hardware,Medium,Email,Resolved,No,No,4.1,No,July,Sunday
+TKT0344,14-04-2024,19:00,14-04-2024,23:47,4.79,AG005,Sneha Rao,L2,Network,High,Self-Service Portal,Resolved,No,No,3.8,No,April,Sunday
+TKT0345,20-12-2024,17:00,20-12-2024,21:56,28.16,AG007,Divya Iyer,L3,Access & Permissions,Medium,Self-Service Portal,Closed,Yes,No,4.6,No,December,Friday
+TKT0346,13-11-2024,19:00,14-11-2024,02:01,7.02,AG001,Riya Sharma,L1,Hardware,High,Phone,Closed,No,Yes,3.7,No,November,Wednesday
+TKT0347,15-12-2024,08:00,15-12-2024,23:28,15.48,AG004,Karan Patel,L3,Access & Permissions,Low,Phone,Closed,No,No,4.2,Yes,December,Sunday
+TKT0348,03-01-2024,12:00,04-01-2024,14:39,26.65,AG005,Sneha Rao,L2,Email,Low,Self-Service Portal,Closed,No,No,4.7,No,January,Wednesday
+TKT0349,07-02-2024,19:00,08-02-2024,00:57,5.95,AG005,Sneha Rao,L2,Security,High,Self-Service Portal,Resolved,No,Yes,4,No,February,Wednesday
+TKT0350,17-02-2024,12:00,17-02-2024,20:25,8.42,AG003,Priya Nair,L1,Printer,Medium,Chat,Resolved,No,No,3,No,February,Saturday
+TKT0351,16-08-2024,10:00,18-08-2024,06:10,44.18,AG008,Rahul Gupta,L2,Hardware,Low,Self-Service Portal,Resolved,No,Yes,4.3,No,August,Friday
+TKT0352,16-07-2024,11:00,16-07-2024,13:23,2.39,AG006,Amit Joshi,L1,Printer,Critical,Email,Escalated,No,Yes,3.3,No,July,Tuesday
+TKT0353,13-06-2024,15:00,14-06-2024,02:17,11.29,AG008,Rahul Gupta,L2,Security,Low,Phone,Resolved,No,Yes,3.5,No,June,Thursday
+TKT0354,23-02-2024,10:00,23-02-2024,14:45,4.76,AG004,Karan Patel,L3,Access & Permissions,High,Chat,Closed,No,Yes,5,No,February,Friday
+TKT0355,20-01-2024,08:00,20-01-2024,18:55,10.93,AG002,Arjun Mehta,L2,Network,Low,Self-Service Portal,Resolved,No,No,3.7,No,January,Saturday
+TKT0356,18-11-2024,13:00,19-11-2024,01:39,30.67,AG004,Karan Patel,L3,Email,Medium,Chat,Resolved,Yes,Yes,3.9,No,November,Monday
+TKT0357,02-07-2024,15:00,02-07-2024,16:44,1.74,AG002,Arjun Mehta,L2,Hardware,High,Email,Resolved,No,No,4.7,No,July,Tuesday
+TKT0358,30-08-2024,09:00,30-08-2024,23:40,14.67,AG008,Rahul Gupta,L2,Printer,Medium,Email,Closed,No,No,3.5,No,August,Friday
+TKT0359,06-01-2024,15:00,07-01-2024,12:30,21.5,AG003,Priya Nair,L1,Email,Medium,Self-Service Portal,Closed,No,No,2.9,No,January,Saturday
+TKT0360,18-04-2024,13:00,20-04-2024,09:13,44.23,AG002,Arjun Mehta,L2,Email,Low,Self-Service Portal,Resolved,No,No,4.8,No,April,Thursday
+TKT0361,08-10-2024,14:00,09-10-2024,23:47,33.79,AG005,Sneha Rao,L2,Access & Permissions,Low,Email,Closed,No,Yes,3.3,No,October,Tuesday
+TKT0362,21-02-2024,11:00,22-02-2024,03:23,16.39,AG008,Rahul Gupta,L2,VPN,Medium,Phone,Closed,No,No,4.7,No,February,Wednesday
+TKT0363,10-06-2024,13:00,10-06-2024,20:22,7.37,AG005,Sneha Rao,L2,Network,Medium,Self-Service Portal,Closed,No,Yes,3.7,No,June,Monday
+TKT0364,02-09-2024,14:00,03-09-2024,02:54,27.69,AG006,Amit Joshi,L1,Network,Medium,Self-Service Portal,Resolved,Yes,Yes,4,No,September,Monday
+TKT0365,02-10-2024,10:00,02-10-2024,12:50,2.84,AG002,Arjun Mehta,L2,Email,High,Phone,Resolved,No,No,4.8,No,October,Wednesday
+TKT0366,19-01-2024,15:00,19-01-2024,17:49,2.82,AG001,Riya Sharma,L1,Printer,High,Phone,Resolved,No,Yes,4.4,No,January,Friday
+TKT0367,22-07-2024,12:00,23-07-2024,16:05,58.53,AG004,Karan Patel,L3,Email,Low,Email,Resolved,Yes,Yes,5,No,July,Monday
+TKT0368,04-09-2024,12:00,04-09-2024,21:37,9.62,AG003,Priya Nair,L1,Security,Low,Phone,Resolved,No,No,3.9,Yes,September,Wednesday
+TKT0369,24-01-2024,07:00,25-01-2024,06:36,23.61,AG004,Karan Patel,L3,VPN,Medium,Chat,Closed,No,Yes,4.4,No,January,Wednesday
+TKT0370,06-07-2024,16:00,07-07-2024,09:04,17.07,AG005,Sneha Rao,L2,Network,Medium,Chat,Closed,No,No,4.5,No,July,Saturday
+TKT0371,06-09-2024,19:00,07-09-2024,08:38,13.64,AG004,Karan Patel,L3,Printer,Medium,Self-Service Portal,Resolved,No,No,4.9,No,September,Friday
+TKT0372,18-04-2024,09:00,18-04-2024,16:44,7.74,AG004,Karan Patel,L3,Software,Medium,Self-Service Portal,Resolved,No,Yes,4.5,No,April,Thursday
+TKT0373,11-12-2024,14:00,11-12-2024,18:21,4.35,AG007,Divya Iyer,L3,VPN,High,Chat,Closed,No,Yes,4.9,Yes,December,Wednesday
+TKT0374,09-03-2024,17:00,10-03-2024,07:15,33.26,AG001,Riya Sharma,L1,Network,Medium,Phone,Resolved,Yes,No,4.4,No,March,Saturday
+TKT0375,13-02-2024,10:00,13-02-2024,14:08,4.14,AG007,Divya Iyer,L3,Hardware,High,Self-Service Portal,Resolved,No,Yes,5,No,February,Tuesday
+TKT0376,15-11-2024,17:00,15-11-2024,21:34,10.28,AG007,Divya Iyer,L3,Network,High,Phone,Closed,Yes,Yes,4.3,No,November,Friday
+TKT0377,25-02-2024,07:00,25-02-2024,15:03,8.05,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Phone,Closed,No,No,4.8,No,February,Sunday
+TKT0378,29-09-2024,15:00,30-09-2024,10:03,19.05,AG002,Arjun Mehta,L2,Network,Medium,Email,Resolved,No,Yes,3.5,No,September,Sunday
+TKT0379,23-12-2024,15:00,24-12-2024,03:34,12.58,AG007,Divya Iyer,L3,Printer,Medium,Email,Closed,No,No,5,No,December,Monday
+TKT0380,29-04-2024,08:00,30-04-2024,03:19,54.73,AG002,Arjun Mehta,L2,Printer,Low,Chat,Resolved,Yes,No,4.8,Yes,April,Monday
+TKT0381,01-12-2024,10:00,02-12-2024,03:45,17.76,AG001,Riya Sharma,L1,Software,Medium,Chat,Closed,No,No,3.5,No,December,Sunday
+TKT0382,14-04-2024,13:00,15-04-2024,04:02,15.04,AG007,Divya Iyer,L3,VPN,Medium,Chat,Closed,No,No,4.9,No,April,Sunday
+TKT0383,11-03-2024,17:00,11-03-2024,18:49,1.83,AG005,Sneha Rao,L2,VPN,High,Chat,Resolved,No,Yes,3.6,No,March,Monday
+TKT0384,23-03-2024,13:00,23-03-2024,20:45,7.75,AG007,Divya Iyer,L3,VPN,High,Email,Resolved,No,No,4,No,March,Saturday
+TKT0385,08-07-2024,08:00,09-07-2024,16:21,32.36,AG007,Divya Iyer,L3,Software,Low,Phone,Closed,No,Yes,5,No,July,Monday
+TKT0386,23-11-2024,14:00,23-11-2024,16:02,2.04,AG005,Sneha Rao,L2,Hardware,Critical,Phone,Escalated,No,Yes,3.5,No,November,Saturday
+TKT0387,03-07-2024,10:00,04-07-2024,03:06,17.1,AG001,Riya Sharma,L1,Access & Permissions,Medium,Email,Closed,No,No,4.6,No,July,Wednesday
+TKT0388,26-12-2024,08:00,27-12-2024,06:22,22.38,AG007,Divya Iyer,L3,Printer,Medium,Email,Closed,No,Yes,4.9,No,December,Thursday
+TKT0389,20-08-2024,13:00,21-08-2024,04:30,15.5,AG005,Sneha Rao,L2,Access & Permissions,Medium,Phone,Resolved,No,No,3.6,No,August,Tuesday
+TKT0390,02-10-2024,19:00,02-10-2024,21:30,2.51,AG005,Sneha Rao,L2,VPN,Critical,Self-Service Portal,Resolved,No,Yes,4.3,No,October,Wednesday
+TKT0391,03-09-2024,08:00,03-09-2024,10:48,2.8,AG008,Rahul Gupta,L2,Security,High,Email,Resolved,No,Yes,3.9,No,September,Tuesday
+TKT0392,21-09-2024,15:00,21-09-2024,19:11,4.19,AG004,Karan Patel,L3,VPN,Medium,Self-Service Portal,Resolved,No,No,5,No,September,Saturday
+TKT0393,31-08-2024,12:00,31-08-2024,23:04,11.07,AG006,Amit Joshi,L1,Software,Medium,Phone,Resolved,No,Yes,4.2,No,August,Saturday
+TKT0394,15-04-2024,10:00,15-04-2024,12:25,2.42,AG004,Karan Patel,L3,Access & Permissions,High,Self-Service Portal,Resolved,No,Yes,4.3,No,April,Monday
+TKT0395,10-11-2024,07:00,11-11-2024,02:16,19.28,AG002,Arjun Mehta,L2,Software,Medium,Chat,Closed,No,No,4.3,No,November,Sunday
+TKT0396,08-09-2024,09:00,08-09-2024,16:53,7.89,AG006,Amit Joshi,L1,Security,High,Self-Service Portal,Resolved,No,No,4.3,Yes,September,Sunday
+TKT0397,14-09-2024,12:00,14-09-2024,13:52,1.88,AG007,Divya Iyer,L3,Security,Critical,Email,Escalated,No,No,5,No,September,Saturday
+TKT0398,11-12-2024,10:00,11-12-2024,21:35,11.59,AG008,Rahul Gupta,L2,VPN,Medium,Email,Closed,No,No,3.5,No,December,Wednesday
+TKT0399,06-07-2024,09:00,07-07-2024,12:57,27.95,AG005,Sneha Rao,L2,Access & Permissions,Low,Self-Service Portal,Closed,No,Yes,3.5,No,July,Saturday
+TKT0400,21-10-2024,17:00,22-10-2024,01:34,8.57,AG007,Divya Iyer,L3,Email,Medium,Phone,Resolved,No,No,4.2,No,October,Monday
+TKT0401,30-08-2024,19:00,31-08-2024,03:23,8.39,AG007,Divya Iyer,L3,Access & Permissions,Low,Phone,Closed,No,No,4.7,No,August,Friday
+TKT0402,22-07-2024,08:00,23-07-2024,01:48,17.81,AG005,Sneha Rao,L2,Email,Medium,Email,Closed,No,Yes,3.3,No,July,Monday
+TKT0403,03-07-2024,12:00,03-07-2024,16:55,4.92,AG002,Arjun Mehta,L2,Security,High,Self-Service Portal,Resolved,No,No,4.9,No,July,Wednesday
+TKT0404,25-05-2024,12:00,25-05-2024,22:30,28.14,AG006,Amit Joshi,L1,Access & Permissions,Medium,Phone,Closed,Yes,Yes,3.6,No,May,Saturday
+TKT0405,26-03-2024,17:00,27-03-2024,13:09,20.15,AG007,Divya Iyer,L3,Email,Medium,Phone,Closed,No,Yes,4.5,No,March,Tuesday
+TKT0406,09-06-2024,12:00,10-06-2024,22:07,34.12,AG002,Arjun Mehta,L2,Software,Low,Phone,Closed,No,Yes,4.5,No,June,Sunday
+TKT0407,30-07-2024,09:00,30-07-2024,11:17,2.29,AG008,Rahul Gupta,L2,VPN,High,Chat,Closed,No,Yes,3.3,No,July,Tuesday
+TKT0408,18-02-2024,08:00,20-02-2024,05:28,45.47,AG002,Arjun Mehta,L2,Access & Permissions,Low,Email,Closed,No,No,4.2,No,February,Sunday
+TKT0409,13-02-2024,17:00,15-02-2024,14:15,45.26,AG002,Arjun Mehta,L2,Software,Low,Phone,Closed,No,No,4,No,February,Tuesday
+TKT0410,15-01-2024,07:00,16-01-2024,00:16,17.27,AG003,Priya Nair,L1,Network,Medium,Phone,Closed,No,No,4.1,No,January,Monday
+TKT0411,19-11-2024,18:00,20-11-2024,10:43,16.72,AG003,Priya Nair,L1,Network,Medium,Chat,Closed,No,Yes,3.6,No,November,Tuesday
+TKT0412,06-06-2024,12:00,06-06-2024,15:53,10.22,AG008,Rahul Gupta,L2,Access & Permissions,High,Chat,Resolved,Yes,No,3.5,No,June,Thursday
+TKT0413,01-09-2024,11:00,01-09-2024,15:10,4.18,AG008,Rahul Gupta,L2,Hardware,Medium,Chat,Resolved,No,No,4,No,September,Sunday
+TKT0414,21-07-2024,10:00,21-07-2024,17:16,7.27,AG006,Amit Joshi,L1,Access & Permissions,Medium,Chat,Closed,No,No,4,Yes,July,Sunday
+TKT0415,30-07-2024,10:00,01-08-2024,04:08,42.14,AG004,Karan Patel,L3,Email,Low,Self-Service Portal,Closed,No,No,4.2,No,July,Tuesday
+TKT0416,18-03-2024,07:00,20-03-2024,05:47,46.79,AG005,Sneha Rao,L2,Security,Low,Email,Closed,No,Yes,3.2,No,March,Monday
+TKT0417,08-01-2024,14:00,09-01-2024,06:41,16.69,AG008,Rahul Gupta,L2,Hardware,Low,Phone,Closed,No,Yes,4,No,January,Monday
+TKT0418,29-01-2024,11:00,30-01-2024,06:30,19.51,AG008,Rahul Gupta,L2,Hardware,Medium,Phone,Resolved,No,No,3.4,No,January,Monday
+TKT0419,07-05-2024,13:00,07-05-2024,19:24,6.4,AG005,Sneha Rao,L2,Printer,High,Email,Resolved,No,Yes,3.9,No,May,Tuesday
+TKT0420,14-06-2024,09:00,15-06-2024,01:34,16.58,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Self-Service Portal,Resolved,No,Yes,3.5,No,June,Friday
+TKT0421,07-12-2024,10:00,08-12-2024,09:28,23.47,AG005,Sneha Rao,L2,Access & Permissions,Medium,Email,Resolved,No,No,3.6,No,December,Saturday
+TKT0422,05-01-2024,07:00,05-01-2024,22:37,15.62,AG005,Sneha Rao,L2,Software,Medium,Phone,Resolved,No,Yes,4.3,No,January,Friday
+TKT0423,17-12-2024,16:00,18-12-2024,13:32,57.09,AG002,Arjun Mehta,L2,Access & Permissions,Low,Email,Resolved,Yes,Yes,5,Yes,December,Tuesday
+TKT0424,11-06-2024,15:00,13-06-2024,06:32,39.54,AG003,Priya Nair,L1,Software,Low,Phone,Closed,No,Yes,3.9,No,June,Tuesday
+TKT0425,08-05-2024,07:00,08-05-2024,20:42,13.71,AG001,Riya Sharma,L1,Printer,Medium,Phone,Resolved,No,Yes,3.7,No,May,Wednesday
+TKT0426,02-11-2024,15:00,02-11-2024,17:07,2.12,AG006,Amit Joshi,L1,VPN,High,Self-Service Portal,Closed,No,Yes,3.6,No,November,Saturday
+TKT0427,04-04-2024,07:00,04-04-2024,12:20,5.34,AG008,Rahul Gupta,L2,Hardware,High,Chat,Closed,No,Yes,3.9,No,April,Thursday
+TKT0428,09-10-2024,09:00,10-10-2024,01:15,16.26,AG007,Divya Iyer,L3,Access & Permissions,Medium,Chat,Resolved,No,Yes,4.5,No,October,Wednesday
+TKT0429,01-04-2024,07:00,01-04-2024,09:24,2.41,AG002,Arjun Mehta,L2,Hardware,High,Phone,Closed,No,No,4.2,No,April,Monday
+TKT0430,07-01-2024,10:00,08-01-2024,03:06,17.11,AG005,Sneha Rao,L2,Hardware,Medium,Email,Closed,No,Yes,4.7,No,January,Sunday
+TKT0431,07-07-2024,19:00,08-07-2024,13:10,18.17,AG001,Riya Sharma,L1,VPN,Medium,Chat,Resolved,No,No,4.3,No,July,Sunday
+TKT0432,21-02-2024,18:00,21-02-2024,19:18,5.44,AG002,Arjun Mehta,L2,Access & Permissions,Critical,Email,Resolved,Yes,No,4,No,February,Wednesday
+TKT0433,11-12-2024,14:00,11-12-2024,19:55,10.01,AG007,Divya Iyer,L3,Software,High,Self-Service Portal,Resolved,Yes,No,4.7,No,December,Wednesday
+TKT0434,29-06-2024,12:00,30-06-2024,03:00,15,AG006,Amit Joshi,L1,Network,Medium,Chat,Closed,No,Yes,4.4,No,June,Saturday
+TKT0435,11-07-2024,19:00,12-07-2024,10:00,15,AG007,Divya Iyer,L3,VPN,Medium,Phone,Closed,No,No,5,No,July,Thursday
+TKT0436,01-11-2024,07:00,01-11-2024,11:37,10.4,AG007,Divya Iyer,L3,Hardware,High,Self-Service Portal,Closed,Yes,No,5,No,November,Friday
+TKT0437,10-10-2024,15:00,11-10-2024,21:15,30.25,AG004,Karan Patel,L3,VPN,Low,Self-Service Portal,Resolved,No,No,5,No,October,Thursday
+TKT0438,29-04-2024,11:00,01-05-2024,03:26,40.44,AG003,Priya Nair,L1,Network,Low,Phone,Resolved,No,Yes,2.8,No,April,Monday
+TKT0439,31-10-2024,17:00,01-11-2024,03:00,29.33,AG008,Rahul Gupta,L2,Network,Medium,Email,Resolved,Yes,No,4.5,No,October,Thursday
+TKT0440,01-08-2024,08:00,01-08-2024,15:05,7.09,AG006,Amit Joshi,L1,VPN,High,Chat,Resolved,No,Yes,3.2,No,August,Thursday
+TKT0441,12-06-2024,15:00,13-06-2024,06:18,32.07,AG007,Divya Iyer,L3,Hardware,Medium,Email,Resolved,Yes,Yes,4.5,Yes,June,Wednesday
+TKT0442,23-04-2024,13:00,23-04-2024,16:01,10.39,AG007,Divya Iyer,L3,Security,High,Email,Resolved,Yes,No,4.6,No,April,Tuesday
+TKT0443,13-09-2024,13:00,15-09-2024,03:57,57.72,AG001,Riya Sharma,L1,Printer,Low,Chat,Closed,Yes,No,3.2,No,September,Friday
+TKT0444,08-08-2024,12:00,09-08-2024,23:23,35.39,AG004,Karan Patel,L3,Access & Permissions,Low,Self-Service Portal,Closed,No,No,4.8,No,August,Thursday
+TKT0445,05-06-2024,09:00,06-06-2024,08:45,23.75,AG006,Amit Joshi,L1,Access & Permissions,Medium,Email,Closed,No,Yes,3.8,No,June,Wednesday
+TKT0446,12-04-2024,17:00,12-04-2024,18:48,1.81,AG008,Rahul Gupta,L2,Hardware,Critical,Phone,Resolved,No,Yes,4.5,No,April,Friday
+TKT0447,05-06-2024,14:00,06-06-2024,16:51,26.85,AG003,Priya Nair,L1,Email,Low,Email,Resolved,No,Yes,3.2,No,June,Wednesday
+TKT0448,21-12-2024,18:00,22-12-2024,11:22,17.37,AG005,Sneha Rao,L2,Security,Medium,Phone,Resolved,No,Yes,3.8,No,December,Saturday
+TKT0449,28-01-2024,14:00,30-01-2024,00:11,34.19,AG001,Riya Sharma,L1,Email,Low,Self-Service Portal,Closed,No,No,3,No,January,Sunday
+TKT0450,28-04-2024,13:00,28-04-2024,17:33,4.56,AG001,Riya Sharma,L1,Email,High,Chat,Closed,No,Yes,4.1,No,April,Sunday
+TKT0451,14-10-2024,18:00,15-10-2024,02:51,49.45,AG002,Arjun Mehta,L2,Network,Low,Chat,Closed,Yes,No,3.8,No,October,Monday
+TKT0452,30-06-2024,17:00,01-07-2024,03:03,10.05,AG003,Priya Nair,L1,Hardware,Medium,Self-Service Portal,Closed,No,Yes,4.3,No,June,Sunday
+TKT0453,11-10-2024,11:00,11-10-2024,13:34,2.58,AG005,Sneha Rao,L2,Printer,High,Email,Resolved,No,No,3.7,No,October,Friday
+TKT0454,06-08-2024,11:00,07-08-2024,09:11,22.19,AG007,Divya Iyer,L3,Access & Permissions,Medium,Phone,Resolved,No,No,4.5,No,August,Tuesday
+TKT0455,08-08-2024,19:00,09-08-2024,01:54,6.9,AG004,Karan Patel,L3,Network,Medium,Phone,Closed,No,Yes,5,Yes,August,Thursday
+TKT0456,16-01-2024,19:00,17-01-2024,05:22,10.37,AG002,Arjun Mehta,L2,Network,Medium,Phone,Closed,No,Yes,5,No,January,Tuesday
+TKT0457,08-03-2024,09:00,08-03-2024,10:10,1.18,AG005,Sneha Rao,L2,Network,High,Email,Resolved,No,Yes,4.8,No,March,Friday
+TKT0458,09-03-2024,15:00,10-03-2024,11:55,20.92,AG004,Karan Patel,L3,Hardware,Medium,Chat,Resolved,No,Yes,4.7,No,March,Saturday
+TKT0459,25-04-2024,07:00,26-04-2024,07:20,24.34,AG008,Rahul Gupta,L2,Security,Low,Phone,Closed,No,Yes,4.9,No,April,Thursday
+TKT0460,11-11-2024,14:00,13-11-2024,01:30,35.51,AG004,Karan Patel,L3,Access & Permissions,Low,Chat,Closed,No,Yes,5,No,November,Monday
+TKT0461,09-11-2024,18:00,09-11-2024,23:00,9.46,AG001,Riya Sharma,L1,Printer,High,Chat,Resolved,Yes,Yes,3.9,No,November,Saturday
+TKT0462,05-05-2024,15:00,05-05-2024,19:46,11.01,AG008,Rahul Gupta,L2,Security,High,Email,Closed,Yes,No,4.9,No,May,Sunday
+TKT0463,04-06-2024,19:00,06-06-2024,12:06,41.1,AG001,Riya Sharma,L1,Access & Permissions,Low,Chat,Resolved,No,Yes,3.7,No,June,Tuesday
+TKT0464,16-02-2024,18:00,16-02-2024,22:30,4.5,AG003,Priya Nair,L1,Security,High,Chat,Resolved,No,Yes,3,No,February,Friday
+TKT0465,29-10-2024,18:00,31-10-2024,13:49,43.83,AG006,Amit Joshi,L1,Security,Low,Chat,Resolved,No,No,4.2,No,October,Tuesday
+TKT0466,20-11-2024,12:00,20-11-2024,23:24,11.41,AG002,Arjun Mehta,L2,Software,Low,Chat,Resolved,No,Yes,4.5,No,November,Wednesday
+TKT0467,16-10-2024,17:00,17-10-2024,00:02,10.82,AG007,Divya Iyer,L3,Hardware,High,Self-Service Portal,Resolved,Yes,No,4.3,No,October,Wednesday
+TKT0468,01-03-2024,09:00,03-03-2024,07:25,46.42,AG005,Sneha Rao,L2,Security,Low,Phone,Resolved,No,Yes,3.2,No,March,Friday
+TKT0469,01-05-2024,10:00,02-05-2024,01:46,34.01,AG008,Rahul Gupta,L2,Hardware,Medium,Chat,Resolved,Yes,No,4.1,No,May,Wednesday
+TKT0470,13-11-2024,17:00,13-11-2024,21:54,4.9,AG001,Riya Sharma,L1,Access & Permissions,High,Self-Service Portal,Closed,No,No,4.3,Yes,November,Wednesday
+TKT0471,26-01-2024,08:00,26-01-2024,20:20,25.28,AG001,Riya Sharma,L1,Email,Medium,Email,Resolved,Yes,Yes,3.3,No,January,Friday
+TKT0472,14-06-2024,12:00,16-06-2024,07:54,43.9,AG006,Amit Joshi,L1,Hardware,Low,Self-Service Portal,Resolved,No,Yes,4.1,No,June,Friday
+TKT0473,17-06-2024,15:00,18-06-2024,03:16,12.28,AG003,Priya Nair,L1,Software,Medium,Self-Service Portal,Resolved,No,No,3,No,June,Monday
+TKT0474,12-05-2024,15:00,13-05-2024,06:30,15.5,AG005,Sneha Rao,L2,Printer,Medium,Self-Service Portal,Closed,No,Yes,4.2,No,May,Sunday
+TKT0475,28-12-2024,11:00,28-12-2024,18:51,7.85,AG008,Rahul Gupta,L2,Security,High,Phone,Resolved,No,No,3.3,No,December,Saturday
+TKT0476,28-06-2024,15:00,29-06-2024,11:07,20.12,AG004,Karan Patel,L3,Printer,Medium,Self-Service Portal,Closed,No,Yes,4.2,No,June,Friday
+TKT0477,04-01-2024,08:00,05-01-2024,01:43,32.6,AG002,Arjun Mehta,L2,Email,Medium,Self-Service Portal,Resolved,Yes,Yes,3.9,No,January,Thursday
+TKT0478,30-08-2024,19:00,30-08-2024,20:15,1.25,AG004,Karan Patel,L3,VPN,High,Chat,Closed,No,No,4.1,No,August,Friday
+TKT0479,29-01-2024,15:00,29-01-2024,18:06,11.32,AG006,Amit Joshi,L1,Security,High,Chat,Resolved,Yes,No,4,No,January,Monday
+TKT0480,23-05-2024,07:00,24-05-2024,04:34,21.57,AG006,Amit Joshi,L1,VPN,Low,Phone,Resolved,No,Yes,3.4,No,May,Thursday
+TKT0481,27-12-2024,12:00,28-12-2024,06:12,18.2,AG007,Divya Iyer,L3,Network,Medium,Self-Service Portal,Resolved,No,No,4.4,No,December,Friday
+TKT0482,27-02-2024,12:00,28-02-2024,07:42,35.82,AG005,Sneha Rao,L2,Access & Permissions,Medium,Phone,Closed,Yes,Yes,4.4,No,February,Tuesday
+TKT0483,25-09-2024,11:00,27-09-2024,02:01,39.02,AG008,Rahul Gupta,L2,Network,Low,Chat,Resolved,No,Yes,3.5,No,September,Wednesday
+TKT0484,03-01-2024,11:00,04-01-2024,09:39,22.65,AG001,Riya Sharma,L1,Security,Medium,Email,Resolved,No,Yes,4.1,No,January,Wednesday
+TKT0485,12-01-2024,16:00,13-01-2024,11:10,19.17,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Closed,No,No,4,No,January,Friday
+TKT0486,17-03-2024,09:00,17-03-2024,18:28,9.47,AG006,Amit Joshi,L1,Security,Medium,Self-Service Portal,Resolved,No,Yes,2.8,No,March,Sunday
+TKT0487,20-10-2024,10:00,21-10-2024,00:51,14.85,AG006,Amit Joshi,L1,VPN,Low,Self-Service Portal,Closed,No,Yes,3.3,Yes,October,Sunday
+TKT0488,24-02-2024,13:00,24-02-2024,13:41,0.69,AG001,Riya Sharma,L1,Security,Critical,Email,Closed,No,No,3.7,No,February,Saturday
+TKT0489,26-08-2024,16:00,26-08-2024,17:55,1.92,AG005,Sneha Rao,L2,VPN,High,Email,Closed,No,Yes,4.5,No,August,Monday
+TKT0490,14-03-2024,16:00,15-03-2024,01:09,9.16,AG005,Sneha Rao,L2,Security,Medium,Phone,Closed,No,No,3.8,No,March,Thursday
+TKT0491,31-08-2024,08:00,31-08-2024,19:01,35.57,AG006,Amit Joshi,L1,Security,Medium,Email,Resolved,Yes,Yes,3.5,No,August,Saturday
+TKT0492,03-06-2024,15:00,04-06-2024,04:13,13.22,AG007,Divya Iyer,L3,Software,Medium,Email,Resolved,No,No,4.9,No,June,Monday
+TKT0493,21-12-2024,16:00,22-12-2024,17:15,25.25,AG008,Rahul Gupta,L2,Printer,Low,Phone,Closed,No,No,4.9,No,December,Saturday
+TKT0494,30-12-2024,16:00,31-12-2024,12:43,20.73,AG004,Karan Patel,L3,Network,Medium,Email,Closed,No,No,4.1,No,December,Monday
+TKT0495,05-02-2024,16:00,05-02-2024,22:10,6.17,AG008,Rahul Gupta,L2,Network,Medium,Chat,Closed,No,Yes,4.6,No,February,Monday
+TKT0496,24-10-2024,19:00,26-10-2024,04:27,33.45,AG001,Riya Sharma,L1,Software,Low,Phone,Closed,No,No,3,No,October,Thursday
+TKT0497,02-06-2024,16:00,04-06-2024,07:46,39.77,AG008,Rahul Gupta,L2,Access & Permissions,Low,Self-Service Portal,Closed,No,Yes,4.4,No,June,Sunday
+TKT0498,06-03-2024,11:00,06-03-2024,16:15,5.25,AG006,Amit Joshi,L1,Software,Medium,Chat,Resolved,No,Yes,4.2,No,March,Wednesday
+TKT0499,30-04-2024,13:00,30-04-2024,18:55,5.92,AG006,Amit Joshi,L1,Software,High,Email,Closed,No,No,3.4,No,April,Tuesday
+TKT0500,11-10-2024,13:00,12-10-2024,09:52,20.87,AG004,Karan Patel,L3,Network,Medium,Phone,Closed,No,No,4.5,No,October,Friday
+TKT0501,14-03-2024,18:00,16-03-2024,13:24,43.4,AG003,Priya Nair,L1,Network,Low,Email,Resolved,No,Yes,3.8,No,March,Thursday
+TKT0502,15-11-2024,09:00,15-11-2024,13:10,4.18,AG007,Divya Iyer,L3,Security,High,Chat,Closed,No,Yes,4.7,No,November,Friday
+TKT0503,01-05-2024,18:00,02-05-2024,08:01,14.03,AG003,Priya Nair,L1,Printer,Medium,Chat,Closed,No,Yes,3.4,Yes,May,Wednesday
+TKT0504,24-10-2024,14:00,24-10-2024,21:43,7.73,AG001,Riya Sharma,L1,Security,High,Email,Closed,No,Yes,3.1,No,October,Thursday
+TKT0505,16-12-2024,17:00,17-12-2024,22:34,29.57,AG002,Arjun Mehta,L2,Software,Low,Email,Closed,No,Yes,4.3,No,December,Monday
+TKT0506,20-10-2024,18:00,21-10-2024,04:37,10.63,AG001,Riya Sharma,L1,Security,Medium,Chat,Closed,No,Yes,3.6,No,October,Sunday
+TKT0507,01-02-2024,17:00,01-02-2024,21:18,11.64,AG001,Riya Sharma,L1,Email,High,Self-Service Portal,Resolved,Yes,Yes,3.3,No,February,Thursday
+TKT0508,09-05-2024,09:00,10-05-2024,01:19,16.32,AG002,Arjun Mehta,L2,Network,Medium,Self-Service Portal,Resolved,No,No,3.8,No,May,Thursday
+TKT0509,13-05-2024,19:00,14-05-2024,13:01,18.02,AG003,Priya Nair,L1,Security,Medium,Phone,Resolved,No,Yes,3.5,No,May,Monday
+TKT0510,10-09-2024,19:00,11-09-2024,18:52,23.87,AG002,Arjun Mehta,L2,Network,Medium,Phone,Closed,No,No,4.6,No,September,Tuesday
+TKT0511,28-01-2024,17:00,29-01-2024,02:17,9.29,AG003,Priya Nair,L1,Access & Permissions,Medium,Self-Service Portal,Closed,No,No,4,No,January,Sunday
+TKT0512,30-08-2024,11:00,30-08-2024,17:54,34.36,AG004,Karan Patel,L3,Printer,Medium,Chat,Closed,Yes,No,5,No,August,Friday
+TKT0513,09-08-2024,16:00,11-08-2024,12:43,44.72,AG006,Amit Joshi,L1,Hardware,Low,Self-Service Portal,Resolved,No,No,4.2,No,August,Friday
+TKT0514,10-12-2024,16:00,10-12-2024,22:23,6.39,AG007,Divya Iyer,L3,Security,High,Phone,Resolved,No,Yes,4.8,No,December,Tuesday
+TKT0515,29-07-2024,08:00,29-07-2024,12:40,4.68,AG001,Riya Sharma,L1,Hardware,High,Email,Closed,No,Yes,4.1,No,July,Monday
+TKT0516,02-11-2024,17:00,03-11-2024,05:52,12.87,AG001,Riya Sharma,L1,Software,Low,Phone,Closed,No,Yes,4.5,No,November,Saturday
+TKT0517,30-05-2024,14:00,31-05-2024,07:12,17.21,AG003,Priya Nair,L1,Software,Medium,Self-Service Portal,Closed,No,Yes,2.8,No,May,Thursday
+TKT0518,21-05-2024,19:00,22-05-2024,05:30,10.5,AG006,Amit Joshi,L1,Email,Low,Email,Closed,No,Yes,3.4,No,May,Tuesday
+TKT0519,12-04-2024,16:00,13-04-2024,03:51,11.85,AG005,Sneha Rao,L2,Network,Medium,Chat,Closed,No,No,4.2,No,April,Friday
+TKT0520,18-01-2024,08:00,18-01-2024,09:29,11.84,AG002,Arjun Mehta,L2,Security,High,Email,Resolved,Yes,Yes,4.6,No,January,Thursday
+TKT0521,16-05-2024,09:00,16-05-2024,11:57,5.72,AG003,Priya Nair,L1,Hardware,Critical,Chat,Closed,Yes,Yes,4.1,No,May,Thursday
+TKT0522,15-07-2024,18:00,16-07-2024,14:21,20.36,AG007,Divya Iyer,L3,Software,Medium,Email,Closed,No,No,4.8,No,July,Monday
+TKT0523,06-07-2024,15:00,08-07-2024,09:07,42.13,AG005,Sneha Rao,L2,Printer,Low,Email,Closed,No,Yes,3.7,No,July,Saturday
+TKT0524,02-06-2024,18:00,02-06-2024,19:52,1.87,AG003,Priya Nair,L1,Hardware,Critical,Phone,Closed,No,Yes,2.9,No,June,Sunday
+TKT0525,07-09-2024,13:00,07-09-2024,23:31,10.52,AG003,Priya Nair,L1,Hardware,Low,Phone,Closed,No,No,3.6,No,September,Saturday
+TKT0526,22-01-2024,13:00,22-01-2024,19:21,6.36,AG001,Riya Sharma,L1,Hardware,Medium,Self-Service Portal,Closed,No,Yes,4.3,No,January,Monday
+TKT0527,13-03-2024,14:00,13-03-2024,16:47,2.79,AG003,Priya Nair,L1,Access & Permissions,Critical,Email,Resolved,No,Yes,3.5,Yes,March,Wednesday
+TKT0528,21-08-2024,16:00,21-08-2024,18:11,9.66,AG001,Riya Sharma,L1,Email,High,Email,Resolved,Yes,Yes,3.9,No,August,Wednesday
+TKT0529,21-06-2024,19:00,22-06-2024,01:51,6.85,AG004,Karan Patel,L3,Software,High,Chat,Resolved,No,No,5,No,June,Friday
+TKT0530,24-01-2024,16:00,24-01-2024,18:12,2.21,AG003,Priya Nair,L1,VPN,High,Phone,Resolved,No,Yes,2.8,No,January,Wednesday
+TKT0531,09-03-2024,08:00,10-03-2024,23:38,39.64,AG003,Priya Nair,L1,Security,Low,Email,Closed,No,No,3.7,No,March,Saturday
+TKT0532,01-08-2024,18:00,01-08-2024,21:19,3.33,AG001,Riya Sharma,L1,Network,Critical,Self-Service Portal,Closed,No,Yes,4.2,No,August,Thursday
+TKT0533,01-11-2024,09:00,01-11-2024,12:00,3.01,AG007,Divya Iyer,L3,Access & Permissions,Critical,Email,Escalated,No,No,5,No,November,Friday
+TKT0534,01-03-2024,15:00,02-03-2024,14:32,23.54,AG007,Divya Iyer,L3,Hardware,Medium,Phone,Resolved,No,Yes,5,No,March,Friday
+TKT0535,17-03-2024,17:00,19-03-2024,10:45,41.75,AG004,Karan Patel,L3,Email,Low,Email,Resolved,No,No,5,No,March,Sunday
+TKT0536,17-04-2024,13:00,17-04-2024,22:01,9.03,AG001,Riya Sharma,L1,Hardware,Medium,Self-Service Portal,Closed,No,Yes,4,Yes,April,Wednesday
+TKT0537,05-09-2024,15:00,06-09-2024,03:38,12.64,AG001,Riya Sharma,L1,Network,Low,Email,Closed,No,Yes,4.4,No,September,Thursday
+TKT0538,26-04-2024,08:00,26-04-2024,10:39,2.66,AG006,Amit Joshi,L1,Access & Permissions,High,Self-Service Portal,Resolved,No,Yes,3.5,No,April,Friday
+TKT0539,20-04-2024,16:00,20-04-2024,20:10,4.18,AG008,Rahul Gupta,L2,Hardware,High,Phone,Resolved,No,No,3.9,No,April,Saturday
+TKT0540,20-12-2024,16:00,20-12-2024,21:11,27.12,AG005,Sneha Rao,L2,Access & Permissions,Medium,Email,Closed,Yes,Yes,3.4,No,December,Friday
+TKT0541,22-11-2024,16:00,22-11-2024,23:20,10.61,AG006,Amit Joshi,L1,Access & Permissions,High,Phone,Resolved,Yes,Yes,3.7,No,November,Friday
+TKT0542,22-05-2024,07:00,23-05-2024,01:36,18.6,AG008,Rahul Gupta,L2,Access & Permissions,Medium,Chat,Closed,No,No,4.5,No,May,Wednesday
+TKT0543,01-08-2024,07:00,01-08-2024,07:38,5.22,AG004,Karan Patel,L3,Network,Critical,Email,Closed,Yes,Yes,4.7,No,August,Thursday
+TKT0544,12-10-2024,19:00,12-10-2024,23:15,4.25,AG002,Arjun Mehta,L2,Security,Medium,Email,Resolved,No,Yes,4.6,No,October,Saturday
+TKT0545,23-03-2024,18:00,24-03-2024,20:22,26.37,AG004,Karan Patel,L3,Software,Low,Self-Service Portal,Closed,No,No,4.8,No,March,Saturday
+TKT0546,16-11-2024,14:00,18-11-2024,02:09,36.16,AG003,Priya Nair,L1,Printer,Low,Self-Service Portal,Closed,No,Yes,2.7,No,November,Saturday
+TKT0547,23-12-2024,16:00,24-12-2024,21:42,29.7,AG006,Amit Joshi,L1,Hardware,Low,Self-Service Portal,Resolved,No,Yes,4.1,No,December,Monday
+TKT0548,27-01-2024,08:00,27-01-2024,19:39,11.66,AG006,Amit Joshi,L1,Hardware,Medium,Self-Service Portal,Resolved,No,No,3.5,No,January,Saturday
+TKT0549,03-10-2024,08:00,03-10-2024,10:46,5.19,AG004,Karan Patel,L3,Network,Critical,Phone,Escalated,Yes,Yes,5,No,October,Thursday
+TKT0550,14-09-2024,17:00,15-09-2024,05:27,12.46,AG004,Karan Patel,L3,VPN,Medium,Self-Service Portal,Closed,No,No,4,No,September,Saturday
+TKT0551,19-08-2024,16:00,19-08-2024,19:34,9.04,AG002,Arjun Mehta,L2,Security,High,Self-Service Portal,Resolved,Yes,Yes,4.5,No,August,Monday
+TKT0552,27-05-2024,08:00,27-05-2024,20:22,12.37,AG008,Rahul Gupta,L2,Software,Low,Phone,Closed,No,Yes,3.7,No,May,Monday
+TKT0553,30-08-2024,12:00,31-08-2024,12:48,24.81,AG004,Karan Patel,L3,Hardware,Low,Phone,Resolved,No,No,5,Yes,August,Friday
+TKT0554,01-12-2024,17:00,02-12-2024,12:44,19.74,AG004,Karan Patel,L3,VPN,Medium,Self-Service Portal,Closed,No,Yes,4.7,No,December,Sunday
+TKT0555,26-04-2024,14:00,27-04-2024,12:52,22.88,AG003,Priya Nair,L1,Email,Low,Self-Service Portal,Resolved,No,Yes,3.2,No,April,Friday
+TKT0556,30-12-2024,15:00,31-12-2024,00:42,9.7,AG008,Rahul Gupta,L2,Network,Medium,Phone,Resolved,No,Yes,4.9,No,December,Monday
+TKT0557,13-08-2024,11:00,13-08-2024,12:47,5.87,AG002,Arjun Mehta,L2,Hardware,Critical,Phone,Closed,Yes,Yes,3.7,No,August,Tuesday
+TKT0558,13-01-2024,13:00,14-01-2024,11:37,22.62,AG008,Rahul Gupta,L2,Network,Medium,Email,Closed,No,Yes,4.5,No,January,Saturday
+TKT0559,20-10-2024,17:00,20-10-2024,23:56,6.94,AG006,Amit Joshi,L1,Email,Medium,Self-Service Portal,Closed,No,Yes,3.7,No,October,Sunday
+TKT0560,13-12-2024,15:00,13-12-2024,15:54,0.91,AG002,Arjun Mehta,L2,Security,Critical,Phone,Closed,No,Yes,3.4,No,December,Friday
+TKT0561,22-05-2024,10:00,22-05-2024,14:27,4.45,AG001,Riya Sharma,L1,Access & Permissions,Medium,Phone,Resolved,No,Yes,3.9,No,May,Wednesday
+TKT0562,07-12-2024,12:00,07-12-2024,23:57,11.95,AG007,Divya Iyer,L3,Access & Permissions,Medium,Email,Closed,No,No,5,No,December,Saturday
+TKT0563,14-10-2024,08:00,14-10-2024,16:18,8.31,AG005,Sneha Rao,L2,VPN,Medium,Chat,Closed,No,Yes,4.6,No,October,Monday
+TKT0564,31-07-2024,09:00,31-07-2024,15:51,11.82,AG005,Sneha Rao,L2,Network,High,Chat,Closed,Yes,No,4.2,No,July,Wednesday
+TKT0565,15-02-2024,07:00,15-02-2024,08:55,1.93,AG006,Amit Joshi,L1,Software,Critical,Chat,Resolved,No,Yes,4.3,No,February,Thursday
+TKT0566,03-06-2024,16:00,04-06-2024,02:04,10.08,AG007,Divya Iyer,L3,Email,Medium,Email,Resolved,No,No,4.9,No,June,Monday
+TKT0567,04-03-2024,17:00,05-03-2024,10:19,17.32,AG003,Priya Nair,L1,Email,Medium,Chat,Resolved,No,Yes,3.2,Yes,March,Monday
+TKT0568,02-11-2024,18:00,02-11-2024,19:46,5.63,AG005,Sneha Rao,L2,Security,Critical,Email,Closed,Yes,No,4,No,November,Saturday
+TKT0569,12-05-2024,09:00,13-05-2024,00:37,26.64,AG002,Arjun Mehta,L2,VPN,Medium,Email,Resolved,Yes,No,3.6,No,May,Sunday
+TKT0570,25-01-2024,11:00,25-01-2024,20:49,9.83,AG001,Riya Sharma,L1,Email,Medium,Self-Service Portal,Resolved,No,No,4,No,January,Thursday
+TKT0571,18-05-2024,17:00,18-05-2024,22:53,5.89,AG003,Priya Nair,L1,VPN,High,Self-Service Portal,Closed,No,Yes,3.3,No,May,Saturday
+TKT0572,05-09-2024,13:00,05-09-2024,23:48,10.81,AG001,Riya Sharma,L1,Network,Medium,Self-Service Portal,Resolved,No,No,4.5,No,September,Thursday
+TKT0573,29-02-2024,09:00,01-03-2024,07:28,33.41,AG002,Arjun Mehta,L2,Printer,Medium,Email,Closed,Yes,No,4.2,No,February,Thursday
+TKT0574,15-01-2024,18:00,17-01-2024,10:34,40.58,AG008,Rahul Gupta,L2,VPN,Low,Self-Service Portal,Resolved,No,Yes,3.7,No,January,Monday
+TKT0575,05-08-2024,18:00,07-08-2024,08:31,38.52,AG005,Sneha Rao,L2,Network,Low,Email,Closed,No,No,3.4,No,August,Monday
+TKT0576,28-08-2024,08:00,30-08-2024,04:20,44.34,AG001,Riya Sharma,L1,Access & Permissions,Low,Email,Resolved,No,No,3.1,No,August,Wednesday
+TKT0577,15-01-2024,08:00,15-01-2024,21:49,13.82,AG004,Karan Patel,L3,Access & Permissions,Low,Self-Service Portal,Closed,No,No,5,No,January,Monday
+TKT0578,27-09-2024,10:00,28-09-2024,22:37,36.63,AG004,Karan Patel,L3,Software,Low,Email,Resolved,No,No,5,No,September,Friday
+TKT0579,06-07-2024,18:00,06-07-2024,20:33,2.56,AG002,Arjun Mehta,L2,Access & Permissions,Critical,Chat,Closed,No,Yes,4.1,No,July,Saturday
+TKT0580,27-02-2024,19:00,28-02-2024,18:41,23.69,AG007,Divya Iyer,L3,Access & Permissions,Medium,Chat,Resolved,No,No,4.2,No,February,Tuesday
+TKT0581,12-02-2024,12:00,13-02-2024,01:52,13.87,AG006,Amit Joshi,L1,Email,Medium,Email,Closed,No,Yes,3.4,No,February,Monday
+TKT0582,07-08-2024,10:00,08-08-2024,07:08,21.14,AG008,Rahul Gupta,L2,Access & Permissions,Medium,Self-Service Portal,Closed,No,Yes,4.7,No,August,Wednesday
+TKT0583,02-03-2024,09:00,02-03-2024,20:54,11.9,AG008,Rahul Gupta,L2,Software,Medium,Email,Resolved,No,Yes,4.4,Yes,March,Saturday
+TKT0584,03-03-2024,10:00,05-03-2024,03:31,41.52,AG004,Karan Patel,L3,VPN,Low,Chat,Closed,No,No,5,No,March,Sunday
+TKT0585,05-09-2024,15:00,06-09-2024,00:34,9.58,AG007,Divya Iyer,L3,VPN,Medium,Chat,Closed,No,No,5,No,September,Thursday
+TKT0586,04-02-2024,14:00,06-02-2024,01:07,35.12,AG004,Karan Patel,L3,Network,Low,Email,Closed,No,No,5,No,February,Sunday
+TKT0587,26-08-2024,10:00,26-08-2024,19:52,9.87,AG002,Arjun Mehta,L2,Software,Medium,Chat,Closed,No,No,4.2,No,August,Monday
+TKT0588,15-07-2024,14:00,15-07-2024,15:36,5.66,AG001,Riya Sharma,L1,Hardware,Critical,Email,Closed,Yes,Yes,3.6,No,July,Monday
+TKT0589,18-07-2024,14:00,19-07-2024,09:16,19.28,AG003,Priya Nair,L1,Security,Medium,Self-Service Portal,Closed,No,Yes,3.6,No,July,Thursday
+TKT0590,29-10-2024,13:00,30-10-2024,05:20,16.34,AG003,Priya Nair,L1,Hardware,Medium,Chat,Closed,No,Yes,3.3,Yes,October,Tuesday
+TKT0591,25-10-2024,07:00,25-10-2024,13:21,9.01,AG001,Riya Sharma,L1,Network,High,Self-Service Portal,Closed,Yes,No,4,No,October,Friday
+TKT0592,30-10-2024,08:00,01-11-2024,04:25,44.42,AG001,Riya Sharma,L1,Access & Permissions,Low,Self-Service Portal,Resolved,No,No,3.1,No,October,Wednesday
+TKT0593,17-10-2024,15:00,18-10-2024,13:01,22.03,AG001,Riya Sharma,L1,Security,Medium,Chat,Resolved,No,Yes,3.4,No,October,Thursday
+TKT0594,07-09-2024,08:00,08-09-2024,01:49,17.82,AG007,Divya Iyer,L3,Printer,Medium,Email,Closed,No,No,4.3,No,September,Saturday
+TKT0595,11-09-2024,17:00,11-09-2024,20:28,5.71,AG005,Sneha Rao,L2,VPN,Critical,Phone,Closed,Yes,Yes,4.5,No,September,Wednesday
+TKT0596,23-10-2024,08:00,23-10-2024,13:08,5.14,AG005,Sneha Rao,L2,Printer,High,Email,Closed,No,No,3.6,No,October,Wednesday
+TKT0597,15-09-2024,19:00,16-09-2024,05:00,10,AG006,Amit Joshi,L1,Software,Medium,Self-Service Portal,Closed,No,No,3.9,No,September,Sunday
+TKT0598,22-10-2024,14:00,22-10-2024,16:29,2.49,AG008,Rahul Gupta,L2,Network,High,Phone,Closed,No,Yes,4.8,No,October,Tuesday
+TKT0599,24-08-2024,09:00,24-08-2024,17:48,8.81,AG007,Divya Iyer,L3,Hardware,Medium,Self-Service Portal,Closed,No,Yes,5,No,August,Saturday
+TKT0600,26-05-2024,17:00,26-05-2024,19:07,2.12,AG002,Arjun Mehta,L2,Access & Permissions,High,Self-Service Portal,Resolved,No,No,4.5,No,May,Sunday
+TKT0601,25-08-2024,14:00,26-08-2024,20:23,30.39,AG004,Karan Patel,L3,Hardware,Low,Self-Service Portal,Resolved,No,Yes,4.6,No,August,Sunday
+TKT0602,03-12-2024,15:00,04-12-2024,06:02,15.04,AG005,Sneha Rao,L2,Network,Low,Self-Service Portal,Closed,No,Yes,4.6,No,December,Tuesday
+TKT0603,02-02-2024,13:00,03-02-2024,10:56,21.94,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Closed,No,Yes,4.1,No,February,Friday
+TKT0604,24-09-2024,17:00,26-09-2024,10:09,41.16,AG003,Priya Nair,L1,Access & Permissions,Low,Email,Closed,No,Yes,4.2,No,September,Tuesday
+TKT0605,17-06-2024,16:00,18-06-2024,10:44,18.74,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Self-Service Portal,Closed,No,Yes,4.7,No,June,Monday
+TKT0606,13-08-2024,13:00,14-08-2024,07:10,18.17,AG002,Arjun Mehta,L2,Network,Low,Self-Service Portal,Closed,No,No,4.3,No,August,Tuesday
+TKT0607,15-12-2024,10:00,16-12-2024,09:16,23.27,AG002,Arjun Mehta,L2,VPN,Medium,Chat,Closed,No,Yes,4.8,No,December,Sunday
+TKT0608,05-12-2024,19:00,07-12-2024,16:37,45.63,AG006,Amit Joshi,L1,Email,Low,Email,Resolved,No,Yes,3.9,No,December,Thursday
+TKT0609,16-12-2024,08:00,16-12-2024,22:42,26.83,AG007,Divya Iyer,L3,Email,Medium,Self-Service Portal,Resolved,Yes,No,4.4,No,December,Monday
+TKT0610,01-06-2024,10:00,02-06-2024,07:11,21.19,AG007,Divya Iyer,L3,Email,Medium,Phone,Closed,No,No,4.3,No,June,Saturday
+TKT0611,08-09-2024,14:00,10-09-2024,03:28,37.48,AG007,Divya Iyer,L3,Hardware,Low,Email,Closed,No,No,5,No,September,Sunday
+TKT0612,29-06-2024,13:00,30-06-2024,05:02,16.04,AG002,Arjun Mehta,L2,Network,Medium,Email,Closed,No,Yes,4.7,No,June,Saturday
+TKT0613,02-01-2024,13:00,02-01-2024,21:00,8,AG001,Riya Sharma,L1,Network,Medium,Phone,Resolved,No,Yes,3.5,No,January,Tuesday
+TKT0614,19-08-2024,14:00,19-08-2024,21:06,11.07,AG003,Priya Nair,L1,Printer,High,Self-Service Portal,Closed,Yes,No,2.9,No,August,Monday
+TKT0615,20-07-2024,13:00,21-07-2024,11:54,22.9,AG004,Karan Patel,L3,Software,Medium,Phone,Resolved,No,No,5,No,July,Saturday
+TKT0616,14-05-2024,18:00,14-05-2024,21:28,3.48,AG004,Karan Patel,L3,Software,Critical,Phone,Resolved,No,Yes,4,No,May,Tuesday
+TKT0617,08-01-2024,18:00,08-01-2024,20:20,2.34,AG006,Amit Joshi,L1,Network,Critical,Email,Escalated,No,Yes,4,No,January,Monday
+TKT0618,27-05-2024,18:00,28-05-2024,21:46,27.77,AG004,Karan Patel,L3,Access & Permissions,Low,Self-Service Portal,Resolved,No,Yes,4.1,No,May,Monday
+TKT0619,15-03-2024,07:00,15-03-2024,16:48,25.44,AG005,Sneha Rao,L2,Access & Permissions,Medium,Chat,Resolved,Yes,Yes,3.6,No,March,Friday
+TKT0620,14-06-2024,18:00,15-06-2024,17:54,23.9,AG008,Rahul Gupta,L2,Software,Low,Phone,Closed,No,No,3.6,No,June,Friday
+TKT0621,27-01-2024,12:00,29-01-2024,09:14,45.24,AG005,Sneha Rao,L2,Software,Low,Email,Resolved,No,No,4,Yes,January,Saturday
+TKT0622,08-03-2024,15:00,08-03-2024,15:38,0.64,AG007,Divya Iyer,L3,Email,Critical,Self-Service Portal,Closed,No,No,4.3,No,March,Friday
+TKT0623,13-03-2024,11:00,13-03-2024,17:20,35.58,AG003,Priya Nair,L1,Software,Medium,Chat,Closed,Yes,Yes,2.8,No,March,Wednesday
+TKT0624,09-11-2024,19:00,09-11-2024,22:44,3.74,AG007,Divya Iyer,L3,Email,Critical,Self-Service Portal,Closed,No,No,4.8,No,November,Saturday
+TKT0625,28-01-2024,10:00,29-01-2024,01:19,15.33,AG003,Priya Nair,L1,Security,Low,Phone,Resolved,No,No,3.5,No,January,Sunday
+TKT0626,22-08-2024,14:00,22-08-2024,20:15,6.25,AG008,Rahul Gupta,L2,Hardware,Medium,Chat,Closed,No,No,4.5,No,August,Thursday
+TKT0627,15-10-2024,17:00,15-10-2024,22:06,5.1,AG005,Sneha Rao,L2,Network,High,Self-Service Portal,Resolved,No,Yes,4.1,No,October,Tuesday
+TKT0628,17-06-2024,07:00,17-06-2024,09:59,2.99,AG002,Arjun Mehta,L2,Access & Permissions,High,Email,Closed,No,No,5,No,June,Monday
+TKT0629,23-08-2024,18:00,25-08-2024,04:22,34.38,AG002,Arjun Mehta,L2,VPN,Low,Email,Resolved,No,Yes,4.1,No,August,Friday
+TKT0630,18-04-2024,07:00,19-04-2024,03:01,33.32,AG001,Riya Sharma,L1,Security,Medium,Phone,Resolved,Yes,Yes,3.5,No,April,Thursday
+TKT0631,02-05-2024,19:00,03-05-2024,16:18,21.31,AG007,Divya Iyer,L3,Software,Medium,Phone,Resolved,No,Yes,4.1,No,May,Thursday
+TKT0632,02-03-2024,11:00,03-03-2024,00:49,13.82,AG007,Divya Iyer,L3,Email,Medium,Phone,Closed,No,Yes,4.7,No,March,Saturday
+TKT0633,19-09-2024,10:00,19-09-2024,23:47,13.79,AG003,Priya Nair,L1,VPN,Medium,Self-Service Portal,Closed,No,Yes,4.1,No,September,Thursday
+TKT0634,18-11-2024,13:00,18-11-2024,18:51,5.86,AG007,Divya Iyer,L3,VPN,Medium,Chat,Resolved,No,Yes,4.8,No,November,Monday
+TKT0635,28-05-2024,14:00,29-05-2024,02:45,12.75,AG003,Priya Nair,L1,Security,Medium,Email,Resolved,No,Yes,4.2,No,May,Tuesday
+TKT0636,18-10-2024,07:00,18-10-2024,22:01,15.02,AG005,Sneha Rao,L2,Access & Permissions,Medium,Self-Service Portal,Closed,No,No,4.7,No,October,Friday
+TKT0637,14-09-2024,07:00,14-09-2024,13:16,6.28,AG008,Rahul Gupta,L2,Email,Medium,Email,Resolved,No,No,4.4,No,September,Saturday
+TKT0638,09-06-2024,16:00,10-06-2024,10:28,28.83,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Closed,Yes,Yes,4.2,No,June,Sunday
+TKT0639,10-12-2024,08:00,11-12-2024,09:21,25.35,AG003,Priya Nair,L1,Access & Permissions,Low,Self-Service Portal,Closed,No,No,2.7,No,December,Tuesday
+TKT0640,19-12-2024,17:00,20-12-2024,16:15,23.26,AG007,Divya Iyer,L3,Security,Medium,Self-Service Portal,Resolved,No,Yes,5,No,December,Thursday
+TKT0641,22-12-2024,10:00,24-12-2024,04:21,42.36,AG001,Riya Sharma,L1,Access & Permissions,Low,Email,Resolved,No,Yes,3.3,No,December,Sunday
+TKT0642,16-03-2024,14:00,17-03-2024,02:26,12.44,AG004,Karan Patel,L3,Software,Medium,Chat,Closed,No,Yes,4.1,No,March,Saturday
+TKT0643,13-04-2024,11:00,13-04-2024,15:59,4.99,AG008,Rahul Gupta,L2,Hardware,High,Phone,Resolved,No,No,4.6,No,April,Saturday
+TKT0644,19-01-2024,14:00,19-01-2024,17:48,3.8,AG007,Divya Iyer,L3,Printer,High,Self-Service Portal,Closed,No,Yes,4.8,No,January,Friday
+TKT0645,10-10-2024,08:00,10-10-2024,17:21,9.36,AG001,Riya Sharma,L1,Hardware,Medium,Self-Service Portal,Resolved,No,Yes,4,No,October,Thursday
+TKT0646,23-03-2024,11:00,24-03-2024,05:31,18.52,AG006,Amit Joshi,L1,Security,Medium,Email,Resolved,No,Yes,3.6,No,March,Saturday
+TKT0647,30-12-2024,13:00,01-01-2025,11:23,46.39,AG006,Amit Joshi,L1,Security,Low,Self-Service Portal,Closed,No,Yes,4.1,No,December,Monday
+TKT0648,07-12-2024,14:00,08-12-2024,03:09,13.16,AG003,Priya Nair,L1,Access & Permissions,Low,Email,Resolved,No,Yes,3,No,December,Saturday
+TKT0649,10-01-2024,12:00,12-01-2024,07:14,43.24,AG008,Rahul Gupta,L2,Email,Low,Email,Resolved,No,No,3.9,No,January,Wednesday
+TKT0650,02-03-2024,15:00,03-03-2024,07:57,16.96,AG006,Amit Joshi,L1,Printer,Low,Phone,Resolved,No,No,3.2,No,March,Saturday
+TKT0651,27-12-2024,07:00,27-12-2024,14:29,7.49,AG005,Sneha Rao,L2,Network,High,Email,Resolved,No,No,3.9,No,December,Friday
+TKT0652,18-11-2024,08:00,19-11-2024,05:25,21.42,AG002,Arjun Mehta,L2,Hardware,Medium,Phone,Closed,No,No,4.9,No,November,Monday
+TKT0653,20-06-2024,09:00,20-06-2024,21:55,12.92,AG008,Rahul Gupta,L2,Software,Low,Self-Service Portal,Resolved,No,Yes,3.6,No,June,Thursday
+TKT0654,13-02-2024,11:00,14-02-2024,09:54,22.9,AG008,Rahul Gupta,L2,VPN,Low,Phone,Resolved,No,No,4.5,No,February,Tuesday
+TKT0655,30-07-2024,13:00,01-08-2024,08:55,43.92,AG007,Divya Iyer,L3,Access & Permissions,Low,Chat,Closed,No,No,5,No,July,Tuesday
+TKT0656,13-02-2024,12:00,13-02-2024,15:12,3.2,AG008,Rahul Gupta,L2,Network,High,Email,Resolved,No,No,4.9,No,February,Tuesday
+TKT0657,19-11-2024,18:00,19-11-2024,21:18,3.3,AG001,Riya Sharma,L1,Network,Critical,Email,Closed,No,Yes,4.4,No,November,Tuesday
+TKT0658,27-09-2024,16:00,29-09-2024,12:49,44.82,AG006,Amit Joshi,L1,VPN,Low,Self-Service Portal,Resolved,No,Yes,3.9,No,September,Friday
+TKT0659,11-04-2024,11:00,11-04-2024,12:35,1.59,AG008,Rahul Gupta,L2,VPN,High,Chat,Resolved,No,No,4.2,No,April,Thursday
+TKT0660,23-09-2024,12:00,25-09-2024,02:16,38.28,AG005,Sneha Rao,L2,Access & Permissions,Low,Self-Service Portal,Closed,No,No,3.5,No,September,Monday
+TKT0661,31-01-2024,12:00,31-01-2024,13:24,1.41,AG005,Sneha Rao,L2,Printer,Critical,Email,Escalated,No,No,4,No,January,Wednesday
+TKT0662,20-08-2024,12:00,21-08-2024,11:39,23.66,AG008,Rahul Gupta,L2,Email,Medium,Email,Resolved,No,Yes,4.6,No,August,Tuesday
+TKT0663,23-02-2024,12:00,23-02-2024,16:37,4.62,AG005,Sneha Rao,L2,Network,High,Phone,Closed,No,Yes,3.5,No,February,Friday
+TKT0664,05-08-2024,09:00,06-08-2024,12:03,27.05,AG007,Divya Iyer,L3,Printer,Low,Email,Closed,No,No,4.7,No,August,Monday
+TKT0665,13-08-2024,18:00,14-08-2024,16:37,22.62,AG007,Divya Iyer,L3,Email,Medium,Chat,Resolved,No,Yes,4.8,No,August,Tuesday
+TKT0666,26-12-2024,15:00,26-12-2024,22:02,7.04,AG003,Priya Nair,L1,Security,High,Phone,Resolved,No,No,2.9,No,December,Thursday
+TKT0667,26-02-2024,08:00,26-02-2024,19:23,11.39,AG006,Amit Joshi,L1,Software,Medium,Chat,Resolved,No,Yes,3.3,No,February,Monday
+TKT0668,14-03-2024,09:00,16-03-2024,00:21,39.35,AG006,Amit Joshi,L1,Email,Low,Email,Closed,No,Yes,3.5,No,March,Thursday
+TKT0669,02-01-2024,08:00,02-01-2024,12:49,4.83,AG004,Karan Patel,L3,Network,High,Chat,Closed,No,No,4,No,January,Tuesday
+TKT0670,06-11-2024,09:00,06-11-2024,15:19,6.33,AG008,Rahul Gupta,L2,VPN,High,Chat,Closed,No,No,4.1,No,November,Wednesday
+TKT0671,17-07-2024,10:00,19-07-2024,06:00,44.01,AG003,Priya Nair,L1,VPN,Low,Chat,Closed,No,Yes,3.2,No,July,Wednesday
+TKT0672,14-10-2024,17:00,14-10-2024,18:52,10.65,AG002,Arjun Mehta,L2,Network,High,Self-Service Portal,Resolved,Yes,No,4.3,No,October,Monday
+TKT0673,02-03-2024,17:00,03-03-2024,15:43,22.72,AG004,Karan Patel,L3,Security,Medium,Email,Resolved,No,No,4.2,No,March,Saturday
+TKT0674,24-07-2024,16:00,24-07-2024,17:18,11.98,AG008,Rahul Gupta,L2,Software,High,Self-Service Portal,Closed,Yes,No,4.7,No,July,Wednesday
+TKT0675,28-02-2024,08:00,28-02-2024,22:50,14.84,AG001,Riya Sharma,L1,VPN,Medium,Email,Resolved,No,Yes,3.5,No,February,Wednesday
+TKT0676,02-04-2024,07:00,03-04-2024,19:31,36.53,AG007,Divya Iyer,L3,Network,Low,Self-Service Portal,Resolved,No,No,4.5,No,April,Tuesday
+TKT0677,27-01-2024,10:00,27-01-2024,18:47,34.15,AG006,Amit Joshi,L1,Email,Medium,Email,Closed,Yes,No,3.8,No,January,Saturday
+TKT0678,03-02-2024,14:00,03-02-2024,18:34,4.58,AG005,Sneha Rao,L2,Hardware,Medium,Chat,Resolved,No,Yes,4.2,No,February,Saturday
+TKT0679,04-06-2024,16:00,04-06-2024,19:51,3.85,AG002,Arjun Mehta,L2,Access & Permissions,High,Phone,Resolved,No,Yes,3.5,No,June,Tuesday
+TKT0680,05-05-2024,15:00,06-05-2024,14:03,23.05,AG003,Priya Nair,L1,VPN,Medium,Phone,Resolved,No,Yes,4.2,Yes,May,Sunday
+TKT0681,01-01-2024,07:00,02-01-2024,05:40,22.67,AG008,Rahul Gupta,L2,Email,Medium,Phone,Closed,No,No,4.1,No,January,Monday
+TKT0682,02-06-2024,08:00,03-06-2024,07:48,23.81,AG004,Karan Patel,L3,Email,Low,Email,Closed,No,No,4.1,No,June,Sunday
+TKT0683,21-11-2024,11:00,21-11-2024,18:51,7.86,AG004,Karan Patel,L3,VPN,High,Self-Service Portal,Closed,No,No,5,No,November,Thursday
+TKT0684,26-11-2024,07:00,27-11-2024,15:21,32.35,AG008,Rahul Gupta,L2,VPN,Low,Phone,Resolved,No,No,3.3,No,November,Tuesday
+TKT0685,02-10-2024,07:00,03-10-2024,04:51,21.85,AG008,Rahul Gupta,L2,Printer,Medium,Email,Resolved,No,No,4.6,No,October,Wednesday
+TKT0686,04-03-2024,14:00,05-03-2024,01:24,11.41,AG007,Divya Iyer,L3,VPN,Medium,Email,Resolved,No,No,4.3,No,March,Monday
+TKT0687,23-04-2024,10:00,25-04-2024,09:12,47.2,AG006,Amit Joshi,L1,Access & Permissions,Low,Self-Service Portal,Resolved,No,No,4.3,Yes,April,Tuesday
+TKT0688,28-03-2024,15:00,28-03-2024,17:21,2.36,AG007,Divya Iyer,L3,Software,High,Chat,Resolved,No,Yes,5,Yes,March,Thursday
+TKT0689,24-09-2024,18:00,26-09-2024,09:17,39.29,AG003,Priya Nair,L1,Software,Low,Phone,Closed,No,Yes,3,No,September,Tuesday
+TKT0690,14-06-2024,13:00,14-06-2024,16:27,3.46,AG008,Rahul Gupta,L2,Hardware,Critical,Email,Closed,No,No,4,No,June,Friday
+TKT0691,29-09-2024,14:00,30-09-2024,10:39,20.65,AG001,Riya Sharma,L1,Access & Permissions,Low,Chat,Resolved,No,Yes,3.6,No,September,Sunday
+TKT0692,10-04-2024,09:00,10-04-2024,10:39,1.65,AG004,Karan Patel,L3,Printer,Critical,Phone,Closed,No,Yes,4,No,April,Wednesday
+TKT0693,02-05-2024,12:00,04-05-2024,05:18,41.3,AG006,Amit Joshi,L1,Email,Low,Chat,Resolved,No,Yes,4.1,No,May,Thursday
+TKT0694,13-02-2024,07:00,14-02-2024,05:19,22.33,AG008,Rahul Gupta,L2,Software,Medium,Email,Resolved,No,Yes,3.9,No,February,Tuesday
+TKT0695,03-02-2024,08:00,04-02-2024,19:06,35.1,AG001,Riya Sharma,L1,Security,Low,Chat,Resolved,No,No,3.9,No,February,Saturday
+TKT0696,20-08-2024,13:00,20-08-2024,17:15,4.25,AG007,Divya Iyer,L3,Access & Permissions,High,Email,Resolved,No,Yes,4.7,No,August,Tuesday
+TKT0697,25-02-2024,08:00,25-02-2024,12:15,4.25,AG001,Riya Sharma,L1,Security,Medium,Phone,Resolved,No,Yes,4.1,No,February,Sunday
+TKT0698,13-11-2024,14:00,13-11-2024,21:43,7.72,AG003,Priya Nair,L1,Email,Medium,Chat,Closed,No,No,2.9,No,November,Wednesday
+TKT0699,16-03-2024,14:00,17-03-2024,00:10,10.17,AG006,Amit Joshi,L1,Email,Medium,Phone,Resolved,No,No,3.3,Yes,March,Saturday
+TKT0700,23-11-2024,10:00,24-11-2024,05:42,19.71,AG001,Riya Sharma,L1,Printer,Medium,Phone,Closed,No,Yes,3.5,No,November,Saturday
+TKT0701,17-06-2024,09:00,17-06-2024,15:06,6.1,AG006,Amit Joshi,L1,VPN,Medium,Chat,Closed,No,Yes,4.2,No,June,Monday
+TKT0702,15-11-2024,10:00,15-11-2024,18:46,30.92,AG001,Riya Sharma,L1,Access & Permissions,Medium,Chat,Closed,Yes,Yes,4.2,No,November,Friday
+TKT0703,04-07-2024,07:00,04-07-2024,12:28,5.47,AG007,Divya Iyer,L3,Access & Permissions,Medium,Email,Closed,No,No,4,No,July,Thursday
+TKT0704,11-04-2024,11:00,11-04-2024,12:06,1.11,AG006,Amit Joshi,L1,Hardware,Critical,Phone,Resolved,No,Yes,4.2,No,April,Thursday
+TKT0705,11-01-2024,17:00,11-01-2024,18:57,1.96,AG001,Riya Sharma,L1,Network,High,Email,Closed,No,Yes,4,No,January,Thursday
+TKT0706,04-12-2024,09:00,06-12-2024,06:39,45.65,AG005,Sneha Rao,L2,Security,Low,Self-Service Portal,Closed,No,Yes,4.8,No,December,Wednesday
+TKT0707,07-04-2024,10:00,08-04-2024,15:18,29.3,AG002,Arjun Mehta,L2,Software,Low,Phone,Closed,No,No,4.5,No,April,Sunday
+TKT0708,01-10-2024,11:00,01-10-2024,17:31,11.09,AG004,Karan Patel,L3,Hardware,High,Phone,Closed,Yes,No,4.4,No,October,Tuesday
+TKT0709,05-12-2024,16:00,05-12-2024,17:27,1.45,AG008,Rahul Gupta,L2,Access & Permissions,High,Chat,Closed,No,Yes,4.1,No,December,Thursday
+TKT0710,26-09-2024,18:00,27-09-2024,07:40,13.67,AG008,Rahul Gupta,L2,Network,Medium,Self-Service Portal,Closed,No,No,4.8,No,September,Thursday
+TKT0711,19-08-2024,10:00,20-08-2024,09:50,23.84,AG001,Riya Sharma,L1,Access & Permissions,Low,Phone,Resolved,No,Yes,3.5,No,August,Monday
+TKT0712,13-02-2024,11:00,13-02-2024,23:53,33.19,AG006,Amit Joshi,L1,Email,Medium,Phone,Closed,Yes,Yes,3.4,No,February,Tuesday
+TKT0713,28-07-2024,12:00,29-07-2024,08:05,20.09,AG006,Amit Joshi,L1,Printer,Medium,Chat,Resolved,No,No,3.3,No,July,Sunday
+TKT0714,13-09-2024,15:00,13-09-2024,17:24,2.41,AG002,Arjun Mehta,L2,VPN,Critical,Self-Service Portal,Resolved,No,No,3.5,Yes,September,Friday
+TKT0715,08-05-2024,11:00,09-05-2024,05:54,18.9,AG001,Riya Sharma,L1,Access & Permissions,Medium,Self-Service Portal,Resolved,No,Yes,4.2,No,May,Wednesday
+TKT0716,24-05-2024,12:00,26-05-2024,03:19,39.33,AG003,Priya Nair,L1,Email,Low,Self-Service Portal,Resolved,No,Yes,3.3,No,May,Friday
+TKT0717,30-08-2024,10:00,31-08-2024,14:37,28.63,AG003,Priya Nair,L1,Printer,Low,Phone,Closed,No,Yes,4,No,August,Friday
+TKT0718,23-12-2024,13:00,23-12-2024,15:28,2.47,AG002,Arjun Mehta,L2,VPN,High,Chat,Closed,No,No,4.1,No,December,Monday
+TKT0719,12-09-2024,19:00,12-09-2024,21:48,2.81,AG003,Priya Nair,L1,Email,Critical,Email,Escalated,No,No,3.3,No,September,Thursday
+TKT0720,12-03-2024,09:00,13-03-2024,08:32,30.53,AG005,Sneha Rao,L2,VPN,Medium,Email,Closed,Yes,No,4.8,No,March,Tuesday
+TKT0721,06-04-2024,14:00,07-04-2024,02:21,12.35,AG004,Karan Patel,L3,Printer,Low,Chat,Closed,No,No,4.8,No,April,Saturday
+TKT0722,14-01-2024,09:00,15-01-2024,00:57,15.96,AG002,Arjun Mehta,L2,Network,Low,Chat,Resolved,No,No,4.9,No,January,Sunday
+TKT0723,28-03-2024,12:00,30-03-2024,06:23,42.39,AG002,Arjun Mehta,L2,Security,Low,Email,Resolved,No,No,4.1,No,March,Thursday
+TKT0724,15-04-2024,09:00,15-04-2024,16:05,7.09,AG007,Divya Iyer,L3,Security,High,Chat,Closed,No,Yes,4.5,No,April,Monday
+TKT0725,21-05-2024,10:00,21-05-2024,14:09,4.15,AG005,Sneha Rao,L2,Access & Permissions,Medium,Chat,Closed,No,No,3.4,No,May,Tuesday
+TKT0726,23-08-2024,14:00,23-08-2024,16:31,2.52,AG004,Karan Patel,L3,VPN,Critical,Chat,Escalated,No,No,5,No,August,Friday
+TKT0727,31-07-2024,10:00,31-07-2024,17:35,7.59,AG005,Sneha Rao,L2,Printer,Medium,Phone,Closed,No,No,4.2,No,July,Wednesday
+TKT0728,02-05-2024,09:00,02-05-2024,18:28,9.48,AG003,Priya Nair,L1,Software,Medium,Email,Resolved,No,Yes,3.7,No,May,Thursday
+TKT0729,23-02-2024,15:00,23-02-2024,18:10,3.18,AG007,Divya Iyer,L3,Software,Critical,Email,Resolved,No,No,4.5,No,February,Friday
+TKT0730,09-04-2024,13:00,09-04-2024,17:45,4.76,AG002,Arjun Mehta,L2,Security,Medium,Chat,Resolved,No,Yes,3.8,No,April,Tuesday
+TKT0731,07-10-2024,17:00,08-10-2024,01:51,8.85,AG008,Rahul Gupta,L2,Security,Medium,Email,Closed,No,No,4.8,No,October,Monday
+TKT0732,30-05-2024,08:00,30-05-2024,22:41,14.69,AG003,Priya Nair,L1,Hardware,Medium,Phone,Closed,No,Yes,3.3,No,May,Thursday
+TKT0733,11-12-2024,15:00,12-12-2024,07:39,16.65,AG006,Amit Joshi,L1,Network,Low,Email,Resolved,No,Yes,3.9,No,December,Wednesday
+TKT0734,25-01-2024,19:00,26-01-2024,18:06,23.1,AG005,Sneha Rao,L2,Security,Low,Email,Resolved,No,No,3.5,No,January,Thursday
+TKT0735,21-06-2024,10:00,22-06-2024,21:12,35.2,AG001,Riya Sharma,L1,Printer,Low,Email,Resolved,No,Yes,3.1,No,June,Friday
+TKT0736,16-06-2024,12:00,17-06-2024,18:28,30.48,AG003,Priya Nair,L1,Network,Low,Email,Closed,No,No,3,No,June,Sunday
+TKT0737,08-01-2024,13:00,09-01-2024,06:04,17.08,AG004,Karan Patel,L3,Software,Medium,Phone,Resolved,No,No,3.9,Yes,January,Monday
+TKT0738,29-07-2024,11:00,31-07-2024,01:42,38.7,AG005,Sneha Rao,L2,VPN,Low,Phone,Resolved,No,Yes,4,No,July,Monday
+TKT0739,13-12-2024,19:00,13-12-2024,21:55,2.93,AG002,Arjun Mehta,L2,VPN,Critical,Chat,Escalated,No,Yes,3.9,No,December,Friday
+TKT0740,14-07-2024,15:00,15-07-2024,07:48,16.81,AG008,Rahul Gupta,L2,Software,Medium,Chat,Resolved,No,No,3.7,No,July,Sunday
+TKT0741,04-05-2024,16:00,05-05-2024,03:10,11.18,AG002,Arjun Mehta,L2,Email,Low,Chat,Resolved,No,No,3.6,No,May,Saturday
+TKT0742,17-06-2024,09:00,18-06-2024,04:07,19.13,AG004,Karan Patel,L3,Hardware,Low,Chat,Closed,No,Yes,4.9,No,June,Monday
+TKT0743,24-06-2024,10:00,25-06-2024,02:13,16.23,AG005,Sneha Rao,L2,Hardware,Low,Self-Service Portal,Resolved,No,Yes,3.3,No,June,Monday
+TKT0744,14-08-2024,17:00,14-08-2024,21:07,25.75,AG004,Karan Patel,L3,Printer,Medium,Phone,Resolved,Yes,No,5,Yes,August,Wednesday
+TKT0745,30-10-2024,15:00,01-11-2024,08:15,41.25,AG003,Priya Nair,L1,Access & Permissions,Low,Phone,Closed,No,No,4.2,No,October,Wednesday
+TKT0746,04-06-2024,11:00,05-06-2024,02:31,15.53,AG004,Karan Patel,L3,Access & Permissions,Medium,Phone,Closed,No,No,5,No,June,Tuesday
+TKT0747,13-08-2024,13:00,14-08-2024,03:06,14.11,AG006,Amit Joshi,L1,Printer,Medium,Chat,Closed,No,Yes,4,Yes,August,Tuesday
+TKT0748,31-10-2024,15:00,31-10-2024,17:04,2.07,AG007,Divya Iyer,L3,Printer,High,Self-Service Portal,Closed,No,No,5,No,October,Thursday
+TKT0749,06-02-2024,12:00,06-02-2024,18:43,6.73,AG005,Sneha Rao,L2,Printer,Medium,Chat,Resolved,No,No,4,Yes,February,Tuesday
+TKT0750,21-07-2024,18:00,22-07-2024,05:27,31.97,AG006,Amit Joshi,L1,Security,Medium,Chat,Resolved,Yes,Yes,3.6,No,July,Sunday
+TKT0751,09-04-2024,19:00,10-04-2024,07:43,12.73,AG001,Riya Sharma,L1,Software,Medium,Phone,Closed,No,Yes,3.4,No,April,Tuesday
+TKT0752,05-08-2024,18:00,06-08-2024,02:56,8.94,AG008,Rahul Gupta,L2,VPN,Medium,Chat,Closed,No,Yes,4.1,No,August,Monday
+TKT0753,14-12-2024,09:00,15-12-2024,03:10,18.17,AG001,Riya Sharma,L1,Network,Low,Chat,Resolved,No,Yes,4,Yes,December,Saturday
+TKT0754,22-09-2024,10:00,23-09-2024,07:31,21.52,AG002,Arjun Mehta,L2,Printer,Medium,Email,Closed,No,No,3.7,No,September,Sunday
+TKT0755,25-02-2024,17:00,25-02-2024,22:00,11.39,AG007,Divya Iyer,L3,Email,High,Email,Closed,Yes,Yes,5,No,February,Sunday
+TKT0756,08-09-2024,07:00,08-09-2024,18:52,11.87,AG007,Divya Iyer,L3,Email,Low,Phone,Closed,No,No,5,No,September,Sunday
+TKT0757,26-12-2024,09:00,27-12-2024,00:55,15.92,AG007,Divya Iyer,L3,Network,Low,Phone,Closed,No,Yes,4.3,No,December,Thursday
+TKT0758,08-04-2024,11:00,10-04-2024,10:19,47.32,AG004,Karan Patel,L3,Network,Low,Phone,Resolved,No,No,5,No,April,Monday
+TKT0759,04-03-2024,11:00,04-03-2024,21:34,10.57,AG003,Priya Nair,L1,Software,Low,Chat,Resolved,No,No,2.7,Yes,March,Monday
+TKT0760,19-02-2024,10:00,20-02-2024,00:27,14.45,AG005,Sneha Rao,L2,Hardware,Medium,Email,Closed,No,Yes,3.2,No,February,Monday
+TKT0761,08-07-2024,17:00,09-07-2024,14:48,21.8,AG008,Rahul Gupta,L2,VPN,Medium,Self-Service Portal,Closed,No,Yes,4.9,No,July,Monday
+TKT0762,21-02-2024,07:00,21-02-2024,09:06,5.08,AG007,Divya Iyer,L3,Hardware,Critical,Self-Service Portal,Escalated,Yes,Yes,5,No,February,Wednesday
+TKT0763,07-07-2024,14:00,07-07-2024,16:39,2.66,AG002,Arjun Mehta,L2,Email,Critical,Phone,Resolved,No,No,4.5,Yes,July,Sunday
+TKT0764,15-06-2024,17:00,16-06-2024,05:53,12.89,AG006,Amit Joshi,L1,Hardware,Medium,Email,Resolved,No,Yes,3.8,No,June,Saturday
+TKT0765,06-11-2024,10:00,06-11-2024,15:58,5.98,AG008,Rahul Gupta,L2,Software,High,Self-Service Portal,Resolved,No,Yes,4.7,No,November,Wednesday
+TKT0766,27-03-2024,14:00,27-03-2024,21:41,7.69,AG002,Arjun Mehta,L2,Email,High,Chat,Resolved,No,No,4.2,No,March,Wednesday
+TKT0767,23-03-2024,12:00,24-03-2024,10:03,30.07,AG002,Arjun Mehta,L2,Software,Medium,Email,Closed,Yes,No,4.6,No,March,Saturday
+TKT0768,16-02-2024,19:00,16-02-2024,21:55,2.92,AG002,Arjun Mehta,L2,Network,Critical,Chat,Escalated,No,Yes,4.8,No,February,Friday
+TKT0769,30-11-2024,17:00,30-11-2024,20:15,3.25,AG006,Amit Joshi,L1,Printer,Critical,Chat,Closed,No,Yes,4.3,No,November,Saturday
+TKT0770,29-02-2024,16:00,01-03-2024,14:42,67.51,AG002,Arjun Mehta,L2,Software,Low,Phone,Resolved,Yes,Yes,4.8,No,February,Thursday
+TKT0771,05-07-2024,19:00,05-07-2024,21:52,2.88,AG004,Karan Patel,L3,Printer,Critical,Self-Service Portal,Resolved,No,No,5,No,July,Friday
+TKT0772,22-04-2024,14:00,23-04-2024,07:36,17.6,AG001,Riya Sharma,L1,Security,Medium,Self-Service Portal,Resolved,No,Yes,3.2,No,April,Monday
+TKT0773,19-11-2024,10:00,20-11-2024,13:48,27.8,AG005,Sneha Rao,L2,Software,Low,Chat,Closed,No,No,4.3,No,November,Tuesday
+TKT0774,01-04-2024,14:00,01-04-2024,20:05,6.09,AG004,Karan Patel,L3,Access & Permissions,High,Email,Resolved,No,Yes,4.4,No,April,Monday
+TKT0775,27-06-2024,19:00,28-06-2024,06:49,11.83,AG007,Divya Iyer,L3,VPN,Medium,Chat,Closed,No,Yes,4.1,No,June,Thursday
+TKT0776,24-10-2024,19:00,25-10-2024,05:09,10.16,AG004,Karan Patel,L3,Printer,Low,Self-Service Portal,Resolved,No,No,5,No,October,Thursday
+TKT0777,17-04-2024,10:00,19-04-2024,02:10,40.17,AG008,Rahul Gupta,L2,Security,Low,Phone,Closed,No,Yes,3.6,No,April,Wednesday
+TKT0778,13-12-2024,09:00,14-12-2024,07:31,22.52,AG002,Arjun Mehta,L2,Network,Medium,Chat,Resolved,No,Yes,3.6,No,December,Friday
+TKT0779,17-11-2024,18:00,18-11-2024,06:04,12.08,AG002,Arjun Mehta,L2,VPN,Medium,Phone,Closed,No,No,3.5,No,November,Sunday
+TKT0780,25-08-2024,17:00,25-08-2024,20:40,3.67,AG003,Priya Nair,L1,Printer,High,Email,Resolved,No,Yes,3.7,No,August,Sunday
+TKT0781,12-01-2024,16:00,13-01-2024,07:27,15.46,AG002,Arjun Mehta,L2,Software,Medium,Phone,Resolved,No,No,4.3,No,January,Friday
+TKT0782,01-06-2024,16:00,01-06-2024,22:30,6.5,AG003,Priya Nair,L1,Printer,Medium,Chat,Resolved,No,Yes,3.2,No,June,Saturday
+TKT0783,02-02-2024,15:00,03-02-2024,11:44,20.74,AG001,Riya Sharma,L1,Printer,Medium,Chat,Resolved,No,Yes,3.9,No,February,Friday
+TKT0784,03-01-2024,15:00,04-01-2024,16:53,25.89,AG004,Karan Patel,L3,Software,Low,Phone,Resolved,No,No,4.4,No,January,Wednesday
+TKT0785,13-02-2024,08:00,13-02-2024,12:32,4.54,AG002,Arjun Mehta,L2,Email,High,Email,Closed,No,No,4,No,February,Tuesday
+TKT0786,03-12-2024,15:00,04-12-2024,03:54,12.9,AG001,Riya Sharma,L1,Access & Permissions,Medium,Self-Service Portal,Closed,No,Yes,3.9,No,December,Tuesday
+TKT0787,01-05-2024,07:00,01-05-2024,14:45,7.76,AG004,Karan Patel,L3,Software,Medium,Email,Resolved,No,Yes,4.4,No,May,Wednesday
+TKT0788,08-02-2024,15:00,09-02-2024,09:12,18.2,AG004,Karan Patel,L3,VPN,Low,Chat,Closed,No,Yes,4.5,No,February,Thursday
+TKT0789,01-10-2024,10:00,01-10-2024,10:45,0.75,AG005,Sneha Rao,L2,Printer,Critical,Phone,Resolved,No,Yes,4.4,No,October,Tuesday
+TKT0790,10-08-2024,13:00,10-08-2024,14:10,1.18,AG003,Priya Nair,L1,Printer,High,Self-Service Portal,Resolved,No,No,3.7,No,August,Saturday
+TKT0791,04-07-2024,12:00,05-07-2024,07:33,19.56,AG007,Divya Iyer,L3,Software,Medium,Email,Closed,No,Yes,4.2,Yes,July,Thursday
+TKT0792,04-03-2024,09:00,04-03-2024,23:31,14.53,AG007,Divya Iyer,L3,Access & Permissions,Medium,Email,Closed,No,No,5,No,March,Monday
+TKT0793,25-01-2024,09:00,25-01-2024,19:21,10.36,AG006,Amit Joshi,L1,Email,Medium,Email,Closed,No,Yes,4,No,January,Thursday
+TKT0794,02-12-2024,09:00,02-12-2024,22:42,13.71,AG003,Priya Nair,L1,Email,Low,Phone,Closed,No,Yes,3.6,No,December,Monday
+TKT0795,12-08-2024,12:00,12-08-2024,18:35,10.82,AG004,Karan Patel,L3,Printer,High,Phone,Closed,Yes,No,4.7,No,August,Monday
+TKT0796,05-06-2024,13:00,06-06-2024,08:24,19.41,AG004,Karan Patel,L3,Email,Medium,Email,Resolved,No,Yes,5,No,June,Wednesday
+TKT0797,26-05-2024,15:00,27-05-2024,13:35,22.59,AG002,Arjun Mehta,L2,Network,Medium,Email,Closed,No,No,4.7,No,May,Sunday
+TKT0798,26-07-2024,07:00,26-07-2024,23:19,16.33,AG003,Priya Nair,L1,Security,Medium,Email,Closed,No,Yes,4.2,No,July,Friday
+TKT0799,06-11-2024,14:00,06-11-2024,17:52,3.88,AG006,Amit Joshi,L1,Access & Permissions,Critical,Email,Resolved,No,Yes,3.9,No,November,Wednesday
+TKT0800,04-08-2024,14:00,05-08-2024,01:34,11.58,AG006,Amit Joshi,L1,Network,Medium,Email,Resolved,No,Yes,3.4,No,August,Sunday
+TKT0801,15-05-2024,10:00,15-05-2024,18:05,8.09,AG002,Arjun Mehta,L2,Email,Low,Self-Service Portal,Closed,No,No,4.4,No,May,Wednesday
+TKT0802,30-01-2024,12:00,30-01-2024,13:02,1.04,AG001,Riya Sharma,L1,Security,High,Chat,Closed,No,No,3.7,No,January,Tuesday
+TKT0803,08-08-2024,14:00,08-08-2024,21:57,7.95,AG003,Priya Nair,L1,Printer,Medium,Email,Closed,No,Yes,3.5,No,August,Thursday
+TKT0804,25-04-2024,14:00,26-04-2024,13:48,23.81,AG008,Rahul Gupta,L2,Hardware,Low,Self-Service Portal,Resolved,No,No,3.8,No,April,Thursday
+TKT0805,23-03-2024,09:00,23-03-2024,10:44,1.74,AG005,Sneha Rao,L2,Software,Critical,Chat,Escalated,No,No,3.9,No,March,Saturday
+TKT0806,03-08-2024,18:00,04-08-2024,15:15,21.25,AG004,Karan Patel,L3,Email,Low,Chat,Closed,No,Yes,4,No,August,Saturday
+TKT0807,15-12-2024,18:00,16-12-2024,00:33,6.55,AG005,Sneha Rao,L2,Software,Medium,Chat,Closed,No,Yes,4.4,No,December,Sunday
+TKT0808,11-01-2024,09:00,11-01-2024,23:13,14.22,AG007,Divya Iyer,L3,Network,Low,Email,Resolved,No,Yes,4.8,Yes,January,Thursday
+TKT0809,10-08-2024,14:00,10-08-2024,15:30,1.51,AG006,Amit Joshi,L1,Printer,Critical,Email,Resolved,No,Yes,3.6,No,August,Saturday
+TKT0810,14-05-2024,18:00,15-05-2024,11:53,17.89,AG003,Priya Nair,L1,Access & Permissions,Low,Email,Resolved,No,Yes,4,No,May,Tuesday
+TKT0811,27-04-2024,08:00,27-04-2024,08:57,0.96,AG003,Priya Nair,L1,Access & Permissions,Critical,Phone,Escalated,No,Yes,2.8,No,April,Saturday
+TKT0812,27-07-2024,15:00,27-07-2024,18:09,3.15,AG004,Karan Patel,L3,Software,High,Chat,Closed,No,No,4.9,No,July,Saturday
+TKT0813,26-02-2024,11:00,26-02-2024,22:16,11.27,AG001,Riya Sharma,L1,Printer,Medium,Self-Service Portal,Resolved,No,Yes,4.5,No,February,Monday
+TKT0814,04-12-2024,18:00,05-12-2024,14:52,20.87,AG001,Riya Sharma,L1,Network,Low,Email,Closed,No,Yes,3.5,No,December,Wednesday
+TKT0815,19-02-2024,17:00,19-02-2024,21:16,28.25,AG008,Rahul Gupta,L2,VPN,Medium,Email,Closed,Yes,Yes,4.2,No,February,Monday
+TKT0816,17-04-2024,16:00,18-04-2024,15:21,23.36,AG006,Amit Joshi,L1,VPN,Low,Self-Service Portal,Resolved,No,Yes,4.2,Yes,April,Wednesday
+TKT0817,08-02-2024,15:00,08-02-2024,20:19,9.4,AG004,Karan Patel,L3,Access & Permissions,High,Email,Resolved,Yes,No,4.4,No,February,Thursday
+TKT0818,08-10-2024,18:00,09-10-2024,12:06,18.1,AG003,Priya Nair,L1,Hardware,Low,Chat,Closed,No,Yes,4.1,No,October,Tuesday
+TKT0819,04-09-2024,13:00,04-09-2024,15:19,2.33,AG008,Rahul Gupta,L2,Software,Critical,Email,Closed,No,Yes,4.8,No,September,Wednesday
+TKT0820,21-12-2024,10:00,22-12-2024,23:37,37.63,AG003,Priya Nair,L1,Email,Low,Email,Resolved,No,Yes,3.3,No,December,Saturday
+TKT0821,15-04-2024,09:00,15-04-2024,13:04,4.07,AG007,Divya Iyer,L3,Printer,Medium,Self-Service Portal,Resolved,No,No,4.9,No,April,Monday
+TKT0822,31-05-2024,18:00,01-06-2024,03:22,9.37,AG008,Rahul Gupta,L2,Email,Medium,Phone,Resolved,No,No,3.5,No,May,Friday
+TKT0823,27-01-2024,17:00,27-01-2024,20:55,3.93,AG003,Priya Nair,L1,Email,Critical,Self-Service Portal,Closed,No,No,4.3,No,January,Saturday
+TKT0824,15-06-2024,07:00,15-06-2024,23:31,16.52,AG005,Sneha Rao,L2,Network,Medium,Self-Service Portal,Closed,No,No,3.2,No,June,Saturday
+TKT0825,30-11-2024,11:00,30-11-2024,18:05,7.09,AG001,Riya Sharma,L1,Software,High,Chat,Closed,No,Yes,4,No,November,Saturday
+TKT0826,20-03-2024,14:00,20-03-2024,22:37,8.63,AG005,Sneha Rao,L2,Access & Permissions,Medium,Chat,Closed,No,No,4.4,No,March,Wednesday
+TKT0827,06-04-2024,16:00,07-04-2024,19:37,27.62,AG003,Priya Nair,L1,Security,Low,Phone,Resolved,No,Yes,3.9,No,April,Saturday
+TKT0828,05-02-2024,09:00,05-02-2024,14:26,5.44,AG003,Priya Nair,L1,Printer,Medium,Phone,Closed,No,Yes,3.1,No,February,Monday
+TKT0829,15-07-2024,07:00,15-07-2024,13:12,35.59,AG003,Priya Nair,L1,Hardware,Medium,Chat,Resolved,Yes,Yes,2.7,No,July,Monday
+TKT0830,05-01-2024,19:00,06-01-2024,07:15,12.25,AG002,Arjun Mehta,L2,Email,Low,Email,Resolved,No,No,4.6,No,January,Friday
+TKT0831,18-06-2024,14:00,18-06-2024,16:04,2.08,AG008,Rahul Gupta,L2,Security,High,Self-Service Portal,Resolved,No,Yes,3.4,Yes,June,Tuesday
+TKT0832,18-09-2024,13:00,18-09-2024,19:50,6.84,AG001,Riya Sharma,L1,Software,Medium,Email,Resolved,No,No,4.5,No,September,Wednesday
+TKT0833,17-12-2024,18:00,17-12-2024,21:22,3.38,AG005,Sneha Rao,L2,Access & Permissions,Critical,Chat,Resolved,No,No,3.4,No,December,Tuesday
+TKT0834,01-03-2024,12:00,03-03-2024,08:55,44.93,AG005,Sneha Rao,L2,VPN,Low,Self-Service Portal,Resolved,No,Yes,4.7,No,March,Friday
+TKT0835,07-12-2024,17:00,08-12-2024,03:01,10.03,AG006,Amit Joshi,L1,Network,Medium,Phone,Closed,No,No,4.1,No,December,Saturday
+TKT0836,01-12-2024,09:00,01-12-2024,12:14,3.24,AG005,Sneha Rao,L2,Software,High,Phone,Closed,No,Yes,3.8,No,December,Sunday
+TKT0837,15-03-2024,08:00,15-03-2024,09:37,1.63,AG002,Arjun Mehta,L2,Printer,Critical,Self-Service Portal,Closed,No,Yes,3.6,No,March,Friday
+TKT0838,15-07-2024,13:00,16-07-2024,18:58,29.97,AG007,Divya Iyer,L3,VPN,Low,Phone,Resolved,No,No,4.9,No,July,Monday
+TKT0839,04-07-2024,07:00,04-07-2024,09:25,10.61,AG007,Divya Iyer,L3,Access & Permissions,High,Phone,Closed,Yes,No,5,No,July,Thursday
+TKT0840,12-03-2024,11:00,12-03-2024,13:06,2.11,AG002,Arjun Mehta,L2,Hardware,Critical,Self-Service Portal,Escalated,No,No,4.7,No,March,Tuesday
+TKT0841,01-03-2024,18:00,03-03-2024,06:09,36.16,AG004,Karan Patel,L3,Access & Permissions,Low,Phone,Closed,No,No,4.5,No,March,Friday
+TKT0842,16-01-2024,09:00,16-01-2024,20:18,11.3,AG002,Arjun Mehta,L2,Software,Medium,Phone,Closed,No,No,3.5,No,January,Tuesday
+TKT0843,28-08-2024,13:00,28-08-2024,19:03,6.06,AG003,Priya Nair,L1,Security,High,Self-Service Portal,Resolved,No,Yes,3.4,No,August,Wednesday
+TKT0844,05-11-2024,19:00,05-11-2024,21:13,2.22,AG003,Priya Nair,L1,Hardware,High,Email,Closed,No,No,3,No,November,Tuesday
+TKT0845,21-03-2024,11:00,21-03-2024,18:48,7.81,AG005,Sneha Rao,L2,Email,High,Chat,Resolved,No,Yes,4,No,March,Thursday
+TKT0846,13-10-2024,16:00,15-10-2024,09:40,41.67,AG007,Divya Iyer,L3,Hardware,Low,Phone,Closed,No,No,5,No,October,Sunday
+TKT0847,27-11-2024,13:00,28-11-2024,04:47,15.79,AG007,Divya Iyer,L3,Printer,Low,Self-Service Portal,Closed,No,No,4.2,Yes,November,Wednesday
+TKT0848,18-04-2024,16:00,18-04-2024,20:13,34.73,AG005,Sneha Rao,L2,Network,Medium,Email,Resolved,Yes,No,4.7,No,April,Thursday
+TKT0849,15-10-2024,19:00,16-10-2024,22:21,27.35,AG001,Riya Sharma,L1,Access & Permissions,Low,Email,Closed,No,No,3.1,No,October,Tuesday
+TKT0850,01-07-2024,09:00,02-07-2024,03:03,18.05,AG007,Divya Iyer,L3,Access & Permissions,Medium,Chat,Resolved,No,No,4.2,No,July,Monday
+TKT0851,01-09-2024,16:00,02-09-2024,13:22,21.38,AG003,Priya Nair,L1,Hardware,Medium,Chat,Resolved,No,Yes,2.8,No,September,Sunday
+TKT0852,23-03-2024,15:00,23-03-2024,19:36,11.47,AG002,Arjun Mehta,L2,Access & Permissions,High,Phone,Closed,Yes,Yes,4.6,No,March,Saturday
+TKT0853,21-01-2024,18:00,23-01-2024,08:58,38.97,AG003,Priya Nair,L1,VPN,Low,Chat,Resolved,No,Yes,3.3,No,January,Sunday
+TKT0854,07-06-2024,15:00,07-06-2024,22:04,7.07,AG008,Rahul Gupta,L2,Software,High,Phone,Closed,No,Yes,4.6,No,June,Friday
+TKT0855,04-02-2024,11:00,04-02-2024,13:31,2.52,AG006,Amit Joshi,L1,Network,Critical,Phone,Closed,No,Yes,3.4,No,February,Sunday
+TKT0856,21-01-2024,12:00,21-01-2024,15:30,5.95,AG008,Rahul Gupta,L2,Network,Critical,Chat,Escalated,Yes,Yes,3.9,No,January,Sunday
+TKT0857,16-09-2024,14:00,16-09-2024,23:15,9.26,AG006,Amit Joshi,L1,VPN,Medium,Chat,Resolved,No,Yes,4.2,No,September,Monday
+TKT0858,28-05-2024,13:00,29-05-2024,03:19,14.33,AG004,Karan Patel,L3,Hardware,Low,Email,Closed,No,No,4.5,No,May,Tuesday
+TKT0859,25-02-2024,08:00,25-02-2024,15:36,34.76,AG002,Arjun Mehta,L2,VPN,Medium,Chat,Closed,Yes,Yes,3.6,No,February,Sunday
+TKT0860,24-06-2024,16:00,25-06-2024,05:43,29.99,AG004,Karan Patel,L3,Printer,Medium,Self-Service Portal,Closed,Yes,No,5,No,June,Monday
+TKT0861,12-06-2024,16:00,13-06-2024,01:15,9.25,AG003,Priya Nair,L1,Security,Low,Phone,Closed,No,Yes,3.7,No,June,Wednesday
+TKT0862,16-12-2024,13:00,17-12-2024,07:47,18.79,AG008,Rahul Gupta,L2,Access & Permissions,Low,Email,Resolved,No,No,4.3,No,December,Monday
+TKT0863,02-08-2024,15:00,02-08-2024,17:30,2.5,AG002,Arjun Mehta,L2,Email,High,Chat,Resolved,No,No,4.8,No,August,Friday
+TKT0864,25-03-2024,10:00,25-03-2024,11:43,1.72,AG007,Divya Iyer,L3,VPN,Critical,Self-Service Portal,Resolved,No,No,4.7,No,March,Monday
+TKT0865,06-01-2024,15:00,06-01-2024,18:14,3.24,AG007,Divya Iyer,L3,VPN,Critical,Chat,Resolved,No,No,5,No,January,Saturday
+TKT0866,16-03-2024,14:00,18-03-2024,08:34,42.57,AG006,Amit Joshi,L1,Hardware,Low,Chat,Closed,No,Yes,3,No,March,Saturday
+TKT0867,20-11-2024,14:00,20-11-2024,16:44,2.74,AG001,Riya Sharma,L1,Security,Critical,Phone,Resolved,No,Yes,3.9,No,November,Wednesday
+TKT0868,13-12-2024,16:00,15-12-2024,14:12,60.25,AG004,Karan Patel,L3,VPN,Low,Phone,Closed,Yes,No,4.5,No,December,Friday
+TKT0869,30-07-2024,13:00,31-07-2024,00:01,11.03,AG002,Arjun Mehta,L2,Security,Medium,Chat,Closed,No,No,4.7,No,July,Tuesday
+TKT0870,10-10-2024,16:00,10-10-2024,23:15,7.25,AG003,Priya Nair,L1,Security,Medium,Phone,Closed,No,Yes,3.4,No,October,Thursday
+TKT0871,15-02-2024,17:00,15-02-2024,18:06,10.11,AG002,Arjun Mehta,L2,Software,High,Email,Resolved,Yes,No,4.9,No,February,Thursday
+TKT0872,24-04-2024,19:00,24-04-2024,23:10,4.18,AG001,Riya Sharma,L1,Email,High,Phone,Resolved,No,No,3.6,No,April,Wednesday
+TKT0873,04-01-2024,12:00,04-01-2024,15:14,3.24,AG008,Rahul Gupta,L2,Printer,Critical,Chat,Closed,No,No,4.1,No,January,Thursday
+TKT0874,17-01-2024,07:00,17-01-2024,16:03,9.05,AG007,Divya Iyer,L3,Access & Permissions,Low,Chat,Closed,No,Yes,5,No,January,Wednesday
+TKT0875,08-04-2024,16:00,09-04-2024,08:53,32.54,AG007,Divya Iyer,L3,Access & Permissions,Medium,Chat,Closed,Yes,Yes,5,No,April,Monday
+TKT0876,21-09-2024,09:00,21-09-2024,21:45,12.75,AG007,Divya Iyer,L3,Network,Medium,Self-Service Portal,Resolved,No,Yes,4.2,No,September,Saturday
+TKT0877,14-06-2024,10:00,14-06-2024,11:39,1.65,AG007,Divya Iyer,L3,Email,High,Phone,Resolved,No,No,4,Yes,June,Friday
+TKT0878,20-08-2024,17:00,22-08-2024,02:15,33.26,AG002,Arjun Mehta,L2,Printer,Low,Phone,Resolved,No,No,4,No,August,Tuesday
+TKT0879,20-05-2024,08:00,20-05-2024,15:32,7.54,AG004,Karan Patel,L3,Printer,High,Email,Resolved,No,Yes,4.9,No,May,Monday
+TKT0880,02-04-2024,08:00,02-04-2024,19:06,11.1,AG002,Arjun Mehta,L2,Software,Low,Self-Service Portal,Resolved,No,Yes,4.8,No,April,Tuesday
+TKT0881,16-11-2024,08:00,16-11-2024,16:12,34.33,AG008,Rahul Gupta,L2,Hardware,Medium,Chat,Closed,Yes,Yes,4,No,November,Saturday
+TKT0882,03-12-2024,16:00,05-12-2024,01:15,33.25,AG003,Priya Nair,L1,Email,Low,Phone,Closed,No,No,4.1,No,December,Tuesday
+TKT0883,03-03-2024,10:00,04-03-2024,02:07,16.12,AG001,Riya Sharma,L1,Network,Medium,Self-Service Portal,Resolved,No,Yes,3.9,No,March,Sunday
+TKT0884,16-06-2024,09:00,16-06-2024,11:32,2.54,AG006,Amit Joshi,L1,Software,High,Email,Closed,No,Yes,4,No,June,Sunday
+TKT0885,27-08-2024,18:00,28-08-2024,14:10,20.18,AG004,Karan Patel,L3,Software,Medium,Self-Service Portal,Resolved,No,Yes,4.6,No,August,Tuesday
+TKT0886,25-10-2024,19:00,25-10-2024,22:10,5.79,AG004,Karan Patel,L3,Email,Critical,Email,Escalated,Yes,Yes,4.4,No,October,Friday
+TKT0887,12-06-2024,16:00,12-06-2024,22:09,6.15,AG008,Rahul Gupta,L2,Printer,Medium,Self-Service Portal,Closed,No,No,3.9,No,June,Wednesday
+TKT0888,18-09-2024,11:00,19-09-2024,18:28,31.47,AG002,Arjun Mehta,L2,Security,Low,Email,Closed,No,Yes,3.9,No,September,Wednesday
+TKT0889,05-04-2024,12:00,05-04-2024,14:43,2.72,AG002,Arjun Mehta,L2,Network,High,Chat,Resolved,No,No,3.7,No,April,Friday
+TKT0890,17-06-2024,10:00,17-06-2024,23:18,33.42,AG002,Arjun Mehta,L2,Hardware,Medium,Email,Resolved,Yes,Yes,4.7,No,June,Monday
+TKT0891,07-11-2024,19:00,09-11-2024,13:24,42.4,AG004,Karan Patel,L3,Access & Permissions,Low,Self-Service Portal,Closed,No,Yes,4,No,November,Thursday
+TKT0892,10-04-2024,07:00,10-04-2024,13:37,6.62,AG007,Divya Iyer,L3,VPN,High,Phone,Closed,No,Yes,4.8,No,April,Wednesday
+TKT0893,01-05-2024,16:00,01-05-2024,20:25,4.43,AG008,Rahul Gupta,L2,Network,Medium,Chat,Resolved,No,Yes,3.3,No,May,Wednesday
+TKT0894,19-01-2024,15:00,19-01-2024,22:25,7.43,AG005,Sneha Rao,L2,Network,High,Chat,Resolved,No,Yes,3.3,No,January,Friday
+TKT0895,23-07-2024,08:00,24-07-2024,14:15,30.26,AG007,Divya Iyer,L3,Email,Low,Self-Service Portal,Closed,No,Yes,4.5,No,July,Tuesday
+TKT0896,10-07-2024,16:00,10-07-2024,17:43,1.72,AG008,Rahul Gupta,L2,Security,High,Email,Resolved,No,Yes,3.7,No,July,Wednesday
+TKT0897,07-04-2024,18:00,09-04-2024,14:05,68.74,AG006,Amit Joshi,L1,Printer,Low,Email,Resolved,Yes,Yes,3.4,No,April,Sunday
+TKT0898,26-02-2024,07:00,26-02-2024,14:37,9.39,AG001,Riya Sharma,L1,Email,High,Email,Closed,Yes,Yes,3.1,No,February,Monday
+TKT0899,05-03-2024,12:00,06-03-2024,09:14,21.24,AG003,Priya Nair,L1,Network,Medium,Email,Closed,No,Yes,3.9,No,March,Tuesday
+TKT0900,23-05-2024,12:00,24-05-2024,07:27,19.45,AG002,Arjun Mehta,L2,Access & Permissions,Medium,Chat,Closed,No,No,4.2,No,May,Thursday
+TKT0901,21-12-2024,08:00,21-12-2024,13:30,5.5,AG006,Amit Joshi,L1,Access & Permissions,Medium,Phone,Closed,No,Yes,3.6,No,December,Saturday
+TKT0902,29-10-2024,19:00,31-10-2024,00:06,49.34,AG004,Karan Patel,L3,Security,Low,Phone,Closed,Yes,Yes,5,No,October,Tuesday
+TKT0903,05-07-2024,13:00,05-07-2024,16:54,3.91,AG003,Priya Nair,L1,Software,Critical,Phone,Escalated,No,Yes,4.1,No,July,Friday
+TKT0904,22-10-2024,17:00,23-10-2024,05:04,12.08,AG005,Sneha Rao,L2,Printer,Low,Self-Service Portal,Resolved,No,No,3.9,No,October,Tuesday
+TKT0905,04-12-2024,15:00,05-12-2024,17:06,26.11,AG008,Rahul Gupta,L2,Network,Low,Chat,Resolved,No,Yes,3.7,No,December,Wednesday
+TKT0906,17-09-2024,12:00,17-09-2024,17:03,5.06,AG004,Karan Patel,L3,Network,Medium,Chat,Closed,No,No,4.3,No,September,Tuesday
+TKT0907,31-03-2024,16:00,01-04-2024,11:02,66.06,AG007,Divya Iyer,L3,Access & Permissions,Low,Chat,Resolved,Yes,No,5,No,March,Sunday
+TKT0908,19-01-2024,16:00,20-01-2024,10:39,18.65,AG004,Karan Patel,L3,Software,Low,Email,Resolved,No,No,4,No,January,Friday
+TKT0909,20-12-2024,11:00,21-12-2024,00:54,13.9,AG007,Divya Iyer,L3,Printer,Medium,Phone,Closed,No,No,4.3,No,December,Friday
+TKT0910,05-06-2024,18:00,06-06-2024,11:32,17.54,AG005,Sneha Rao,L2,Hardware,Low,Chat,Resolved,No,No,3.7,No,June,Wednesday
+TKT0911,07-08-2024,12:00,07-08-2024,12:34,0.57,AG008,Rahul Gupta,L2,Network,Critical,Chat,Resolved,No,Yes,4.9,No,August,Wednesday
+TKT0912,29-08-2024,08:00,29-08-2024,12:54,4.9,AG008,Rahul Gupta,L2,Hardware,Medium,Phone,Closed,No,Yes,3.3,No,August,Thursday
+TKT0913,04-06-2024,19:00,05-06-2024,01:09,10.51,AG003,Priya Nair,L1,Network,High,Email,Closed,Yes,Yes,3.4,No,June,Tuesday
+TKT0914,03-06-2024,18:00,04-06-2024,04:40,10.67,AG005,Sneha Rao,L2,VPN,Medium,Self-Service Portal,Closed,No,Yes,4,No,June,Monday
+TKT0915,03-12-2024,09:00,03-12-2024,10:45,5.78,AG001,Riya Sharma,L1,Network,Critical,Phone,Closed,Yes,Yes,3,No,December,Tuesday
+TKT0916,23-11-2024,08:00,23-11-2024,11:52,3.88,AG002,Arjun Mehta,L2,Access & Permissions,Critical,Chat,Escalated,No,Yes,4.8,No,November,Saturday
+TKT0917,18-06-2024,13:00,18-06-2024,15:33,2.56,AG003,Priya Nair,L1,Email,Critical,Self-Service Portal,Closed,No,No,4.2,No,June,Tuesday
+TKT0918,27-05-2024,08:00,27-05-2024,15:47,7.79,AG002,Arjun Mehta,L2,Printer,High,Self-Service Portal,Closed,No,Yes,4.2,No,May,Monday
+TKT0919,03-02-2024,19:00,04-02-2024,04:53,9.89,AG005,Sneha Rao,L2,Network,Medium,Self-Service Portal,Resolved,No,No,3.9,Yes,February,Saturday
+TKT0920,26-01-2024,11:00,26-01-2024,17:45,30.27,AG005,Sneha Rao,L2,Hardware,Medium,Email,Resolved,Yes,Yes,4.6,No,January,Friday
+TKT0921,09-08-2024,16:00,09-08-2024,19:42,3.71,AG005,Sneha Rao,L2,Network,Critical,Phone,Escalated,No,No,3.7,No,August,Friday
+TKT0922,13-05-2024,11:00,14-05-2024,02:56,15.94,AG007,Divya Iyer,L3,Printer,Medium,Email,Closed,No,No,4.3,No,May,Monday
+TKT0923,10-10-2024,10:00,11-10-2024,06:02,20.04,AG003,Priya Nair,L1,Access & Permissions,Low,Chat,Closed,No,Yes,2.8,No,October,Thursday
+TKT0924,21-12-2024,12:00,22-12-2024,16:09,28.15,AG007,Divya Iyer,L3,Printer,Low,Chat,Closed,No,No,5,No,December,Saturday
+TKT0925,03-08-2024,08:00,04-08-2024,03:07,25.89,AG007,Divya Iyer,L3,Printer,Medium,Email,Resolved,Yes,No,5,No,August,Saturday
+TKT0926,28-01-2024,19:00,29-01-2024,15:54,20.9,AG006,Amit Joshi,L1,Network,Medium,Self-Service Portal,Closed,No,Yes,3,No,January,Sunday
+TKT0927,28-11-2024,08:00,29-11-2024,05:20,55.33,AG008,Rahul Gupta,L2,Hardware,Low,Self-Service Portal,Closed,Yes,No,3.5,No,November,Thursday
+TKT0928,25-12-2024,10:00,25-12-2024,14:36,4.61,AG001,Riya Sharma,L1,Software,High,Email,Resolved,No,Yes,3.9,No,December,Wednesday
+TKT0929,05-09-2024,16:00,06-09-2024,09:45,17.76,AG003,Priya Nair,L1,Email,Medium,Email,Resolved,No,Yes,2.9,No,September,Thursday
+TKT0930,15-09-2024,14:00,16-09-2024,13:37,23.63,AG004,Karan Patel,L3,Access & Permissions,Low,Email,Closed,No,No,5,No,September,Sunday
+TKT0931,02-12-2024,16:00,02-12-2024,17:51,1.86,AG004,Karan Patel,L3,Email,High,Chat,Resolved,No,No,4.1,No,December,Monday
+TKT0932,31-08-2024,14:00,31-08-2024,23:48,9.8,AG004,Karan Patel,L3,Network,Medium,Phone,Closed,No,Yes,5,No,August,Saturday
+TKT0933,25-08-2024,13:00,26-08-2024,09:16,20.27,AG005,Sneha Rao,L2,Printer,Medium,Email,Resolved,No,No,3.4,No,August,Sunday
+TKT0934,22-01-2024,12:00,24-01-2024,10:30,46.51,AG001,Riya Sharma,L1,Email,Low,Chat,Closed,No,Yes,3.7,Yes,January,Monday
+TKT0935,27-06-2024,18:00,28-06-2024,08:30,32.72,AG003,Priya Nair,L1,VPN,Medium,Phone,Closed,Yes,No,3.5,No,June,Thursday
+TKT0936,20-07-2024,08:00,20-07-2024,15:24,7.41,AG003,Priya Nair,L1,Email,High,Self-Service Portal,Resolved,No,No,3.7,No,July,Saturday
+TKT0937,26-10-2024,16:00,27-10-2024,12:36,20.6,AG005,Sneha Rao,L2,Network,Medium,Self-Service Portal,Resolved,No,No,3.3,No,October,Saturday
+TKT0938,14-06-2024,19:00,14-06-2024,20:18,1.31,AG002,Arjun Mehta,L2,Security,Critical,Chat,Escalated,No,Yes,4.6,No,June,Friday
+TKT0939,02-02-2024,07:00,02-02-2024,12:16,5.28,AG003,Priya Nair,L1,Printer,High,Chat,Resolved,No,Yes,2.9,No,February,Friday
+TKT0940,25-02-2024,18:00,25-02-2024,20:04,5.45,AG006,Amit Joshi,L1,Hardware,Critical,Self-Service Portal,Resolved,Yes,Yes,3,No,February,Sunday
+TKT0941,10-08-2024,15:00,12-08-2024,07:21,40.35,AG008,Rahul Gupta,L2,Email,Low,Phone,Resolved,No,No,3.6,No,August,Saturday
+TKT0942,17-10-2024,15:00,18-10-2024,12:17,21.29,AG003,Priya Nair,L1,Hardware,Medium,Chat,Closed,No,Yes,3.2,No,October,Thursday
+TKT0943,12-11-2024,15:00,13-11-2024,12:04,21.07,AG004,Karan Patel,L3,Security,Medium,Self-Service Portal,Closed,No,No,5,No,November,Tuesday
+TKT0944,21-02-2024,08:00,21-02-2024,12:29,4.49,AG002,Arjun Mehta,L2,Network,High,Self-Service Portal,Resolved,No,No,3.5,No,February,Wednesday
+TKT0945,04-02-2024,09:00,05-02-2024,08:21,29.69,AG005,Sneha Rao,L2,Email,Medium,Self-Service Portal,Closed,Yes,No,3.3,No,February,Sunday
+TKT0946,30-11-2024,07:00,30-11-2024,11:39,4.65,AG001,Riya Sharma,L1,Software,Medium,Self-Service Portal,Resolved,No,Yes,3.7,No,November,Saturday
+TKT0947,15-10-2024,16:00,17-10-2024,04:07,36.12,AG006,Amit Joshi,L1,Hardware,Low,Email,Closed,No,Yes,4,No,October,Tuesday
+TKT0948,22-01-2024,08:00,22-01-2024,08:37,5.92,AG002,Arjun Mehta,L2,Security,Critical,Self-Service Portal,Closed,Yes,Yes,4.2,No,January,Monday
+TKT0949,10-04-2024,15:00,10-04-2024,17:37,5.83,AG004,Karan Patel,L3,Hardware,Critical,Email,Closed,Yes,Yes,4.5,Yes,April,Wednesday
+TKT0950,08-10-2024,09:00,08-10-2024,15:18,26.06,AG007,Divya Iyer,L3,Network,Medium,Chat,Closed,Yes,Yes,4.2,No,October,Tuesday
+TKT0951,28-04-2024,08:00,28-04-2024,10:33,2.56,AG006,Amit Joshi,L1,Printer,Critical,Phone,Escalated,No,Yes,3.2,No,April,Sunday
+TKT0952,30-01-2024,08:00,30-01-2024,09:24,1.4,AG001,Riya Sharma,L1,Hardware,High,Phone,Resolved,No,No,3.7,No,January,Tuesday
+TKT0953,02-12-2024,08:00,02-12-2024,13:31,5.53,AG003,Priya Nair,L1,Printer,Medium,Email,Closed,No,Yes,4.2,No,December,Monday
+TKT0954,09-10-2024,11:00,09-10-2024,18:04,7.08,AG004,Karan Patel,L3,Security,High,Self-Service Portal,Closed,No,Yes,4.3,No,October,Wednesday
+TKT0955,27-12-2024,16:00,28-12-2024,05:43,13.72,AG002,Arjun Mehta,L2,Hardware,Medium,Chat,Resolved,No,Yes,3.5,No,December,Friday
+TKT0956,19-01-2024,10:00,20-01-2024,03:58,17.97,AG004,Karan Patel,L3,Software,Medium,Phone,Resolved,No,No,4.9,Yes,January,Friday
+TKT0957,02-06-2024,08:00,02-06-2024,18:23,10.39,AG001,Riya Sharma,L1,Email,Low,Chat,Closed,No,No,4.4,No,June,Sunday
+TKT0958,03-12-2024,13:00,04-12-2024,18:18,29.3,AG001,Riya Sharma,L1,Access & Permissions,Low,Phone,Resolved,No,Yes,4.1,No,December,Tuesday
+TKT0959,15-01-2024,12:00,15-01-2024,18:04,6.08,AG006,Amit Joshi,L1,Email,High,Phone,Resolved,No,Yes,3.8,No,January,Monday
+TKT0960,05-08-2024,16:00,05-08-2024,22:01,6.03,AG007,Divya Iyer,L3,Email,High,Chat,Closed,No,No,5,No,August,Monday
+TKT0961,15-12-2024,11:00,15-12-2024,11:48,0.8,AG004,Karan Patel,L3,Network,Critical,Self-Service Portal,Closed,No,No,4.3,Yes,December,Sunday
+TKT0962,30-11-2024,19:00,02-12-2024,09:51,38.86,AG005,Sneha Rao,L2,VPN,Low,Self-Service Portal,Closed,No,No,3.2,No,November,Saturday
+TKT0963,05-01-2024,14:00,05-01-2024,18:44,4.74,AG003,Priya Nair,L1,Security,Medium,Chat,Resolved,No,Yes,3.3,No,January,Friday
+TKT0964,02-02-2024,14:00,02-02-2024,16:15,2.26,AG002,Arjun Mehta,L2,Email,High,Self-Service Portal,Closed,No,No,4.6,No,February,Friday
+TKT0965,29-04-2024,08:00,29-04-2024,13:34,5.58,AG003,Priya Nair,L1,Network,High,Email,Closed,No,Yes,3,No,April,Monday
+TKT0966,11-05-2024,07:00,12-05-2024,18:08,35.14,AG001,Riya Sharma,L1,Access & Permissions,Low,Self-Service Portal,Resolved,No,Yes,4.4,No,May,Saturday
+TKT0967,01-05-2024,10:00,02-05-2024,07:01,21.03,AG002,Arjun Mehta,L2,Security,Low,Email,Closed,No,Yes,4,Yes,May,Wednesday
+TKT0968,06-11-2024,19:00,07-11-2024,17:24,22.41,AG007,Divya Iyer,L3,Email,Low,Self-Service Portal,Closed,No,Yes,5,No,November,Wednesday
+TKT0969,28-05-2024,09:00,30-05-2024,05:28,44.47,AG005,Sneha Rao,L2,Hardware,Low,Email,Closed,No,Yes,3.2,No,May,Tuesday
+TKT0970,02-12-2024,18:00,03-12-2024,01:00,34.3,AG006,Amit Joshi,L1,Access & Permissions,Medium,Email,Resolved,Yes,Yes,4,No,December,Monday
+TKT0971,27-09-2024,19:00,28-09-2024,00:01,5.03,AG004,Karan Patel,L3,Printer,Medium,Email,Closed,No,No,4.7,No,September,Friday
+TKT0972,04-05-2024,19:00,04-05-2024,22:11,3.19,AG004,Karan Patel,L3,Email,Critical,Self-Service Portal,Escalated,No,No,4.5,No,May,Saturday
+TKT0973,04-07-2024,08:00,04-07-2024,11:27,3.46,AG004,Karan Patel,L3,Security,High,Chat,Closed,No,Yes,4.7,No,July,Thursday
+TKT0974,02-10-2024,10:00,04-10-2024,01:03,39.06,AG008,Rahul Gupta,L2,Printer,Low,Phone,Resolved,No,No,4,No,October,Wednesday
+TKT0975,28-07-2024,13:00,29-07-2024,03:06,14.1,AG005,Sneha Rao,L2,VPN,Medium,Email,Resolved,No,No,3.4,No,July,Sunday
+TKT0976,14-05-2024,19:00,16-05-2024,01:10,30.18,AG008,Rahul Gupta,L2,Hardware,Low,Chat,Resolved,No,Yes,4.8,No,May,Tuesday
+TKT0977,08-03-2024,15:00,09-03-2024,12:20,21.34,AG007,Divya Iyer,L3,Hardware,Medium,Email,Closed,No,Yes,5,No,March,Friday
+TKT0978,29-10-2024,16:00,31-10-2024,00:40,32.67,AG004,Karan Patel,L3,Email,Low,Self-Service Portal,Closed,No,No,5,No,October,Tuesday
+TKT0979,28-05-2024,19:00,28-05-2024,23:20,4.34,AG007,Divya Iyer,L3,Security,High,Chat,Resolved,No,No,4.2,No,May,Tuesday
+TKT0980,13-07-2024,12:00,14-07-2024,00:46,35.22,AG001,Riya Sharma,L1,VPN,Medium,Chat,Resolved,Yes,Yes,3.8,No,July,Saturday
+TKT0981,26-05-2024,12:00,27-05-2024,11:21,23.36,AG008,Rahul Gupta,L2,VPN,Low,Chat,Resolved,No,Yes,4.5,No,May,Sunday
+TKT0982,20-02-2024,12:00,20-02-2024,21:42,9.7,AG004,Karan Patel,L3,Printer,Medium,Self-Service Portal,Closed,No,No,4.1,No,February,Tuesday
+TKT0983,06-11-2024,19:00,06-11-2024,19:52,5.7,AG003,Priya Nair,L1,Email,Critical,Self-Service Portal,Resolved,Yes,No,3.1,Yes,November,Wednesday
+TKT0984,08-07-2024,10:00,09-07-2024,05:16,19.27,AG001,Riya Sharma,L1,Access & Permissions,Low,Email,Closed,No,Yes,4.5,No,July,Monday
+TKT0985,15-08-2024,13:00,15-08-2024,15:13,2.23,AG008,Rahul Gupta,L2,Email,Critical,Email,Resolved,No,No,3.4,No,August,Thursday
+TKT0986,21-03-2024,15:00,21-03-2024,18:21,11.61,AG002,Arjun Mehta,L2,Access & Permissions,High,Self-Service Portal,Resolved,Yes,Yes,4.1,No,March,Thursday
+TKT0987,07-04-2024,15:00,08-04-2024,08:13,17.22,AG006,Amit Joshi,L1,Hardware,Medium,Self-Service Portal,Resolved,No,Yes,4.2,No,April,Sunday
+TKT0988,28-08-2024,09:00,28-08-2024,22:41,13.69,AG007,Divya Iyer,L3,Access & Permissions,Medium,Self-Service Portal,Resolved,No,No,4.3,No,August,Wednesday
+TKT0989,08-09-2024,15:00,09-09-2024,23:27,32.45,AG002,Arjun Mehta,L2,Access & Permissions,Low,Email,Closed,No,No,4.5,No,September,Sunday
+TKT0990,02-06-2024,10:00,03-06-2024,07:30,21.5,AG004,Karan Patel,L3,VPN,Medium,Phone,Closed,No,No,5,No,June,Sunday
+TKT0991,27-05-2024,13:00,29-05-2024,11:46,66.16,AG008,Rahul Gupta,L2,Email,Low,Email,Resolved,Yes,Yes,3.8,No,May,Monday
+TKT0992,26-12-2024,09:00,27-12-2024,04:28,19.47,AG006,Amit Joshi,L1,Software,Medium,Chat,Closed,No,Yes,3.6,No,December,Thursday
+TKT0993,28-07-2024,07:00,29-07-2024,13:29,30.49,AG004,Karan Patel,L3,Hardware,Low,Phone,Closed,No,Yes,4.4,No,July,Sunday
+TKT0994,17-05-2024,14:00,18-05-2024,08:33,18.56,AG008,Rahul Gupta,L2,Printer,Medium,Email,Closed,No,Yes,3.8,No,May,Friday
+TKT0995,10-11-2024,16:00,11-11-2024,02:35,10.59,AG004,Karan Patel,L3,Network,Medium,Email,Resolved,No,No,4.9,No,November,Sunday
+TKT0996,01-12-2024,07:00,01-12-2024,09:19,2.32,AG002,Arjun Mehta,L2,VPN,Critical,Email,Closed,No,No,4,No,December,Sunday
+TKT0997,18-06-2024,13:00,18-06-2024,15:30,2.51,AG004,Karan Patel,L3,Email,High,Self-Service Portal,Resolved,No,Yes,5,No,June,Tuesday
+TKT0998,21-03-2024,11:00,21-03-2024,14:06,3.11,AG002,Arjun Mehta,L2,Printer,High,Email,Resolved,No,Yes,3.8,Yes,March,Thursday
+TKT0999,18-05-2024,08:00,18-05-2024,13:31,25.58,AG002,Arjun Mehta,L2,Printer,Medium,Phone,Closed,Yes,Yes,4.2,Yes,May,Saturday
+TKT1000,09-04-2024,16:00,09-04-2024,23:01,10.85,AG003,Priya Nair,L1,Software,High,Chat,Resolved,Yes,Yes,4,No,April,Tuesday
